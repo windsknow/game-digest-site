@@ -1,0 +1,1003 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T03:54:05+00:00",
+  "model": "deepseek-v4-pro",
+  "total": 47,
+  "modules": {
+    "rival": 0,
+    "company": 10,
+    "industry": 20,
+    "newgame": 5,
+    "product": 6,
+    "deep": 2,
+    "ad": 3,
+    "other": 1
+  },
+  "headlines": [
+    {
+      "id": 29,
+      "reason": "9月版号下发206款国产游戏，米哈游《源初之结》等重磅产品过审，影响后续市场格局。"
+    },
+    {
+      "id": 12,
+      "reason": "Newzoo报告显示F2P未衰落，Gacha驱动PC增长，头部集中度下降，为行业提供关键数据。"
+    },
+    {
+      "id": 11,
+      "reason": "Xbox旗下Ninja Theory开始裁员，继Rare和Halo Studios后又一工作室受挫，反映微软游戏战略调整。"
+    },
+    {
+      "id": 37,
+      "reason": "欧盟对九家游戏公司发起内购货币调查，可能影响全球游戏变现模式。"
+    }
+  ],
+  "items": [
+    {
+      "id": 11,
+      "title": "Ninja Theory begins laying off staff, according to employee posts",
+      "url": "https://www.gamesindustry.biz/ninja-theory-begins-laying-off-staff-according-to-employee-posts",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-05 17:44",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Ninja Theory 开始裁员，此前 Xbox 在两次出售协议失败后提议关闭该工作室。多名员工在 LinkedIn 发帖确认受影响，包括技术总监和表演捕捉专家。工作室正在开发《地狱之刃》系列第三部《Senua》。Xbox 近期还将 Rare 工作室和《光环》IP 转移给动视，并对 Halo Studios 进行裁员。",
+      "tags": [
+        "裁员"
+      ],
+      "keywords": [
+        "Ninja Theory",
+        "Xbox",
+        "裁员",
+        "地狱之刃"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 2,
+      "title": "Sega won't \"entrust the creative aspect of games to AI,\" but is using tech to \"improve efficiency\" in other departments",
+      "url": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-06 13:50",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "世嘉高管表示不会将游戏创意环节交给 AI，但会在发行、企业部门及商业创意生成中利用 AI 提升效率。公司去年成立生成式 AI 委员会和 AI 特别工作组，开发内部 AI 工具。此前《疯狂出租车：世界巡回赛》因使用生成式 AI 制作背景资产引发争议，系列创作者澄清仅用于参考。",
+      "tags": [
+        "技术AI"
+      ],
+      "keywords": [
+        "世嘉",
+        "生成式AI"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 10,
+      "title": "Arc Raiders and The Finals are getting TV series and film adaptations",
+      "url": "https://www.gamesindustry.biz/arc-raiders-and-the-finals-are-getting-tv-series-and-film-adaptations",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-05 19:33",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Embark Studios 的《Arc Raiders》和《The Finals》将改编为电视剧和电影，由 Chernin Entertainment 担任主要制片人。Nexon 执行主席 Patrick Söderlund 表示这是将游戏打造成跨媒体体验的重要一步。《Arc Raiders》销量超 1600 万份，《The Finals》注册玩家超 3000 万。",
+      "tags": [
+        "IP联动"
+      ],
+      "keywords": [
+        "Embark Studios",
+        "Arc Raiders",
+        "The Finals",
+        "Chernin"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "Jagex responds to use of generative AI in RuneScape trailer made by \"trusted external partner\"",
+      "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-05 11:08",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Jagex 回应《RuneScape 3》预告片使用生成式 AI 的争议，称由外部合作伙伴制作且对方承诺不使用 AI。公司已移除该素材并调查，强调自身不使用生成式 AI 创作游戏资产。这是近期第二次因合作伙伴使用 AI 引发问题，Jagex 将改革审核流程。",
+      "tags": [
+        "技术AI"
+      ],
+      "keywords": [
+        "Jagex",
+        "RuneScape",
+        "生成式AI"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 17,
+      "title": "Disney president and CCO dismisses rumours of Epic Games buyout: \"Those are not the conversations we are having right now\"",
+      "url": "https://www.gamesindustry.biz/disney-president-and-cco-dismisses-rumours-of-epic-games-buyout-those-are-not-the-conversations-we-are-having-right-now",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-05 10:05",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "迪士尼总裁兼首席创意官 Dana Walden 否认收购 Epic Games 的传闻，称目前没有相关对话。迪士尼 2024 年向 Epic 投资 15 亿美元，双方合作开发游戏和娱乐宇宙，近期推出《曼达洛人与古古》联动内容。",
+      "tags": [
+        "并购"
+      ],
+      "keywords": [
+        "迪士尼",
+        "Epic Games",
+        "收购"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 18,
+      "title": "Capcom aims to enhance its propriety RE Engine with AI to accelerate efficiency in QA, debugging, and data processing",
+      "url": "https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-05 08:29",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Capcom 宣布将 RE 引擎升级为“AI 生成引擎”，分阶段整合 AI 以提高 QA、调试和数据处理效率。新系统包括 RE:Dox、RE:UI、RE:Log 等，部分改进将开源。Capcom 强调不会在游戏中直接使用生成式 AI 资产。",
+      "tags": [
+        "技术AI"
+      ],
+      "keywords": [
+        "Capcom",
+        "RE引擎",
+        "AI"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 28,
+      "title": "Bungie co-founder and Destiny 2 narrative director launch transmedia studio Stone Kite",
+      "url": "https://www.gamesindustry.biz/bungie-co-founder-and-destiny-2-narrative-director-launch-transmedia-studio-stone-kite",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-02 13:54",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Bungie 联合创始人 Jason Jones 和《命运2》叙事总监 Margaret Stohl 成立跨媒体工作室 Stone Kite，首部 IP《One Zero One》改编自 Jones 的手稿，将以四部分漫画系列推出。工作室与 250 多名创作者合作，旨在打破媒体壁垒。",
+      "tags": [
+        "人事变动"
+      ],
+      "keywords": [
+        "Bungie",
+        "Stone Kite",
+        "Jason Jones",
+        "Margaret Stohl"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 32,
+      "title": "Reigns developer Nerial closes following \"significant trading losses\" over past two years",
+      "url": "https://www.gamesindustry.biz/reigns-developer-nerial-closes-following-significant-trading-losses-over-past-two-years",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-02 11:19",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "《王权》开发商 Nerial 宣布关闭，进入“休眠模式”。工作室过去两年亏损严重，2025 年亏损超 80 万英镑。母公司 Devolver 保留游戏版权。创始人表示将回归独立开发。",
+      "tags": [],
+      "keywords": [
+        "Nerial",
+        "Devolver",
+        "关闭"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 35,
+      "title": "Krafton shuts down PUBG spin-off Black Budget nine months after closed alpha test",
+      "url": "https://www.gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budget-nine-months-after-closed-alpha-test",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-02 08:03",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Krafton 宣布停止开发 PUBG 衍生游戏《Black Budget》，该游戏在封闭 Alpha 测试九个月后取消。这是今年取消的第二款 PUBG 衍生游戏，此前《Blindspot》已关闭。Krafton 仍计划扩展 PUBG IP，并在 Gamescom 公布新衍生游戏《PUBG: Ded.Net》。",
+      "tags": [],
+      "keywords": [
+        "Krafton",
+        "PUBG",
+        "Black Budget"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 47,
+      "title": "拳头游戏在广州成立新公司，招聘信息暴露或在研城建SLG",
+      "url": "https://news.qq.com/rain/a/20260930A09NR300",
+      "source": "游戏陀螺",
+      "pub_date": "2026-09-30 10:26",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "拳头游戏在广州成立全资子公司“傲拳网络科技”，招聘信息显示可能在研城建 SLG 和 Riot Discovery 项目。广州团队将补充上海研发中心，聚焦移动端和社交游戏。",
+      "tags": [
+        "人事变动"
+      ],
+      "keywords": [
+        "拳头游戏",
+        "广州",
+        "SLG",
+        "Riot Discovery"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 12,
+      "title": "Free-to-play playtime is broadly flat as gacha RPGs drive PC growth, says Newzoo",
+      "url": "https://www.gamesindustry.biz/free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc-growth-says-newzoo",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-05 17:15",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Newzoo 报告显示，免费游戏（F2P）并未衰落：2021-2025 年 F2P 游戏时长份额下降 2.9 个百分点至 29.3%，但绝对时长基本持平。PC 端 F2P 时长增长，主机端下降。F2P 新作发布数量从 2020-2022 年的年均 21.3 款降至 2023-2025 年的 14.7 款。Gacha 成为 PC 端 F2P 增长主要动力，PC gacha 时长增长 92%，《鸣潮》《崩坏：星穹铁道》《绝区零》合计贡献 11 亿小时。",
+      "tags": [
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "Newzoo",
+        "F2P",
+        "Gacha",
+        "PC游戏"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 29,
+      "title": "206款国产3款进口游戏获版号：米哈游《源初之结》祖龙《诡秘之主：愚者》过审",
+      "url": "https://news.qq.com/rain/a/20261002A09LAI00",
+      "source": "GameLook",
+      "pub_date": "2026-10-02 11:39",
+      "also_seen_in": [
+        "游戏葡萄",
+        "游戏新知"
+      ],
+      "module": "industry",
+      "summary": "9 月 30 日国家新闻出版署公布 9 月版号：206 款国产游戏、3 款进口游戏过审，15 款变更。米哈游《源初之结》、祖龙《诡秘之主：愚者》、恺英《龙之谷：觉醒》等获批。《源初之结》为米哈游首款写实向产品，支持 PC 和移动端。",
+      "tags": [
+        "政策监管"
+      ],
+      "keywords": [
+        "版号",
+        "米哈游",
+        "源初之结",
+        "祖龙"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 30,
+      "title": "9月微信小游戏畅销榜Top100：小游戏大势已定？仅1款新游戏跻身TOP50",
+      "url": "https://news.qq.com/rain/a/20261002A09LA800",
+      "source": "GameLook",
+      "pub_date": "2026-10-02 11:39",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GameLook 发布 9 月微信小游戏畅销榜 Top100：换血率降至 23%，Top50 仅 1 款新游《使命召唤手游》。三七互娱以 7 款入榜继续领跑，腾讯和大梦龙途各 5 款并列第二。模拟经营品类表现突出，占据 Top10 中 3 席。",
+      "tags": [
+        "榜单数据",
+        "小游戏"
+      ],
+      "keywords": [
+        "微信小游戏",
+        "畅销榜",
+        "三七互娱",
+        "腾讯"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 37,
+      "title": "Consumer Protection Cooperation Network launches coordinated actions against nine companies on in-game currency | Opinion",
+      "url": "https://www.gamesindustry.biz/consumer-protection-cooperation-network-launches-coordinated-actions-against-nine-companies-on-in-game-currency",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-01 14:15",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "欧盟消费者保护合作网络（CPC）对九家游戏公司发起协调行动，涉及《Valorant》《部落冲突》《糖果传奇》等游戏的内购货币问题。CPC 要求显示真实货币价格，并适用消费者保护法。文章讨论此举可能带来的合规挑战。",
+      "tags": [
+        "政策监管",
+        "法律诉讼"
+      ],
+      "keywords": [
+        "欧盟",
+        "CPC",
+        "内购货币",
+        "消费者保护"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 1,
+      "title": "Resident Evil games engagement leapt 50% following release of Zach Cregger's movie, but analysts say real value is in brand building",
+      "url": "https://www.gamesindustry.biz/resident-evil-games-engagement-leapt-50-following-release-of-zach-creggers-movie-but-analysts-say-real-value-is-in-brand-building-1",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-06 14:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Sensor Tower、Ampere Analysis 和 Newzoo 数据显示，《生化危机》电影上映带动系列游戏 DAU 增长 50%（从 8 月 30 日的 50 万增至 9 月 20 日的 75 万），日销量从 3.4 万增至近 8 万。Ampere 统计 45 国 DAU 从 14 万增至 68 万。分析师指出增幅虽显著但基数较低，对系列整体表现影响有限，跨媒体联动对游戏业绩有可衡量的短期提振。",
+      "tags": [
+        "市场分析",
+        "IP联动"
+      ],
+      "keywords": [
+        "生化危机",
+        "Sensor Tower",
+        "Ampere Analysis",
+        "Newzoo"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 3,
+      "title": "Brazil wants to be in \"the top five game producers in the world in less than 10 years\"",
+      "url": "https://www.gamesindustry.biz/brazil-wants-to-be-in-the-top-five-game-producers-in-the-world-in-less-than-10-years",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-06 13:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "巴西游戏行业协会 Abragames 主席 Rodrigo Terra 表示，巴西希望在 10 年内成为全球前五的游戏生产国，并将游戏视为文化软实力输出渠道。巴西 Games 出口项目负责人 Patricia Sato 指出，目前外界对巴西的认知仍局限于足球、桑巴和狂欢节，希望游戏能展示更多元的文化。文章分析了巴西游戏产业在玩家数量和收入上的快速增长。",
+      "tags": [
+        "市场分析",
+        "出海"
+      ],
+      "keywords": [
+        "巴西",
+        "Abragames",
+        "软实力"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 14,
+      "title": "\"It's less risky to be the masters of our own fate\" – The AAA developers going indie",
+      "url": "https://www.gamesindustry.biz/its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-going-indie",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-05 13:12",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GamesIndustry.biz 采访多位从 AAA 转独立游戏开发的从业者，探讨行业裁员潮下独立开发成为出路。自 2022 年以来游戏行业裁员超 5.8 万人，AAA 领域受冲击最大。受访者表示独立开发虽收入低、风险高，但自由度更高，且 AAA 岗位稀缺迫使许多人选择独立。",
+      "tags": [
+        "市场分析",
+        "人物访谈"
+      ],
+      "keywords": [
+        "独立游戏",
+        "裁员",
+        "AAA"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 25,
+      "title": "10月预计15款游戏上线:《剑侠世界4：无限》领衔，Steam反攻手游",
+      "url": "https://news.qq.com/rain/a/20261002A09LA500",
+      "source": "GameLook",
+      "pub_date": "2026-10-02 23:23",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GameLook 统计 10 月预计 15 款游戏上线，包括西山居《剑侠世界4：无限》（预约超 900 万）、灵犀互娱《篮球少女：飞跃巅峰》、苦柚 Games《美职篮奇迹梦之队》等。多款 Steam 口碑作品移植移动端，如《霓虹深渊2》《失落城堡2》。",
+      "tags": [
+        "新品定档",
+        "市场分析"
+      ],
+      "keywords": [
+        "10月新游",
+        "西山居",
+        "灵犀互娱",
+        "Steam移植"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 26,
+      "title": "Sony's consultation on physical media: better late than never | Opinion",
+      "url": "https://www.gamesindustry.biz/sonys-consultation-on-physical-media-better-late-than-never-opinion",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-02 15:19",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GamesIndustry.biz 评论索尼就停止实体游戏发行咨询合作伙伴的举动，认为时机已晚，但表明索尼意识到决策影响。文章认为索尼可能提供一定灵活性作为妥协，但长期趋势不变。",
+      "tags": [
+        "市场分析",
+        "硬件平台"
+      ],
+      "keywords": [
+        "索尼",
+        "实体游戏",
+        "数字发行"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 27,
+      "title": "\"Quite often it's given me more to do\" – Why AI might be creating more work for games companies, rather than saving time",
+      "url": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-02 14:29",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GamesIndustry.biz HR 峰会讨论生成式 AI 对游戏行业工作的影响：AI 提高效率的同时带来员工焦虑、数据泄露和法律问题。多数公司已制定 AI 政策，但技术变化快导致政策需频繁更新。",
+      "tags": [
+        "技术AI"
+      ],
+      "keywords": [
+        "生成式AI",
+        "HR",
+        "游戏行业"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 38,
+      "title": "今天的华为Mate 90发布会，突然出现了三款游戏大作",
+      "url": "https://news.qq.com/rain/a/20261001A0ATWP00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-01 11:16",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "华为 Mate 90 发布会展示三款游戏：《鸣潮》《暗区突围》和《舞力全开：派对》，展示鸿蒙系统的游戏优化能力，包括 AI 超分、光追和体感玩法。文章认为鸿蒙游戏重心从数量转向深度优化。",
+      "tags": [
+        "硬件平台",
+        "技术AI"
+      ],
+      "keywords": [
+        "华为",
+        "鸿蒙",
+        "鸣潮",
+        "暗区突围"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 43,
+      "title": "上班十余年的普通打工人，在腾讯顶尖赛事上为自己加冕",
+      "url": "https://news.qq.com/rain/a/20260930A0AVUB00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-09-30 13:17",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "游戏葡萄报道 2026 金铲铲之战女子赛冠军三猫头子：一位普通上班族女性夺冠。文章分析赛事设计理念，强调多元价值和选手故事，并提及《金铲铲之战》登顶 App Store 畅销榜。",
+      "tags": [
+        "电竞",
+        "人物访谈"
+      ],
+      "keywords": [
+        "金铲铲之战",
+        "女子赛",
+        "电竞"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 48,
+      "title": "35%的游戏公司老板，曾因AI决定不招人了",
+      "url": "https://news.qq.com/rain/a/20260930A09NR200",
+      "source": "游戏陀螺",
+      "pub_date": "2026-09-30 10:26",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "游戏陀螺报道 AI 对游戏行业就业的影响：调查显示 35% 的游戏公司创始人因 AI 减少招聘。AI 提高现有团队产能，导致新增岗位减少，外包和自由职业者增加。文章分析 AI 如何改变游戏开发组织模式。",
+      "tags": [
+        "技术AI"
+      ],
+      "keywords": [
+        "AI",
+        "就业",
+        "游戏行业"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 4,
+      "title": "South Australian government makes largest investment in game development by doubling its Digital Games Fund to $1m",
+      "url": "https://www.gamesindustry.biz/south-australian-government-makes-largest-investment-in-game-development-by-doubling-its-digital-games-fund-to-1m",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-06 11:11",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "南澳大利亚电影公司（SAFC）将数字游戏基金（DGF）资金翻倍至 100 万澳元，支持本地游戏开发。基金分三档：预制作最高 3 万澳元、制作最高 15 万澳元、发行后最高 5 万澳元。同时推出游戏工作室实习计划，支持早期和中期创作者带薪实习。申请于 10 月 21 日开放。",
+      "tags": [
+        "政策监管",
+        "市场分析"
+      ],
+      "keywords": [
+        "南澳大利亚",
+        "SAFC",
+        "游戏基金"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 6,
+      "title": "在Wonder Festival 的中心寻找游戏元素",
+      "url": "https://news.qq.com/rain/a/20261006A07TCP00",
+      "source": "触乐",
+      "pub_date": "2026-10-06 07:29",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "触乐记者参观 Wonder Festival 2026 上海站，观察玩具展中的游戏元素。国产二次元游戏 IP 手办占比最大，如《原神》《绝区零》《终末地》《鸣潮》等，其中《鸣潮》和库洛游戏最为活跃，在多个展台展示手办。文章探讨了玩具与游戏 IP 的融合趋势，以及玩具厂商对 IP 的依赖。",
+      "tags": [
+        "展会活动",
+        "IP联动"
+      ],
+      "keywords": [
+        "Wonder Festival",
+        "二次元",
+        "手办",
+        "IP"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 19,
+      "title": "游戏行业，藏了多少「神人」领导？",
+      "url": "https://news.qq.com/rain/a/20261005A04B0I00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-05 03:59",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "游戏葡萄盘点游戏行业“神人”领导奇闻：G胖在办公室练呼麦、Richard Garriott 与哥哥打架、国内厂商高管练高尔夫、看八字等。文章以轻松口吻讨论创意行业中领导者的古怪行为，并邀请读者分享见闻。",
+      "tags": [
+        "人物访谈"
+      ],
+      "keywords": [
+        "游戏行业",
+        "领导",
+        "奇闻"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 20,
+      "title": "游戏公司内斗，你能活过几集？",
+      "url": "https://news.qq.com/rain/a/20261004A04GDC00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-05 01:12",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "游戏葡萄讨论游戏公司内斗现象：权力分散、赛马机制、空降领导挤兑老员工等。文章引用图森未来《金庸群侠传》团队内斗案例，指出环境遇冷加剧内斗，并邀请读者分享应对策略。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "游戏公司",
+        "内斗",
+        "职场"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 23,
+      "title": "“TapTap玩聚节”是如何办成的？",
+      "url": "https://news.qq.com/rain/a/20261003A06GNO00",
+      "source": "触乐",
+      "pub_date": "2026-10-03 07:44",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "触乐报道首届 TapTap 玩聚节：9 月 12-13 日在上海西岸艺术中心举办，规模小而精，参展作品多元，包括 PC 和 3A 大作。文章采访展会总控 Lisa，探讨 TapTap 从移动平台向 PC 扩展的战略，以及如何策划小型玩家展会。",
+      "tags": [
+        "展会活动"
+      ],
+      "keywords": [
+        "TapTap",
+        "玩聚节",
+        "展会"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 24,
+      "title": "卖笋、开夜店、研究长生不老，有多少游戏老板「不务正业」？",
+      "url": "https://news.qq.com/rain/a/20261003A042XF00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-03 03:58",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "游戏葡萄盘点游戏公司老板的跨界副业：蓝港廖明香卖笋年营收过亿、Tap4Fun 杨祥吉投资抗衰生物科技、英雄互娱应书岭在上海建 INS 新乐园投资一亿美金、米哈游投资核聚变和火箭等。文章展示游戏行业成功人士的多元化投资。",
+      "tags": [
+        "人物访谈"
+      ],
+      "keywords": [
+        "游戏老板",
+        "跨界",
+        "副业"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 34,
+      "title": "战马工作室成立15年，创始人从来不走寻常路",
+      "url": "https://news.qq.com/rain/a/20261002A07COE00",
+      "source": "触乐",
+      "pub_date": "2026-10-02 08:19",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "触乐专访战马工作室联合创始人马丁·克里玛，回顾其从学生运动到创立战马、开发《天国：拯救2》的历程。文章讲述了他翻译《龙与地下城》、创作捷克首款奇幻桌游《龙穴》等经历，以及战马工作室 15 年的发展。",
+      "tags": [
+        "人物访谈"
+      ],
+      "keywords": [
+        "战马工作室",
+        "马丁·克里玛",
+        "天国：拯救"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 9,
+      "title": "灵犀互娱在东南亚市场测试了一款微恐摸金新游？",
+      "url": "https://news.qq.com/rain/a/20261006A05CL200",
+      "source": "游戏新知",
+      "pub_date": "2026-10-06 03:02",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "灵犀互娱海外发行主体 QOOKKA GAMES 在东南亚五国测试微恐摸金新游《Project63》，下载量破万。游戏采用类《致命公司》玩法，特色是校园题材和东南亚鬼怪。测试内容较少，仅两张地图和四位角色。游戏与《超自然行动组》在技能和 UI 上有相似之处，AI 参与度较高。",
+      "tags": [
+        "新品曝光",
+        "出海"
+      ],
+      "keywords": [
+        "灵犀互娱",
+        "Project63",
+        "摸金"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 22,
+      "title": "首曝一年两次测试，腾讯这款生活模拟新游立住了吗？",
+      "url": "https://news.qq.com/rain/a/20261004A03XU800",
+      "source": "游戏新知",
+      "pub_date": "2026-10-04 03:01",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "腾讯生活模拟游戏《粒粒的小人国》开启二测，官网预约量超 1320 万。游戏以小人国题材为特色，二测改进了画面、动作和玩法，增加了 53 位粒粒角色和互动内容。文章认为游戏在生活模拟赛道中通过差异化题材脱颖而出。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "腾讯",
+        "粒粒的小人国",
+        "生活模拟"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 36,
+      "title": "前《妙鸭》核心团队创业，跨界做了一款AI乙女游戏",
+      "url": "https://news.qq.com/rain/a/20261002A0496D00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-02 03:01",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "前《妙鸭相机》核心团队创立的沐言智语推出 AI 乙女游戏《星眠》，近日完成二测。游戏结合 AI 聊天、日记等功能，尊重传统乙游形态。CEO 张月光为明星产品人，公司估值过亿美元。制作人何泪泪表示游戏定位为“AI 养关系”。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "星眠",
+        "沐言智语",
+        "AI乙游",
+        "张月光"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 45,
+      "title": "4399又曝光一款弹射游戏，或于2027年Q1上线",
+      "url": "https://news.qq.com/rain/a/20260930A09Q6A00",
+      "source": "游戏新知",
+      "pub_date": "2026-09-30 10:34",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "4399 曝光策略弹射游戏《弹弹小队》，预计 2027 年 Q1 上线。游戏采用欧卡画风，结合职业和技能，加入地形破坏等变数。4399 持续尝试休闲竞技弹射品类。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "4399",
+        "弹弹小队",
+        "弹射游戏"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 49,
+      "title": "三国SLG大年，又有黑马入局？制作人：无所谓红海，下半场拼创意",
+      "url": "https://news.qq.com/rain/a/20260930A09NQY00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-09-30 10:26",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "游戏陀螺专访三国 SLG《三策》制作人阿庆，游戏由凯博研发、儒意景秀发行，主打降肝减负和可视化战斗。制作人认为 SLG 仍有创新空间，游戏采用短赛季和剧本制。",
+      "tags": [
+        "新品曝光",
+        "人物访谈"
+      ],
+      "keywords": [
+        "三策",
+        "三国SLG",
+        "儒意景秀"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 7,
+      "title": "NBA 2K25 servers to shut down on December 31, single-player story mode will become unplayable",
+      "url": "https://www.gamesindustry.biz/nba-2k25-servers-to-shut-down-on-december-31-single-player-story-mode-will-become-unplayable",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-06 07:24",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "2K 宣布《NBA 2K25》将于 10 月 30 日从商店下架，12 月 31 日关闭服务器。玩家仍可离线游玩 Play Now、MyNBA 等模式，但依赖服务器的 MyCareer 和 MyTeam 模式将不可用。这是 2K 两年内连续下架 NBA 游戏的一部分。NBA 与 2K 已达成多年全球合作扩展协议，系列累计销量超 1.5 亿份。",
+      "tags": [
+        "关服停运",
+        "版本更新"
+      ],
+      "keywords": [
+        "NBA 2K25",
+        "2K",
+        "关服"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 13,
+      "title": "Sony introduces AI upscaling to base PS5; Marvel's Wolverine and Ghost of Yōtei are first games to implement new tech",
+      "url": "https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-05 13:35",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "索尼为 PS5 基础版推出 AI 超分技术 QSSR，与 AMD 合作开发，可提升画质和帧率。PSSR 仍为 PS5 Pro 独占。首批应用 QSSR 的游戏是《漫威金刚狼》和《幽灵之恸》。该技术将广泛提供给开发者，作为 PSSR 的替代方案。",
+      "tags": [
+        "技术AI",
+        "硬件平台"
+      ],
+      "keywords": [
+        "索尼",
+        "PS5",
+        "QSSR",
+        "AI超分"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 16,
+      "title": "畅销第6和双子星宇宙：从做地图到做产品",
+      "url": "https://news.qq.com/rain/a/20261005A07UZB00",
+      "source": "触乐",
+      "pub_date": "2026-10-05 10:49",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "触乐报道《蛋仔派对》UGC 生态发展：乐园地图从短期玩法演变为长期运营的“独立 UGC 产品”，部分地图有数值迭代和商业化支撑。游戏推出“双子星编辑器”体系，并采访三组创作者，展示从兴趣到专业团队的成长路径。十一假期期间游戏位列 iOS 畅销榜 TOP6。",
+      "tags": [
+        "产品复盘"
+      ],
+      "keywords": [
+        "蛋仔派对",
+        "UGC",
+        "编辑器"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 31,
+      "title": "APP端首周流水5000万，B站捉宠新游开始发力小游戏",
+      "url": "https://news.qq.com/rain/a/20261002A09LA100",
+      "source": "GameLook",
+      "pub_date": "2026-10-02 11:39",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "B站捉宠新游《闪耀吧！噜咪》APP 端首周流水 5000 万，并进入微信小游戏榜单前列。游戏采用竖屏休闲玩法，结合 B 站社区资源进行品效合一营销。文章分析其双端发行策略和产品设计。",
+      "tags": [
+        "产品复盘",
+        "小游戏"
+      ],
+      "keywords": [
+        "B站",
+        "闪耀吧！噜咪",
+        "捉宠"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 33,
+      "title": "2XKO would have needed an MAU base \"in the high hundreds of thousands, if not millions\" to succeed",
+      "url": "https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-thousands-if-not-millions-to-succeed",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-02 10:10",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "Riot Games CPO Marc Merrill 表示《2XKO》需要“数十万甚至数百万”月活才能维持，但实际受众不足。游戏于 8 月停止开发，服务器将维持到 2026 年后。Merrill 认为《街头霸王6》的发布影响了《2XKO》的表现。",
+      "tags": [
+        "产品复盘",
+        "关服停运"
+      ],
+      "keywords": [
+        "Riot Games",
+        "2XKO",
+        "格斗游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 5,
+      "title": "Star Wars: Galactic Racer launches on Amazon Luna as part of Prime subscription",
+      "url": "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-06 09:12",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《星球大战：银河赛车》将在亚马逊 Luna 云游戏平台首发，Prime 会员可免费游玩。游戏由 Fuse Games 开发、Secret Mode 发行，包含单人战役、街机和场景模式。亚马逊游戏负责人表示 Luna 玩家无需主机或下载即可游玩。Luna 已整合进 Prime Video，拥有超过 100 款游戏。",
+      "tags": [
+        "硬件平台",
+        "新品定档"
+      ],
+      "keywords": [
+        "星球大战",
+        "亚马逊Luna",
+        "Prime"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 8,
+      "title": "2026的游戏行业，遍地都是埋人的天坑陷阱？",
+      "url": "https://news.qq.com/rain/a/20261006A05R0A00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-06 03:59",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "游戏葡萄分析 2026 年游戏行业多个赛道成为“天坑”：二游因资本遇冷和关服潮陷入死循环，大世界游戏面临包体过大、硬件成本高和 AI 堆料问题，捉宠赛道除《洛克王国》外难以复制成功，独游成功率低，AI 游戏被玩家质疑价格。文章认为表面机会遍地，实际入局风险极高。",
+      "tags": [
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "二游",
+        "大世界",
+        "捉宠",
+        "独游"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 21,
+      "title": "Unpacking China’s Out-of-Game Economy",
+      "url": "https://naavik.co/weekly-digest/unpacking-chinas-out-of-game-economy/",
+      "source": "Naavik Digest",
+      "pub_date": "2026-10-04 09:23",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "Naavik Digest 作者通过亲身实践分析中国游戏外经济：在《梦幻西游》中通过官方交易平台藏宝阁进行虚拟货币交易，一个月赚取 1028.95 元人民币，扣除点卡成本后时薪约 7.29 元。文章探讨了中国虚拟物品交易和人力服务灰色市场的规模与运作机制，指出网易通过藏宝阁规范交易并抽成 8-10%。",
+      "tags": [
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "梦幻西游",
+        "藏宝阁",
+        "虚拟交易",
+        "网易"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 40,
+      "title": "今年的社交游戏黑马，是怎么联动传统文化的？",
+      "url": "https://news.qq.com/rain/a/20260930A0AVUJ00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-09-30 13:17",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《鹅鸭杀》联动华县汪氏皮影推出纪录片，将传统文化融入游戏内容。",
+      "tags": [
+        "IP联动"
+      ],
+      "keywords": [
+        "鹅鸭杀",
+        "皮影"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 41,
+      "title": "上线六年后，网易这款乙游仍然在制造「超预期」",
+      "url": "https://news.qq.com/rain/a/20260930A0AVUG00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-09-30 13:17",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《时空中的绘旅人》六周年版本「永夜之城666」上线，推出新 PV、塔罗企划和福利。",
+      "tags": [
+        "版本更新"
+      ],
+      "keywords": [
+        "时空中的绘旅人",
+        "六周年"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 44,
+      "title": "走到第十年的《阴阳师》，凭什么还能让玩家挤爆广州塔？",
+      "url": "https://news.qq.com/rain/a/20260930A0AN0H00",
+      "source": "触乐",
+      "pub_date": "2026-09-30 12:39",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《阴阳师》十周年庆典在广州塔举办，玩家热情参与，活动包括 Cos 巡游、LBS 鬼王等。",
+      "tags": [
+        "展会活动"
+      ],
+      "keywords": [
+        "阴阳师",
+        "十周年",
+        "广州塔"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 39,
+      "title": "十一假期玩什么：摄影冒险新旅程，空战奇兵再起飞",
+      "url": "https://news.qq.com/rain/a/20261001A097ZN00",
+      "source": "触乐",
+      "pub_date": "2026-10-01 11:00",
+      "also_seen_in": [],
+      "module": "other",
+      "summary": "触乐编辑推荐十一假期游戏：《浮游世界》等，供玩家参考。",
+      "tags": [],
+      "keywords": [
+        "浮游世界",
+        "假期游戏"
+      ],
+      "importance": 1
+    }
+  ],
+  "source_stats": {
+    "GamesIndustry.biz": {
+      "fetched": 21,
+      "selected": 21,
+      "ad": 0,
+      "merged": 0
+    },
+    "触乐": {
+      "fetched": 6,
+      "selected": 5,
+      "ad": 1,
+      "merged": 0
+    },
+    "游戏葡萄": {
+      "fetched": 9,
+      "selected": 6,
+      "ad": 2,
+      "merged": 1
+    },
+    "游戏新知": {
+      "fetched": 5,
+      "selected": 4,
+      "ad": 0,
+      "merged": 1
+    },
+    "Naavik Digest": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0
+    },
+    "GameLook": {
+      "fetched": 4,
+      "selected": 4,
+      "ad": 0,
+      "merged": 0
+    },
+    "游戏陀螺": {
+      "fetched": 3,
+      "selected": 3,
+      "ad": 0,
+      "merged": 0
+    }
+  }
+}
