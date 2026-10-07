@@ -1,0 +1,25 @@
+{
+  "updated": "2026-10-07T03:54:06+00:00",
+  "days": [
+    {
+      "date": "2026-10-07",
+      "total": 47,
+      "modules": {
+        "rival": 0,
+        "company": 10,
+        "industry": 20,
+        "newgame": 5,
+        "product": 6,
+        "deep": 2,
+        "ad": 3,
+        "other": 1
+      },
+      "headlines": [
+        "206款国产3款进口游戏获版号：米哈游《源初之结》祖龙《诡秘之主：愚者》过审",
+        "Free-to-play playtime is broadly flat as gacha RPGs drive PC growth, says Newzoo",
+        "Ninja Theory begins laying off staff, according to employee posts",
+        "Consumer Protection Cooperation Network launches coordinated actions against nine companies on in-game currency | Opinion"
+      ]
+    }
+  ]
+}
