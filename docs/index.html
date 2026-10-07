@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- 公开可访问，但不让搜索引擎收录（有人想搜到时删掉这行即可） -->
+<meta name="robots" content="noindex,nofollow">
+<title>游戏媒体日报</title>
+<meta name="description" content="每个工作日的游戏行业媒体资讯 AI 摘要，按模块、标签、来源、日期浏览">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎮</text></svg>">
+<style>
+:root{
+  --bg:#f6f7f9; --card:#ffffff; --text:#1c1f24; --muted:#6b7280; --line:#e5e7eb;
+  --accent:#c2410c; --accent-soft:#fff1e8; --chip:#eef0f3; --chip-on:#1c1f24; --chip-on-text:#fff;
+  --shadow:0 1px 2px rgba(0,0,0,.05);
+  --rival:#b91c1c; --company:#1d4ed8; --industry:#0f766e; --newgame:#15803d; --product:#7c3aed; --deep:#a16207; --ad:#6b7280; --other:#6b7280;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#111317; --card:#1a1d23; --text:#e7e9ee; --muted:#9aa3b2; --line:#2a2f38;
+  --accent:#fb923c; --accent-soft:#2a1d14; --chip:#252a33; --chip-on:#e7e9ee; --chip-on-text:#111317;
+  --shadow:none;
+  --rival:#f87171; --company:#60a5fa; --industry:#2dd4bf; --newgame:#4ade80; --product:#c084fc; --deep:#fbbf24; --ad:#9aa3b2; --other:#9aa3b2;
+}}
+:root[data-theme="dark"]{
+  --bg:#111317; --card:#1a1d23; --text:#e7e9ee; --muted:#9aa3b2; --line:#2a2f38;
+  --accent:#fb923c; --accent-soft:#2a1d14; --chip:#252a33; --chip-on:#e7e9ee; --chip-on-text:#111317;
+  --shadow:none;
+  --rival:#f87171; --company:#60a5fa; --industry:#2dd4bf; --newgame:#4ade80; --product:#c084fc; --deep:#fbbf24; --ad:#9aa3b2; --other:#9aa3b2;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--text);font:15px/1.6 -apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue","Noto Sans CJK SC","Microsoft YaHei",sans-serif}
+a{color:inherit}
+.wrap{max-width:900px;margin:0 auto;padding:0 16px 64px}
+header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:10px 0 8px}
+.top{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.top h1{font-size:18px;margin:0;white-space:nowrap}
+.top .grow{flex:1}
+.datenav{display:flex;align-items:center;gap:4px}
+.btn{border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:8px;padding:5px 10px;cursor:pointer;font-size:14px;line-height:1.3}
+.btn:disabled{opacity:.4;cursor:default}
+select.btn{padding-right:24px}
+.range{display:flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.range button{border:0;background:var(--card);color:var(--muted);padding:5px 10px;cursor:pointer;font-size:13px}
+.range button.on{background:var(--chip-on);color:var(--chip-on-text)}
+.filters{margin-top:8px;display:flex;flex-direction:column;gap:6px}
+.chips{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:0 0 auto;border:0;background:var(--chip);color:var(--text);border-radius:999px;padding:4px 11px;font-size:13px;cursor:pointer;white-space:nowrap}
+.chip .n{color:var(--muted);margin-left:4px;font-size:12px}
+.chip.on{background:var(--chip-on);color:var(--chip-on-text)}
+.chip.on .n{color:inherit;opacity:.7}
+.row2{display:flex;gap:6px;align-items:center}
+.row2 input{flex:1;min-width:0;border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:8px;padding:6px 10px;font-size:14px}
+main{padding-top:14px}
+.status{color:var(--muted);font-size:13px;margin:6px 0 10px}
+.hl{background:var(--accent-soft);border:1px solid transparent;border-radius:12px;padding:12px 14px;margin-bottom:18px}
+.hl h2{margin:0 0 8px;font-size:15px;color:var(--accent)}
+.hl ol{margin:0;padding-left:20px}
+.hl li{margin:6px 0}
+.hl li a{font-weight:600;text-decoration:none}
+.hl li a:hover{text-decoration:underline}
+.hl .why{display:block;color:var(--text);font-size:14px;opacity:.9}
+.hl .m{color:var(--muted);font-size:12px}
+h3.grp{font-size:15px;margin:22px 0 8px;display:flex;align-items:center;gap:8px}
+h3.grp .n{color:var(--muted);font-weight:400;font-size:13px}
+h3.grp.date{font-size:16px;margin-top:28px;padding-bottom:6px;border-bottom:1px solid var(--line)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:10px;box-shadow:var(--shadow)}
+.card .t{font-size:16px;font-weight:600;line-height:1.4;margin:0}
+.card .t a{text-decoration:none}
+.card .t a:hover{text-decoration:underline}
+.card .t a::after{content:" ↗";font-size:12px;color:var(--muted);font-weight:400}
+.card .s{margin:6px 0 8px;color:var(--text);opacity:.92}
+.card .meta{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;color:var(--muted);font-size:12.5px}
+.badge{display:inline-block;border-radius:6px;padding:1px 7px;font-size:12px;font-weight:600;color:#fff}
+.tag{display:inline-block;border-radius:6px;padding:1px 7px;font-size:12px;background:var(--chip);color:var(--text);cursor:pointer}
+.kw{color:var(--muted)}
+.card.ad{padding:8px 14px}
+.card.ad .t{font-size:14px;font-weight:500}
+.card.ad .s{margin:2px 0 4px;font-size:13.5px;color:var(--muted)}
+.card.merged-note{color:var(--muted)}
+.empty{color:var(--muted);text-align:center;padding:40px 0}
+details.src{margin-top:24px;color:var(--muted);font-size:13px}
+details.src table{border-collapse:collapse;margin-top:6px}
+details.src td,details.src th{padding:2px 10px 2px 0;text-align:left;font-weight:400}
+footer{color:var(--muted);font-size:12px;margin-top:40px}
+.imp{color:var(--accent);letter-spacing:-1px}
+@media (max-width:600px){
+  .top h1{font-size:16px}
+  .card .t{font-size:15px}
+  .row2{flex-wrap:wrap}
+  .row2 input{flex:1 1 100%}
+  .row2 select{flex:1 1 auto}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="top">
+    <h1>🎮 游戏媒体日报</h1>
+    <div class="grow"></div>
+    <div class="datenav">
+      <button class="btn" id="prev" title="前一天">‹</button>
+      <select class="btn" id="dateSel"></select>
+      <button class="btn" id="next" title="后一天">›</button>
+    </div>
+    <div class="range" id="range">
+      <button data-r="1" class="on">单日</button>
+      <button data-r="7">近7天</button>
+      <button data-r="30">近30天</button>
+    </div>
+  </div>
+  <div class="filters">
+    <div class="chips" id="modChips"></div>
+    <div class="chips" id="tagChips"></div>
+    <div class="row2">
+      <input id="q" type="search" placeholder="搜标题 / 摘要 / 公司 / 产品…">
+      <select class="btn" id="srcSel"><option value="">全部来源</option></select>
+      <select class="btn" id="sortSel"><option value="imp">按重要度</option><option value="time">按发布时间</option></select>
+    </div>
+  </div>
+</header>
+<main>
+  <div class="status" id="status">加载中…</div>
+  <div id="hl"></div>
+  <div id="list"></div>
+  <details class="src" id="srcStats"></details>
+  <footer id="foot"></footer>
+</main>
+</div>
+<script>
+(function(){
+'use strict';
+const MODULES = [
+  ['rival','⚔️','重点竞品'],['company','🏢','竞争对手'],['industry','📰','行业新闻'],
+  ['newgame','🌱','潜力新品'],['product','🎯','产品动态'],['deep','📖','深度解读'],
+  ['ad','🏷️','软文清单'],['other','📦','其他']];
+const MOD = Object.fromEntries(MODULES.map(m=>[m[0],{emoji:m[1],name:m[2]}]));
+const DATA = 'data/';
+const $ = id => document.getElementById(id);
+const esc = s => String(s==null?'':s).replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+let index = null;          // {updated, days:[{date,total,...}]} 新→旧
+let days = [];             // 已加载的日数据（按当前范围）
+const cache = {};          // date -> day json
+const state = { d:'', r:1, m:'', t:'', s:'', q:'', sort:'imp' };
+
+// ── 状态 <-> URL hash（Telegram 里的链接带 #d=YYYY-MM-DD 直接落到当天）──
+function readHash(){
+  const h = new URLSearchParams(location.hash.replace(/^#/,''));
+  Object.assign(state, { d:'', r:1, m:'', t:'', s:'', q:'', sort:'imp' });   // hash 是唯一真源，缺省即默认
+  for (const k of ['d','m','t','s','q','sort']) if (h.has(k)) state[k]=h.get(k);
+  if (h.has('r')) state.r = +h.get('r')||1;
+  $('q').value = state.q; $('sortSel').value = state.sort;
+}
+function writeHash(){
+  const h = new URLSearchParams();
+  for (const k of ['d','r','m','t','s','q','sort']){
+    const v = state[k]; if (v && !(k==='r'&&v===1) && !(k==='sort'&&v==='imp')) h.set(k,v);
+  }
+  history.replaceState(null,'','#'+h.toString());
+}
+
+async function getJSON(path){
+  const r = await fetch(path, {cache:'no-cache'});
+  if(!r.ok) throw new Error(path+' → HTTP '+r.status);
+  return r.json();
+}
+async function loadDay(date){
+  if(!cache[date]) cache[date] = await getJSON(DATA+date+'.json');
+  return cache[date];
+}
+
+// ── 初始化 ──
+async function init(){
+  readHash();
+  try { index = await getJSON(DATA+'index.json?_='+Date.now()); }
+  catch(e){ $('status').textContent = '还没有数据：'+e.message+'。首次运行日报后这里会出现内容。'; return; }
+  if(!index.days || !index.days.length){ $('status').textContent='还没有任何一天的数据。'; return; }
+  if(!state.d || !index.days.some(x=>x.date===state.d)) state.d = index.days[0].date;
+  const sel = $('dateSel');
+  sel.innerHTML = index.days.map(x=>`<option value="${x.date}">${x.date}（${x.total}）</option>`).join('');
+  sel.onchange = ()=>{ state.d = sel.value; refresh(); };
+  $('prev').onclick = ()=>step(1);   // days 是新→旧，所以「前一天」是 +1
+  $('next').onclick = ()=>step(-1);
+  $('range').onclick = e=>{ const b=e.target.closest('button'); if(!b) return; state.r=+b.dataset.r; refresh(); };
+  $('q').oninput = ()=>{ state.q=$('q').value.trim(); render(); };
+  $('srcSel').onchange = ()=>{ state.s=$('srcSel').value; render(); };
+  $('sortSel').onchange = ()=>{ state.sort=$('sortSel').value; render(); };
+  window.addEventListener('hashchange', ()=>{ readHash(); refresh(); });
+  refresh();
+}
+function step(delta){
+  const i = index.days.findIndex(x=>x.date===state.d); const j=i+delta;
+  if(j<0||j>=index.days.length) return; state.d=index.days[j].date; refresh();
+}
+
+// ── 按范围加载数据 ──
+async function refresh(){
+  $('dateSel').value = state.d;
+  const i = index.days.findIndex(x=>x.date===state.d);
+  $('prev').disabled = i>=index.days.length-1; $('next').disabled = i<=0;
+  document.querySelectorAll('#range button').forEach(b=>b.classList.toggle('on',+b.dataset.r===state.r));
+  const wanted = state.r===1 ? [index.days[i]] : index.days.filter(x=>daysBetween(x.date,state.d)>=0 && daysBetween(x.date,state.d)<state.r);
+  $('status').textContent = '加载中…';
+  try { days = await Promise.all(wanted.map(x=>loadDay(x.date))); }
+  catch(e){ $('status').textContent='加载失败：'+e.message; return; }
+  days.sort((a,b)=>a.date<b.date?1:-1);
+  buildSourceSelect(); render();
+}
+function daysBetween(a,b){ return Math.round((new Date(b)-new Date(a))/86400000); }
+
+function allItems(){ return days.flatMap(d=>d.items.map(x=>Object.assign({_date:d.date},x))); }
+
+function buildSourceSelect(){
+  const c = {}; allItems().forEach(x=>{ c[x.source]=(c[x.source]||0)+1; });
+  const sel = $('srcSel'); const cur = state.s;
+  sel.innerHTML = '<option value="">全部来源</option>' + Object.entries(c).sort((a,b)=>b[1]-a[1])
+    .map(([s,n])=>`<option value="${esc(s)}">${esc(s)}（${n}）</option>`).join('');
+  sel.value = Object.keys(c).includes(cur) ? cur : ''; state.s = sel.value;
+}
+
+// ── 过滤 + 渲染 ──
+function matches(x){
+  if(state.m && x.module!==state.m) return false;
+  if(state.t && !(x.tags||[]).includes(state.t)) return false;
+  if(state.s && x.source!==state.s && !(x.also_seen_in||[]).includes(state.s)) return false;
+  if(state.q){
+    const q = state.q.toLowerCase();
+    const hay = [x.title,x.summary,...(x.keywords||[]),...(x.tags||[]),x.source].join(' ').toLowerCase();
+    if(!hay.includes(q)) return false;
+  }
+  return true;
+}
+function sortItems(arr){
+  return arr.sort((a,b)=> state.sort==='time'
+    ? ((b.pub_date||'')+b._date).localeCompare((a.pub_date||'')+a._date) || b.importance-a.importance
+    : b.importance-a.importance || a.id-b.id);
+}
+
+function render(){
+  writeHash();
+  const items = allItems();
+  // 模块 chips（计数用未按模块过滤前的集合，但受标签/来源/搜索影响）
+  const base = items.filter(x=>{ const m=state.m; state.m=''; const ok=matches(x); state.m=m; return ok; });
+  const mc = {}; base.forEach(x=>{ mc[x.module]=(mc[x.module]||0)+1; });
+  $('modChips').innerHTML = chip('', '全部', base.length, state.m==='') +
+    MODULES.filter(m=>mc[m[0]]).map(m=>chip(m[0], m[1]+' '+m[2], mc[m[0]], state.m===m[0])).join('');
+  $('modChips').onclick = e=>{ const b=e.target.closest('.chip'); if(!b) return; state.m = (state.m===b.dataset.v?'':b.dataset.v); render(); };
+  // 标签 chips（取当前结果里出现最多的前 14 个）
+  const tb = items.filter(x=>{ const t=state.t; state.t=''; const ok=matches(x); state.t=t; return ok; });
+  const tc = {}; tb.forEach(x=>(x.tags||[]).forEach(t=>{ tc[t]=(tc[t]||0)+1; }));
+  const tags = Object.entries(tc).sort((a,b)=>b[1]-a[1]).slice(0,14);
+  if(state.t && !tc[state.t]) tags.unshift([state.t,0]);
+  $('tagChips').innerHTML = tags.map(([t,n])=>chip(t,'#'+t,n,state.t===t)).join('');
+  $('tagChips').onclick = e=>{ const b=e.target.closest('.chip'); if(!b) return; state.t = (state.t===b.dataset.v?'':b.dataset.v); render(); };
+
+  const shown = sortItems(items.filter(matches));
+  const filtered = !!(state.m||state.t||state.s||state.q);
+  $('status').textContent = (state.r===1 ? state.d : `${days[days.length-1]?.date} ~ ${days[0]?.date}（${days.length} 天）`)
+    + ` · 共 ${items.length} 条` + (filtered ? `，筛出 ${shown.length} 条` : '');
+
+  // 头条（单日且未筛选时显示）
+  $('hl').innerHTML = '';
+  if(state.r===1 && !filtered && days[0] && days[0].headlines && days[0].headlines.length){
+    const by = Object.fromEntries(days[0].items.map(x=>[x.id,x]));
+    $('hl').innerHTML = `<div class="hl"><h2>🔥 今日头条</h2><ol>` + days[0].headlines.map(h=>{
+      const x = by[h.id]; if(!x) return '';
+      return `<li>${link(x)}<span class="why">${esc(h.reason)}</span><span class="m">${MOD[x.module].emoji} ${MOD[x.module].name} · ${esc(x.source)}</span></li>`;
+    }).join('') + `</ol></div>`;
+  }
+
+  // 列表：单日按模块分组；多日按日期再按模块
+  let html = '';
+  if(!shown.length){ html = '<div class="empty">没有符合条件的内容</div>'; }
+  else if(state.r===1){ html = groupByModule(shown); }
+  else {
+    const byDate = {}; shown.forEach(x=>(byDate[x._date]=byDate[x._date]||[]).push(x));
+    html = Object.keys(byDate).sort().reverse().map(d=>`<h3 class="grp date">${d}<span class="n">${byDate[d].length} 条</span></h3>`+groupByModule(byDate[d])).join('');
+  }
+  $('list').innerHTML = html;
+  $('list').onclick = e=>{ const t=e.target.closest('.tag'); if(!t) return; state.t = (state.t===t.dataset.v?'':t.dataset.v); render(); };
+
+  // 来源统计（单日）
+  if(state.r===1 && days[0] && days[0].source_stats){
+    const st = days[0].source_stats;
+    $('srcStats').innerHTML = `<summary>📊 来源统计</summary><table><tr><th>信源</th><th>抓取</th><th>选入</th><th>软文</th><th>合并</th></tr>` +
+      Object.entries(st).sort((a,b)=>b[1].fetched-a[1].fetched).map(([s,v])=>`<tr><td>${esc(s)}</td><td>${v.fetched}</td><td>${v.selected}</td><td>${v.ad}</td><td>${v.merged||0}</td></tr>`).join('') + '</table>';
+    $('srcStats').style.display='';
+  } else $('srcStats').style.display='none';
+  $('foot').textContent = days[0] ? `摘要由 ${days[0].model||'AI'} 生成于 ${days[0].generated_at||''}，仅供快速浏览，细节以原文为准。` : '';
+}
+function chip(v,label,n,on){ return `<button class="chip${on?' on':''}" data-v="${esc(v)}">${esc(label)}<span class="n">${n}</span></button>`; }
+function link(x){ return x.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a>` : esc(x.title); }
+function groupByModule(arr){
+  const g = {}; arr.forEach(x=>(g[x.module]=g[x.module]||[]).push(x));
+  return MODULES.filter(m=>g[m[0]]).map(m=>{
+    const list = g[m[0]];
+    return `<h3 class="grp">${m[1]} ${m[2]}<span class="n">${list.length}</span></h3>` + list.map(card).join('');
+  }).join('');
+}
+function card(x){
+  const m = MOD[x.module]||MOD.other;
+  const also = (x.also_seen_in||[]).length ? `<span>同题另见：${esc(x.also_seen_in.join('、'))}</span>` : '';
+  const tags = (x.tags||[]).map(t=>`<span class="tag" data-v="${esc(t)}">#${esc(t)}</span>`).join('');
+  const kws = (x.keywords||[]).length ? `<span class="kw">${esc(x.keywords.join(' · '))}</span>` : '';
+  const imp = `<span class="imp" title="重要度 ${x.importance}/5">${'●'.repeat(x.importance||0)}${'○'.repeat(5-(x.importance||0))}</span>`;
+  if(x.module==='ad'){
+    return `<div class="card ad"><p class="t">${link(x)}</p><p class="s">${esc(x.summary)}</p><div class="meta"><span>${esc(x.source)}</span>${also}${tags}</div></div>`;
+  }
+  return `<div class="card"><p class="t">${link(x)}</p><p class="s">${esc(x.summary)}</p>
+    <div class="meta"><span class="badge" style="background:var(--${x.module})">${m.emoji} ${m.name}</span><span>${esc(x.source)}</span>${also}${x.pub_date?`<span>${esc(x.pub_date)}</span>`:''}${imp}${tags}${kws}</div></div>`;
+}
+init();
+})();
+</script>
+</body>
+</html>
