@@ -1,0 +1,303 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T00:51:35+00:00",
+  "model": "deepseek-v4-pro",
+  "total": 13,
+  "modules": {
+    "rival": 0,
+    "company": 6,
+    "industry": 4,
+    "newgame": 0,
+    "product": 0,
+    "deep": 2,
+    "ad": 0,
+    "other": 1
+  },
+  "headlines": [
+    {
+      "id": 5,
+      "reason": "派拉蒙完成1110亿美元收购华纳兄弟探索，游戏部门合并，影响行业格局。"
+    },
+    {
+      "id": 9,
+      "reason": "Unity推出网页AI游戏创作平台，与Google合作，降低游戏开发门槛。"
+    },
+    {
+      "id": 10,
+      "reason": "Xbox CEO称业务恢复增长，下一代硬件将采用多设备策略。"
+    }
+  ],
+  "items": [
+    {
+      "id": 5,
+      "title": "Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition",
+      "url": "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-07 14:00",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "派拉蒙完成对华纳兄弟探索的1110亿美元收购，双方游戏部门合并为Skydance旗下统一单元，由派拉蒙游戏工作室总裁Tony Driscoll领导。合并后Skydance将拥有华纳旗下多个游戏工作室及IP。",
+      "tags": [
+        "并购"
+      ],
+      "keywords": [
+        "派拉蒙",
+        "华纳兄弟",
+        "Skydance"
+      ],
+      "importance": 5
+    },
+    {
+      "id": 10,
+      "title": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall",
+      "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-07 10:59",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Xbox CEO Asha Sharma在内部会议中表示，Xbox已从历史低点恢复增长，第一方业务和用户参与度回升。她还透露下一代硬件Project Helix将是多设备家族，并重申Xbox不会出售。",
+      "tags": [
+        "财报业绩",
+        "人事变动"
+      ],
+      "keywords": [
+        "Xbox",
+        "微软"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 1,
+      "title": "Gravity Well lays off more than 40 developers after losing its funding",
+      "url": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-07 20:30",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "由Respawn前员工创立的独立工作室Gravity Well因失去资金支持，裁掉团队大部分成员，超过40名开发者被解雇。工作室仍在寻找新合作伙伴，未来充满不确定性。",
+      "tags": [
+        "裁员"
+      ],
+      "keywords": [
+        "Gravity Well",
+        "Respawn"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 2,
+      "title": "Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back",
+      "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-07 19:41",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "《星球大战：零号连队》开发商Bit Reactor开始召回此前因游戏发售前业务变动而暂时停职的员工，据称超过一半的停职员工已恢复薪资，但仍有部分员工未获薪资。",
+      "tags": [
+        "人事变动"
+      ],
+      "keywords": [
+        "Bit Reactor",
+        "星球大战"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 4,
+      "title": "Wizards of the Coast union expands, demands company stop pushing generative AI",
+      "url": "https://www.gamesindustry.biz/wizards-of-the-coast-union-expands-demands-company-stop-pushing-generative-ai",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-07 15:58",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "威世智的《龙与地下城》和《万智牌》团队加入工会，要求公司停止推动生成式AI，并争取员工业余创作的所有权。公司需在10月13日前决定是否自愿承认工会。",
+      "tags": [
+        "人事变动",
+        "技术AI"
+      ],
+      "keywords": [
+        "威世智",
+        "孩之宝"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 8,
+      "title": "Jobs roundup: October | Playstack CEO Harvey Elliott voted chair of UKIE",
+      "url": "https://www.gamesindustry.biz/jobs-roundup-october-playstack-ceo-harvey-elliott-voted-in-as-char-of-ukie",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-07 13:00",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Playstack CEO Harvey Elliott当选UKIE主席；Steel City Interactive任命Murray Pannell为发行主管；MV&P、Code Wizards Group、CD Projekt Red、Playground Games等公司均有新人事任命。",
+      "tags": [
+        "人事变动"
+      ],
+      "keywords": [
+        "Playstack",
+        "UKIE",
+        "Steel City Interacti"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 9,
+      "title": "Unity unveils a web-based AI game creation platform",
+      "url": "https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-07 12:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Unity推出基于网页的AI游戏创作平台Unity Spark，与Google Playground合作，用户可通过文本提示设计和迭代3D游戏。平台连接Unity Asset Store，采用信用积分制，旨在降低游戏创作门槛。",
+      "tags": [
+        "技术AI",
+        "硬件平台"
+      ],
+      "keywords": [
+        "Unity",
+        "Google",
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 3,
+      "title": "Discord protection bot Double Counter hit by breach exposing around 1 million email addresses",
+      "url": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-07 19:15",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Discord防护机器人Double Counter遭数据泄露，约100万邮箱地址、2800万Discord ID及2700万IP地址被部分复制。攻击者利用旧服务器漏洞获取云凭证，并窃取机器人令牌在约50个大型服务器发布恶意链接。公司已禁用泄露凭证并通知法国数据保护机构。",
+      "tags": [
+        "法律诉讼",
+        "技术AI"
+      ],
+      "keywords": [
+        "Double Counter",
+        "Discord"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 7,
+      "title": "RED LAND是怎么把自己做成“二次元迪士尼”的？",
+      "url": "https://news.qq.com/rain/a/20261007A0A67N00",
+      "source": "触乐",
+      "pub_date": "2026-10-07 13:14",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "小红书主办的RED LAND展会第二届落幕，展区面积从8万平米扩至15万平米，参展IP超160个。展会以露天空间和原创NPC互动为特色，被玩家称为“二次元迪士尼”。NPC数量从34位增至54位，强调情感互动和沉浸体验。",
+      "tags": [
+        "展会活动"
+      ],
+      "keywords": [
+        "小红书",
+        "RED LAND"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 13,
+      "title": "今年哪款游戏，让你承认自己看走眼了？",
+      "url": "https://news.qq.com/rain/a/20261007A04LGW00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-07 03:59",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "游戏葡萄回顾2026年多款游戏表现，指出《明日方舟：终末地》《洛克王国：世界》《异环》《王者万象棋》等产品上线后成绩超出预期，同时也有高期待产品表现不佳，强调游戏行业开局并非定局。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "明日方舟：终末地",
+        "洛克王国：世界",
+        "异环",
+        "王者万象棋"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 14,
+      "title": "[Podcast] How Behavioral AI Helps Fight Cheating",
+      "url": "https://naavik.co/podcast/how-behavioral-ai-helps-fight-cheating/",
+      "source": "Naavik Podcast",
+      "pub_date": "2026-10-06 10:17",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "Naavik Podcast探讨行为AI在反作弊中的应用，Anybrain CEO André Pimenta Ribeiro分享行为反作弊如何分析玩家输入、与传统工具配合，以及作弊对留存和收入的影响。节目还讨论了作弊即服务经济、AI和硬件辅助作弊的挑战，以及行为数据未来在作弊检测之外的扩展。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "Anybrain",
+        "反作弊",
+        "行为AI"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 6,
+      "title": "How to run an indie game studio: Part 2, Defining your future",
+      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-2-defining-your-future",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-07 14:00",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "本文是独立游戏工作室经营指南系列的第二部分，介绍如何为工作室设定长期目标（BHAG）和年度目标。作者建议团队通过撰写未来文章的方式共同定义BHAG，并设定5-7个年度目标以推动进展。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "独立游戏",
+        "工作室管理"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 11,
+      "title": "GamesIndustry.biz to host panel at Game Republic's Investment Summit at MCM Comic Con October 2026",
+      "url": "https://www.gamesindustry.biz/gamesindustrybiz-to-host-panel-at-game-republics-investment-summit-at-mcm-comic-con-october-2026",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-07 09:40",
+      "also_seen_in": [],
+      "module": "other",
+      "summary": "GamesIndustry.biz将在MCM Comic Con期间主持Game Republic投资峰会的一个小组讨论，峰会包含五场关于游戏融资、开发、可持续工作室和原创IP的演讲。",
+      "tags": [
+        "展会活动"
+      ],
+      "keywords": [
+        "GamesIndustry.biz",
+        "Game Republic"
+      ],
+      "importance": 1
+    }
+  ],
+  "source_stats": {
+    "GamesIndustry.biz": {
+      "fetched": 11,
+      "selected": 10,
+      "ad": 0,
+      "merged": 1
+    },
+    "触乐": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0
+    },
+    "游戏葡萄": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0
+    },
+    "Naavik Podcast": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0
+    }
+  }
+}
