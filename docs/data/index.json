@@ -1,6 +1,25 @@
 {
-  "updated": "2026-10-07T03:54:06+00:00",
+  "updated": "2026-10-08T00:51:36+00:00",
   "days": [
+    {
+      "date": "2026-10-08",
+      "total": 13,
+      "modules": {
+        "rival": 0,
+        "company": 6,
+        "industry": 4,
+        "newgame": 0,
+        "product": 0,
+        "deep": 2,
+        "ad": 0,
+        "other": 1
+      },
+      "headlines": [
+        "Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition",
+        "Unity unveils a web-based AI game creation platform",
+        "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall"
+      ]
+    },
     {
       "date": "2026-10-07",
       "total": 47,
