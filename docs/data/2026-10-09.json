@@ -1,0 +1,509 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T00:52:30+00:00",
+  "model": "deepseek-v4-pro",
+  "total": 21,
+  "modules": {
+    "rival": 0,
+    "company": 7,
+    "industry": 6,
+    "newgame": 1,
+    "product": 2,
+    "deep": 2,
+    "ad": 2,
+    "other": 1
+  },
+  "headlines": [
+    {
+      "id": 20,
+      "reason": "移动MMORPG收入四年腰斩，腾讯网易等头部厂商损失惨重，揭示品类结构性衰退。"
+    },
+    {
+      "id": 2,
+      "reason": "欧盟对九大游戏公司虚拟货币执法，行业集体抵制，或重塑游戏内购监管格局。"
+    },
+    {
+      "id": 3,
+      "reason": "谷歌与Unity联手推出AI游戏研发平台，巨头竞逐AI造游戏赛道。"
+    },
+    {
+      "id": 11,
+      "reason": "美国8月游戏市场数据：NBA 2K27登顶，总消费下降9%，硬件销量创2013年来新低。"
+    },
+    {
+      "id": 13,
+      "reason": "Xbox成立跨媒体部门XP，由Mojang总裁领导，加速游戏IP影视化与主题公园布局。"
+    }
+  ],
+  "items": [
+    {
+      "id": 13,
+      "title": "Xbox announces new XP division to deliver transmedia spinoffs including film, TV, and theme parks",
+      "url": "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-08 12:18",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Xbox宣布成立新业务部门XP，专注跨媒体品牌扩展，包括《辐射》电视剧、《我的世界》主题公园等。部门由Mojang总裁Kayleen Walters领导，她将被Reddit首席产品官Maria Angelidou-Smith接替。XP部门下设Xbox Pictures、Products、Partnerships、Places四个分支。",
+      "tags": [
+        "人事变动",
+        "IP联动"
+      ],
+      "keywords": [
+        "Xbox",
+        "微软",
+        "Kayleen Walters",
+        "跨媒体"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 14,
+      "title": "Manus母公司完成新一轮融资，此前已恢复独立运营",
+      "url": "https://news.qq.com/rain/a/20261008A0AF7100",
+      "source": "游戏新知",
+      "pub_date": "2026-10-08 10:36",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Manus母公司蝴蝶效应完成新一轮融资，金额超5亿美元，由博裕投资、IDG资本领投，腾讯、红杉中国、真格基金跟投。此前Meta曾以20亿美元收购Manus，但被中国发改委禁止，Manus于今年8月恢复独立运营。",
+      "tags": [
+        "融资",
+        "政策监管"
+      ],
+      "keywords": [
+        "蝴蝶效应",
+        "Manus",
+        "腾讯",
+        "Meta"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 4,
+      "title": "韩国游戏公司CEO离谱丑闻：4个夜场美女“挂职领工资 ”，被诉贪污4亿韩元",
+      "url": "https://news.qq.com/rain/a/20261008A0CKM800",
+      "source": "GameLook",
+      "pub_date": "2026-10-08 15:38",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "韩国游戏公司Softon前CEO刘泰浩被起诉贪污4.5亿韩元，他将4名夜场女性挂靠公司领空饷，配豪华法人车，甚至挂名高管。内部揭发者遭报复，投资方娱美德提起民事诉讼。刘泰浩辞去CEO后仍以高薪顾问身份操控公司，并推动无偿减资以规避监督。",
+      "tags": [
+        "法律诉讼",
+        "人事变动"
+      ],
+      "keywords": [
+        "Softon",
+        "刘泰浩",
+        "娱美德",
+        "贪污"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "李凯明创业公司资方浮出水面：米哈游、IDG、三七互娱和Magic Find",
+      "url": "https://news.qq.com/rain/a/20261008A0AF6M00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-08 10:36",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "前《率土之滨》制作人李凯明的创业公司微霄科技工商信息变更，IDG资本出现在股东之列。此前已获米哈游、IDG、三七互娱等投资，米哈游占股7%，IDG占6%，三七互娱占4.5%。微霄科技正在研发PC端单机策略游戏，可能与网易《万民长歌：三国》竞争。",
+      "tags": [
+        "融资",
+        "人事变动"
+      ],
+      "keywords": [
+        "李凯明",
+        "微霄科技",
+        "米哈游",
+        "三七互娱"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 18,
+      "title": "Gardens Interactive, founded by veterans behind Journey and Sky: Children of the Light, raises over $35m in Series B funding round",
+      "url": "https://www.gamesindustry.biz/gardens-interactive-founded-by-veterans-behind-journey-and-sky-children-of-the-light-raise-over-35m-in-series-b-funding-round",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-08 09:58",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Gardens Interactive完成超3500万美元B轮融资，由Lightspeed Venture Partners领投，总融资额超7000万美元。公司由《风之旅人》《Sky光·遇》等作品资深开发者创立，正在开发首款游戏Project Gardens，定位为多人共享幻想冒险，含社交角色扮演元素。",
+      "tags": [
+        "融资"
+      ],
+      "keywords": [
+        "Gardens Interactive",
+        "Lightspeed",
+        "Project Gardens"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 16,
+      "title": "Hell Let Loose developer Expression opens new studio in Manchester \"in response to what's happening in the talent market\"",
+      "url": "https://www.gamesindustry.biz/hell-let-loose-developer-expression-opens-new-studio-in-manchester-in-response-to-whats-happening-in-the-talent-market",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-08 10:31",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "《Hell Let Loose Vietnam》开发商Expression Games在曼彻斯特开设实体工作室，以响应人才市场需求。公司仍支持远程办公，但实体空间将作为创意中心，并支持合作开发项目。CEO表示这是长期增长计划的一部分。",
+      "tags": [
+        "人事变动"
+      ],
+      "keywords": [
+        "Expression Games",
+        "曼彻斯特",
+        "Hell Let Loose Vietn"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 19,
+      "title": "Fireshine Games acquires Necesse dev Fair Games, described as a \"defining moment\" for Danish indie studio",
+      "url": "https://www.gamesindustry.biz/fireshine-games-acquires-necesse-dev-fair-games-described-as-a-defining-moment-for-danish-indie-studio",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-08 08:09",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Fireshine Games收购丹麦独立工作室Fair Games及其开放世界沙盒游戏《Necesse》。Fair Games创始人将继续担任总经理，团队保持现状。《Necesse》自2019年上线以来估计拥有250万玩家，Fireshine将协助发行和移植。",
+      "tags": [
+        "并购"
+      ],
+      "keywords": [
+        "Fireshine Games",
+        "Fair Games",
+        "Necesse"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 2,
+      "title": "欧盟对9家游戏大厂执法行动，遭集体抵制：Supercell,拳头,育碧,King在列",
+      "url": "https://news.qq.com/rain/a/20261008A0CKMB00",
+      "source": "GameLook",
+      "pub_date": "2026-10-08 15:38",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "欧盟消费者保护合作网络（CPC）对King、Supercell、Mojang、Riot Games、Ubisoft等九家公司启动协调执法行动，针对游戏内虚拟货币售卖与管理方式。欧洲游戏协会VGE和EGDF联合抵制，质疑法律依据，认为游戏内货币不是加密资产。CPC此前发布《游戏内虚拟货币核心原则》，但无法律约束力。争议核心是虚拟货币的法律定性，若被认定为货币，每次游戏内消费都将触发消费者保护义务。协会提出六项承诺，但要求先解决法律不确定性。",
+      "tags": [
+        "政策监管",
+        "法律诉讼"
+      ],
+      "keywords": [
+        "欧盟",
+        "Supercell",
+        "Riot Games",
+        "虚拟货币"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 3,
+      "title": "又一大佬入局！谷歌与Unity推出AI游戏研发平台，“一句话生成游戏”",
+      "url": "https://news.qq.com/rain/a/20261008A0CKM900",
+      "source": "GameLook",
+      "pub_date": "2026-10-08 15:38",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "谷歌与Unity宣布战略合作，推出AI游戏研发平台。谷歌Playground上线，用户用自然语言提示词即可生成、定制并分享可玩游戏，无需代码；Unity Spark将在今年晚些时候接入，提供专业级游戏机制与高保真3D能力。这是继Meta、Roblox、Epic之后又一巨头入局AI游戏研发赛道。Playground目前仅限美国18岁以上用户，按周发放代币。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "谷歌",
+        "Unity",
+        "AI游戏研发",
+        "Playground"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 11,
+      "title": "NBA 2K27 tops US August charts, becomes third-best selling game of 2026 | US Monthly Charts",
+      "url": "https://www.gamesindustry.biz/nba-2k27-tops-us-august-charts-becomes-third-best-selling-game-of-2026-us-monthly-charts",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-08 13:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Circana数据显示，NBA 2K27登顶美国8月游戏畅销榜，成为2026年第三畅销游戏。Madden NFL 27、Marvel Tōkon: Fighting Souls等新作占据前五。8月美国游戏总消费下降9%至43亿美元，移动端收入下降18%。硬件销量下降15%，为2013年以来8月最低。",
+      "tags": [
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "Circana",
+        "NBA 2K27",
+        "美国游戏市场",
+        "硬件销量"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 7,
+      "title": "米哈游大伟哥成“小红书RED LAND”最大“人形彩蛋”，玩家：合照来者不拒",
+      "url": "https://news.qq.com/rain/a/20261008A0CKM400",
+      "source": "GameLook",
+      "pub_date": "2026-10-08 15:38",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "小红书RED LAND活动10月2-6日在上海举办，场地从8万平米扩至15万平米，超160个游戏动漫IP参展，五轮售票平均20.6秒售罄。米哈游大伟哥现身，为《星布谷地》站台，与玩家互动。活动展示小红书游戏月活1.2亿、二次元人群1.37亿，平台与厂商共同经营线下二次元体验。",
+      "tags": [
+        "展会活动",
+        "市场分析"
+      ],
+      "keywords": [
+        "小红书",
+        "RED LAND",
+        "米哈游",
+        "星布谷地"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 17,
+      "title": "重庆游戏行业，面临转折",
+      "url": "https://news.qq.com/rain/a/20261008A09YXI00",
+      "source": "触乐",
+      "pub_date": "2026-10-08 10:04",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "触乐深度报道重庆游戏行业现状。帕斯亚科技和柚子猫等团队以PC/主机/独立游戏为代表，构建了重庆特色。但重庆面临人才流动、产业生态、资本支持等瓶颈，小游戏产业基地正在发展。文章分析重庆可能形成小游戏与PC/主机两条平行生态，从业者面临工资低、加班等问题。",
+      "tags": [
+        "市场分析",
+        "人物访谈"
+      ],
+      "keywords": [
+        "重庆游戏行业",
+        "帕斯亚科技",
+        "柚子猫",
+        "小游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 9,
+      "title": "Mixtape wins three awards at Australian Game Developer Awards 2026, including GOTY",
+      "url": "https://www.gamesindustry.biz/mixtape-wins-three-awards-at-australian-game-developer-awards-2026-including-goty",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-08 13:58",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "2026年澳大利亚游戏开发者奖揭晓，Beethoven & Dinosaur的《Mixtape》获年度游戏、最佳艺术、最佳音效三项大奖。Tempo Lab Games的《Bits & Bops》获最佳玩法与无障碍奖。Uppercut Games获年度工作室。Riot Games的Tony Albrecht获首届GCAP Legacy Award。",
+      "tags": [
+        "展会活动",
+        "榜单数据"
+      ],
+      "keywords": [
+        "澳大利亚游戏开发者奖",
+        "Mixtape",
+        "Uppercut Games"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 1,
+      "title": "《影之刃零》前瞻：一次相当完备的探索与战斗之旅",
+      "url": "https://news.qq.com/rain/a/20261009A02OPL00",
+      "source": "触乐",
+      "pub_date": "2026-10-09 00:04",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "触乐受邀参加《影之刃零》闭门试玩，体验约5小时，涵盖第一章大地图、隐藏Boss及两个后期Boss。文章认为游戏整体质量令人安心，地图立体性强、支线丰富、战斗机制鼓励进攻，Boss设计各具特色。制作人梁其伟表示游戏结合魂系地图探索与ACT战斗，正式版质量与试玩持平。",
+      "tags": [
+        "新品曝光",
+        "产品复盘"
+      ],
+      "keywords": [
+        "影之刃零",
+        "灵游坊",
+        "梁其伟"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 5,
+      "title": "MMO又伟大了？《永恒之塔2》Steam爆红 40万人在线，“最小C杯”老外震惊",
+      "url": "https://news.qq.com/rain/a/20261008A0CKM600",
+      "source": "GameLook",
+      "pub_date": "2026-10-08 15:38",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "NCsoft《永恒之塔2》国际服10月5日上线，Steam最高在线39.8万，登顶全球畅销榜，成为Steam最火新游戏。游戏角色DIY系统引发热议，但付费机制仍受争议，Steam好评率64%。文章分析韩国MMO在欧美市场迎来高光期，但长期留存存疑，并探讨中国公司是否应跟进西幻MMO。",
+      "tags": [
+        "产品复盘",
+        "出海",
+        "市场分析"
+      ],
+      "keywords": [
+        "永恒之塔2",
+        "NCsoft",
+        "Steam",
+        "MMO"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 6,
+      "title": "独游《艾希:续》众筹、玩家疯狂充值3000万，制作人：“这辈子都不敢众筹了”！",
+      "url": "https://news.qq.com/rain/a/20261008A0CKM500",
+      "source": "GameLook",
+      "pub_date": "2026-10-08 15:38",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "国产独游《艾希：续》10月1日开启众筹，目标1万元，首日破500万，3天破2000万，截止完稿超3000万元，参与人数超20万。制作人老马直播下跪求玩家不要造神，表示这辈子不敢众筹。游戏预计明年5月1日发布，团队仅6人，众筹资金将用于周边制作和部分内容扩充。",
+      "tags": [
+        "产品复盘",
+        "市场分析"
+      ],
+      "keywords": [
+        "艾希：续",
+        "众筹",
+        "老马",
+        "独立游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 20,
+      "title": "[F2P Mobile] Investigating the Collapse of Mobile MMORPGs",
+      "url": "https://naavik.co/f2p-mobile/investigating-the-collapse-of-mobile-mmorpgs/",
+      "source": "Naavik Digest",
+      "pub_date": "2026-10-08 05:57",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "Naavik分析移动MMORPG子品类崩溃：2021年至2025年IAP收入从53亿美元降至28亿美元，下降47%，下载量从3.45亿降至2.06亿，下降40%。崩溃集中在亚洲市场，中国收入下降61%，韩国下降39%。腾讯、网易、NCSOFT等头部发行商损失惨重。原因包括玩家参与疲劳、付费疲劳、玩法同质化，以及开放世界冒险RPG（如原神）的崛起。文章认为MMORPG的衰落是结构性的，恢复可能性渺茫。",
+      "tags": [
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "移动MMORPG",
+        "Sensor Tower",
+        "腾讯",
+        "网易"
+      ],
+      "importance": 5
+    },
+    {
+      "id": 10,
+      "title": "\"A creative idea can save more money than AI can right now\" – Glen Schofield on his retirement, Callisto Protocol's development, and the state of AAA",
+      "url": "https://www.gamesindustry.biz/a-creative-idea-can-save-more-money-than-ai-can-right-now-glen-schofield-on-his-retirement-callisto-protocols-development-and-the-state-of-aaa",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-08 13:30",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "Glen Schofield退休后接受采访，回顾《木卫四协议》开发历程。他批评Krafton在COVID期间强制提前发售，导致内容削减；称Krafton认为游戏完全失败，但团队通过86个补丁修复。他还谈到对远程工作的不满、AI工具的看法，以及AAA游戏现状。",
+      "tags": [
+        "人物访谈",
+        "产品复盘"
+      ],
+      "keywords": [
+        "Glen Schofield",
+        "木卫四协议",
+        "Krafton",
+        "Striking Distance"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 8,
+      "title": "鸣潮又悄悄干成了一件大事？“鸣”式国风，太对味了",
+      "url": "https://news.qq.com/rain/a/20261008A0CKM100",
+      "source": "GameLook",
+      "pub_date": "2026-10-08 15:38",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《鸣潮》3.7版本及国风联动宣传，强调文化落地与线下活动。",
+      "tags": [
+        "版本更新",
+        "IP联动"
+      ],
+      "keywords": [
+        "鸣潮",
+        "国风",
+        "豫园",
+        "陶陶居"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 21,
+      "title": "独家对话《重返未来：1999》制作人丨最有品味的二游，是怎么赌出来的？",
+      "url": "https://news.qq.com/rain/a/20261008A05L6U00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-08 04:43",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《重返未来：1999》制作人专访，宣传4.0版本及线下音乐会。",
+      "tags": [
+        "版本更新",
+        "人物访谈"
+      ],
+      "keywords": [
+        "重返未来：1999",
+        "深蓝互动",
+        "Hitako"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 12,
+      "title": "Safe In Our World launches Four Billion Players campaign to make mental health support more accessible for gamers",
+      "url": "https://www.gamesindustry.biz/safe-in-our-world-launches-four-billion-players-campaign-to-make-mental-health-support-more-accessible-for-gamers",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-08 13:00",
+      "also_seen_in": [],
+      "module": "other",
+      "summary": "心理健康慈善机构Safe In Our World发起“Four Billion Players”活动，呼吁游戏开发商、发行商和平台为玩家提供心理健康支持，如启动画面、菜单链接等。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "Safe In Our World",
+        "心理健康",
+        "游戏行业"
+      ],
+      "importance": 2
+    }
+  ],
+  "source_stats": {
+    "触乐": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0
+    },
+    "GameLook": {
+      "fetched": 7,
+      "selected": 6,
+      "ad": 1,
+      "merged": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 8,
+      "selected": 8,
+      "ad": 0,
+      "merged": 0
+    },
+    "游戏新知": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0
+    },
+    "Naavik Digest": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0
+    },
+    "游戏葡萄": {
+      "fetched": 1,
+      "selected": 0,
+      "ad": 1,
+      "merged": 0
+    }
+  }
+}
