@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-08T00:51:36+00:00",
+  "updated": "2026-10-09T00:52:31+00:00",
   "days": [
+    {
+      "date": "2026-10-09",
+      "total": 21,
+      "modules": {
+        "rival": 0,
+        "company": 7,
+        "industry": 6,
+        "newgame": 1,
+        "product": 2,
+        "deep": 2,
+        "ad": 2,
+        "other": 1
+      },
+      "headlines": [
+        "[F2P Mobile] Investigating the Collapse of Mobile MMORPGs",
+        "欧盟对9家游戏大厂执法行动，遭集体抵制：Supercell,拳头,育碧,King在列",
+        "又一大佬入局！谷歌与Unity推出AI游戏研发平台，“一句话生成游戏”",
+        "NBA 2K27 tops US August charts, becomes third-best selling game of 2026 | US Monthly Charts",
+        "Xbox announces new XP division to deliver transmedia spinoffs including film, TV, and theme parks"
+      ]
+    },
     {
       "date": "2026-10-08",
       "total": 13,
