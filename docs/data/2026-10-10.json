@@ -1,0 +1,451 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T00:52:16+00:00",
+  "model": "deepseek-v4-pro",
+  "total": 19,
+  "modules": {
+    "rival": 1,
+    "company": 6,
+    "industry": 5,
+    "newgame": 3,
+    "product": 3,
+    "deep": 1,
+    "ad": 0,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 5,
+      "reason": "《三角洲行动》DAU破5800万，海外搜打撤集体遇冷，凸显腾讯长线运营能力。"
+    },
+    {
+      "id": 1,
+      "reason": "育碧停运《彩虹六号手游》，运营不足8个月，腾讯国服《彩虹六号：攻势》待发。"
+    },
+    {
+      "id": 3,
+      "reason": "网易清仓日本投资，草蜢独立，六年布局基本结束，出海战略转向发行。"
+    },
+    {
+      "id": 9,
+      "reason": "Gravity Well裁员超40人，Ninja Theory关闭协商，3A高投入项目资本遇冷。"
+    },
+    {
+      "id": 15,
+      "reason": "Meta限制字节系广告投放，或影响游戏买量，涉及7国主要社交平台。"
+    }
+  ],
+  "items": [
+    {
+      "id": 5,
+      "title": "DAU破5800万！海外搜打撤集体翻车，《三角洲》却杀疯了？",
+      "url": "https://news.qq.com/rain/a/20261009A0DE3300",
+      "source": "GameLook",
+      "pub_date": "2026-10-09 15:58",
+      "also_seen_in": [],
+      "module": "rival",
+      "summary": "《三角洲行动》国服DAU突破5800万，较3月增长800万。游戏两年11个赛季，内容更新密集，电竞与直播生态成熟。海外搜打撤赛道集体遇冷：PUBG黑域撤离取消开发，Arc Raiders在线人数大幅下滑，塔科夫、马拉松转向PVE。",
+      "tags": [
+        "产品复盘",
+        "电竞"
+      ],
+      "keywords": [
+        "三角洲行动",
+        "腾讯",
+        "搜打撤"
+      ],
+      "importance": 5
+    },
+    {
+      "id": 3,
+      "title": "网易再次清理日本投资：与草蜢工作室和平分手，须田刚一官宣独立",
+      "url": "https://news.qq.com/rain/a/20261009A0DE3C00",
+      "source": "GameLook",
+      "pub_date": "2026-10-09 15:58",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "草蜢工作室与网易和平分手，10月1日起独立。网易自2020年起在日本投资的多家工作室已基本清仓，包括樱花工作室、名越工作室、Pin Cool、Studio AuKnow等，仅GPTRACK50留在体系内。网易日本发行与运营不受影响，《无限大》2027年1月15日全球发售。",
+      "tags": [
+        "人事变动",
+        "出海"
+      ],
+      "keywords": [
+        "网易",
+        "草蜢工作室",
+        "须田刚一"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 9,
+      "title": "明星老兵断粮，微软第一方卖身失败：资本不再偏爱大作",
+      "url": "https://news.qq.com/rain/a/20261009A0BESF00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-09 11:47",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "前Respawn老兵创立的Gravity Well因融资中断裁员超40人，首款游戏未公布。微软旗下Ninja Theory因出售谈判失败启动关闭协商与裁员，其新作《塞娜》命运未卜。两起事件反映3A高投入项目在资本收紧周期不受青睐。",
+      "tags": [
+        "裁员",
+        "融资"
+      ],
+      "keywords": [
+        "Gravity Well",
+        "Ninja Theory",
+        "微软"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 7,
+      "title": "Undead Labs boss \"reluctant to share\" number affected by layoffs: \"I would hate to reduce the impact to those individuals to a number or statistic\"",
+      "url": "https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-09 13:58",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Undead Labs从Xbox独立后成为员工持股工作室，负责人Philip Holt拒绝透露裁员人数，称不愿将影响简化为数字。工作室通过管理层收购实现独立，微软认为这是好主意。Xbox重组中，Compulsion Games和Double Fine已独立，Arkane Lyon仍在协商，Ninja Theory面临关闭。",
+      "tags": [
+        "裁员",
+        "人事变动"
+      ],
+      "keywords": [
+        "Undead Labs",
+        "微软",
+        "Xbox"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 8,
+      "title": "Paramount Pictures adapting live-action movie set in Cyberpunk 2077 universe, co-produced by CD Projekt Red",
+      "url": "https://www.gamesindustry.biz/paramount-pictures-adapting-live-action-movie-set-in-cyberpunk-2077-universe-co-produced-by-cd-projekt-red",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-09 12:54",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "派拉蒙影业将改编《赛博朋克2077》真人电影，CDPR联合制作。CDPR目前专注《巫师4》，波士顿工作室已开始《赛博朋克2077》续作。游戏改编影视对IP带动效应显著，如《生化危机》电影提升玩家参与度50%。",
+      "tags": [
+        "IP联动"
+      ],
+      "keywords": [
+        "CDPR",
+        "派拉蒙",
+        "赛博朋克2077"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 13,
+      "title": "Sony agrees to transfer over 400 global VR patents to Meta following December 2025 agreement",
+      "url": "https://www.gamesindustry.biz/sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-following-december-2025-agreement",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-09 10:50",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "索尼同意向Meta转让419项全球VR专利，其中180项在美国申请。索尼PSVR2销量60万台，但公司决定收缩VR业务，将缺席CES 2027。Meta Reality Labs亏损严重，已裁员并关闭多家VR工作室，转向VR眼镜。",
+      "tags": [
+        "硬件平台",
+        "并购"
+      ],
+      "keywords": [
+        "索尼",
+        "Meta",
+        "VR"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 18,
+      "title": "Avalanche Studio Group to globally publish, market, and distribute titles from Supermassive Games",
+      "url": "https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-09 08:51",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Nordisk Games旗下Avalanche Studios Group与Supermassive Games达成发行协议，Avalanche将全球发行Supermassive游戏，从《Directive 8020》开始。双方保持创意独立，共享运营支持。两家工作室近年均有裁员。",
+      "tags": [],
+      "keywords": [
+        "Avalanche",
+        "Supermassive",
+        "Nordisk Games"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "Meta限制字节系产品商业营销，可能影响买量投放",
+      "url": "https://news.qq.com/rain/a/20261009A0AE2Y00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-09 10:05",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Meta于10月8日禁止字节跳动及其产品在Facebook、Instagram等平台投放广告，涉及美国、加拿大等7国。此举可能影响游戏公司买量投放，尤其是带抖音/TikTok链接的广告。",
+      "tags": [
+        "政策监管",
+        "市场分析"
+      ],
+      "keywords": [
+        "Meta",
+        "字节跳动",
+        "买量"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 10,
+      "title": "独游开发者复盘：Steam 56万美元总流水，最终仅到手7.3万美元",
+      "url": "https://news.qq.com/rain/a/20261009A0BES900",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-09 11:47",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "独立开发者Omer复盘：两款游戏Steam总流水56万美元，扣除退款、平台分成、发行商抽成、税费后，个人到手仅7.3万美元。其中国区退款率22%引发争议。文章引发对独游收入分配、平台抽成和发行商价值的讨论。",
+      "tags": [
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "独立游戏",
+        "Steam",
+        "发行商"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 11,
+      "title": "10月新游清单来了！《剑侠世界4》《影之刃零》《霓虹深渊2》你选谁？",
+      "url": "https://news.qq.com/rain/a/20261009A0BES700",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-09 11:47",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "10月预计28款新游上线，10款产品测试。重点产品包括《剑侠世界4：无限》《影之刃零》《霓虹深渊2》《失落城堡2》等。测试产品聚焦开放世界、MMO与硬核生存，如《异人之下》《七界梦谭》《危机曙光》。",
+      "tags": [
+        "新品定档",
+        "市场分析"
+      ],
+      "keywords": [
+        "新游",
+        "10月",
+        "西山居"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 12,
+      "title": "Video games aren't the enemy of kids' mental health – ignoring them is | Opinion",
+      "url": "https://www.gamesindustry.biz/video-games-arent-the-enemy-of-kids-mental-health-ignoring-them-is-opinion",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-09 11:01",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Safe In Our World慈善总监撰文指出，游戏并非青少年心理健康问题的元凶，忽视游戏中的积极体验才是风险。游戏可为社交焦虑、ADHD青少年提供归属感和能力感，家长应通过好奇和参与而非禁令来引导。",
+      "tags": [
+        "市场分析",
+        "政策监管"
+      ],
+      "keywords": [
+        "心理健康",
+        "青少年",
+        "游戏"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 14,
+      "title": "为什么草莓音乐节会做一场游戏展？",
+      "url": "https://news.qq.com/rain/a/20261009A0ALRE00",
+      "source": "触乐",
+      "pub_date": "2026-10-09 10:24",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "摩登天空旗下Game House联合好游快爆在草莓音乐节设置游戏展区，试玩《雾海之下》《归环》等游戏。活动面向泛娱乐用户，三天流量接近大型展会。摩登天空借此切入游戏行业，探索音乐与游戏跨界合作。",
+      "tags": [
+        "展会活动",
+        "市场分析"
+      ],
+      "keywords": [
+        "摩登天空",
+        "草莓音乐节",
+        "好游快爆"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 20,
+      "title": "对话网易首曝FPS新作制作人：95分才能上牌桌，我们想做下一代3A",
+      "url": "https://news.qq.com/rain/a/20261009A04MVH00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-09 02:58",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "网易荒野事业部首曝射击新作《极限战场》，采用英雄+战术竞技玩法，80人大战场，使用弥赛亚引擎，主打高品质射击体验。制作人表示当前版本85分，目标95分，10月15日开启首测。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "网易",
+        "极限战场",
+        "战术竞技"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 16,
+      "title": "中国独游加入「3i计划」第四季，一款虚幻五心理恐怖游戏",
+      "url": "https://news.qq.com/rain/a/20261009A0AE2L00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-09 10:05",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "中国独立游戏《叫魂》在3i计划第四季发布会亮相，是唯一中国独游。游戏为虚幻5心理恐怖题材，融合中国传统文化元素，由上海子时熄灯工作室开发，暂定2027年发售。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "叫魂",
+        "3i计划",
+        "独立游戏"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 17,
+      "title": "前米哈游产品经理创业，做了一款友尽版大富翁？",
+      "url": "https://news.qq.com/rain/a/20261009A0AE2D00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-09 10:05",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "前米哈游产品经理Andy创立上海麦思阿噗，开发大富翁题材独立游戏《Cycho》。游戏支持2v2v2对战，强调博弈和友尽元素，预计2026年Q4上线。目前热度一般，美术有AI参与痕迹。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "Cycho",
+        "米哈游",
+        "独立游戏"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 1,
+      "title": "育碧哭了！发布仅8个月《彩虹六号手游》海外停运，腾讯《彩六:围攻》待发",
+      "url": "https://news.qq.com/rain/a/20261009A0DE3G00",
+      "source": "GameLook",
+      "pub_date": "2026-10-09 15:58",
+      "also_seen_in": [
+        "GamesIndustry.biz"
+      ],
+      "module": "product",
+      "summary": "育碧宣布《彩虹六号手游》国际服将于2027年1月15日停运，该游戏2026年2月23日全球上线，运营不足8个月。官方称团队将转向其他长期战略项目。腾讯持有该游戏多端版号但国服未上线；腾讯与育碧合资的Vantage Studios负责《彩虹六号：攻势》国服，已进行两轮测试，上线在即。",
+      "tags": [
+        "关服停运",
+        "出海"
+      ],
+      "keywords": [
+        "育碧",
+        "腾讯",
+        "彩虹六号手游"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 2,
+      "title": "战棋卡牌小游戏新爆款？《精英军团》空降微信畅销榜Top 20！",
+      "url": "https://news.qq.com/rain/a/20261009A0DE3E00",
+      "source": "GameLook",
+      "pub_date": "2026-10-09 15:58",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "南京圆融网络发行的战棋卡牌小游戏《精英军团》国庆期间上线微信小游戏平台，稳定在畅销榜Top 20，最高进入前十。游戏采用红警题材，融合内购与激励广告，战斗自动进行，养成体系丰富。",
+      "tags": [
+        "小游戏",
+        "产品复盘"
+      ],
+      "keywords": [
+        "精英军团",
+        "微信小游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 4,
+      "title": "末法时代的MMO：郭炜炜离场,《剑侠世界4：无限》发“小作文”下周拼命！",
+      "url": "https://news.qq.com/rain/a/20261009A0DE3700",
+      "source": "GameLook",
+      "pub_date": "2026-10-09 15:58",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《剑侠世界4：无限》定档10月15日公测，官网预约960万。项目组发布长文回应商业化与玩法质疑，强调自由交易、大型GVG、万人服务器，定位纯血MMO。文章还梳理了MMO赛道“小作文”营销现象。",
+      "tags": [
+        "新品定档",
+        "产品复盘"
+      ],
+      "keywords": [
+        "西山居",
+        "剑侠世界4"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 6,
+      "title": "This should be game streaming’s moment. It's not | Opinion",
+      "url": "https://www.gamesindustry.biz/this-should-be-game-streamings-moment-its-not-opinion",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-09 15:42",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "GTA6发售在即，主机硬件涨价缺货，本应是云游戏突破良机，但市场反应冷淡。Xbox云游戏独占传闻被否认，且PC端无法串流，削弱云游戏吸引力。微软限制Game Pass云游戏时长，数据中心转向AI业务，云游戏商业模式难以为继。",
+      "tags": [
+        "市场分析",
+        "硬件平台"
+      ],
+      "keywords": [
+        "云游戏",
+        "GTA6",
+        "Xbox"
+      ],
+      "importance": 3
+    }
+  ],
+  "source_stats": {
+    "GameLook": {
+      "fetched": 5,
+      "selected": 5,
+      "ad": 0,
+      "merged": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 7,
+      "selected": 6,
+      "ad": 0,
+      "merged": 1
+    },
+    "游戏陀螺": {
+      "fetched": 3,
+      "selected": 3,
+      "ad": 0,
+      "merged": 0
+    },
+    "触乐": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0
+    },
+    "游戏新知": {
+      "fetched": 3,
+      "selected": 3,
+      "ad": 0,
+      "merged": 0
+    },
+    "游戏葡萄": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0
+    }
+  }
+}
