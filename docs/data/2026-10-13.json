@@ -1,0 +1,508 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T00:52:26+00:00",
+  "model": "deepseek-v4-pro",
+  "total": 22,
+  "modules": {
+    "rival": 0,
+    "company": 8,
+    "industry": 6,
+    "newgame": 1,
+    "product": 3,
+    "deep": 1,
+    "ad": 1,
+    "other": 2
+  },
+  "headlines": [
+    {
+      "id": 1,
+      "reason": "苹果发布中国特供报告，强调iOS生态4万亿规模并点名米哈游、网易DTC支付，监管压力下主动示好。"
+    },
+    {
+      "id": 2,
+      "reason": "Epic Games推迟迪士尼游戏并要求开发者转向AI优先，内部邮件称不再手写代码，行业AI应用争议加剧。"
+    },
+    {
+      "id": 7,
+      "reason": "Q3游戏并购总额578亿美元，EA 550亿杠杆收购完成，亚洲交易活跃，行业整合加速。"
+    },
+    {
+      "id": 11,
+      "reason": "腾讯魔方《火影忍者》手游宣布出海，国际服计划公布，魔方三款产品齐发迎来赛点。"
+    },
+    {
+      "id": 15,
+      "reason": "GTA6泄露组织威胁放出完整游戏构建，Take-Two紧急发传票，Rockstar回应称泄露令人心碎。"
+    }
+  ],
+  "items": [
+    {
+      "id": 2,
+      "title": "Epic Games delays Disney game and tells developers to go \"AI first\"",
+      "url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-12 19:54",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Epic Games推迟与迪士尼合作的射击游戏（原定3月），并告知开发者转向“AI优先”生产模式，要求使用Anthropic Claude等AI工具，内部邮件称“不再手写代码”，所有美术将用AI工作流生成。部分开发者感到震惊，项目进度落后部分因Epic误判人员和时间需求。迪士尼2024年向Epic投资15亿美元并持股，该游戏是双方合作的首款产品。Epic今年3月已裁员1000人。",
+      "tags": [
+        "技术AI",
+        "人事变动"
+      ],
+      "keywords": [
+        "Epic Games",
+        "迪士尼",
+        "AI"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 11,
+      "title": "《火影忍者》官宣出海，老外欢呼“苦等10年”！魔方连出三牌迎来“赛点时刻”？",
+      "url": "https://news.qq.com/rain/a/20261012A0CKPX00",
+      "source": "GameLook",
+      "pub_date": "2026-10-12 15:56",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "腾讯魔方工作室宣布《火影忍者》手游将推出国际服，作为“PROJECT: RASENGAN”三年计划的一部分。该游戏国服已运营十年，海外玩家期待已久。魔方今年还推出了《洛克王国：世界》（用户超3000万，将出海）和定档12月的《异人之下》（预约3400万）。文章认为魔方迎来“赛点时刻”，并分析万代授权国际服的原因。",
+      "tags": [
+        "出海",
+        "新品定档"
+      ],
+      "keywords": [
+        "腾讯",
+        "魔方",
+        "火影忍者",
+        "洛克王国"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 15,
+      "title": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode",
+      "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-12 10:32",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "泄露GTA6内容的组织CyberLeek威胁若其迷因币市值达3000万美元将放出完整游戏构建（含故事模式和结局）。此前已泄露24分钟实机、过场和故事细节。Take-Two已向微软、Discord和X发出传票要求提供侵权者身份。Rockstar回应称泄露令人心碎，希望玩家等待11月19日正式发售。",
+      "tags": [
+        "法律诉讼",
+        "政策监管"
+      ],
+      "keywords": [
+        "GTA6",
+        "Take-Two",
+        "Rockstar"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 20,
+      "title": "离开米哈游，他做起AI虚拟偶像，拿下超千万美元融资",
+      "url": "https://news.qq.com/rain/a/20261012A070NF00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-12 09:47",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "前米哈游“逆熵”团队负责人邢骏创立的半图科技完成超千万美元融资，用于人类行为模型研发等。公司产品为AI虚拟偶像互动养成游戏《代号Live》，主角Ria由AI驱动。9月测试次日留存72%，5日留存57%，人均每日AI互动近200次。半图已积累50万小时级行为数据，并对外提供视频转3D动画等技术服务。",
+      "tags": [
+        "融资",
+        "技术AI"
+      ],
+      "keywords": [
+        "半图科技",
+        "邢骏",
+        "代号Live",
+        "AI虚拟偶像"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 4,
+      "title": "Discord protection bot Double Counter hit by breach exposing around 1 million email addresses",
+      "url": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-12 18:46",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Discord第三方防护机器人Double Counter遭数据泄露，约100万邮箱地址及2800万Discord ID和用户名、2700万IP地址被部分复制。攻击者利用旧服务器上公开分析工具的漏洞获取云凭证，访问近6小时，并用窃取的机器人令牌在约50个大型服务器发布恶意链接。Discord回应称非Discord自身泄露，已禁用该应用新安装。Double Counter已向法国CNIL报告。",
+      "tags": [
+        "法律诉讼",
+        "政策监管"
+      ],
+      "keywords": [
+        "Discord",
+        "Double Counter",
+        "数据泄露"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 5,
+      "title": "Nintendo's Latin America VP says there are no plans to ditch physical games",
+      "url": "https://www.gamesindustry.biz/nintendos-latin-america-vp-says-there-are-no-plans-to-ditch-physical-games",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-12 17:58",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "任天堂拉丁美洲副总裁Bill van Zyll表示任天堂没有放弃实体游戏的计划，公司对实体和数字发行持不可知论态度，以消费者偏好为导向。他指出Switch 2发售仅一年多，同时支持实体和数字。此前索尼宣布2028年1月起停止生产所有新PS游戏的实体光盘。",
+      "tags": [
+        "硬件平台",
+        "市场分析"
+      ],
+      "keywords": [
+        "任天堂",
+        "Switch 2",
+        "实体游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 9,
+      "title": "电魂网络实控人夫妻离婚，胡建平前妻陈芳成为公司法人和总经理！",
+      "url": "https://news.qq.com/rain/a/20261012A0CKQD00",
+      "source": "GameLook",
+      "pub_date": "2026-10-12 15:56",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "电魂网络实控人胡建平与陈芳离婚，胡建平将728.29万股（占总股本3%）过户给陈芳，市值近1亿元。双方签署36个月一致行动协议，合计控制16.56%股份，实际控制权未变。10月9日股东会通过陈芳担任法定代表人。公司2025年营收3.85亿元同比下滑30.08%，净亏损2.14亿元；2026上半年营收1.83亿元，亏损扩大至5877.37万元。公司寄望自研《修仙时代》成为第二增长曲线。",
+      "tags": [
+        "人事变动",
+        "财报业绩"
+      ],
+      "keywords": [
+        "电魂网络",
+        "胡建平",
+        "陈芳"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 21,
+      "title": "Jobs roundup: October | Playstack CEO Harvey Elliott voted chair of UKIE",
+      "url": "https://www.gamesindustry.biz/jobs-roundup-october-playstack-ceo-harvey-elliott-voted-in-as-char-of-ukie",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-12 08:33",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "游戏行业人事变动汇总：Playstack CEO Harvey Elliott当选UKIE主席；Ben Smith加入索尼互动担任游戏营销专员；Jesse Kroon晋升为Scopely《Monopoly Go》首席游戏设计师；Alice Terrett加入Behaviour Interactive；Steel City Interactive任命Murray Pannell为发行主管；CD Projekt Red晋升Michał Platkow-Gilewski为全球传播与营销副总裁等。",
+      "tags": [
+        "人事变动"
+      ],
+      "keywords": [
+        "Playstack",
+        "UKIE",
+        "索尼",
+        "Scopely"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 1,
+      "title": "苹果慌了？拉反垄断专家写中国报告邀功，米哈游等成“官网充值”案例",
+      "url": "https://news.qq.com/rain/a/20261012A0CKPT00",
+      "source": "GameLook",
+      "pub_date": "2026-10-12 23:25",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "苹果10月8日发布中国特供版《中国App Store生态系统——2025年开发者与用户价值研究》，由反垄断专家居恒等撰写，强调中国iOS生态年交易额约4万亿元，其中仅不到5%来自数字商品抽成，并点名米哈游、网易通过DTC网页商店绕过苹果支付。报告称中国开发者52%的App Store收入来自海外，2025年中国APP在全球App Store下载量超100亿次。GameLook认为这是苹果在监管压力下向中国监管方展示生态价值、证明商业合理性的公关文本，中国监管对齐海外只是时间问题。",
+      "tags": [
+        "政策监管",
+        "市场分析"
+      ],
+      "keywords": [
+        "苹果",
+        "米哈游",
+        "网易",
+        "App Store"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 7,
+      "title": "Aream & Co: Games industry M&A generates $57.8 bn in Q3, including EA's $55bn leveraged buyout",
+      "url": "https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-12 16:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "投资银行Aream & Co.报告显示，2026年Q3游戏行业并购交易54笔，总额578亿美元，其中包括EA的550亿美元杠杆收购。内容型并购加速，亚洲交易集中，如阿里巴巴以超15亿美元出售灵犀互娱给Trustar Capital。公开市场收入同比增长122%至13亿美元，私人投资收入增长超3倍至28亿美元。消费端PC收入双位数增长，手游内购收入同比下滑7%至196亿美元，主机收入下滑12%至141亿美元。",
+      "tags": [
+        "并购",
+        "财报业绩",
+        "市场分析"
+      ],
+      "keywords": [
+        "EA",
+        "并购",
+        "Aream & Co."
+      ],
+      "importance": 4
+    },
+    {
+      "id": 19,
+      "title": "4款SLG出海收入暴涨，单品涨幅高至256% | 新品报道",
+      "url": "https://news.qq.com/rain/a/20261012A09SS600",
+      "source": "游戏新知",
+      "pub_date": "2026-10-12 10:30",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "9月海外SLG市场活跃，点点互动《Lordrush》、恶鹅《Top Lords》、益世界《Wild Water World》等新品进入Sensor Tower收入榜。文章详细分析《Top Lords》对《Last War》数字门玩法的迭代，并介绍三七互娱、FunPlus等厂商的SLG新品测试。Sensor Tower数据显示9月海外SLG收入环比下滑4.6%，头部产品收入下滑。国内方面，大梦龙途《向末日开炮》稳定在畅销榜50名左右，拳头、西山居等也在布局SLG。",
+      "tags": [
+        "出海",
+        "市场分析",
+        "榜单数据"
+      ],
+      "keywords": [
+        "SLG",
+        "点点互动",
+        "三七互娱",
+        "Sensor Tower"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 3,
+      "title": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes",
+      "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-12 18:49",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "《勇者斗恶龙》创作者堀井雄二发布了一款文字警察审讯游戏，称用AI约30分钟制作完成。他表示AI让不会画画或编程的人也能独自做出像样的游戏，并类比1983年独自制作《港口镇连续杀人事件》。游戏内容为审讯72岁前锁匠小宫，玩家需在律师到达前用证据戳破谎言。堀井雄二此前曾与Square Enix合作在《勇者斗恶龙X》中加入AI聊天机器人。",
+      "tags": [
+        "技术AI",
+        "人物访谈"
+      ],
+      "keywords": [
+        "堀井雄二",
+        "勇者斗恶龙",
+        "AI"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 6,
+      "title": "Nvidia reportedly ends GeForce RTX 5090 graphics card production",
+      "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-12 16:17",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "据泄露的工厂通知，英伟达已停止生产GeForce RTX 5090（包括中国特供D版），未来最高端GeForce显卡将为RTX 5080 24GB，RTX 5080 16GB也将停产。消息未获英伟达官方确认。行业内存短缺已影响多家硬件厂商，索尼可能因此推迟PS6至2028-2029年。",
+      "tags": [
+        "硬件平台"
+      ],
+      "keywords": [
+        "英伟达",
+        "RTX 5090",
+        "显卡"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 18,
+      "title": "十月Steam新品节试玩游戏超8000款，数量暴涨近3倍",
+      "url": "https://news.qq.com/rain/a/20261012A09SSF00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-12 10:30",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Steam 10月新品节参与游戏超8200款，约为去年同期2.83倍。休闲类占45%，动作类占35%，25%支持多人联机，3937款支持简体中文。AI使用率逐年上升，从2024年10月约14%升至2026年6月超20%。10月11日Steam同时在线人数突破4350万创历史新高。",
+      "tags": [
+        "展会活动",
+        "市场分析"
+      ],
+      "keywords": [
+        "Steam",
+        "新品节"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 17,
+      "title": "网易一款武侠SLG游戏曝光，支持移动和PC双端",
+      "url": "https://news.qq.com/rain/a/20261012A09SSI00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-12 10:30",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "网易武侠SLG《代号：谋略武林》在TapTap开启小规模保密测试招募。玩家扮演掌门人建立门派，含经营、养成、探索玩法。官网仅展示AI生成概念图，开发者称现阶段美术立绘为AI制作，项目处于早期阶段。游戏支持移动和PC双端。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "网易",
+        "代号：谋略武林",
+        "SLG"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 12,
+      "title": "起大风了！虚拟主播手游月收入稳定破亿、成头部二游，下一款是打牌？",
+      "url": "https://news.qq.com/rain/a/20261012A0CKPO00",
+      "source": "GameLook",
+      "pub_date": "2026-10-12 15:56",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "Hololive母公司COVER与QualiArts合作的手游《Hololive Dreams》上线两个多月，日本Q3收入榜排名第五，月收入稳定超亿元（8月约2300万美元）。COVER因此上调半年度营业利润预期81.3%。游戏将音游、养成、乐园建设与多人小游戏结合，并持续更新成员内容。COVER还宣布与Aiming合作开发麻将游戏《Hololive麻将－Holojan－》，年内推出。文章认为虚拟主播公司正从宣发预算领取者变为游戏生意共同经营者，国内B站或跟进。",
+      "tags": [
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "Hololive",
+        "COVER",
+        "虚拟主播"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 13,
+      "title": "The happiest man in gaming hates generative AI",
+      "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-12 13:11",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《矮人要塞》创作者Tarn Adams在访谈中表达对生成式AI的厌恶，认为AI代码臃肿，且担心平台强制使用AI。他透露游戏Steam版销量已超100万份，团队约15人。新更新加入程序化魔法系统，并开放Lua脚本供Mod作者修改。玩家社区已创造出吸血鬼驱动的计算机等奇特Mod。",
+      "tags": [
+        "人物访谈",
+        "技术AI"
+      ],
+      "keywords": [
+        "矮人要塞",
+        "Tarn Adams",
+        "AI"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 16,
+      "title": "腾讯代理发行的《全境封锁2》停运，仅运营3年时间",
+      "url": "https://news.qq.com/rain/a/20261012A09SSO00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-12 10:30",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "腾讯代理发行的《全境封锁2》国服宣布2026年12月14日停运，运营约3年。官方称因业务发展策略变更，与开发商友好协商。玩家可领取补偿礼包。育碧另一射击游戏《彩虹六号》手游国际服也于10月8日宣布2027年1月停运。育碧2025-26财年亏损约13.2亿欧元。",
+      "tags": [
+        "关服停运"
+      ],
+      "keywords": [
+        "全境封锁2",
+        "腾讯",
+        "育碧"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 10,
+      "title": "分析：三消游戏的成功秘诀是“不创新”，创新关卡反而让玩家离开？",
+      "url": "https://news.qq.com/rain/a/20261012A0CKQ600",
+      "source": "GameLook",
+      "pub_date": "2026-10-12 15:56",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "Naavik分析认为，三消游戏的成功秘诀并非“创新关卡”，强制创新关卡反而会疏远大众市场。文章区分了可跳过的噩梦关卡与强制创新关卡，指出强制创新关卡增加认知摩擦，破坏休闲玩家的“第二屏幕”体验。以《Royal Kingdom》《Match Villains》《Pet Panic》等为例，这些产品均未成功放量。文章认为《Royal Match》通过精简目标、降低认知摩擦实现“与玩家对齐的创新”，未来三消爆款将属于掌握这一原则的工作室。",
+      "tags": [
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "三消游戏",
+        "Royal Match",
+        "Naavik"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 14,
+      "title": "AI漫剧之后最大风口：零基础，6人爆肝4个月，做出赛道No.1产品",
+      "url": "https://news.qq.com/rain/a/20261012A09W4N00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-12 10:42",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "AI互动影游《幸存者笔记》专访：6人团队4个月完成12小时流程，Steam好评率88%，号称赛道收入第一。",
+      "tags": [
+        "技术AI"
+      ],
+      "keywords": [
+        "幸存者笔记",
+        "AI互动影游"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 8,
+      "title": "Game Developer veteran Chris Kerr launches Vertical Slice, a games publication \"giving workers a voice and holding power to account\"",
+      "url": "https://www.gamesindustry.biz/game-developer-veteran-chris-kerr-launches-vertical-slice-a-games-publication-giving-workers-a-voice-and-holding-power-to-account",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-12 15:57",
+      "also_seen_in": [],
+      "module": "other",
+      "summary": "前Game Developer资深编辑Chris Kerr创办订阅制游戏媒体Vertical Slice，旨在为开发者提供独立报道，并免费提供设计文档库The Repository。订阅价每月7.45英镑起，目标500名月订户。Kerr表示将坚持编辑独立，不接受广告。",
+      "tags": [
+        "人物访谈"
+      ],
+      "keywords": [
+        "Chris Kerr",
+        "Vertical Slice"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 22,
+      "title": "BAFTA awards over £270,000 to 112 recipients in UK and US to support career growth in games, film, and TV",
+      "url": "https://www.gamesindustry.biz/bafta-awards-over-270000-to-112-recipients-in-uk-and-us-to-support-career-growth-in-games-film-and-tv",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-12 08:00",
+      "also_seen_in": [],
+      "module": "other",
+      "summary": "BAFTA通过2026年威廉王子奖学金和助学金项目向112名游戏、影视领域新兴创作者发放超27万英镑资助。助学金支持100人，每人最高2000英镑；英国奖学金最高12000英镑，美国最高60000美元。",
+      "tags": [
+        "政策监管"
+      ],
+      "keywords": [
+        "BAFTA",
+        "奖学金"
+      ],
+      "importance": 2
+    }
+  ],
+  "source_stats": {
+    "GameLook": {
+      "fetched": 5,
+      "selected": 5,
+      "ad": 0,
+      "merged": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 11,
+      "selected": 11,
+      "ad": 0,
+      "merged": 0
+    },
+    "游戏陀螺": {
+      "fetched": 1,
+      "selected": 0,
+      "ad": 1,
+      "merged": 0
+    },
+    "游戏新知": {
+      "fetched": 4,
+      "selected": 4,
+      "ad": 0,
+      "merged": 0
+    },
+    "游戏葡萄": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0
+    }
+  }
+}
