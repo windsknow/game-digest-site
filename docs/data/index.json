@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-12T00:51:47+00:00",
+  "updated": "2026-10-13T00:52:28+00:00",
   "days": [
+    {
+      "date": "2026-10-13",
+      "total": 22,
+      "modules": {
+        "rival": 0,
+        "company": 8,
+        "industry": 6,
+        "newgame": 1,
+        "product": 3,
+        "deep": 1,
+        "ad": 1,
+        "other": 2
+      },
+      "headlines": [
+        "苹果慌了？拉反垄断专家写中国报告邀功，米哈游等成“官网充值”案例",
+        "Epic Games delays Disney game and tells developers to go \"AI first\"",
+        "Aream & Co: Games industry M&A generates $57.8 bn in Q3, including EA's $55bn leveraged buyout",
+        "《火影忍者》官宣出海，老外欢呼“苦等10年”！魔方连出三牌迎来“赛点时刻”？",
+        "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode"
+      ]
+    },
     {
       "date": "2026-10-12",
       "total": 11,
