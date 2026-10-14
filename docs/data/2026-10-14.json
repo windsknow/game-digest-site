@@ -1,0 +1,419 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T00:52:52+00:00",
+  "model": "deepseek-v4-pro",
+  "total": 17,
+  "modules": {
+    "rival": 0,
+    "company": 3,
+    "industry": 13,
+    "newgame": 0,
+    "product": 0,
+    "deep": 0,
+    "ad": 1,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 2,
+      "reason": "网络游戏首次纳入国家五年规划，版号常态化与精品工程、出海战略明确，上半年游戏收入1884.5亿元。"
+    },
+    {
+      "id": 4,
+      "reason": "Epic与迪士尼合作大作转向AI优先开发，此前裁员20%，玩家反应负面，反映AI对3A开发的冲击。"
+    },
+    {
+      "id": 14,
+      "reason": "Q3移动游戏收入下滑7%，新游无一进入全球收入榜，PC与AI投资成亮点，行业格局生变。"
+    },
+    {
+      "id": 12,
+      "reason": "香港游戏机厂商Nex融资1.5亿美元、估值近10亿，销量破百万台，主机赛道出现新独角兽。"
+    }
+  ],
+  "items": [
+    {
+      "id": 4,
+      "title": "Epic与迪士尼IP大作延期：“要求员工只能用AI写代码、搞美术”，引爆全球玩家非议",
+      "url": "https://news.qq.com/rain/a/20261014A0024X00",
+      "source": "GameLook",
+      "pub_date": "2026-10-13 16:01",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "据彭博社报道，Epic Games与迪士尼合作的星战漫威射击新作因开发进度不足延期，项目负责人要求团队转向“AI优先”模式：代码不再手写，美术素材用完整AI工作流生成。此前Epic于2026年3月裁员约1000人（占20%），《堡垒之夜》用户参与度下滑近30%。玩家对此反应负面，Reddit高赞评论表示不会购买。Epic确认推进AI辅助开发，但未公布AI占比及发售安排。",
+      "tags": [
+        "技术AI",
+        "人事变动"
+      ],
+      "keywords": [
+        "Epic Games",
+        "迪士尼",
+        "AI开发",
+        "裁员"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 12,
+      "title": "爆卖100万台！他们在北美卖国产游戏机，年入近2亿美金",
+      "url": "https://news.qq.com/rain/a/20261013A0C2X700",
+      "source": "游戏新知",
+      "pub_date": "2026-10-13 11:45",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "香港游戏机厂商Nex完成超1.5亿美元融资，估值近10亿美元。其产品Nex Playground是一款面向家庭和儿童的体感游戏机，累计销量超100万台，订阅用户近100万，公司营收从300万美元增长至近2亿美元。Nex由前苹果员工创立，从篮球训练APP转型而来，采用硬件+订阅模式，通过IP授权和线下零售渠道成功切入市场。公司计划拓展欧洲和亚洲市场。",
+      "tags": [
+        "融资",
+        "硬件平台"
+      ],
+      "keywords": [
+        "Nex",
+        "Nex Playground",
+        "游戏机"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 1,
+      "title": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\"",
+      "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-13 19:00",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Xbox CEO Asha Sharma宣布成立Xbox Labs，一个由内部现有员工组成的小团队，负责快速开发、迭代和测试工具、产品与功能，并以用户反馈衡量成功。该团队无明确AI指令，但将涵盖游戏移植到Apple silicon、浏览器分发（WebGPU）及支持Mod等现有研发项目。此举是Sharma重组Xbox、转向产品导向开发的一部分，此前已关闭多个工作室并裁员数千人。",
+      "tags": [
+        "人事变动",
+        "技术AI"
+      ],
+      "keywords": [
+        "Xbox",
+        "Asha Sharma",
+        "Xbox Labs"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 2,
+      "title": "版署印发《出版业发展“十五五”规划》：网游首次纳入国家五年规划，游戏业迎新风口",
+      "url": "https://news.qq.com/rain/a/20261014A0025T00",
+      "source": "GameLook",
+      "pub_date": "2026-10-13 16:01",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "国家新闻出版署印发《出版业发展“十五五”规划》，网络游戏首次被系统性纳入国家级出版业五年规划框架。规划提出加强优质出版内容版号供给、实施网络出版精品工程、推动网络游戏深耕国际市场。2026年1-7月国内发放游戏版号1147款，7月单月197款创新高；上半年国内游戏市场收入1884.5亿元，同比增长12.17%，自研游戏海外收入123.72亿美元，同比增长30.22%。政策导向从版号常态化转向精品化与出海支持。",
+      "tags": [
+        "政策监管",
+        "出海"
+      ],
+      "keywords": [
+        "版号",
+        "十五五规划",
+        "游戏出海"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 14,
+      "title": "移动游戏收入下滑7%，2026年为何没有一款新作冲进全球收入榜？",
+      "url": "https://news.qq.com/rain/a/20261013A0BLXX00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-13 10:58",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Aream & Co.发布《Video Game Market Update Q3 2026》报告：2026年Q3全球移动游戏内购收入同比下降7%至196亿美元，下载量下降约10%；2026年新游戏无一进入全球收入榜前20，头部产品生命周期延长（65%运营超4年）。中国仍是最大移动游戏市场（年收入255亿美元）。PC游戏收入同比增长14%，独立游戏收入增长20%。Q3游戏行业并购54笔，总额578亿美元（含EA 550亿美元交易），私人投资同比增长超3倍至28亿美元，AI公司融资活跃。",
+      "tags": [
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "移动游戏",
+        "Aream & Co.",
+        "并购",
+        "AI投资"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 5,
+      "title": "韩国游戏大厂“主播充值3亿韩元，游戏干到畅销榜冠军”，被议员批斗“操纵榜单”！",
+      "url": "https://news.qq.com/rain/a/20261014A0024N00",
+      "source": "GameLook",
+      "pub_date": "2026-10-13 16:01",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "韩国网石新作《索尔：附魔》因主播充值争议被议员在国会质询。游戏上线首日登顶双榜，但被曝与数十名主播签订营销合约，主播充值金额巨大（单日约3亿韩元），被质疑操纵畅销榜。韩国游戏用户协会发表声明谴责，议员拟推动修改《游戏产业振兴法》禁止厂商为抬高排名不当购买游戏商品。文化体育观光部承认未调查。文章分析了韩国MMO自充值营销的历史与现状，以及韩国MMO市场收入下滑背景。",
+      "tags": [
+        "政策监管",
+        "市场分析"
+      ],
+      "keywords": [
+        "网石",
+        "索尔：附魔",
+        "韩国游戏",
+        "自充值"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 6,
+      "title": "游族AI红岸实验室余华松：AI Agent如何重构游戏创作与交互？",
+      "url": "https://news.qq.com/rain/a/20261014A0024900",
+      "source": "GameLook",
+      "pub_date": "2026-10-13 16:01",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "游族网络AI创新院红岸实验室负责人余华松在2026中国元宇宙大会上分享AI Agent在游戏领域的应用。游族内部六大场景100多个子场景已实现AI全覆盖。余华松提出AI Agent三大应用方向：多模态内容生成、智能NPC、一键游戏创作，并介绍了五层自动化内容生产系统和多智能体协同研发平台。他认为游戏可成为世界模型的试炼场，AI正从生产工具演变为游戏数字世界的智能体。",
+      "tags": [
+        "技术AI",
+        "人物访谈"
+      ],
+      "keywords": [
+        "游族网络",
+        "AI Agent",
+        "世界模型"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 7,
+      "title": "“打不过G胖就加入”？苹果AppStore迎独立游戏周，全面拥抱PC独游手游版？",
+      "url": "https://news.qq.com/rain/a/20261014A0023U00",
+      "source": "GameLook",
+      "pub_date": "2026-10-13 16:01",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "苹果宣布开启“独立游戏周”，将《师父》《无人深空》等七款PC/主机知名独立游戏移植到iOS。此前苹果3A移植表现不佳（如《生化危机4重制版》iPhone版6个月下载35.7万次、收入20.8万美元）。文章分析苹果封闭生态不适合原生独立游戏孵化，Apple Arcade日渐凋敝，而Steam的去中心化社区模式更适合独立游戏。苹果此举被视为引入外部成功产品，为开发者锦上添花，但难以雪中送炭。",
+      "tags": [
+        "硬件平台",
+        "市场分析"
+      ],
+      "keywords": [
+        "苹果",
+        "独立游戏",
+        "App Store",
+        "Steam"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 9,
+      "title": "用AI做游戏的00后：被压缩的人生时钟",
+      "url": "https://news.qq.com/rain/a/20261013A0CS9F00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-13 12:59",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "游戏葡萄采访19位用AI做游戏的00后开发者，展现年轻一代借助AI工具降低游戏开发门槛的现象。受访者包括高中生、大学生和创业者，他们普遍对AI持乐观态度，认为AI让游戏开发大众化。文章探讨了家庭、学校对年轻开发者的影响，以及AI时代下游戏开发路径的变化，部分年轻人已开始创业或规划职业道路。",
+      "tags": [
+        "技术AI",
+        "人物访谈"
+      ],
+      "keywords": [
+        "AI游戏",
+        "00后开发者",
+        "独立游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 11,
+      "title": "苹果：中国开发者超50%收入来自海外，网易米哈游还成了绕开佣金的案例？",
+      "url": "https://news.qq.com/rain/a/20261013A0C2XD00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-13 11:45",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "苹果发布《中国App Store生态系统——2025年开发者与用户价值研究》报告，显示2025年中国App Store生态系统促成约四万亿元营业额与销售额，较2020年增长一倍以上。中国开发者app占国内下载量93%、收入98%。报告强调超过95%金额不在苹果佣金范围内，并举例网易、米哈游通过官网渠道绕开佣金。苹果已于2026年3月将中国标准佣金率从30%下调至25%。报告点名《我的花园世界》《无尽冬日》《鸣潮》等国产游戏，反映中国游戏厂商议价能力提升。",
+      "tags": [
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "苹果",
+        "App Store",
+        "佣金",
+        "中国游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 13,
+      "title": "A guide to six regulatory risks shaping games in 2026",
+      "url": "https://www.gamesindustry.biz/a-guide-to-six-regulatory-risks-shaping-games-in-2026",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-13 11:25",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Bird & Bird律师事务所发布游戏行业监管风险指南，指出2026年游戏公司面临六大监管风险：欧盟消费者保护合作网络（CPC）对游戏内购的执法、欧盟AI法案对AI生成内容的透明度要求、数字服务法案（DSA）对UGC平台的责任、赌博法规对游戏内经济的影响、欧盟KIDS法案对儿童在线安全的规则，以及数字公平法案（DFA）对游戏内世界的潜在影响。文章建议工作室提前梳理AI功能并评估合规风险。",
+      "tags": [
+        "政策监管",
+        "法律诉讼"
+      ],
+      "keywords": [
+        "欧盟",
+        "游戏监管",
+        "AI法案",
+        "DSA"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "跟风、AI换皮、山寨泛滥：爆款不断的多人小游戏，快被人玩坏了",
+      "url": "https://news.qq.com/rain/a/20261013A0BLX200",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-13 10:58",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "多人联机小游戏爆款频出，但跟风、AI换皮、山寨泛滥。以《Needle in a Haystack Simulator》为例，预告片爆火后Steam上出现十余款仿冒作品。文章分析多人联机游戏成为小团队致富赛道的原因：低价策略、低上手门槛、社交驱动。但赛道竞争加剧、同质化严重，部分产品日活大幅下滑（如《超级高尔夫大乱斗》在线峰值下降超95%），品类正步入深水区。",
+      "tags": [
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "多人联机游戏",
+        "山寨",
+        "Steam",
+        "独立游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 16,
+      "title": "裁员潮下，海外3A开发者挤进独立游戏赛道",
+      "url": "https://news.qq.com/rain/a/20261013A0B4VK00",
+      "source": "触乐",
+      "pub_date": "2026-10-13 10:14",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "触乐编译GamesIndustry.biz文章，报道海外3A开发者因裁员潮涌入独立游戏赛道。以《多元宇宙大乱斗》开发商Player First Games被关闭后，两位开发者创办Airlock Games为例，以及前2K、育碧等公司资深人士创办Big Dumb Games。他们接受收入下降，但获得创作自由和自主权。文章指出2022-2026年全球游戏行业裁员预计超5.8万人，北美3A领域受冲击严重，独立游戏成为许多资深开发者的出路。",
+      "tags": [
+        "裁员",
+        "人物访谈"
+      ],
+      "keywords": [
+        "裁员",
+        "独立游戏",
+        "3A开发者"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 3,
+      "title": "资深程序员老兵：“编程跟画画一样都是艺术”！同行热议：写代码真算么？",
+      "url": "https://news.qq.com/rain/a/20261014A0025G00",
+      "source": "GameLook",
+      "pub_date": "2026-10-13 16:01",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "海外游戏开发者社区热议“编程是否算艺术”及AI代码问题。一位从业近10年的程序员发帖称编程是艺术，并举例Quake引擎的快速平方根倒数算法，引发大量讨论。多数同行认为写代码具有审美体验，但也有人区分艺术与手艺。讨论延伸至AI生成代码与美术的双重标准，部分人指出美术从业者一边反对AI美术一边使用AI写代码的矛盾。文章反映了AI对游戏开发职业认同的冲击。",
+      "tags": [
+        "技术AI",
+        "人物访谈"
+      ],
+      "keywords": [
+        "AI编程",
+        "游戏开发",
+        "程序员"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 10,
+      "title": "\"Years of building, pitching and raising for games made the same failure painful to watch\" – Why GameDataCore wants to find out how players feel",
+      "url": "https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-13 12:30",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "英国初创公司GameDataCore推出面向开发者的Steam评论分析平台，旨在帮助工作室理解玩家真实感受。平台将评论拆分为片段，按主题、情绪、语气和动机分类，并根据玩家资料加权，以区分不同玩家群体的反馈。平台使用欧洲本地LLM模型，注重数据主权和成本一致性。已与24家工作室试点，计划扩展至Discord、Reddit等更多反馈来源，并帮助发现未充分开发的细分市场。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "GameDataCore",
+        "Steam评论",
+        "玩家反馈"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 17,
+      "title": "“巫师”系列制作人与中国策划在一起会聊什么",
+      "url": "https://news.qq.com/rain/a/20261013A047HQ00",
+      "source": "触乐",
+      "pub_date": "2026-10-13 02:04",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "触乐“从业者采访从业者”系列首篇：国内叙事策划采访CDPR《巫师4》关卡设计负责人Miles Tost和Fool's Theory CEO Jakub Rokosz，围绕《巫师3：狂猎—旧时曲》的开发理念展开。访谈涉及世界观构建基于现实、任务设计中的艰难选择、叙事与玩家沉浸感、以及CDPR的迭代开发文化。文章提供了对CDPR开发方法和《巫师》系列设计哲学的深入洞察。",
+      "tags": [
+        "人物访谈",
+        "产品复盘"
+      ],
+      "keywords": [
+        "CDPR",
+        "巫师3",
+        "游戏设计"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 8,
+      "title": "《影之刃零》发售倒计时，对话梁其伟：游戏30小时，让世界记住“中国功夫朋克”",
+      "url": "https://news.qq.com/rain/a/20261014A0023700",
+      "source": "GameLook",
+      "pub_date": "2026-10-13 16:01",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《影之刃零》10月29日发售，制作人梁其伟专访介绍游戏30小时流程、功夫朋克理念及战斗系统。",
+      "tags": [
+        "新品定档"
+      ],
+      "keywords": [
+        "影之刃零",
+        "梁其伟"
+      ],
+      "importance": 1
+    }
+  ],
+  "source_stats": {
+    "GamesIndustry.biz": {
+      "fetched": 3,
+      "selected": 3,
+      "ad": 0,
+      "merged": 0
+    },
+    "GameLook": {
+      "fetched": 7,
+      "selected": 6,
+      "ad": 1,
+      "merged": 0
+    },
+    "游戏葡萄": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0
+    },
+    "游戏新知": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0
+    },
+    "游戏陀螺": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0
+    },
+    "触乐": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0
+    }
+  }
+}
