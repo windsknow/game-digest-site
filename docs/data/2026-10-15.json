@@ -1,0 +1,534 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T05:59:37+00:00",
+  "model": "deepseek-flash",
+  "total": 23,
+  "modules": {
+    "rival": 1,
+    "company": 7,
+    "industry": 9,
+    "newgame": 0,
+    "product": 6,
+    "deep": 0,
+    "ad": 0,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 12,
+      "reason": "《三角洲行动》DAU突破5800万，天美J3复盘共享监狱教训并提出「赢无定义」，是重点竞品的关键方法论输出。"
+    },
+    {
+      "id": 5,
+      "reason": "腾讯旗下Funcom重组只保留《沙丘：觉醒》和《流放者柯南》，CEO年底离职，涉及腾讯工作室组合调整。"
+    },
+    {
+      "id": 22,
+      "reason": "育碧提议关闭RedLynx并裁减新加坡工作室70人，降本计划进入最终阶段，今年已关5家工作室、取消6款游戏。"
+    },
+    {
+      "id": 16,
+      "reason": "冰川网络Q3单季预亏1.07亿至1.52亿元超上半年总和，SLG新品《X-Clash》买量费达其收入137%，买量模式承压。"
+    },
+    {
+      "id": 1,
+      "reason": "莉莉丝《塔塔冒险队》4个月创收4560万美元且收入逆势走高，弹珠机经济中枢设计值得拆解复盘。"
+    }
+  ],
+  "items": [
+    {
+      "id": 12,
+      "title": "对话天美J3总经理和制作人：两年5800万DAU背后，藏着认知的巨变",
+      "url": "https://news.qq.com/rain/a/20261014A0EAMS00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-14 15:03",
+      "also_seen_in": [],
+      "module": "rival",
+      "summary": "《三角洲行动》上线两年DAU突破5800万，天美J3总经理Leo与制作人Shadow复盘「共享监狱」事件：团队承认对分层用户多元需求认知不足，此后产品转向多元化、沙盒化，提出「赢无定义」理念，不再迷信单一科学设计范式，而是为玩家提供土壤让内容自然涌现。文章还谈及用户分层、抽象文化、平台化战略及出海需兼顾熟悉感与陌生感。",
+      "tags": [
+        "产品复盘",
+        "人物访谈",
+        "市场分析"
+      ],
+      "keywords": [
+        "三角洲行动",
+        "天美J3",
+        "腾讯"
+      ],
+      "importance": 5
+    },
+    {
+      "id": 5,
+      "title": "Funcom to lay off staff as it pivots to focusing solely on Conan Exiles and Dune: Awakening",
+      "url": "https://www.gamesindustry.biz/funcom-to-lay-off-staff-as-it-pivots-to-focusing-solely-on-conan-exiles-and-dune-awakening",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-14 16:34",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "腾讯旗下挪威开发商Funcom启动重组，将只专注《沙丘：觉醒》和《流放者柯南》的长期运营，裁员人数未公布。CEO Rui Casais（任职11年、公司22年老将）将于年底离职，由首席产品官Scott Junior接任。此前2025年10月已裁员并关闭瑞典工作室The Outsiders。腾讯近18个月对工作室组合采取更强势态度，已剥离Secret Mode、Splash Damage、Bulkhead等业务。",
+      "tags": [
+        "裁员",
+        "人事变动",
+        "并购"
+      ],
+      "keywords": [
+        "Funcom",
+        "腾讯",
+        "沙丘觉醒"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 10,
+      "title": "库洛首次投资AI公司，整个中国游戏圈都在加注AI？",
+      "url": "https://news.qq.com/rain/a/20261014A0EE7P00",
+      "source": "GameLook",
+      "pub_date": "2026-10-14 15:25",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "库洛首次投资AI公司，以15%持股入股2024年成立的言之域科技（创始人谢伟铎为00后），后者开发AI音频创作平台Vocu悟声和3D AI角色交互模型元语TalkiVerse。文章梳理中国游戏圈AI投资热潮：米哈游持有MiniMax 6.4%股份并宣称三年最多投入1000亿做AI，三七投资月之暗面、百川智能、智谱，巨人投资LiblibAI、爱诗科技、硅基流动，世纪华通投资摩尔线程，完美世界、三七、延趣等参与VAST融资。",
+      "tags": [
+        "融资",
+        "技术AI"
+      ],
+      "keywords": [
+        "库洛",
+        "米哈游",
+        "言之域",
+        "腾讯"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 11,
+      "title": "AI聊天独角兽怎么死的？2000万月活Character.AI巨亏申请破产，28家金主拒收购",
+      "url": "https://news.qq.com/rain/a/20261014A0EE7K00",
+      "source": "GameLook",
+      "pub_date": "2026-10-14 15:25",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "AI聊天独角兽Character.AI于10月12日向特拉华州法院申请破产法第11章保护并启动资产拍卖。公司月活超2000万、累计用户约1.63亿、巅峰估值50亿美元，但FA机构接触28位潜在买家无一愿意收购。主因是「鼓励14岁男孩自杀」等诉讼缠身、监管重压，以及商业化失败（2024年月运营成本约3000万美元，付费订阅用户仅13.9万）。谷歌曾以27亿美元买断技术许可并带走创始人，迪士尼以2000万美元买部分资产并挖走60多人核心团队。",
+      "tags": [
+        "法律诉讼",
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "Character.AI",
+        "谷歌",
+        "迪士尼"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 16,
+      "title": "预亏1.25亿至1.78亿元，冰川网络Q3单季亏损额超上半年",
+      "url": "https://news.qq.com/rain/a/20261014A0DATC00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-14 13:14",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "冰川网络发布2026年前三季度业绩预告，预计归母净利润亏损1.25亿至1.78亿元，同比由盈转亏（上年同期盈利5.02亿元）。Q3单季预计亏损1.07亿至1.52亿元，超过上半年亏损总和。主因是SLG新品《X-Clash》持续大规模买量投放（上半年该产品推广费3.82亿元，占游戏推广总额46.15%，为其当期收入的137.24%），以及《X-hero》《超能世界》等成熟产品流水自然回落。",
+      "tags": [
+        "财报业绩",
+        "出海"
+      ],
+      "keywords": [
+        "冰川网络",
+        "X-Clash",
+        "SLG"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 17,
+      "title": "Rockstar's next game won't take eight years to make: \"The engine, the tools and the team we've built during GTA 6 will allow us to do things more quickly\"",
+      "url": "https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-14 12:26",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Rockstar接受彭博社采访透露，为开发《GTA 6》员工数已从2018年《荒野大镖客2》发售时的2441人增至4711人（12个办公室），其中4020人从事开发与QA。开发联席主管Phil Hooker表示，本项目积累的引擎、工具和团队将使未来游戏开发更快，不会再用八年。GTA 6历经两次跳票，现定档11月19日。文章还谈及泄密事件及2024年取消远程办公。",
+      "tags": [
+        "人事变动",
+        "市场分析"
+      ],
+      "keywords": [
+        "Rockstar",
+        "GTA6",
+        "Take-Two"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 22,
+      "title": "Ubisoft closing Trials developer RedLynx and cutting jobs in Singapore studio",
+      "url": "https://www.gamesindustry.biz/ubisoft-closing-trials-developer-redlynx-and-cutting-jobs-in-singapore-studio",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-14 08:55",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "育碧提议关闭《特技摩托》开发商芬兰RedLynx工作室（影响最多52个岗位），并在新加坡工作室裁员70人（约占其五分之一）。两家工作室此前被划入Creative Network提供中央支持。这是育碧长期降本计划的「最终阶段」，今年已关闭斯德哥尔摩、哈利法克斯、温尼伯、贝尔格莱德等工作室，取消6款游戏，并重组为六个「Creative Houses」。",
+      "tags": [
+        "裁员",
+        "关服停运",
+        "并购"
+      ],
+      "keywords": [
+        "育碧",
+        "RedLynx",
+        "新加坡工作室"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 23,
+      "title": "Xbox CEO reportedly warns firm will \"not survive\" if it only relies on existing franchises",
+      "url": "https://www.gamesindustry.biz/xbox-ceo-reportedly-warns-firm-will-not-survive-if-it-only-relies-on-existing-franchises",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-14 07:44",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "据报道，Xbox CEO Asha Sharma在内部全员会上警告，若只依赖现有IP，Xbox将「无法生存」，必须「继续创造持久的新IP」并「找到新方式和勇气去创新，触达新受众」。她表示Xbox在经历「历史低点」后已开始恢复增长。此前Xbox取消了Rare的Everwild、ZeniMax的Project Blackbird、Ninja Theory的Project Mara等新IP项目，并提议关闭Ninja Theory，本轮「重置」已裁员约3200人、剥离5家工作室。",
+      "tags": [
+        "人事变动",
+        "市场分析"
+      ],
+      "keywords": [
+        "Xbox",
+        "微软",
+        "Asha Sharma"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 2,
+      "title": "Google Play adds Game Finder, Sprints, and Sidekick Playbacks in discovery push",
+      "url": "https://www.gamesindustry.biz/google-play-adds-game-finder-sprints-and-sidekick-playbacks-in-discovery-push",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-14 21:02",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Google Play推出多项游戏发现与社交新功能：个性化Game Finder、48小时竞技Sprints、Sidekick 30秒片段分享（Sidekick用户超2.85亿）、Quests可提供皮肤等游戏内物品、Game Playlists，并将Dave the Diver等PC游戏引入Play。You tab月活超2.5亿，平台连接超7亿玩家档案。Apps Experience和Level Up计划为优秀游戏提供更低服务费，PUBG Mobile接入后高价值玩家新安装量增22%、活跃玩家单买家支出增62%。",
+      "tags": [
+        "硬件平台",
+        "市场分析"
+      ],
+      "keywords": [
+        "Google Play",
+        "PUBG Mobile"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 4,
+      "title": "S&box plans to go free-to-play and embrace human curation saying \"Netflix for games doesn't work\"",
+      "url": "https://www.gamesindustry.biz/sbox-plans-to-go-free-to-play-and-embrace-human-curation-saying-netflix-for-games-doesnt-work",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-14 17:58",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Facepunch工作室计划年底将s&box平台转为免费游玩，创始人Garry Newman承认平台「不受欢迎、留存不佳」，称「我们卖的不是引擎而是游戏」。已付费玩家将获独家Steam库存物品。Newman认为「游戏界Netflix行不通」，主张人工策展，将Play Fund改为审批制以剔除点击器、挂机等低质游戏，并转向Steam Workshop。",
+      "tags": [
+        "硬件平台",
+        "市场分析"
+      ],
+      "keywords": [
+        "s&box",
+        "Facepunch",
+        "Garry Newman"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 6,
+      "title": "大快人心！“用DEI祸害游戏”的Sweet Baby裁员80%、清空厂商合作",
+      "url": "https://news.qq.com/rain/a/20261014A0EE8A00",
+      "source": "GameLook",
+      "pub_date": "2026-10-14 15:25",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "据爆料，DEI咨询机构Sweet Baby Inc.官网被「格式化」清空，合作案例与咨询服务全部移除。魁北克商业登记显示其员工数从16人锐减至1至5人，裁员幅度达80%。文章分析其退场背景：玩家抵制、欧美政治风向转变、游戏大厂缩减非核心开支，并指出欧美游戏「审美滑坡」的深层原因在于开发者结构与意识形态，而非单一咨询机构所能主导。",
+      "tags": [
+        "市场分析",
+        "人事变动"
+      ],
+      "keywords": [
+        "Sweet Baby",
+        "DEI"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 9,
+      "title": "“审查游戏有多苦”？韩国监管“自曝悲催账单”：103人一年要审45万款游戏",
+      "url": "https://news.qq.com/rain/a/20261014A0EE7Z00",
+      "source": "GameLook",
+      "pub_date": "2026-10-14 15:25",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "韩国国会审计披露游戏监管数据：2025年韩国完成等级决定的游戏物达201.9万个（同比增29.2%），其中99.9%由自主等级分类机构处理，Epic Games的UGC占52.1%。负责事后检查的团队从205人减至103人，2026年在线监控预算削减19.9%。新设概率型道具损害救济中心（预算17.1亿韩元），但原有监视业务预算被挤出。韩国振兴院诊断「因中国版号发放问题导致出口额减少」。",
+      "tags": [
+        "政策监管",
+        "出海"
+      ],
+      "keywords": [
+        "韩国游戏委",
+        "版号",
+        "Epic Games"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 21,
+      "title": "ESA flags retro console maker Anbernic for inclusion on US government's Notorious Market List",
+      "url": "https://www.gamesindustry.biz/esa-flags-retro-console-maker-anbernic-for-inclusion-on-us-governments-notorious-market-list",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-14 09:59",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "ESA向美国贸易代表办公室提交文件，建议将中国复古掌机厂商Anbernic列入「恶名市场名单」，称其「通过精致消费产品提供非法游戏目录，使硬件盗版正常化」，设备常预装数百上千款未经授权游戏。ESA还将G2A列入「未授权数字商品市场」，并建议将破解游戏源、种子站、商业作弊市场等纳入名单，提出七项执法建议。",
+      "tags": [
+        "政策监管",
+        "法律诉讼",
+        "硬件平台"
+      ],
+      "keywords": [
+        "ESA",
+        "Anbernic",
+        "G2A"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 3,
+      "title": "Duke Nukem 3D level designer Richard \"Levelord\" Gray dies aged 68",
+      "url": "https://www.gamesindustry.biz/duke-nukem-3d-level-designer-richard-levelord-gray-dies-aged-68",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-14 19:45",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "《毁灭公爵3D》关卡设计师Richard「Levelord」Gray去世，享年68岁。他1996年参与《毁灭公爵3D》关卡设计，后离开3D Realms联合创立Ritual Entertainment，参与《Quake: Scourge of Armagon》《Sin》《星际迷航：精英部队2》《反恐精英：零点行动》等作品。Apogee、Cliff Bleszinski等业内人士发文悼念。",
+      "tags": [
+        "人物访谈"
+      ],
+      "keywords": [
+        "毁灭公爵3D",
+        "Ritual Entertainment"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 7,
+      "title": "开发者吐槽：“游戏刚发售、一大群Steam鉴赏家来要Key”，同行：90%是骗子！",
+      "url": "https://news.qq.com/rain/a/20261014A0EE8900",
+      "source": "GameLook",
+      "pub_date": "2026-10-14 15:25",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "海外独立开发者反映游戏上线后收件箱被自称「Steam鉴赏家」的索Key请求塞满，同行称「100个里99个是垃圾邮件、90%是骗局」，实测10个请求约3个真去玩。文章揭示机器人爬取新游戏邮箱、假Twitch/YouTube账号、AI代写邮件等骗术，以及免费Key被转卖、假评测毁口碑等问题，建议使用Steam官方Curator Connect而非直接发Key。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "Steam",
+        "独立游戏"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 13,
+      "title": "\"I wanted to make the show I wanted to watch\" – How Galaxies found a place in the crowded showcase landscape",
+      "url": "https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-14 14:57",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Galaxies Showcase创始人Chris Thomas接受采访，讲述如何在日益拥挤的数字展会市场中找到定位。该展会每年4月和10月举办，主打「tapas风格」精选一小时游戏预告，混合付费与免费展位。第二年观众数翻倍以上，GameDiscoverCo数据显示平均带来+17731愿望单。Thomas曾任Twitch英国游戏销售负责人十年，首届展会2025年3月Twitch独家首播，Asmongold转播带来七位数观看量。",
+      "tags": [
+        "展会活动",
+        "市场分析"
+      ],
+      "keywords": [
+        "Galaxies Showcase",
+        "Chris Thomas"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 14,
+      "title": "How to run an indie game studio: Part 3, Dealing with issues",
+      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-3-dealing-with-issues",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-14 14:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GamesIndustry.biz「如何经营独立游戏工作室」系列第三篇，讲解如何处理工作室内部问题。核心方法包括：建立「工作室待办清单」让全员可提交问题、在例会中预留专门时间讨论、采用IDS（识别-讨论-解决）框架避免无效争论。强调要先找到问题背后真正的问题，再广泛收集背景信息，最后达成具体下一步行动。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "独立游戏",
+        "工作室管理"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 1,
+      "title": "四个月创收超4亿元：外表像塔防的小游戏，到底为什么这么赚钱？",
+      "url": "https://news.qq.com/rain/a/20261014A0DAT800",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-15 02:50",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "莉莉丝休闲游戏《塔塔冒险队》（Clash of Critters）2026年5月海外上线，4个月总收入约4560万美元（约3.3亿人民币，加国内市场超4亿），收入曲线逆势走高，第四个月单月1910万美元占总额42%。文章深度拆解其商业化设计：以弹珠机作为连接所有玩法的经济中枢，将付费点从「抽卡获得角色」转移到「养成」，通过异色系统、卡册系统等不断换消费理由而不换消费入口，并分析其区域发行和灰度测试方法论。",
+      "tags": [
+        "出海",
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "塔塔冒险队",
+        "莉莉丝",
+        "Clash of Critters"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 8,
+      "title": "“烧十亿token救妹妹”！国内玩家用AI把停服二游“奶”回来了？",
+      "url": "https://news.qq.com/rain/a/20261014A0EE8300",
+      "source": "GameLook",
+      "pub_date": "2026-10-14 15:25",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "国内二游社区涌现用AI「复活」停服游戏的尝试，B站UP主借助Claude、DeepSeek等大模型补写服务器逻辑，将《少女咖啡枪》等停服二游做成单机版/本地服。文章分析AI充当「胶水」协助阅读程序、梳理通信格式、补写缺失功能的技术路径，也指出版权风险：立绘、模型、音乐、剧情仍有各自权利人，停服不自动变为公共素材。",
+      "tags": [
+        "技术AI",
+        "关服停运"
+      ],
+      "keywords": [
+        "少女咖啡枪",
+        "AI",
+        "西山居"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 18,
+      "title": "《沙丘：觉醒》开发商创意总监：在游戏行业，唯一的不变就是变化",
+      "url": "https://news.qq.com/rain/a/20261014A0CGM600",
+      "source": "触乐",
+      "pub_date": "2026-10-14 11:59",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "触乐编译Funcom首席创意官Joel Bylos访谈，谈及《沙丘：觉醒》与传奇影业通过Jira「隔空」协作的IP监修模式、主机版移植、单人模式与难度选项更新，以及游戏行业商业模式变迁（订阅制→买断制→免费内购→游戏内广告可能卷土重来）。Bylos还谈到AI发展太快导致预测未来困难、风格化画质比逼真更重要、Steam Deck类设备将增多等观点。",
+      "tags": [
+        "人物访谈",
+        "市场分析"
+      ],
+      "keywords": [
+        "Funcom",
+        "沙丘觉醒",
+        "腾讯"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 19,
+      "title": "字节AI互动游戏销量破26万，发售22天达成该成就",
+      "url": "https://news.qq.com/rain/a/20261014A0BB0000",
+      "source": "游戏新知",
+      "pub_date": "2026-10-14 10:13",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "字节跳动旗下朝夕光年江南工作室开发的AI修仙互动游戏《不问凡尘》宣布销量突破26万，按售价29.70元算销售额约772万元。游戏9月23日在Steam上线，目前处于EA阶段，预计今年春节上线1.0正式版。游戏大部分内容（角色、场景、物品、音效）由AI生成，明确标注使用字节火山引擎，简体中文区好评率87%。",
+      "tags": [
+        "技术AI",
+        "出海"
+      ],
+      "keywords": [
+        "不问凡尘",
+        "字节跳动",
+        "朝夕光年"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 20,
+      "title": "「甄嬛传」冲上小游戏畅销榜，这家华南大厂的女性向终于成了？",
+      "url": "https://news.qq.com/rain/a/20261014A0BAZU00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-14 10:13",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "三七互娱女性向二合小游戏《梦回甄嬛传》约8月上线，已爬升至微信小游戏畅销榜第59名。文章分析其围绕「甄学」话题做IP轻量化改编、以抓马剧情为驱动力、平滑体力投放曲线和阶梯式活动奖励设计，并梳理三七互娱9年来在女性向赛道的布局（投资上海掌梦、收购萤火之光、代理《一千克拉女王》《无限梦境》、自研《扶摇一梦》《织梦森林》等）。",
+      "tags": [
+        "小游戏",
+        "IP联动",
+        "市场分析"
+      ],
+      "keywords": [
+        "梦回甄嬛传",
+        "三七互娱",
+        "微信小游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "Casual game marketplace Legacy Games to close online store this December",
+      "url": "https://www.gamesindustry.biz/casual-game-marketplace-legacy-games-to-close-online-store-this-december",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-14 13:42",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "休闲游戏平台Legacy Games宣布将于2026年12月31日关闭在线商店，网站和服务器于2027年2月28日关闭。该平台成立于1998年，2020年上线商店，提供超1000款游戏，口号为「游戏永远属于你」，但关闭后玩家将无法重新下载已购游戏，光盘下载码、积分、奖励和Hero Club会员也将终止。",
+      "tags": [
+        "关服停运"
+      ],
+      "keywords": [
+        "Legacy Games"
+      ],
+      "importance": 2
+    }
+  ],
+  "source_stats": {
+    "游戏陀螺": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 11,
+      "selected": 11,
+      "ad": 0,
+      "merged": 0
+    },
+    "GameLook": {
+      "fetched": 6,
+      "selected": 6,
+      "ad": 0,
+      "merged": 0
+    },
+    "游戏葡萄": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0
+    },
+    "触乐": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0
+    },
+    "游戏新知": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0
+    }
+  }
+}
