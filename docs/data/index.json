@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-14T00:52:53+00:00",
+  "updated": "2026-10-15T05:59:39+00:00",
   "days": [
+    {
+      "date": "2026-10-15",
+      "total": 23,
+      "modules": {
+        "rival": 1,
+        "company": 7,
+        "industry": 9,
+        "newgame": 0,
+        "product": 6,
+        "deep": 0,
+        "ad": 0,
+        "other": 0
+      },
+      "headlines": [
+        "对话天美J3总经理和制作人：两年5800万DAU背后，藏着认知的巨变",
+        "Funcom to lay off staff as it pivots to focusing solely on Conan Exiles and Dune: Awakening",
+        "Ubisoft closing Trials developer RedLynx and cutting jobs in Singapore studio",
+        "预亏1.25亿至1.78亿元，冰川网络Q3单季亏损额超上半年",
+        "四个月创收超4亿元：外表像塔防的小游戏，到底为什么这么赚钱？"
+      ]
+    },
     {
       "date": "2026-10-14",
       "total": 17,
