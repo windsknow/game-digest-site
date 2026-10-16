@@ -1,0 +1,410 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T00:52:46+00:00",
+  "model": "deepseek-flash",
+  "total": 16,
+  "modules": {
+    "rival": 0,
+    "company": 4,
+    "industry": 6,
+    "newgame": 1,
+    "product": 3,
+    "deep": 1,
+    "ad": 1,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 13,
+      "reason": "《GTA 6》八年开发细节曝光：团队扩至4711人、两次延期至11月19日，分析师预计前四月收入超30亿美元。"
+    },
+    {
+      "id": 1,
+      "reason": "《王者荣耀》成亚运唯一登上央视大屏的电竞项目，中国队全胜卫冕，央视体育客户端观看量千万级。"
+    },
+    {
+      "id": 3,
+      "reason": "Epic用AI重做EGS启动器，称冷启动比Steam快46%，CEO宣布全公司转向AI加速，迪士尼合作游戏延期。"
+    },
+    {
+      "id": 12,
+      "reason": "腾讯全资收购的Funcom宣布重组裁员、CEO卸任，将专注《柯南流放者》与《沙丘：觉醒》两款游戏。"
+    },
+    {
+      "id": 9,
+      "reason": "AI角色聊天产品Character.AI破产，月亏损800-900万美元，揭示AI陪伴产品无法积累关系资产的商业困境。"
+    }
+  ],
+  "items": [
+    {
+      "id": 13,
+      "title": "《GTA 6》八年开发细节曝光：公司扩张至4711人，超10亿美金开发成本",
+      "url": "https://news.qq.com/rain/a/20261015A0C7JS00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-15 11:22",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "彭博社采访Rockstar高管，披露《GTA 6》八年开发细节。公司从2018年《荒野大镖客2》时的2441人扩张至全球12个办事处4711人，大部分员工只专注一个项目，并罕见地同时存在3名开发主管。游戏经历两次延期至11月19日发售，2022年9月遭网络钓鱼攻击泄露几十段画面，公司随后取消远程办公、禁止办公室外访问服务器，但今年8月又发生重大泄露。发行主管Jennifer Kolbe驳斥了开发成本超15亿美元的谣传，但按投入时间和人力几乎肯定是有史以来成本最高的游戏。分析师预计游戏将在PS和Xbox卖出4000万份、前四个月收入超30亿美元，前作已售2.3亿份，首支预告24小时获9300万次观看。公司还因解雇34名工会相关员工面临法律争议，预计10月底裁决。",
+      "tags": [
+        "产品复盘",
+        "人事变动",
+        "法律诉讼"
+      ],
+      "keywords": [
+        "GTA6",
+        "Rockstar",
+        "Take-Two"
+      ],
+      "importance": 5
+    },
+    {
+      "id": 3,
+      "title": "Epic CEO豪言“全公司AI加速到极致”：AI编程重造EGS商店，“性能锤爆Steam”",
+      "url": "https://news.qq.com/rain/a/20261015A0E71H00",
+      "source": "GameLook",
+      "pub_date": "2026-10-15 14:57",
+      "also_seen_in": [
+        "GamesIndustry.biz"
+      ],
+      "module": "company",
+      "summary": "Epic Games推出用AI「氛围编程」重做的EGS商店启动器预览版，官方称冷启动进入商店页面比Steam快46%、启动时间缩短一半、游戏库加载快30倍，体积仅300MB，并首次支持Linux。CEO Tim Sweeney称公司正进行大规模转向，调配开发者重新受训以最大化AI加速，目标不是用更少人做同样的事，而是让每个人做出更多更好的东西。文章对比了Valve要求披露AI内容与Epic将AI作为卖点的分歧，并指出Epic与迪士尼合作、含漫威和星战角色的射击游戏已从2027年3月延期，团队被要求转向AI优先、停止手写代码。",
+      "tags": [
+        "技术AI",
+        "硬件平台",
+        "市场分析"
+      ],
+      "keywords": [
+        "Epic",
+        "Steam",
+        "Tim Sweeney",
+        "虚幻引擎"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 12,
+      "title": "腾讯全资收购的挪威工作室宣布裁员重组，将专注于两款游戏项目",
+      "url": "https://news.qq.com/rain/a/20261015A0C7K000",
+      "source": "游戏新知",
+      "pub_date": "2026-10-15 11:22",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "腾讯全资收购的挪威工作室Funcom宣布重组裁员，CEO Rui Casais卸任，由公司元老Scott Junior接任。Rui Casais在Funcom工作22年、2015年起任CEO，任内推出《柯南流放者》（发售5天收回开发成本）并推进了腾讯2019年入股、2020年全资收购。公司将专注于《柯南流放者》和《沙丘：觉醒》两款游戏的持续开发运营。《沙丘：觉醒》去年6月上线，9月新DLC后在线人数回暖至约2万人，9月底发行主机版，本月初宣布新增100万名玩家。",
+      "tags": [
+        "人事变动",
+        "裁员",
+        "并购"
+      ],
+      "keywords": [
+        "Funcom",
+        "腾讯",
+        "沙丘觉醒"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 17,
+      "title": "Ubisoft to reduce workforce across Düsseldorf, Berlin, and Mainz as part of \"proposed voluntary departure plan\"",
+      "url": "https://www.gamesindustry.biz/ubisoft-to-reduce-workforce-across-dusseldorf-berlin-and-mainz-as-part-of-proposed-voluntary-departure-plan",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-15 08:09",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "育碧计划在德国杜塞尔多夫、柏林、美因茨三个工作室裁员约100人，已与职工委员会就自愿离职计划展开讨论，超过一半裁员预计发生在最大的杜塞尔多夫工作室。育碧区域总经理Benedikt Grindel称此举旨在让德国工作室「为未来处于最佳位置」。据Game File，讨论中的补偿公式可能为月薪×1.5×工作年限，但仍需与职工委员会谈判。这是育碧持续降本计划的一部分，此前已关闭RedLynx、在新加坡裁员，并重组为六个Creative House、关闭多地工作室、取消六款游戏。",
+      "tags": [
+        "裁员",
+        "人事变动"
+      ],
+      "keywords": [
+        "育碧",
+        "杜塞尔多夫"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 1,
+      "title": "腾讯在CCTV大电视刷屏，给行业争了口气？这次真的不一样",
+      "url": "https://news.qq.com/rain/a/20261015A0EBS300",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-15 15:23",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "第20届亚运会《王者荣耀》项目半决赛、决赛获CCTV-5与CCTV-5+电视直播，是本届11个电竞小项中唯一登上央视大屏的项目。中国队4:0击败马来西亚，全程小局未丢成功卫冕，成为亚运电竞史上首个卫冕冠军队伍，队长徐必成成为首位两获亚运电竞金牌的运动员。央视提供了赛前专题、直播、赛后采访的完整体育赛事式报道，新华社、人民日报等跟进，央视体育客户端观看量达千万级、仅次于乒乓球。文章分析其背后是KPL十年赛事体系积累、选手故事的可报道性以及庞大年轻受众，并指出本届11个电竞小项中中国厂商研发产品占5席，腾讯电竞ECS系统为全部11个小项提供技术保障，中国电竞正从赛事标杆走向标准出海。",
+      "tags": [
+        "电竞",
+        "展会活动",
+        "市场分析"
+      ],
+      "keywords": [
+        "王者荣耀",
+        "腾讯",
+        "KPL",
+        "亚运会"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 5,
+      "title": "二游过节?《终末地》畅销榜第4，“绿皇”二游《绿梦》公测，异环「明音凛」实装",
+      "url": "https://news.qq.com/rain/a/20261015A0E71500",
+      "source": "GameLook",
+      "pub_date": "2026-10-15 14:57",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "10月15日多款二游同日更新或上线：《明日方舟终末地》更新1.6版本「丹青渡」并推出云游戏、上架Steam，位居国区iOS畅销榜第4、日本第7、台服第4，Steam好评率90%、同时在线约7100人；《异环》开启1.4下半版本，新S级角色「明音凛」上线并与《凉宫春日的忧郁》联动；竹子游戏《绿梦：时空之声》公测，老板为前VG俱乐部老板陈清。文章指出国内旗舰级二游已达6款，未来还有《蓝色星原》《无限大》《白银之城》等，二游撞档期将愈发频繁，一轮更残酷的大逃杀可能还在后面。",
+      "tags": [
+        "版本更新",
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "终末地",
+        "异环",
+        "绿梦",
+        "鹰角"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 4,
+      "title": "“年薪百万电竞选手集体逃税”？韩国电竞圈大地震！",
+      "url": "https://news.qq.com/rain/a/20261015A0E71E00",
+      "source": "GameLook",
+      "pub_date": "2026-10-15 14:57",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "据韩媒Inven报道，LCK大量高薪职业选手多年来自行注册公司、以法人名义收取年薪，被质疑涉嫌逃税，年薪5亿至10亿韩元（约合人民币250-500万元）的选手多采用此方式。以年薪5亿韩元测算，个人劳动所得需缴税约1.83亿韩元，法人营业收入则仅约8800万韩元，差额近1亿韩元。目前尚无选手被正式课税或处罚，但已有知名选手遭税务调查，多名选手主动启动清理。文章分析该结构可能被认定为劳动所得而非营业收入，若升级为刑事调查，选手可能面临最高1亿韩元罚金及永久禁赛，并预计将影响即将开启的转会市场与俱乐部成本。",
+      "tags": [
+        "法律诉讼",
+        "电竞",
+        "市场分析"
+      ],
+      "keywords": [
+        "LCK",
+        "韩国国税厅",
+        "英雄联盟"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 7,
+      "title": "DayZ creator Dean Hall releases open-source game development framework Brutal",
+      "url": "https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-15 14:31",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "《DayZ》创作者Dean Hall推出开源游戏开发框架Brutal，由其两家公司Ahwoo和RocketWerkz合作开发，基于C#、免费使用、无版税，仅需在游戏致谢中注明版权。项目2022年启动，已在三个工作室的六个项目中使用，包括RocketWerkz的《Kitten Space Adventure》和Ludeon Studios《Rimworld》所用的Waylith引擎。Hall批评Unity和Unreal「持续未能对开发者负责」，担忧随着智能体工作流侵蚀软件公司竞争优势，引擎厂商会通过版税、订阅或更严格许可从开发者身上榨取更多收入，希望Brutal为开发者提供「救生艇」和改变权力平衡的可能。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "Dean Hall",
+        "Brutal",
+        "Unity",
+        "Unreal"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "House House will not release Big Walk on Xbox in support of pro-Palestinian BDS campaign",
+      "url": "https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-15 11:08",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "墨尔本开发商House House宣布为支持巴勒斯坦主导的BDS运动，不在Xbox发行其合作游戏《Big Walk》，称直到微软和/或Xbox被移出BDS抵制目标名单前不会登陆Xbox。多家独立开发者跟进抵制：Luck be a Landlord开发者Dan Dilorio呼吁玩家不要在Xbox购买并计划向巴勒斯坦儿童救济基金捐款1万美元；All Will Rise开发商Speculative Agency表示有意加入No Games for Genocide运动；Ice Water将《Tenderfoot Tactics》从Xbox下架；Arkane Studios STJV工会成员发表公开信要求微软停止支持以色列。BDS运动2025年4月启动，超2000名微软员工签署请愿书，微软5月内部审查称未发现其技术被",
+      "tags": [
+        "政策监管",
+        "市场分析"
+      ],
+      "keywords": [
+        "House House",
+        "Xbox",
+        "微软",
+        "BDS"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 10,
+      "title": "An oral history of the Tomb Raider game no one wanted to make",
+      "url": "https://www.gamesindustry.biz/an-oral-history-of-the-tomb-raider-game-no-one-wanted-to-make",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-15 12:30",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "《古墓丽影》30周年之际，新书《The Making of Tomb Raider: 1997-2000》披露了《古墓丽影：历代记》的开发内幕。该作是原版PlayStation第五作，团队本计划在《最后的启示》后转向PS2次世代项目，但发行商Eidos出于财务需要要求2000年底前必须推出新作以维持IP热度。团队成员普遍反对，多人被逐一叫到Eidos执行董事Jeremy Heath-Smith办公室施压，最终在财务条件诱惑下达成协议。文章以口述史形式呈现了这段开发团队被迫赶工的艰难时期。",
+      "tags": [
+        "产品复盘",
+        "人物访谈"
+      ],
+      "keywords": [
+        "古墓丽影",
+        "Eidos",
+        "Core Design"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 8,
+      "title": "Reforj developer 4J Studios announces PC release date at Game Republic New Horizons",
+      "url": "https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-15 13:25",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "4J Studios宣布其开放世界生存沙盒游戏《Reforj》将于2027年Q1在PC开启封闭测试，初期为邀请制。游戏目前已在Xbox Series X|S通过Insider Program向早期测试者开放。开发者强调早期访问的重要性，称在原型阶段（开发仅9个月后）就向社区开放，每周收集反馈并直接送达CEO和主设计师，常在下周就落实改动。工作室还推出名为Rixels的纹理技术，集成于自研Elements Engine。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "4J Studios",
+        "Reforj"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 11,
+      "title": "米哈游生活模拟游戏终测，有了最有活人感的AI",
+      "url": "https://news.qq.com/rain/a/20261015A0CETM00",
+      "source": "触乐",
+      "pub_date": "2026-10-15 11:39",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "米哈游生活模拟游戏《星布谷地》9月20日开启删档计费终测，AI NPC成为核心差异点。游戏目前有娜洛、谷多曼、瑞芙、阿莱4位AI NPC，其中咖啡馆老板娜洛记忆力最强、聊天自由度最高，能记住玩家几天前点的咖啡、识别语气与装扮、在一对多场景中控场回应。文章详述了基于自研「多教师在线蒸馏」技术和「类脑」设计的Agent架构，以及AI NPC如何串联社交玩法、成为玩家破冰桥梁。AI总负责人李嫣然在云栖大会分享了自研AI生态模型、一对多AI社交、超智记忆系统等技术细节，并提到云端部署模型带来的Token成本考验。米哈游CEO刘伟曾表示未来三年最多向大模型团队投入1000亿。游戏定档2026年冬季。",
+      "tags": [
+        "技术AI",
+        "版本更新",
+        "人物访谈"
+      ],
+      "keywords": [
+        "星布谷地",
+        "米哈游",
+        "AI NPC"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 2,
+      "title": "上线才3个月，拳头停运《英雄联盟》经典模式！召回老玩家已兑现？",
+      "url": "https://news.qq.com/rain/a/20261015A0E71L00",
+      "source": "GameLook",
+      "pub_date": "2026-10-15 14:57",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "拳头联合腾讯推出的《英雄联盟》经典模式在6月底上线仅3个多月后即宣布关停。该项目由小规模团队负责，从零搭建底层内容而非复用S3工程包，上线后成功阶段性召回大量老玩家，但怀旧热度自带时效性，在线人数逐步回落。文章认为这更像是一次完成预设目标的限时怀旧实验，核心使命是唤醒沉寂老玩家、活跃社区，而非替代正式服，玩家反馈也呈现完成度有限、新玩家难共鸣等多元评价。",
+      "tags": [
+        "版本更新",
+        "产品复盘"
+      ],
+      "keywords": [
+        "英雄联盟",
+        "拳头",
+        "腾讯"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 14,
+      "title": "烧了1.8亿，做了10年，这款开放世界推箱子游戏到底好玩在哪？",
+      "url": "https://news.qq.com/rain/a/20261015A0C7JI00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-15 11:22",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "Jonathan Blow（吹哥）新作《沉星之序》10月9日上线，研发长达十年，公司资金消耗约每年300万美元、九年累计约2700万美元（约1.8亿元人民币），可能是史上成本最贵的独立游戏。游戏为开放世界推箱子解谜，谜题体量约500小时、数量超1000个，分为东西南北四大区域，采用类似乘法的机制叠加设计，区域接壤处融合多种机制。截至发稿销量约9.5万套（VG Insight数据），Steam 1992篇评测好评率97%，最高同时在线8247人，超越《见证者》的6185人。文章认为受解谜品类限制销量未大爆，但其庞大精妙的设计或将在游戏史上留下印记。",
+      "tags": [
+        "产品复盘",
+        "市场分析"
+      ],
+      "keywords": [
+        "沉星之序",
+        "Jonathan Blow",
+        "见证者"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 9,
+      "title": "曾经流水破亿的AI游戏，是如何一步步走向破产的？",
+      "url": "https://news.qq.com/rain/a/20261015A0D25W00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-15 12:35",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "2026年10月12日，AI角色聊天产品Character.AI宣布破产，若找不到接盘买家可能逐渐停服。文章剖析其商业困境：2024年AI计算成本一度达每月1380万美元，2025年仍约每月1000万美元，而月度订阅收入峰值仅280万美元、月总收入峰值约530万美元，截至2026年8月每月仍亏损800万至900万美元。核心矛盾在于AI聊天产品每次对话都需模型推理成本，重度用户消耗最大却按固定周期付费，用户规模无法转化为盈利；叠加未成年人安全争议、诉讼与监管压力，以及2024年Google吸纳其联合创始人后需独立面对商业化难题。文章进一步指出，用户愿意花时间与AI角色交流却不愿持续付费，根源在于体验无法积累成「关系资产」——角色记忆易碎、OOC频发、用户被迫成为故事维护员，付出大量精力与金钱却什么也带不走。对比《原神》玩家因账号资产（角色、圣遗物、武器）而留存，AI聊天关系资产更私密、易碎、难展示。结论：AI游戏下半场拼的不是谁更像人，而是谁能让用户离开时仍觉得有些东西属于自己。",
+      "tags": [
+        "技术AI",
+        "产品复盘",
+        "市场分析"
+      ],
+      "keywords": [
+        "Character.AI",
+        "AI社交",
+        "Elys"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 6,
+      "title": "游戏的“长期主义风”，从游戏厂商吹到了手机厂商？",
+      "url": "https://news.qq.com/rain/a/20261015A0E71100",
+      "source": "GameLook",
+      "pub_date": "2026-10-15 14:57",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "iQOO16上市，宣传其游戏体验科技力与iQOO杯等玩家生态建设。",
+      "tags": [
+        "硬件平台",
+        "展会活动"
+      ],
+      "keywords": [
+        "iQOO",
+        "王者荣耀",
+        "KPL"
+      ],
+      "importance": 1
+    }
+  ],
+  "source_stats": {
+    "游戏葡萄": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0
+    },
+    "GameLook": {
+      "fetched": 5,
+      "selected": 4,
+      "ad": 1,
+      "merged": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 6,
+      "selected": 5,
+      "ad": 0,
+      "merged": 1
+    },
+    "游戏陀螺": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0
+    },
+    "触乐": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0
+    },
+    "游戏新知": {
+      "fetched": 3,
+      "selected": 3,
+      "ad": 0,
+      "merged": 0
+    }
+  }
+}
