@@ -1,0 +1,542 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T00:53:09+00:00",
+  "model": "deepseek-flash",
+  "total": 23,
+  "modules": {
+    "rival": 0,
+    "company": 6,
+    "industry": 10,
+    "newgame": 1,
+    "product": 1,
+    "deep": 3,
+    "ad": 1,
+    "other": 1
+  },
+  "headlines": [
+    {
+      "id": 8,
+      "reason": "育碧跨欧亚裁员230人、关闭RedLynx，黑旗重制版350万销量后新加坡仍裁70人，收缩力度罕见"
+    },
+    {
+      "id": 19,
+      "reason": "Sensor Tower 9月榜：37家中国厂商吸金20亿美元占41.6%，阴阳师十周年收入暴涨170%"
+    },
+    {
+      "id": 7,
+      "reason": "欧盟《儿童法案》拟禁每日登录奖励、限夜间使用，违规罚全球营收6%，出海欧洲合规成本大增"
+    },
+    {
+      "id": 11,
+      "reason": "Circana：Xbox硬件销量同比降33%创历史新低，PS均价597美元，硬件冻结或重塑行业格局"
+    },
+    {
+      "id": 1,
+      "reason": "2026大作暴死复盘：Highguard上线16天裁员45天停服，行业共识未来只剩超级大作与小创意作品"
+    }
+  ],
+  "items": [
+    {
+      "id": 8,
+      "title": "育碧新加坡工作室大裁员！腾讯取消研发“3A大秦刺客信条”意外曝光",
+      "url": "https://news.qq.com/rain/a/20261016A0EJGD00",
+      "source": "GameLook",
+      "pub_date": "2026-10-16 15:56",
+      "also_seen_in": [
+        "游戏新知"
+      ],
+      "module": "company",
+      "summary": "育碧启动跨欧洲亚洲裁员共230人：芬兰RedLynx工作室整体关闭影响约52人，德国杜塞尔多夫、柏林、美因茨三工作室自愿离职计划削减约100个岗位，新加坡工作室裁减70人（占五分之一）但保留运营。新加坡工作室主导的《刺客信条：黑旗重制版》上线14天销量破350万份，3个月后仍裁员。截至2026年3月31日育碧全球员工约16590人，同比减少约1200人。腾讯2025年3月注资11.6亿欧元参与育碧三大IP子公司Vantage Studios。另曝光天美主导的《刺客信条：命运》（秦朝末年背景）已在早期取消，腾讯与育碧仍在推进《刺客信条：侠隐》手游和《彩虹六号》多端项目。",
+      "tags": [
+        "裁员",
+        "并购"
+      ],
+      "keywords": [
+        "育碧",
+        "腾讯",
+        "RedLynx",
+        "刺客信条"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 15,
+      "title": "拳头游戏放出59个岗位，广州有11个！",
+      "url": "https://news.qq.com/rain/a/20261016A0BRJU00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-16 10:29",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "拳头游戏庆祝拳头中国十周年，放出59个招聘岗位，涵盖多个游戏工作室及发行电竞部门，Base广州岗位11个包括游戏设计高级经理、高级游戏制作人、玩法资深软件工程师等。结合此前拳头在广州成立子公司，推测或有2款在研游戏：一款涉及城市发展，另一款是基于UE5的多人联机第三人称动作游戏Riot Discovery。《英雄联盟手游》《无畏契约》《云顶之弈》等项目也在招人。",
+      "tags": [
+        "人事变动"
+      ],
+      "keywords": [
+        "拳头游戏",
+        "广州",
+        "英雄联盟"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 17,
+      "title": "北京大厂悄悄推出AI游戏平台，海外已突破1000万下载",
+      "url": "https://news.qq.com/rain/a/20261016A0BRJH00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-16 10:29",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "昆仑万维旗下AI游戏平台《GameWave》（又名Neonarcade）2026年6月上线、8月发力，据Sensor Tower数据已突破1000万下载，单月下载300-500万，近期日活约50万。平台界面与使用方式接近TikTok，全部游戏免费，用户可上下划刷AI生成游戏并直接试玩，也可通过对话式AI创作游戏（快速模式免费、专业模式支持自定义图片音乐）。第一大市场印尼贡献27%下载，菲律宾10%，超99%下载来自安卓端，初始包体不到50MB。商业化尚未落地，部分游戏内置IAA广告选项。",
+      "tags": [
+        "出海",
+        "技术AI"
+      ],
+      "keywords": [
+        "昆仑万维",
+        "GameWave",
+        "Sensor Tower"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 23,
+      "title": "库克闪现米哈游：听大伟哥介绍新作，看李振宇用iPhone Duo玩绝区零",
+      "url": "https://news.qq.com/rain/a/20261016A0APZV00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-16 09:22",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "10月16日苹果董事会执行主席Tim Cook现身上海米哈游，联合创始人刘伟全程接待。库克了解《绝区零》《星布谷地》《崩坏：因缘精灵》三款产品，《星布谷地》AI NPC娜洛以机器人形式现场互动，《绝区零》制作人李振宇用iPhone Duo演示新版本实机战斗和分屏多任务。当天为iPhone Duo开启预购日，9月10日苹果发布会已用《绝区零》展示新机游戏表现。米哈游与苹果合作可追溯至2011年首款游戏《FlyMe2theMoon》iOS独占，2020年《原神》和2023年《崩坏：星穹铁道》两获App Store年度iPhone游戏。",
+      "tags": [
+        "硬件平台",
+        "人物访谈"
+      ],
+      "keywords": [
+        "米哈游",
+        "苹果",
+        "库克",
+        "绝区零"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 12,
+      "title": "How Star Wars: Galactic Racer kept the core team small and sustainable through \"distributed development\"",
+      "url": "https://www.gamesindustry.biz/how-star-wars-galactic-racer-kept-the-core-team-small-and-sustainable-through-distributed-development",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-16 14:30",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Fuse Games CEO Matt Webster介绍《星球大战：银河赛车》采用分布式开发模式，核心团队仅75人且开发期间平均更小，通过传统外包、外部开发、联合开发三层结构扩展产能。游戏10月6日登陆PC、PlayStation、Xbox和Amazon Luna，PS5版Metacritic 88分。Webster称收缩团队会流失大量知识且重新获取成本更高，联合开发伙伴需价值观一致，并警告该模式需从工作室建立之初就配置。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "Fuse Games",
+        "星球大战",
+        "Secret Mode"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 21,
+      "title": "Fishlabs announces layoffs due to \"changing project requirements,\" development and support teams affected",
+      "url": "https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-16 09:27",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "德国开发商Fishlabs宣布裁员，影响开发和支持团队，未公布具体人数，称因项目需求变化和客户及内部团队需要。Fishlabs为Plaion子公司、隶属Embracer，2023年曾在Embracer重组中裁减50个岗位。工作室2004年由Michael Schade和Christian Lohr创立，2013年被Plaion（原Koch Media）收购，两位创始人后于2014年创立Rockfish Games。",
+      "tags": [
+        "裁员"
+      ],
+      "keywords": [
+        "Fishlabs",
+        "Plaion",
+        "Embracer"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 7,
+      "title": "“欧盟最强游戏防沉迷要来”？《儿童法案》草案公示",
+      "url": "https://news.qq.com/rain/a/20261016A0EJG300",
+      "source": "GameLook",
+      "pub_date": "2026-10-17 00:25",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "欧盟《儿童法案》10月1日公示征求意见（12月3日截止），要求在线游戏不得鼓励强迫性使用，点名每日登录奖励、限时福利损失、连续登录机制，未满18岁均适用；持续世界离线损失也可能被认定违规；须提供家长控制工具，13岁以下需家长启用；应用商店须年龄分级并搭载欧盟年龄验证应用；违规最高罚全球年营业额6%。欧洲游戏行业协会VGE反对全面年龄保证，Epic CEO Tim Sweeney担心损害青少年数字创造力，Stop Killing Games发起人Ross Scott估算独立开发者年合规成本数十万美元。对中国出海厂商意味着合规从一次性接入变为持续性运营支出。",
+      "tags": [
+        "政策监管",
+        "出海"
+      ],
+      "keywords": [
+        "欧盟",
+        "VGE",
+        "Epic"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 19,
+      "title": "周年庆“印钞机”：《阴阳师》暴涨170%，《原神》《三战》重回畅销TOP",
+      "url": "https://news.qq.com/rain/a/20261016A0BEQL00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-16 10:07",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Sensor Tower发布2026年9月中国手游发行商全球收入榜：37个中国厂商入围全球Top100，合计吸金20亿美元，占Top100总收入41.6%，较8月38家22亿美元略有回落。前七名座次不变：腾讯、点点互动、柠檬微趣、网易、米哈游、三七互娱、莉莉丝。中腰部借新品和周年庆冲榜：哔哩哔哩收入环比增36%排名升7位（《闪耀吧！噜咪》贡献），Joy Games增30%升10位（《Duck Survival》收入环比增140%），益世界创历史新高（《疯狂水世界》出海收入占60%），灵犀互娱增33%（《三国志·战略版》七周年日流水创历年峰值）。App Store端《金铲铲之战》收入环比增45%升至第4，《阴阳师》十周年收入环比增超170%达近三年高位，《原神》增42%重回前十。",
+      "tags": [
+        "榜单数据",
+        "出海"
+      ],
+      "keywords": [
+        "Sensor Tower",
+        "腾讯",
+        "网易",
+        "米哈游"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 3,
+      "title": "触乐本周行业大事：小鸟播报！《塞尔达传说：时之笛》重制版公开新预告，育碧拟关闭“特技摩托”系列开发工作室",
+      "url": "https://news.qq.com/rain/a/20261017A0A88U00",
+      "source": "触乐",
+      "pub_date": "2026-10-17 09:14",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "触乐本周行业大事汇总：育碧计划关闭芬兰RedLynx工作室影响最多52个岗位，新加坡工作室裁撤70个岗位；库洛入股多模态AI初创言之域科技持股15%；腾讯向土耳其开发商Flow Games投资约3450万美元（总融资4600万美元）；西山居《剑侠世界4：无限》10月15日全平台公测；《塞尔达传说：时之笛》重制版11月5日登陆Switch 2；Devsisters宣布《跑跑姜饼人》改编电影目标2029年全球上映，IP累计玩家超3.5亿；网易《燕云十六声》11月支持DLSS 5；Supercell《爆裂小队》12月1日下架、2026年12月14日停服；Google Play推出游戏推荐工具Game Finder。",
+      "tags": [
+        "展会活动",
+        "市场分析"
+      ],
+      "keywords": [
+        "育碧",
+        "腾讯",
+        "库洛",
+        "Supercell"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 4,
+      "title": "腾讯网易停运的游戏陆续复活，仿佛雨后春笋：都怪AI？",
+      "url": "https://news.qq.com/rain/a/20261017A0A1G500",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-17 08:59",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "B站等平台涌现大量用AI复活停运游戏的视频，涉及《扩散性百万亚瑟王》《双生视界》《幻书启世录》等腾讯、网易、B站、西山居旗下产品，部分可直接下载体验。实现方式多为利用原客户端素材通过AI反编译，成本极低。但存在运维成本和版权两大难题：复活游戏使用原游戏美术、音乐、剧情素材仍受版权保护，此前有设计师公开废稿被判赔10万元。微软10月14日宣布成立Xbox Labs探索游戏反编译、跨平台运行和玩家参与创作。文章认为AI技术红利需由厂商或平台包装成普通人可用的功能，游戏复活与创作边界将逐渐模糊。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "B站",
+        "微软",
+        "Xbox Labs"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 5,
+      "title": "游戏厂商抓狂：软件被AI干免费后，“AI光速反编译”大量3A老游戏了",
+      "url": "https://news.qq.com/rain/a/20261016A0EJFV00",
+      "source": "GameLook",
+      "pub_date": "2026-10-17 02:17",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "AI编程工具降低游戏移植与复刻门槛，玩家社区涌现《光环：战斗进化》《GTA：罪恶都市》《CoD》等民间浏览器版本，PS5破解项目Relapse覆盖7.00至13.60固件并倒逼《GTA6》要求最新14.10固件。动视10月10日对民间网页《CoD》发DMCA下架通知，微软10月13日成立Xbox Labs探索反编译与玩家创作。同时AI也带来抄袭问题：《204Snake》团队未发售游戏出现同名AI仿制品。Epic CEO Tim Sweeney称正重新配置开发人员发挥AI作用，但玩家担心Bug与内容质量。AI创作平台Astrocade月活四个月从500万增至1000万。结论：AI降低复制成本，真正稀缺的是让玩家觉得不一样的创意。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "微软",
+        "动视",
+        "Epic",
+        "Xbox Labs"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 20,
+      "title": "上亿投入，大厂集体上桌，大厂到底看上捉宠什么？",
+      "url": "https://news.qq.com/rain/a/20261016A0BEQB00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-16 10:07",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "2026年捉宠大年，腾讯、FunPlus、蛮啾、哔哩哔哩、米哈游、诗悦等厂商集中投入。《洛克王国：世界》《伊莫》以宠物为中心，后者采用即时战斗和联结玩法；《蓝色星原：旅谣》《望月》角色剧情分量更重，捉宠与二游结合；《崩坏：因缘精灵》采用精灵组队自动交战带自走棋特点。投入规模：FunPlus称《伊莫》是公司史上最大预算投入，《望月》投入数亿元约600人，《洛克王国：世界》计划每月制作20-30只精灵。文章认为捉宠并非版本陷阱，厂商正根据自身积累选择不同路径，宠物可帮助解决原有玩法问题。",
+      "tags": [
+        "市场分析",
+        "新品曝光"
+      ],
+      "keywords": [
+        "洛克王国",
+        "伊莫",
+        "蓝色星原",
+        "崩坏因缘精灵"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 25,
+      "title": "MLBB十周年：什么是真正的全球化？",
+      "url": "https://news.qq.com/rain/a/20261016A09L4F00",
+      "source": "触乐",
+      "pub_date": "2026-10-16 08:14",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "沐瞳《决胜巅峰》（MLBB）10月9-11日在全球十国同步举办十周年庆典，主题All In MLBB。游戏2016年海外上线，累计注册用户超15亿、月活超1.1亿，覆盖220多个国家和地区。文章分析其全球化路径：早期即打造本土英雄（2017年菲律宾英雄Lapu-Lapu由玩家票选），通过当地团队和用研做本地化运营（如土耳其长暑假定制内容）；电竞方面M7总决赛观赛峰值突破568万，为全球电竞史第四、移动电竞最高，M8将在土耳其举办首次走出亚洲，未来五大新赛区巡回办赛。文章认为全球化与本地化彼此成就，尊重当地用户是核心方法论。",
+      "tags": [
+        "出海",
+        "电竞"
+      ],
+      "keywords": [
+        "沐瞳",
+        "MLBB",
+        "决胜巅峰"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 6,
+      "title": "马斯克新超跑“腾空飞行”，玩家：“我玩过的离谱游戏居然成真了”？",
+      "url": "https://news.qq.com/rain/a/20261016A0EJFT00",
+      "source": "GameLook",
+      "pub_date": "2026-10-17 00:28",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "特斯拉10月15日在得克萨斯展示新一代Roadster，完成倒挂、空中翻转和推进器跃过车辆等动作，0-60英里加速0.81秒，量产计划2028年开始。文章借此讨论游戏与现实的想象力互动：从《星球大战》悬浮车到《回到未来》《银翼杀手》，再到《GTA Online》德罗索和《火箭联盟》，影视游戏先排演不可能的生活，工程技术再追上。文章认为游戏行业对AI的期待也应落实到玩家能亲手做的新动作，而非宏大叙事。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "特斯拉",
+        "Roadster",
+        "火箭联盟"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 13,
+      "title": "Gamescom Asia x Thailand Game Show 2026 announces four additional pavilions from Indonesia, Japan, Malaysia, and the US",
+      "url": "https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-2026-announces-four-additional-pavilions-from-indonesia-japan-malaysia-and-the-us",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-16 12:44",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Gamescom Asia x Thailand Game Show 2026新增印尼、日本、马来西亚、美国四个展馆，总展馆达20个来自12个市场，整体参展方来自29个国家和地区，为展会史上最国际化阵容。韩国由KOCCA带领六个代表团参展。活动10月29日至11月1日在曼谷QSNCC举行，商务区10月29-30日对业内人士和媒体开放，会议有来自27国的80余位演讲者，John Romero将发表主题演讲。参展阵容包括Capcom、万代南梦宫、宝可梦公司及任天堂、PlayStation合作伙伴。",
+      "tags": [
+        "展会活动",
+        "出海"
+      ],
+      "keywords": [
+        "Gamescom Asia",
+        "泰国",
+        "KOCCA"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 18,
+      "title": "Game Republic New Horizons 2026 attendance grew 78% to over 461 visitors",
+      "url": "https://www.gamesindustry.biz/game-republic-new-horizons-2026-attendance-grew-76-to-over-461-visitors",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-16 10:10",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Game Republic New Horizons 2026参会人数同比增长78%，从259人增至461人，10月14-16日在米德尔斯堡Riverside Stadium举行，吸引来自丹麦、瑞典、芬兰、中国、意大利、日本、加拿大、美国、法国、荷兰等国参会者。开发者与发行商、投资者间会议从100场增至257场。任天堂业务发展和开发者关系代表举办早餐会。48位演讲者包括前SCEI主席久夛良木健和Landfall CBO Rebecca Lautner。",
+      "tags": [
+        "展会活动"
+      ],
+      "keywords": [
+        "Game Republic",
+        "任天堂",
+        "久夛良木健"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 26,
+      "title": "《极乐迪斯科》精神继承者来信，我们收到了关于新作的500页实体书",
+      "url": "https://news.qq.com/rain/a/20261016A0657I00",
+      "source": "触乐",
+      "pub_date": "2026-10-16 03:54",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "《极乐迪斯科》前主创组建的Summer Eternal工作室10月14日正式官宣新作《Red Rooster》（赤雉），一款纵火题材、物理驱动型RPG，玩家扮演被迫成为纵火案调查员的白领囚犯Redrick，与药物依赖的数学家Astrid搭档，线索指向其哥哥消防队长。团队通过预售500页实体书《选集》官宣，收录与前希腊财政部长Yanis Varoufakis、科幻作家特德·姜、生软前主创David Gaider和Mark Darrah的访谈，以及新作角色设定、美术原案和叙事玩法。工作室强调尊重创作者、劳动公平和人人参与治理。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "Summer Eternal",
+        "Red Rooster",
+        "极乐迪斯科"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 9,
+      "title": "玩家嘴太猛！世嘉重置《幕府将军2》下架，《RuneScape》分叉服永久取消",
+      "url": "https://news.qq.com/rain/a/20261016A0EJGB00",
+      "source": "GameLook",
+      "pub_date": "2026-10-16 15:56",
+      "also_seen_in": [
+        "GamesIndustry.biz"
+      ],
+      "module": "product",
+      "summary": "两起名作爆雷事件：世嘉与Creative Assembly的《全面战争：幕府将军2》完全版10月13日发售后因画质劣化、疑用AI放大导致角色面部变形、4K仅30-40帧优化问题，Steam差评如潮，官方联合道歉并暂时下架、恢复原版游戏。Jagex旗下运营25年的《RuneScape》10月3日公布永久分叉服《符文世界：重燃》，被老玩家指责稀释角色数值与资产积累，官宣12天后创意总监Mod Ryan道歉并宣布永久取消项目。两起事件均暴露厂商商业决策失误与社区沟通断层。",
+      "tags": [
+        "版本更新",
+        "产品复盘"
+      ],
+      "keywords": [
+        "世嘉",
+        "全面战争",
+        "Jagex",
+        "RuneScape"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 1,
+      "title": "有多少大作暴死在2026？",
+      "url": "https://news.qq.com/rain/a/20261018A08HU300",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-18 08:59",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "2026年游戏行业大作暴死频发，国内开放世界大作尸横遍野，海外Bungie《马拉松》未达预期、TGA压轴《Highguard》上线16天裁员45天停服。文章复盘暴死原因：早期差异化创作冲动与GaaS长线运营系统性思维矛盾；研发周期长导致品类与用户变化；以留存为里程碑指标导致玩法缝合崩坏；铺量过早浪费成本；制作人与老板信任危机。多位老板提出解法：考察制作人热爱与找题眼能力、增加铺量前验证阶段、限制里程碑预算但给工作室恒定血包。行业共识未来成功产品只有超级大作和超小体量创意作品，AI加速这一结局，商业公司迟早要具备研发大作能力。",
+      "tags": [
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "Bungie",
+        "马拉松",
+        "Highguard"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 2,
+      "title": "让游戏里的NPC记住你，到底要花多少钱？",
+      "url": "https://news.qq.com/rain/a/20261017A0BJFW00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-17 14:10",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "游戏陀螺从现有实践、商业工具报价和大模型API价格测算AI NPC长期记忆成本。NPC记忆需拆分处理：近期对话保留原文、较早交互抽取摘要、按话题检索。多NPC还需记录谁知道什么、能否传播。以10万月活、每人每月100轮对话估算，模型推理和记忆处理成本约6908美元/月，换豆包Seed 2.0 Mini约6000元人民币/月，成本随用户规模近似线性增长。Convai套餐29-499美元/月覆盖3000-5万次交互。端侧方案如NVIDIA ACE与《inZOI》合作本地运行小模型可省云端费用但面临性能适配问题。结论：AI NPC商业化难点在于如何在体验、成本与隐私间取舍，让玩家相信自己被记住才是设计核心。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "米哈游",
+        "星布谷地",
+        "Convai",
+        "inZOI"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 11,
+      "title": "A hardware market freeze could transform the industry forever | Opinion",
+      "url": "https://www.gamesindustry.biz/a-hardware-market-freeze-could-transform-the-industry-forever-opinion",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-16 15:18",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "GamesIndustry.biz评论认为硬件市场冻结可能永久改变行业格局。Circana数据显示截至8月Xbox硬件销量同比降33%创历史新低，PlayStation降25%为2013年以来最弱；今年平均PS售价597美元，远高于2020年数字版399美元。RTX 5090传已实质停产，零售价超5000美元。若主机和GPU价格数年内高不可攀，玩家已有设备成为最重要平台：PS5凭借9500万台装机量锁定优势，索尼可从软件、PS Plus和数字收入获利，微软则更难应对。同时智能手机作为最普及高性能设备可能进一步模糊手游与核心游戏边界。",
+      "tags": [
+        "硬件平台",
+        "市场分析"
+      ],
+      "keywords": [
+        "索尼",
+        "微软",
+        "Circana",
+        "RTX 5090"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 10,
+      "title": "腾讯游戏安全ACE携手《鹅鸭杀》，守护玩家每一场真诚推理",
+      "url": "https://news.qq.com/rain/a/20261016A0EJFY00",
+      "source": "GameLook",
+      "pub_date": "2026-10-16 15:56",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "腾讯游戏安全ACE与《鹅鸭杀》合作接入文本及图片检测能力，治理游戏内黑产引流内容。",
+      "tags": [
+        "技术AI"
+      ],
+      "keywords": [
+        "腾讯",
+        "鹅鸭杀",
+        "ACE"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 22,
+      "title": "招聘丨游戏葡萄想少挨一点骂",
+      "url": "https://news.qq.com/rain/a/20261016A0AQ0600",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-16 09:22",
+      "also_seen_in": [],
+      "module": "other",
+      "summary": "游戏葡萄发布招聘启事，招聘游戏产业编辑（北京、上海、深圳，特别优秀者可远程），要求热爱游戏、关注行业动态、有原创内容冲动，简历附作品发送至job@youxiputao.com。",
+      "tags": [
+        "人物访谈"
+      ],
+      "keywords": [
+        "游戏葡萄"
+      ],
+      "importance": 1
+    }
+  ],
+  "source_stats": {
+    "游戏葡萄": {
+      "fetched": 4,
+      "selected": 4,
+      "ad": 0,
+      "merged": 0
+    },
+    "游戏陀螺": {
+      "fetched": 3,
+      "selected": 3,
+      "ad": 0,
+      "merged": 0
+    },
+    "触乐": {
+      "fetched": 3,
+      "selected": 3,
+      "ad": 0,
+      "merged": 0
+    },
+    "GameLook": {
+      "fetched": 6,
+      "selected": 5,
+      "ad": 1,
+      "merged": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 7,
+      "selected": 5,
+      "ad": 0,
+      "merged": 2
+    },
+    "游戏新知": {
+      "fetched": 3,
+      "selected": 2,
+      "ad": 0,
+      "merged": 1
+    }
+  }
+}
