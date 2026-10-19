@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-16T00:52:48+00:00",
+  "updated": "2026-10-19T00:53:11+00:00",
   "days": [
+    {
+      "date": "2026-10-19",
+      "total": 23,
+      "modules": {
+        "rival": 0,
+        "company": 6,
+        "industry": 10,
+        "newgame": 1,
+        "product": 1,
+        "deep": 3,
+        "ad": 1,
+        "other": 1
+      },
+      "headlines": [
+        "育碧新加坡工作室大裁员！腾讯取消研发“3A大秦刺客信条”意外曝光",
+        "周年庆“印钞机”：《阴阳师》暴涨170%，《原神》《三战》重回畅销TOP",
+        "“欧盟最强游戏防沉迷要来”？《儿童法案》草案公示",
+        "A hardware market freeze could transform the industry forever | Opinion",
+        "有多少大作暴死在2026？"
+      ]
+    },
     {
       "date": "2026-10-16",
       "total": 16,
