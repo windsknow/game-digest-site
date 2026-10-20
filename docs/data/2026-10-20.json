@@ -1,0 +1,502 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T00:52:35+00:00",
+  "model": "deepseek-flash",
+  "total": 21,
+  "modules": {
+    "rival": 0,
+    "company": 5,
+    "industry": 9,
+    "newgame": 0,
+    "product": 1,
+    "deep": 3,
+    "ad": 3,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 4,
+      "reason": "明星制作人单干集体翻车：Supervive停运、鬼蟹工作室关闭，卡普空转向团队制反成赢家"
+    },
+    {
+      "id": 3,
+      "reason": "AI反编译门槛骤降，9月后24款游戏被完整反编译，克隆变廉价将重塑行业护城河"
+    },
+    {
+      "id": 11,
+      "reason": "8500个社招岗位暴露大厂底牌：腾讯米哈游网易齐押UE5射击与生活模拟，AI岗转正"
+    },
+    {
+      "id": 16,
+      "reason": "GTA6预购超575万份、估算收入5.6亿美元，独立游戏选择同日硬刚的差异化策略"
+    },
+    {
+      "id": 13,
+      "reason": "VoyagerOne二合新游月流水超500万美元，社交会员俱乐部成出海新打法"
+    }
+  ],
+  "items": [
+    {
+      "id": 2,
+      "title": "Wizards of the Coast declines to voluntarily recognize D&D and Studio X union drive",
+      "url": "https://www.gamesindustry.biz/wizards-of-the-coast-declines-to-voluntarily-recognize-dd-and-studio-x-union-drive",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-19 16:36",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "威世智拒绝自愿承认D&D与Studio X团队的工会，员工将改由美国国家劳资关系委员会（NLRB）监督秘密投票。公司内部邮件称在工会问题上“不中立”、倾向直接与员工沟通，并列出补贴医疗、五周带薪假、2025年奖金达目标200%、2023年以来个人贡献者平均基本工资涨20%等福利。工会诉求包括公平薪酬、晋升通道、远程工作保护、可执行的AI政策及员工业余创作归属。母公司孩之宝2026年上半年威世智与数字游戏部门营收12.5亿美元、营业利润5.677亿美元。",
+      "tags": [
+        "法律诉讼",
+        "人事变动"
+      ],
+      "keywords": [
+        "威世智",
+        "孩之宝",
+        "CWA"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 10,
+      "title": "深圳南山区国资出手，游戏赛道再添战略资本",
+      "url": "https://news.qq.com/rain/a/20261019A0CVFG00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-19 12:07",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "创梦天地与深圳市南山战略新兴产业投资有限公司（南山区政府国有独资公司）达成战略合作，共同发起总规模2亿元的游戏产业战略投资，落地南山区官方游戏产业孵化平台游托邦（Gametopia）。资金重点投向入驻游托邦的南山本地游戏项目，覆盖研发、AI内容生产、发行服务及上下游配套；同时支持创梦天地发行业务，围绕其储备的《梦幻花园（微信版）》《机甲战队》等海外产品加速进口游戏发行拓展。",
+      "tags": [
+        "融资",
+        "出海"
+      ],
+      "keywords": [
+        "创梦天地",
+        "南山战新投",
+        "游托邦"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "Activision QA United-CWA union vote to authorise strike, claims publisher has \"failed to bargain in good faith over key issues\"",
+      "url": "https://www.gamesindustry.biz/activision-qa-united-cwa-union-vote-to-authorise-strike-claims-publisher-has-failed-to-bargain-in-good-faith-over-key-issues",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-19 10:13",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "动视QA工会AQAU-CWA成员投票授权必要时罢工，称动视在首份合同谈判中未善意谈判。该工会2024年3月成立、覆盖600余名QA员工，8月起谈判，微软依2022年与CWA的劳工中立协议自愿承认，CWA目前在动视暴雪代表近2500名员工。核心议题包括加薪、AI护栏、外包用工和ADA便利权利。动视回应称已取得实质进展，愿10月21-22日再谈，并称有预案确保不影响玩家和游戏发售。",
+      "tags": [
+        "法律诉讼",
+        "人事变动"
+      ],
+      "keywords": [
+        "动视",
+        "CWA",
+        "微软"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 18,
+      "title": "Samson studio Liquid Swords files for bankruptcy, staff reportedly unpaid for two months",
+      "url": "https://www.gamesindustry.biz/samson-studio-liquid-swords-files-for-bankruptcy-staff-reportedly-unpaid-for-two-months",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-19 08:43",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "瑞典工作室Liquid Swords（《Samson》开发商）申请破产，员工据报已两个月未领薪水，工资将由瑞典国家工资保障覆盖。律所Cirio担任管理人并发布初步竞标文件，全部27名员工被解雇，资产包括《Samson》知识产权及其他IP、开发资产和设备，竞标窗口10月21日截止。截至2026年10月14日，《Samson》售出15.19万份、收入2410万瑞典克朗（约240万美元）。创始人Christofer Sundberg为Avalanche联合创始人，2020年创立该工作室，2022年网易收购其未披露少数股权，去年2月已裁过一轮。",
+      "tags": [
+        "裁员",
+        "关服停运",
+        "并购"
+      ],
+      "keywords": [
+        "Liquid Swords",
+        "Samson",
+        "网易"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 9,
+      "title": "Jobs roundup: October | Playstack CEO Harvey Elliott voted chair of UKIE",
+      "url": "https://www.gamesindustry.biz/jobs-roundup-october-playstack-ceo-harvey-elliott-voted-in-as-char-of-ukie",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-19 12:54",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "GamesIndustry.biz十月人事汇总：Playstack CEO兼创始人Harvey Elliott当选UKIE主席，接替Ustwo Games的Maria Sayans，将推进五年Supercharged战略；Chris Collins加入Diva Agency任业务发展经理；Kelly Bennett加入Pantaloon任品牌与营销经理（此前在Rockstar Games）；Chase Chen任Google游戏业务发展负责人（此前莉莉丝、腾讯）；Giorgia Arena任Supercell《Merge Mansion》艺术总监；Steel City Interactive任命Murray Pannell为发行主管，为《Undisputed 2》做准备；另有Rollic、Rebel Wolve",
+      "tags": [
+        "人事变动"
+      ],
+      "keywords": [
+        "UKIE",
+        "Playstack",
+        "Supercell"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 11,
+      "title": "2026年大厂在偷偷做什么游戏？答案全在招聘页的“职位描述”里",
+      "url": "https://news.qq.com/rain/a/20261019A0CVF900",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-19 12:07",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "游戏陀螺统计截至10月8日近60家国内厂商超8500个社招岗位，从JD反推在研项目与赛道布局。腾讯IEG约1065个岗位，光子《RAID PROJECT》（UE5现代战争超写实战术射击）和H.STUDIO《Higame》（人与怪谈共存开放世界RPG）在招；网易互娱与雷火超1500个岗位，注册“ECC:Redline”MMORPG商标、雷火在招国风二次元项目；米哈游674个岗位，未曝光项目含UE5写实奇幻动作、生活MMO、UE5 MOBA、沙盒、UE5写实射击。字节503个岗位分布多工作室，完美世界270个岗位转向出海SLG与休闲，莉莉丝布局都市动物生活模拟，叠纸出现AI原生、写实UE、Z1 ARPG方向。库洛《代号NAMI》为UE5开放世界多人共斗ARPG、《代号SUN》含载具与大规模团队战；西山居浮现历史国风",
+      "tags": [
+        "市场分析",
+        "技术AI",
+        "人物访谈"
+      ],
+      "keywords": [
+        "腾讯",
+        "网易",
+        "米哈游",
+        "叠纸"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 1,
+      "title": "PEGI begins moving existing digital-only games with loot boxes up to a 16 rating",
+      "url": "https://www.gamesindustry.biz/pegi-begins-moving-existing-digital-only-games-with-loot-boxes-up-to-a-16-rating",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-19 19:12",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "PEGI开始将含付费随机道具（如开箱）的既有数字版游戏重新评级为PEGI 16，原先PEGI 3、7、12的游戏均受影响，新标签为“PEGI 16 - Paid random items”，无论原评级走PEGI Classic还是IARC体系。英国GRA政策经理Connor Hinde称上周已开始对部分游戏执行，10月内逐步铺开，GRA承认短期内大量评级将变动。美国ESRB今年3月已表示不跟进PEGI的年龄评级调整，认为可能让用户困惑。",
+      "tags": [
+        "政策监管"
+      ],
+      "keywords": [
+        "PEGI",
+        "ESRB",
+        "开箱"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 13,
+      "title": "月收入超3300万，这款上海厂商的二合游戏海外爆了",
+      "url": "https://news.qq.com/rain/a/20261019A0BW2E00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-19 10:42",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "上海厂商VoyagerOne今年2月在海外上线的好莱坞题材二合游戏《Hollywood Merge》表现突出：据AppMagic，最近一个月收入超500万美元（约3300万元人民币），Google Play下载量超500万次，Instagram和Facebook官号粉丝分别超42.8万和55万。游戏在常规二合之外加入集卡、服装挑战等延伸玩法，并将游戏与社交平台深度绑定——20级后可绑定社交账号、通过官网加入会员俱乐部赢取额外奖励，游戏新知推测这是其高收入的重要原因。",
+      "tags": [
+        "出海",
+        "榜单数据"
+      ],
+      "keywords": [
+        "VoyagerOne",
+        "Hollywood Merge",
+        "二合游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 14,
+      "title": "《疯狂水世界》冲上畅销榜TOP20，游戏里居然能追AI短剧",
+      "url": "https://news.qq.com/rain/a/20261019A0BW1Y00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-19 10:42",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "益世界《疯狂水世界》上线近一年后冲榜：iOS畅销榜最高第17名且仍在上升，微信小游戏畅销榜稳居TOP10、人气榜升至TOP20；海外上线一个月，繁中市场稳定iOS畅销TOP15，韩国最高15名、日本51名、马来西亚29名。文章拆解其轻量化SLG设计（模拟经营平滑过渡、随机分盟、城战仅晚8-9点一小时、内置钓鱼潜水小游戏和65集AI短剧）与买量策略：素材从末日求生、战力狗血剧情、休闲护肝到赛季更新多次迭代，8月请陈小春代言并授权向佐、王晶做AI真人广告，带动排名从80-50区间跃升至40-20区间，形成类似追AI短剧的营销效果。",
+      "tags": [
+        "小游戏",
+        "出海",
+        "市场分析"
+      ],
+      "keywords": [
+        "益世界",
+        "疯狂水世界",
+        "SLG"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 16,
+      "title": "富贵险中求，这些新游准备与《GTA6》头碰头",
+      "url": "https://news.qq.com/rain/a/20261019A0BCP500",
+      "source": "触乐",
+      "pub_date": "2026-10-19 10:04",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "触乐编译GamesIndustry.biz：Sensor Tower数据显示《GTA6》预购量已超575万份、多数选100美元终极版，估算收入超5.6亿美元，被视为史上首发规模最大游戏。微软将《神鬼寓言4》推迟至2027年2月，《42中队》也避开档期；但Fairy Mount的《火焰、森林与洪水》和Devolver的《沃尔维冒险：重制版》选择11月19日与《GTA6》同日发售，主打差异化受众与整活营销。Aldora的Joost van Dreunen称《GTA6》是“关注度黑洞”，Ampere的Louise Wooldridge认为策略、治愈、家庭向等不同受众产品仍可共存，且《GTA6》暂不登陆Steam，PC发行商有窗口期。",
+      "tags": [
+        "市场分析",
+        "新品定档"
+      ],
+      "keywords": [
+        "GTA6",
+        "Devolver",
+        "Sensor Tower"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 19,
+      "title": "The AI state of play: AI laws and game development",
+      "url": "https://www.gamesindustry.biz/the-ai-state-of-play-ai-laws-and-game-development",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-19 08:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GamesIndustry.biz梳理AI法律环境对游戏工作室的影响：LLM训练数据可能带来侵权输出，且部分工具要求输入输出回授许可，工作室需建立提示词与产出的审查流程；SAG-AFTRA 2024/25罢工后达成的协议确立演员声音与形象使用需明示同意与补偿，正成为合同基线；第三方AI工具的输入输出保密性有限，需警惕机密信息与个人数据；AI产出归属因法域而异——美国纯AI生成图像不可版权、中国给予保护、英国归“做出必要安排的人”；英国ASA对AI广告要求不误导不贬损；欧盟AI Act 8月生效，deepfake定义较宽。",
+      "tags": [
+        "政策监管",
+        "技术AI",
+        "法律诉讼"
+      ],
+      "keywords": [
+        "AI Act",
+        "SAG-AFTRA",
+        "ASA"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 12,
+      "title": "GDCA 2027 moves away from nominations-based system, publishers and devs can now submit games for consideration",
+      "url": "https://www.gamesindustry.biz/gdca-2027-moves-away-from-nominations-based-system-publishers-and-devs-can-now-submit-games-for-consideration",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-19 10:57",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GDCA 2027首次改为开发者与发行商自主提交制，取代原先通过ICAN邀请制评审团的提名体系。2026年1月1日至12月31日在PC或主机发售的游戏均可提交，免报名费，截止2026年11月1日。新增最佳游戏发售和最佳游戏技术两个奖项，获奖者将于2027年3月2日GDC Festival of Gaming颁奖礼公布。",
+      "tags": [
+        "展会活动"
+      ],
+      "keywords": [
+        "GDCA",
+        "GDC"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 17,
+      "title": "New Croatian conference Splitscreen wants to keep \"that half-holiday, half-work feeling\" of Reboot Develop",
+      "url": "https://www.gamesindustry.biz/new-croatian-conference-splitscreen-wants-to-keep-that-half-holiday-half-work-feeling-of-reboot-develop",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-19 09:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "克罗地亚新会议Splitscreen将于2027年4月20-22日在斯普利特举办，意在填补今年破产的Reboot Develop留下的空白。活动主打“半度假半工作”氛围：海滨Radisson Blu酒店、不设会议App、强调社交，首批确认演讲者包括Landfall的Rebecca Lautner、Housemarque联合创始人Ilari Kuittinen、Panache Digital的Patrice Désilets，并计划重点拓展中国、韩国、日本市场。组织者称克罗地亚游戏业年收入自2019年以来翻倍。",
+      "tags": [
+        "展会活动"
+      ],
+      "keywords": [
+        "Splitscreen",
+        "Reboot Develop",
+        "克罗地亚"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 20,
+      "title": "UKIE partners with Sheridans on AI Compliance and Accreditation Service to guide UK studios in using AI lawfully and responsibly",
+      "url": "https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-19 08:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "英国UKIE与律所Sheridans合作推出AI合规与认证服务，四步流程最终授予UKIE认证标志，可用于融资路演与项目提案。UKIE CEO Nick Poole称会员普遍在日常实验AI工具，但普遍困惑法律与商业风险所在。服务含合规检查与新政策制定（会员1500-2000英镑、非会员2000-2500英镑），以及既有政策复审（会员500-750英镑、非会员750-1000英镑）。",
+      "tags": [
+        "政策监管",
+        "技术AI"
+      ],
+      "keywords": [
+        "UKIE",
+        "Sheridans",
+        "AI合规"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 5,
+      "title": "众筹超3700万，《艾希》爆火十年后，中国爆款独游仍为生计发愁？",
+      "url": "https://news.qq.com/rain/a/20261019A0EG6O00",
+      "source": "GameLook",
+      "pub_date": "2026-10-19 15:40",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《艾希：续》摩点众筹目标仅1万元，截至10月19日筹款超3750万元、支持人数超23万。制作人老马10月18日答疑称Steam版定于2027年5月1日发售、不因多筹延长开发，额外内容放入免费DLC；团队真正缺口是20-30万元工资，核心开发仅6人、共8人，内容量约为初代两倍。资金扣除平台费后先付一半，优先用于周边生产仓储运输，实物发货延至2027年底。文章借此复盘国产独游成名后的不同路径：帕斯亚《时光》系列成本约1200万美元再众筹、凉屋以约200人并行十余款小团队项目，并指出国内买断制与周边消费群体正在成长。",
+      "tags": [
+        "融资",
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "艾希",
+        "老马",
+        "摩点"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 3,
+      "title": "深度分析：AI反编译对游戏圈意味着什么？",
+      "url": "https://news.qq.com/rain/a/20261019A0EG6U00",
+      "source": "GameLook",
+      "pub_date": "2026-10-19 15:40",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "GameLook编译Naavik分析：GPT-6 Astra、Claude Opus 5.5等模型让AI反编译商业游戏的门槛骤降，社交媒体上出现大量游戏混搭mod——《现代战争》加滑板玩法740万播放、《我的世界》变《艾尔登法环》2330万播放，还有人重建《P.T.》、做《GTA5》浏览器版和《血源诅咒》PC移植。技术路径分三类：直通式mod（Universal Modder、REA在GitHub分别获5.8K和32.8K星）、机制移植、完整反编译重编译（Rust重写，Ghidra辅助）。反编译进度站9月前仅标记13款完成，此后新增24款；有人用17个智能体、235B token花11周反编译《现代战争2》。文章讨论法律边界（世嘉诉Accolade等判例确立部分逆向工程属合理使用，但许可协议普遍禁止）、发行商下架风险，以及行业影响：克隆变廉价后，护城河从代码和玩法循环转向强势IP与分发优势，软启动策略和围墙花园面临挑战。",
+      "tags": [
+        "技术AI",
+        "市场分析",
+        "法律诉讼"
+      ],
+      "keywords": [
+        "Naavik",
+        "GPT-6 Astra",
+        "反编译",
+        "Tripo"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 4,
+      "title": "游戏业明星制作人时代落幕！姐夫破防：“离开暴雪，邮件都没人回”",
+      "url": "https://news.qq.com/rain/a/20261019A0EG6Q00",
+      "source": "GameLook",
+      "pub_date": "2026-10-19 15:40",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "前《守望先锋》总监Jeff Kaplan离开暴雪后创办Kintsugiyama，近日坦言失去大厂头衔后业界很多人不再回他邮件。文章以此切入，梳理近年明星制作人单干翻车案例：前《英雄联盟》执行制作人Joe Tung的《Supervive》获网易领投3750万美元A轮，上线后Steam峰值仅1.5万、运营不足一年停运；鬼蟹Greg Street的Fantastic Pixel Castle成立一年半遭网易撤资，2025年11月17日关闭；Mike Morhaime的Dreamhaven旗下《无主星渊》国服半年停运、销量约12万份；名越稔洋工作室未出作品即被撤资。反面案例是卡普空社长辻本春弘2026年6月表态彻底摒弃制作人中心制、转向团队协作，近年《怪物猎人：荒野》《生化危机：安魂曲》《街头霸王6》款款成功。文章核心判断：制作人能力高度依赖大厂组织资本，离开体系后个人人脉与资源难以为继，行业正告别制作人中心制，投资人甚至把明星制作人视为警惕信号；少数成功者如Ben Brode的Second Dinner（《漫威SNAP》下载超1800万、月流水稳定破亿）属例外。",
+      "tags": [
+        "人物访谈",
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "Jeff Kaplan",
+        "网易",
+        "卡普空",
+        "鬼蟹"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 6,
+      "title": "游戏美术哭了：AI大模型操作Blender 3D建模，Tripo和Meshy都有危险？",
+      "url": "https://news.qq.com/rain/a/20261019A0EG6J00",
+      "source": "GameLook",
+      "pub_date": "2026-10-19 15:40",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "GameLook分析GPT-6 Astra接入Blender MCP后对3D建模与游戏美术流程的冲击：用户45分钟从零搭出医院走廊3D场景，有人做出吉卜力风格列车Demo和GTA风格城市（8栋可玩建筑、247条语音、25亿token）。OpenAI称Astra在BenchCAD测试几何重叠得分95.9%，高于GPT-5.6 Sol的83.3%和Claude Fable 5.1的84.3%。文章判断通用模型先抢走的是程序化、规则化需求（走廊、门窗、货架），复杂角色、毛发、服装仍依赖Tripo、Meshy等专用工具——案例中二次元角色由Tripo P2生成部件、Astra在Blender组装绑定。成本对比：Tripo P2单模型约1.1美元、10-40秒；Astra按token计费，100万输入+10万输出约15美元；DeepSeek V4.1-Flash同量仅1.4-2.8元。结论：通用模型成为新中心平台，专业工具需在特定资产和工序上证明价值，游戏团队仍要解决性能、LOD、碰撞等落地问题。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "GPT-6 Astra",
+        "Blender",
+        "Tripo",
+        "Meshy"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 7,
+      "title": "联动科幻电影大IP，我看到了叠纸的野心",
+      "url": "https://news.qq.com/rain/a/20261019A0EG6F00",
+      "source": "GameLook",
+      "pub_date": "2026-10-19 15:40",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《恋与深空》10月18日公布与《银翼杀手2049》联动PV、19日上线“为你而真”活动，登微博热搜第七。",
+      "tags": [
+        "IP联动"
+      ],
+      "keywords": [
+        "恋与深空",
+        "银翼杀手2049",
+        "叠纸"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 8,
+      "title": "周末深圳年轻人最多的火爆活动，居然是把抽象玩成艺术的「斗地主」？",
+      "url": "https://news.qq.com/rain/a/20261019A0EFE000",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-19 15:35",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《欢乐斗地主》20周年在深圳海上世界办线下派对与无人机表演，并宣传其文旅联动、年轻化与畅销榜Top11成绩。",
+      "tags": [
+        "展会活动"
+      ],
+      "keywords": [
+        "欢乐斗地主",
+        "腾讯光子"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 21,
+      "title": "在10月的上海，与《无畏契约》一起过周末",
+      "url": "https://news.qq.com/rain/a/20261019A08UBL00",
+      "source": "触乐",
+      "pub_date": "2026-10-19 07:34",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《无畏契约》全球冠军赛首次来华，上海同期举办巴黎世家概念网吧、前滩冠军公园、手瓦道馆等嘉年华活动。",
+      "tags": [
+        "电竞",
+        "展会活动",
+        "IP联动"
+      ],
+      "keywords": [
+        "无畏契约",
+        "全球冠军赛",
+        "上海"
+      ],
+      "importance": 1
+    }
+  ],
+  "source_stats": {
+    "GamesIndustry.biz": {
+      "fetched": 9,
+      "selected": 9,
+      "ad": 0,
+      "merged": 0
+    },
+    "GameLook": {
+      "fetched": 5,
+      "selected": 4,
+      "ad": 1,
+      "merged": 0
+    },
+    "游戏葡萄": {
+      "fetched": 1,
+      "selected": 0,
+      "ad": 1,
+      "merged": 0
+    },
+    "游戏陀螺": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0
+    },
+    "游戏新知": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0
+    },
+    "触乐": {
+      "fetched": 2,
+      "selected": 1,
+      "ad": 1,
+      "merged": 0
+    }
+  }
+}
