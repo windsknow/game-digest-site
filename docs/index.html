@@ -30,7 +30,7 @@
 *{box-sizing:border-box}
 html,body{margin:0;background:var(--bg);color:var(--text);font:15px/1.6 -apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue","Noto Sans CJK SC","Microsoft YaHei",sans-serif}
 a{color:inherit}
-.wrap{max-width:900px;margin:0 auto;padding:0 16px 64px}
+.wrap{max-width:1140px;margin:0 auto;padding:0 16px 64px}
 header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:10px 0 8px}
 .top{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
 .top h1{font-size:18px;margin:0;white-space:nowrap}
@@ -51,7 +51,24 @@ select.btn{padding-right:24px}
 .chip.on .n{color:inherit;opacity:.7}
 .row2{display:flex;gap:6px;align-items:center}
 .row2 input{flex:1;min-width:0;border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:8px;padding:6px 10px;font-size:14px}
-main{padding-top:14px}
+
+/* 左侧模块导航（宽屏）；窄屏改为顶部一行横滑 chips（#navChips） */
+.layout{display:grid;grid-template-columns:184px minmax(0,1fr);gap:28px;align-items:start}
+nav.side{position:sticky;top:calc(var(--hh,150px) + 4px);max-height:calc(100vh - var(--hh,150px) - 12px);overflow-y:auto;padding:14px 0 8px;font-size:14px}
+nav.side .cap{font-size:12px;color:var(--muted);padding:0 10px 6px}
+nav.side .nv{display:flex;align-items:center;gap:6px;padding:6px 10px;border-radius:8px;border-left:3px solid transparent;color:var(--text);text-decoration:none;cursor:pointer;user-select:none}
+nav.side .nv .n{margin-left:auto;color:var(--muted);font-size:12px}
+nav.side .nv:hover{background:var(--chip)}
+nav.side .nv.on{background:var(--accent-soft);color:var(--accent);border-left-color:var(--accent);font-weight:600}
+nav.side .nv.on .n{color:inherit;opacity:.75}
+nav.side .nv.off{color:var(--muted);opacity:.45;cursor:default;pointer-events:none}
+nav.side hr{border:0;border-top:1px solid var(--line);margin:8px 10px}
+#navChips .chip.on{background:var(--accent-soft);color:var(--accent)}
+[data-sec]{scroll-margin-top:calc(var(--hh,150px) + 10px)}
+@media (min-width:901px){ #navChips{display:none} }
+@media (max-width:900px){ .layout{display:block} nav.side{display:none} }
+
+main{padding-top:14px;min-width:0}
 .status{color:var(--muted);font-size:13px;margin:6px 0 10px}
 .hl{background:var(--accent-soft);border:1px solid transparent;border-radius:12px;padding:12px 14px;margin-bottom:18px}
 .hl h2{margin:0 0 8px;font-size:15px;color:var(--accent)}
@@ -63,7 +80,6 @@ main{padding-top:14px}
 .hl .m{color:var(--muted);font-size:12px}
 h3.grp{font-size:15px;margin:22px 0 8px;display:flex;align-items:center;gap:8px}
 h3.grp .n{color:var(--muted);font-weight:400;font-size:13px}
-h3.grp.date{font-size:16px;margin-top:28px;padding-bottom:6px;border-bottom:1px solid var(--line)}
 .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:10px;box-shadow:var(--shadow)}
 .card .t{font-size:16px;font-weight:600;line-height:1.4;margin:0}
 .card .t a{text-decoration:none}
@@ -77,11 +93,21 @@ h3.grp.date{font-size:16px;margin-top:28px;padding-bottom:6px;border-bottom:1px 
 .card.ad{padding:8px 14px}
 .card.ad .t{font-size:14px;font-weight:500}
 .card.ad .s{margin:2px 0 4px;font-size:13.5px;color:var(--muted)}
-.card.merged-note{color:var(--muted)}
+/* 深度解读：第二轮读全文写的分点长解读 */
+details.more{margin:2px 0 10px;border-top:1px dashed var(--line);padding-top:6px}
+details.more summary{cursor:pointer;color:var(--deep);font-size:13px;font-weight:600}
+ol.pts{margin:6px 0 4px;padding-left:22px}
+ol.pts li{margin:7px 0;line-height:1.7}
+ol.pts li b{margin-right:4px}
+p.tk{margin:8px 0 2px;padding:8px 11px;background:var(--accent-soft);border-radius:8px;font-size:14px;line-height:1.65}
 .empty{color:var(--muted);text-align:center;padding:40px 0}
-details.src{margin-top:24px;color:var(--muted);font-size:13px}
-details.src table{border-collapse:collapse;margin-top:6px}
-details.src td,details.src th{padding:2px 10px 2px 0;text-align:left;font-weight:400}
+details.foldbox{margin-top:24px;color:var(--muted);font-size:13px}
+details.foldbox summary{cursor:pointer}
+details.foldbox table{border-collapse:collapse;margin-top:6px}
+details.foldbox td,details.foldbox th{padding:2px 10px 2px 0;text-align:left;font-weight:400}
+details.foldbox ul{margin:6px 0 0;padding-left:18px}
+details.foldbox li{margin:4px 0}
+details.foldbox li a{color:var(--text)}
 footer{color:var(--muted);font-size:12px;margin-top:40px}
 .imp{color:var(--accent);letter-spacing:-1px}
 @media (max-width:600px){
@@ -95,7 +121,7 @@ footer{color:var(--muted);font-size:12px;margin-top:40px}
 </head>
 <body>
 <div class="wrap">
-<header>
+<header id="hdr">
   <div class="top">
     <h1>🎮 游戏媒体日报</h1>
     <div class="grow"></div>
@@ -111,7 +137,7 @@ footer{color:var(--muted);font-size:12px;margin-top:40px}
     </div>
   </div>
   <div class="filters">
-    <div class="chips" id="modChips"></div>
+    <div class="chips" id="navChips"></div>
     <div class="chips" id="tagChips"></div>
     <div class="row2">
       <input id="q" type="search" placeholder="搜标题 / 摘要 / 公司 / 产品…">
@@ -120,20 +146,25 @@ footer{color:var(--muted);font-size:12px;margin-top:40px}
     </div>
   </div>
 </header>
+<div class="layout">
+<nav class="side" id="side" aria-label="模块导航"></nav>
 <main>
   <div class="status" id="status">加载中…</div>
   <div id="hl"></div>
   <div id="list"></div>
-  <details class="src" id="srcStats"></details>
+  <details class="foldbox" id="dropped" data-sec="dropped"></details>
+  <details class="foldbox" id="srcStats" data-sec="src"></details>
   <footer id="foot"></footer>
 </main>
+</div>
 </div>
 <script>
 (function(){
 'use strict';
+// 顺序与 digest_output.MODULES 一致（2026-10-20 调整）
 const MODULES = [
-  ['rival','⚔️','重点竞品'],['company','🏢','竞争对手'],['industry','📰','行业新闻'],
-  ['newgame','🌱','潜力新品'],['product','🎯','产品动态'],['deep','📖','深度解读'],
+  ['rival','⚔️','重点竞品'],['industry','📰','行业新闻'],['product','🎯','产品动态'],
+  ['newgame','🌱','潜力新品'],['company','🏢','竞争对手'],['deep','📖','深度解读'],
   ['ad','🏷️','软文清单'],['other','📦','其他']];
 const MOD = Object.fromEntries(MODULES.map(m=>[m[0],{emoji:m[1],name:m[2]}]));
 const DATA = 'data/';
@@ -143,19 +174,21 @@ const esc = s => String(s==null?'':s).replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&
 let index = null;          // {updated, days:[{date,total,...}]} 新→旧
 let days = [];             // 已加载的日数据（按当前范围）
 const cache = {};          // date -> day json
-const state = { d:'', r:1, m:'', t:'', s:'', q:'', sort:'imp' };
+const state = { d:'', r:1, t:'', s:'', q:'', sort:'imp' };
+let pendingJump = '';      // 旧链接里的 #m=模块：不再筛选，改为加载后跳到该模块
 
 // ── 状态 <-> URL hash（Telegram 里的链接带 #d=YYYY-MM-DD 直接落到当天）──
 function readHash(){
   const h = new URLSearchParams(location.hash.replace(/^#/,''));
-  Object.assign(state, { d:'', r:1, m:'', t:'', s:'', q:'', sort:'imp' });   // hash 是唯一真源，缺省即默认
-  for (const k of ['d','m','t','s','q','sort']) if (h.has(k)) state[k]=h.get(k);
+  Object.assign(state, { d:'', r:1, t:'', s:'', q:'', sort:'imp' });   // hash 是唯一真源，缺省即默认
+  for (const k of ['d','t','s','q','sort']) if (h.has(k)) state[k]=h.get(k);
   if (h.has('r')) state.r = +h.get('r')||1;
+  if (h.has('m')) pendingJump = h.get('m');
   $('q').value = state.q; $('sortSel').value = state.sort;
 }
 function writeHash(){
   const h = new URLSearchParams();
-  for (const k of ['d','r','m','t','s','q','sort']){
+  for (const k of ['d','r','t','s','q','sort']){
     const v = state[k]; if (v && !(k==='r'&&v===1) && !(k==='sort'&&v==='imp')) h.set(k,v);
   }
   history.replaceState(null,'','#'+h.toString());
@@ -174,6 +207,10 @@ async function loadDay(date){
 // ── 初始化 ──
 async function init(){
   readHash();
+  // 吸顶 header 的高度：左侧导航的 sticky top 和跳转时的留白都靠它
+  const setHH = ()=>document.documentElement.style.setProperty('--hh', $('hdr').offsetHeight+'px');
+  if (window.ResizeObserver) new ResizeObserver(setHH).observe($('hdr'));
+  setHH();
   try { index = await getJSON(DATA+'index.json?_='+Date.now()); }
   catch(e){ $('status').textContent = '还没有数据：'+e.message+'。首次运行日报后这里会出现内容。'; return; }
   if(!index.days || !index.days.length){ $('status').textContent='还没有任何一天的数据。'; return; }
@@ -187,7 +224,11 @@ async function init(){
   $('q').oninput = ()=>{ state.q=$('q').value.trim(); render(); };
   $('srcSel').onchange = ()=>{ state.s=$('srcSel').value; render(); };
   $('sortSel').onchange = ()=>{ state.sort=$('sortSel').value; render(); };
+  const onNav = e=>{ const a=e.target.closest('[data-go]'); if(!a) return; e.preventDefault(); go(a.dataset.go); };
+  $('side').onclick = onNav; $('navChips').onclick = onNav;
   window.addEventListener('hashchange', ()=>{ readHash(); refresh(); });
+  window.addEventListener('scroll', ()=>requestAnimationFrame(spy), {passive:true});
+  window.addEventListener('resize', ()=>requestAnimationFrame(spy));
   refresh();
 }
 function step(delta){
@@ -207,6 +248,7 @@ async function refresh(){
   catch(e){ $('status').textContent='加载失败：'+e.message; return; }
   days.sort((a,b)=>a.date<b.date?1:-1);
   buildSourceSelect(); render();
+  if (pendingJump){ const m=pendingJump; pendingJump=''; setTimeout(()=>go(m), 60); }
 }
 function daysBetween(a,b){ return Math.round((new Date(b)-new Date(a))/86400000); }
 
@@ -221,13 +263,13 @@ function buildSourceSelect(){
 }
 
 // ── 过滤 + 渲染 ──
+function detailText(x){ const d=x.detail; return d ? [...(d.points||[]).flatMap(p=>[p.title,p.text]), d.takeaway].join(' ') : ''; }
 function matches(x){
-  if(state.m && x.module!==state.m) return false;
   if(state.t && !(x.tags||[]).includes(state.t)) return false;
   if(state.s && x.source!==state.s && !(x.also_seen_in||[]).includes(state.s)) return false;
   if(state.q){
     const q = state.q.toLowerCase();
-    const hay = [x.title,x.summary,...(x.keywords||[]),...(x.tags||[]),x.source].join(' ').toLowerCase();
+    const hay = [x.title,x.summary,detailText(x),...(x.keywords||[]),...(x.tags||[]),x.source].join(' ').toLowerCase();
     if(!hay.includes(q)) return false;
   }
   return true;
@@ -235,18 +277,12 @@ function matches(x){
 function sortItems(arr){
   return arr.sort((a,b)=> state.sort==='time'
     ? ((b.pub_date||'')+b._date).localeCompare((a.pub_date||'')+a._date) || b.importance-a.importance
-    : b.importance-a.importance || a.id-b.id);
+    : b.importance-a.importance || b._date.localeCompare(a._date) || a.id-b.id);
 }
 
 function render(){
   writeHash();
   const items = allItems();
-  // 模块 chips（计数用未按模块过滤前的集合，但受标签/来源/搜索影响）
-  const base = items.filter(x=>{ const m=state.m; state.m=''; const ok=matches(x); state.m=m; return ok; });
-  const mc = {}; base.forEach(x=>{ mc[x.module]=(mc[x.module]||0)+1; });
-  $('modChips').innerHTML = chip('', '全部', base.length, state.m==='') +
-    MODULES.filter(m=>mc[m[0]]).map(m=>chip(m[0], m[1]+' '+m[2], mc[m[0]], state.m===m[0])).join('');
-  $('modChips').onclick = e=>{ const b=e.target.closest('.chip'); if(!b) return; state.m = (state.m===b.dataset.v?'':b.dataset.v); render(); };
   // 标签 chips（取当前结果里出现最多的前 14 个）
   const tb = items.filter(x=>{ const t=state.t; state.t=''; const ok=matches(x); state.t=t; return ok; });
   const tc = {}; tb.forEach(x=>(x.tags||[]).forEach(t=>{ tc[t]=(tc[t]||0)+1; }));
@@ -256,48 +292,97 @@ function render(){
   $('tagChips').onclick = e=>{ const b=e.target.closest('.chip'); if(!b) return; state.t = (state.t===b.dataset.v?'':b.dataset.v); render(); };
 
   const shown = sortItems(items.filter(matches));
-  const filtered = !!(state.m||state.t||state.s||state.q);
+  const filtered = !!(state.t||state.s||state.q);
   $('status').textContent = (state.r===1 ? state.d : `${days[days.length-1]?.date} ~ ${days[0]?.date}（${days.length} 天）`)
     + ` · 共 ${items.length} 条` + (filtered ? `，筛出 ${shown.length} 条` : '');
 
   // 头条（单日且未筛选时显示）
   $('hl').innerHTML = '';
-  if(state.r===1 && !filtered && days[0] && days[0].headlines && days[0].headlines.length){
+  const showHL = state.r===1 && !filtered && days[0] && days[0].headlines && days[0].headlines.length;
+  if(showHL){
     const by = Object.fromEntries(days[0].items.map(x=>[x.id,x]));
-    $('hl').innerHTML = `<div class="hl"><h2>🔥 今日头条</h2><ol>` + days[0].headlines.map(h=>{
+    $('hl').innerHTML = `<div class="hl" data-sec="hl"><h2>🔥 今日头条</h2><ol>` + days[0].headlines.map(h=>{
       const x = by[h.id]; if(!x) return '';
-      return `<li>${link(x)}<span class="why">${esc(h.reason)}</span><span class="m">${MOD[x.module].emoji} ${MOD[x.module].name} · ${esc(x.source)}</span></li>`;
+      const m = MOD[x.module]||MOD.other;
+      return `<li>${link(x)}<span class="why">${esc(h.reason)}</span><span class="m">${m.emoji} ${m.name} · ${esc(x.source)}</span></li>`;
     }).join('') + `</ol></div>`;
   }
 
-  // 列表：单日按模块分组；多日按日期再按模块
-  let html = '';
-  if(!shown.length){ html = '<div class="empty">没有符合条件的内容</div>'; }
-  else if(state.r===1){ html = groupByModule(shown); }
-  else {
-    const byDate = {}; shown.forEach(x=>(byDate[x._date]=byDate[x._date]||[]).push(x));
-    html = Object.keys(byDate).sort().reverse().map(d=>`<h3 class="grp date">${d}<span class="n">${byDate[d].length} 条</span></h3>`+groupByModule(byDate[d])).join('');
-  }
-  $('list').innerHTML = html;
+  // 列表：单日、多日都按模块分组（多日时卡片上标日期），左侧导航才能一一对应
+  $('list').innerHTML = shown.length ? groupByModule(shown) : '<div class="empty">没有符合条件的内容</div>';
   $('list').onclick = e=>{ const t=e.target.closest('.tag'); if(!t) return; state.t = (state.t===t.dataset.v?'':t.dataset.v); render(); };
 
+  // 已过滤（劳资/工会、GI 低相关快讯）：不推送，留在这里方便核查有没有误杀
+  const drops = days.flatMap(d=>(d.dropped||[]).map(x=>Object.assign({_date:d.date},x)));
+  if(drops.length){
+    $('dropped').innerHTML = `<summary>🗑️ 已过滤 ${drops.length} 条 · 劳资/工会、GI 低相关快讯，不推送、仅留档</summary><ul>` +
+      drops.map(x=>`<li>${link(x)} <span>· ${esc(x.source)} · ${esc(x.reason)}${state.r>1?' · '+x._date:''}</span></li>`).join('') + '</ul>';
+    $('dropped').style.display='';
+  } else $('dropped').style.display='none';
+
   // 来源统计（单日）
-  if(state.r===1 && days[0] && days[0].source_stats){
-    const st = days[0].source_stats;
-    $('srcStats').innerHTML = `<summary>📊 来源统计</summary><table><tr><th>信源</th><th>抓取</th><th>选入</th><th>软文</th><th>合并</th></tr>` +
-      Object.entries(st).sort((a,b)=>b[1].fetched-a[1].fetched).map(([s,v])=>`<tr><td>${esc(s)}</td><td>${v.fetched}</td><td>${v.selected}</td><td>${v.ad}</td><td>${v.merged||0}</td></tr>`).join('') + '</table>';
+  const st = state.r===1 && days[0] && days[0].source_stats;
+  if(st){
+    $('srcStats').innerHTML = `<summary>📊 来源统计</summary><table><tr><th>信源</th><th>抓取</th><th>选入</th><th>软文</th><th>合并</th><th>过滤</th></tr>` +
+      Object.entries(st).sort((a,b)=>b[1].fetched-a[1].fetched).map(([s,v])=>`<tr><td>${esc(s)}</td><td>${v.fetched}</td><td>${v.selected}</td><td>${v.ad}</td><td>${v.merged||0}</td><td>${v.dropped||0}</td></tr>`).join('') + '</table>';
     $('srcStats').style.display='';
   } else $('srcStats').style.display='none';
   $('foot').textContent = days[0] ? `摘要由 ${days[0].model||'AI'} 生成于 ${days[0].generated_at||''}，仅供快速浏览，细节以原文为准。` : '';
+
+  renderNav(shown, showHL, drops.length, !!st);
+  spy();
 }
+
+// ── 导航：宽屏左侧栏 / 窄屏顶部 chips，点了跳到对应模块 ──
+function renderNav(shown, showHL, nDrop, hasSrc){
+  const mc = {}; shown.forEach(x=>{ mc[x.module]=(mc[x.module]||0)+1; });
+  const entries = [];
+  if(showHL) entries.push(['hl','🔥','今日头条', days[0].headlines.length]);
+  MODULES.forEach(m=>entries.push([m[0], m[1], m[2], mc[m[0]]||0]));
+  const extra = [];
+  if(nDrop) extra.push(['dropped','🗑️','已过滤', nDrop]);
+  if(hasSrc) extra.push(['src','📊','来源统计', '']);
+  const nv = ([k,e,name,n]) => `<a class="nv${n===0?' off':''}" href="#" data-go="${k}"><span>${e}</span><span>${name}</span><span class="n">${n}</span></a>`;
+  const cap = state.r===1 ? state.d : `近 ${state.r} 天`;
+  $('side').innerHTML = `<div class="cap">${esc(cap)}</div>` + entries.map(nv).join('') + (extra.length ? '<hr>' + extra.map(nv).join('') : '');
+  $('navChips').innerHTML = entries.concat(extra.filter(x=>x[0]==='dropped')).filter(x=>x[3])
+    .map(([k,e,name,n])=>`<button class="chip" data-go="${k}">${e} ${esc(name)}<span class="n">${n}</span></button>`).join('');
+}
+let clicked = '';           // 最近一次点的导航项：底部几个区块滚不到顶，滚到底时优先高亮它
+function go(sec){
+  const el = document.querySelector(`[data-sec="${sec}"]`); if(!el) return;
+  if(el.tagName==='DETAILS') el.open = true;
+  clicked = sec;
+  el.scrollIntoView({behavior:'smooth', block:'start'});
+}
+// 滚动高亮：取最后一个已经滚过吸顶 header 的区块；滚到底时高亮最后一个（或刚点的那个，只要它还在屏幕里）
+function spy(){
+  const secs = [...document.querySelectorAll('[data-sec]')].filter(el=>el.offsetParent!==null);
+  if(!secs.length) return;
+  const top = $('hdr').offsetHeight + 24;
+  let cur = secs[0].dataset.sec;
+  for(const el of secs){ if(el.getBoundingClientRect().top - top <= 0) cur = el.dataset.sec; else break; }
+  if(window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 4){
+    const c = clicked && secs.find(el=>el.dataset.sec===clicked);
+    cur = c && c.getBoundingClientRect().top < window.innerHeight ? clicked : secs[secs.length-1].dataset.sec;
+  }
+  document.querySelectorAll('#side .nv, #navChips .chip').forEach(a=>a.classList.toggle('on', a.dataset.go===cur));
+}
+
 function chip(v,label,n,on){ return `<button class="chip${on?' on':''}" data-v="${esc(v)}">${esc(label)}<span class="n">${n}</span></button>`; }
 function link(x){ return x.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a>` : esc(x.title); }
 function groupByModule(arr){
-  const g = {}; arr.forEach(x=>(g[x.module]=g[x.module]||[]).push(x));
+  const g = {}; arr.forEach(x=>{ const k = MOD[x.module] ? x.module : 'other'; (g[k]=g[k]||[]).push(x); });
   return MODULES.filter(m=>g[m[0]]).map(m=>{
     const list = g[m[0]];
-    return `<h3 class="grp">${m[1]} ${m[2]}<span class="n">${list.length}</span></h3>` + list.map(card).join('');
+    return `<h3 class="grp" data-sec="${m[0]}">${m[1]} ${m[2]}<span class="n">${list.length}</span></h3>` + list.map(card).join('');
   }).join('');
+}
+function detailBlock(x){
+  const d = x.detail; if(!d || !(d.points||[]).length) return '';
+  return `<details class="more"${state.r===1?' open':''}><summary>深度解读 · ${d.points.length} 个要点</summary><ol class="pts">` +
+    d.points.map(p=>`<li>${p.title?`<b>${esc(p.title)}</b>`:''}${esc(p.text)}</li>`).join('') + `</ol>` +
+    (d.takeaway ? `<p class="tk">💡 ${esc(d.takeaway)}</p>` : '') + `</details>`;
 }
 function card(x){
   const m = MOD[x.module]||MOD.other;
@@ -305,11 +390,12 @@ function card(x){
   const tags = (x.tags||[]).map(t=>`<span class="tag" data-v="${esc(t)}">#${esc(t)}</span>`).join('');
   const kws = (x.keywords||[]).length ? `<span class="kw">${esc(x.keywords.join(' · '))}</span>` : '';
   const imp = `<span class="imp" title="重要度 ${x.importance}/5">${'●'.repeat(x.importance||0)}${'○'.repeat(5-(x.importance||0))}</span>`;
+  const day = state.r>1 ? `<span>${esc(x._date)}</span>` : '';
   if(x.module==='ad'){
-    return `<div class="card ad"><p class="t">${link(x)}</p><p class="s">${esc(x.summary)}</p><div class="meta"><span>${esc(x.source)}</span>${also}${tags}</div></div>`;
+    return `<div class="card ad"><p class="t">${link(x)}</p><p class="s">${esc(x.summary)}</p><div class="meta"><span>${esc(x.source)}</span>${day}${also}${tags}</div></div>`;
   }
-  return `<div class="card"><p class="t">${link(x)}</p><p class="s">${esc(x.summary)}</p>
-    <div class="meta"><span class="badge" style="background:var(--${x.module})">${m.emoji} ${m.name}</span><span>${esc(x.source)}</span>${also}${x.pub_date?`<span>${esc(x.pub_date)}</span>`:''}${imp}${tags}${kws}</div></div>`;
+  return `<div class="card"><p class="t">${link(x)}</p><p class="s">${esc(x.summary)}</p>${detailBlock(x)}
+    <div class="meta"><span class="badge" style="background:var(--${x.module in MOD ? x.module : 'other'})">${m.emoji} ${m.name}</span><span>${esc(x.source)}</span>${day}${also}${x.pub_date?`<span>${esc(x.pub_date)}</span>`:''}${imp}${tags}${kws}</div></div>`;
 }
 init();
 })();
