@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-20T00:52:37+00:00",
+  "updated": "2026-10-21T00:52:29+00:00",
   "days": [
+    {
+      "date": "2026-10-21",
+      "total": 19,
+      "modules": {
+        "rival": 0,
+        "industry": 5,
+        "product": 3,
+        "newgame": 1,
+        "company": 7,
+        "deep": 2,
+        "ad": 1,
+        "other": 0
+      },
+      "headlines": [
+        "Supercell正式全资收购Metacore，《庄园合合》累计流水近50亿元",
+        "米哈游的新作，看了不会“烧心”",
+        "Sensor Tower data shows the yawning gap between GTA 6 and everything else",
+        "欧盟向“开宝箱抽卡游戏”挥出重拳，10月底前一律改为16+分级！",
+        "年化收入超1亿美元，这家公司做AI比做游戏还赚钱？"
+      ]
+    },
     {
       "date": "2026-10-20",
       "total": 21,
