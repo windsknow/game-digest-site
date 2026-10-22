@@ -1,0 +1,439 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T00:52:19+00:00",
+  "model": "deepseek-flash",
+  "total": 17,
+  "modules": {
+    "rival": 0,
+    "industry": 8,
+    "product": 4,
+    "newgame": 1,
+    "company": 3,
+    "deep": 0,
+    "ad": 1,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 1,
+      "reason": "EA关闭30年历史的BioWare并终止《质量效应》新作，裁员约400人，收购完成不到三个月即动刀，影响行业格局。"
+    },
+    {
+      "id": 10,
+      "reason": "Xbox下一代主机Helix传2028年发售、定价1200-1800美元，Game Pass订阅不足目标一半，重组裁员持续。"
+    },
+    {
+      "id": 15,
+      "reason": "Sensor Tower数据：2026年首月销量超50万套游戏增至76款，独立游戏占43%、原创IP大增，行业供给结构生变。"
+    },
+    {
+      "id": 16,
+      "reason": "Open World评估《GTA 6》下月发售将冲击COD、EA Sports FC等，美国数字预购已达608万份、5.94亿美元。"
+    }
+  ],
+  "items": [
+    {
+      "id": 10,
+      "title": "Project Helix reportedly launching in late 2028, projected to cost between $1,200 and $1,800",
+      "url": "https://www.gamesindustry.biz/project-helix-reportedly-launching-in-late-2028-projected-to-cost-between-1200-and-1800",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-21 13:38",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "据Fortune报道，Xbox下一代主机Project Helix预计2028年假日季发售，定价约1200-1800美元，截止日期已提前至少数月，开发团队承压并借助AI。Xbox还计划明年晚些推出新一代掌机，并可能对Game Pass进行分层改版。截至2026年7月，Game Pass订阅数不足原目标50%。",
+      "tags": [
+        "硬件平台",
+        "裁员"
+      ],
+      "keywords": [
+        "Xbox",
+        "Project Helix",
+        "微软"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 15,
+      "title": "Indies and original IP blew up in 2026",
+      "url": "https://www.gamesindustry.biz/indies-and-original-ip-blew-up-in-2026",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-21 11:39",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Sensor Tower应GamesIndustry.biz请求所做研究显示，2026年独立游戏与原创IP在PC/主机大作中占比显著上升。首月销量超50万套的游戏从2025年的55款增至76款，销量同比增51%至1.824亿套；",
+      "tags": [
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "Sensor Tower",
+        "独立游戏",
+        "原创IP"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 2,
+      "title": "AMD's FSR 4.1 upscaling is coming to Xbox Series X|S",
+      "url": "https://www.gamesindustry.biz/amds-fsr-41-upscaling-is-coming-to-xbox-series-xs",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-21 17:39",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "微软与AMD宣布FSR 4.1超分辨率技术将登陆Xbox Series X|S，具体时间未定。FSR 4.1为基于机器学习的时序超分方案，还将支持Radeon RX 6000系列显卡及部分Ryzen 9笔记本和ROG Xbox Ally掌机。开发者需为游戏打补丁才能启用，旧作不会自动升级；",
+      "tags": [
+        "硬件平台",
+        "技术AI"
+      ],
+      "keywords": [
+        "AMD",
+        "Xbox",
+        "FSR"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 3,
+      "title": "17名声优歌手被拒签,《赛马娘》美国巡演紧急取消！二次元能是非法移民？",
+      "url": "https://news.qq.com/rain/a/20261021A0EQC100",
+      "source": "GameLook",
+      "pub_date": "2026-10-21 15:01",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Cygames宣布原定洛杉矶孔雀剧院举办的《赛马娘Pretty Derby》第7次世界巡演洛杉矶站因17名声优歌手赴美签证未获批，在开幕前三天紧急取消，并启动门票、VIP通行证及流媒体券退款，同时评估伦敦、首尔等后续日程。主办方称提前6个多月推进签证仍未获批准。文章还提到LPL战队TES因选手ZUIAN美签被拒临时换人，折射游戏与电竞出海面临的签证制度性风险。",
+      "tags": [
+        "出海",
+        "展会活动"
+      ],
+      "keywords": [
+        "赛马娘",
+        "Cygames",
+        "签证"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 4,
+      "title": "游戏人道心破碎：“三年的活、AI一天干完”，全球最大游戏反编译平台关站！",
+      "url": "https://news.qq.com/rain/a/20261021A0EQBS00",
+      "source": "GameLook",
+      "pub_date": "2026-10-21 15:01",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GameLook报道AI反编译老游戏的两面：有工程师称花三年逆向重建一款已关服MMO，而AI不到20分钟即可重建世界并让角色走动，15分钟完成一个功能；同月全球最大游戏逆向工程社区decomp.dev宣布关闭，管理员称因恶意用户复制项目并用AI完成、把逆向工程与简单移植混为一谈。文章还提及PS5 Linux项目作者因AI垃圾代码退出，并讨论AI提效与替代、手艺与原创性的边界。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "decomp.dev",
+        "AI",
+        "逆向工程"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 16,
+      "title": "Games like Call of Duty and EA Sports FC most at risk of losing players during GTA 6 launch, according to new data",
+      "url": "https://www.gamesindustry.biz/games-like-call-of-duty-and-ea-sports-fc-most-at-risk-of-losing-players-during-gta-6-launch-according-to-new-data",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-21 10:53",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "咨询公司Open World风险评估显示，《使命召唤》《战地》《Apex英雄》《堡垒之夜》《EA Sports FC》《NBA 2K》等竞技射击与体育游戏在《GTA 6》下月发售时最可能流失玩家。调查称69%的PC/主机玩家计划游玩《GTA 6》，截至10月13日美国数字预购约608万份、收入5.94亿美元。",
+      "tags": [
+        "市场分析",
+        "榜单数据"
+      ],
+      "keywords": [
+        "GTA 6",
+        "Open World",
+        "使命召唤"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 17,
+      "title": "裁员潮席卷游戏行业，独立作曲家怎样渡过难关？",
+      "url": "https://news.qq.com/rain/a/20261021A0C4SS00",
+      "source": "触乐",
+      "pub_date": "2026-10-21 10:39",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "据ASGC“游戏行业裁员追踪器”估计，2026年全球超14500名游戏从业者将失业，裁员总数仅次于2024年的15631人，可能成为有记录以来最严重年份之一。文章聚焦自由职业作曲家群体：项目预算缩减、工作室随时关停（如《秘奥：秘宇奥忆》开发商Douze Dixièmes 6月关停），合同工机会减少、报酬呈下降趋势，从业者在维持生计与创作之间艰难平衡。",
+      "tags": [
+        "裁员",
+        "人物访谈"
+      ],
+      "keywords": [
+        "裁员",
+        "作曲家",
+        "自由职业"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 18,
+      "title": "Vivrato: 97% of studio leaders use AI in some form during development in EU and North America",
+      "url": "https://www.gamesindustry.biz/vivrato-97-of-studio-leaders-use-ai-in-some-form-during-development-in-eu-and-north-america",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-21 08:40",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "咨询公司Vivrato对欧美101位工作室负责人的访谈报告显示，97%的负责人在开发中以某种形式使用AI，94%在九个制作阶段中至少一个阶段使用。AI最常用于代码与工程（86%）、通用生产力任务（83%）、概念与预制作（79%），设计与原型68%、美术动画60%。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "Vivrato",
+        "AI",
+        "工作室"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 5,
+      "title": "离大谱！《WarDogs》新赛季上线3天就要停？CEO认错：“我们确实搞砸了”",
+      "url": "https://news.qq.com/rain/a/20261021A0EQBO00",
+      "source": "GameLook",
+      "pub_date": "2026-10-21 15:01",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "Bulkhead《WARDOGS》S2赛季10月15日上线后因平衡性崩坏，CEO Joe Brammer于17日公开认错“我们确实搞砸了”，宣布大幅缩短S2、提前S3。问题源于大幅压缩升级经验（职业20级从25万降至11.15万），导致刷子服与高级装备泛滥，蓝方阵营加成24小时内被移除。游戏9月10日EA首日售125万套、5天破200万，峰值42.9万，现回落至约20万仍居Steam在线前十，暴露小团队长线运营短板。",
+      "tags": [
+        "版本更新",
+        "产品复盘"
+      ],
+      "keywords": [
+        "WARDOGS",
+        "Bulkhead",
+        "Steam"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 7,
+      "title": "吹哥亲述“疯狂十年”！自研语言、自研引擎、烧光2亿，“下款游戏会容易点”",
+      "url": "https://news.qq.com/rain/a/20261021A0EQBE00",
+      "source": "GameLook",
+      "pub_date": "2026-10-21 15:01",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "乔纳森·布洛（吹哥）新作《沉星之序》发售近两周Steam好评率97%、M站86分，但Steam峰值仅八千余、首周销量预估5-11万套，GameLook估算全平台20-30万套、流水约3000-4000万元，相对十年投入回血约10%。团队巅峰14人、仅4名程序员，十年间自研Jai编程语言与引擎并做出约1500个手工谜题（共做超3000个砍掉大半）。他称下款游戏将沿用现有引擎与语言、会更容易，并看淡AI对高质量内容的作用。",
+      "tags": [
+        "产品复盘",
+        "人物访谈"
+      ],
+      "keywords": [
+        "沉星之序",
+        "乔纳森·布洛",
+        "Thekla"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 8,
+      "title": "战棋里长出个搜打撤 这款二游要重新“开荒”自己？",
+      "url": "https://news.qq.com/rain/a/20261021A0EQB100",
+      "source": "GameLook",
+      "pub_date": "2026-10-21 15:01",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《少女前线2：追放》10月19日上线全新玩法「危区探遗」，将俯视角射击与战争迷雾、掩体、油桶引爆等战棋策略逻辑结合，弱化枪法、强调信息差与地形利用。制作人羽中称该方向已酝酿近两年，此前“边境推进”等尝试未达预期。文章认为这是散爆在“战术”主线上的一次解构重构，并提及《少前：蓝蝶契约》《逆向坍塌：F》构成其战术射击产品矩阵。",
+      "tags": [
+        "版本更新",
+        "产品复盘"
+      ],
+      "keywords": [
+        "少女前线2",
+        "散爆",
+        "危区探遗"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 20,
+      "title": "《皇牌空战8：希孚之翼》：祖宗之法基础上的微创新",
+      "url": "https://news.qq.com/rain/a/20261021A08YT000",
+      "source": "触乐",
+      "pub_date": "2026-10-21 07:04",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "触乐评测10月2日发售的《皇牌空战8：希孚之翼》（PC/PS5/Xbox Series X|S），认为其继承系列全部“祖宗之法”——顶级画面、豪快空气动力学、海量敌人与机体、复杂升级树、巨型决战兵器、中二悲壮剧情与交响乐，并新增更优僚机指挥、目标爆炸连锁杀伤等微创新。作者称达到期待、无惊喜也无失望，剧情可再成熟，遗憾VR模式未回归。",
+      "tags": [
+        "产品复盘"
+      ],
+      "keywords": [
+        "皇牌空战8",
+        "Namco"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 12,
+      "title": "前网易制作人领衔：腾讯开放世界新作押宝“癫味赛道”？",
+      "url": "https://news.qq.com/rain/a/20261021A0DS2N00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-21 13:21",
+      "also_seen_in": [
+        "游戏葡萄"
+      ],
+      "module": "newgame",
+      "summary": "腾讯旗下宇宙小狗工作室（COSMICPUP STUDIO）公开开放世界RPG《人间异想计划》并发布22分钟实机演示，定位“轻怪谈都市异想开放世界RPG”，采用UE5。制作人为原网易杭州F工作室负责人叶谦（羊头），在网易任职16年。游戏以怪谈与人类共生的悬浮都市“异乐都”为背景，战斗为多角色切换连招+精闪精防+打崩架势条的ARPG框架。文章认为其题材“癫味”与视听风格是最大差异点，但都市开放世界赛道已十分拥挤。",
+      "tags": [
+        "新品曝光",
+        "市场分析"
+      ],
+      "keywords": [
+        "腾讯",
+        "人间异想计划",
+        "叶谦"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 1,
+      "title": "BioWare is closing after 30 years",
+      "url": "https://www.gamesindustry.biz/bioware-is-closing-after-30-years",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-21 17:55",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "EA宣布关闭成立超30年的BioWare工作室，终止《质量效应》新作早期开发；据彭博社，EA将裁员约400人（约3%员工），其中BioWare约50人。此举发生在EA于8月4日被PIF、Silver Lake和Affinity Partners收购完成不到三个月后。",
+      "tags": [
+        "裁员",
+        "并购"
+      ],
+      "keywords": [
+        "EA",
+        "BioWare",
+        "质量效应"
+      ],
+      "importance": 5
+    },
+    {
+      "id": 11,
+      "title": "叠纸要造机器人了？姚润昊持股60%，资本1000万注册新公司",
+      "url": "https://news.qq.com/rain/a/20261021A0DS2U00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-21 13:21",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "叠纸游戏成立“女娲仿生（上海）智能科技有限公司”，注册资本1000万元，创始人姚润昊直接持股60%并任实控人，经营范围含智能机器人研发销售、服务消费机器人制造、玩具制造及AI硬件销售。此前叠纸已招聘机器人结构负责人、系统工程师等岗位，8月变更经营范围新增AI软件与硬件销售，显示其从虚拟角色互动向实体AI陪伴硬件延伸。",
+      "tags": [
+        "技术AI",
+        "硬件平台"
+      ],
+      "keywords": [
+        "叠纸",
+        "姚润昊",
+        "女娲仿生"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 14,
+      "title": "总规模共约112亿元！完美世界近期认购的两支投资基金完成募资",
+      "url": "https://news.qq.com/rain/a/20261021A0DD3A00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-21 12:34",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "完美世界公布两支认购基金募资完成：天津砺思星深总规模75.2亿元，完美世界出资5000万元占0.66%；拾象尚势总规模36.5亿元，完美世界出资1亿元占2.74%。今年8月以来完美世界已参与四次投资基金认购，总出资超7亿元，方向多为新兴科技。砺思星深还吸引知乎出资15亿元（占约19.95%），拾象尚势有世纪华通子公司出资6.5亿元（占约17.8%）。",
+      "tags": [
+        "融资"
+      ],
+      "keywords": [
+        "完美世界",
+        "砺思资本",
+        "世纪华通"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 6,
+      "title": "《无畏契约》冠军夜刀光落定，电竞之都上海带来别样秋日周末",
+      "url": "https://news.qq.com/rain/a/20261021A0EQBH00",
+      "source": "GameLook",
+      "pub_date": "2026-10-21 15:01",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "2026无畏契约上海全球冠军赛收官，LOUD 3:1击败VIT成首支双冠王，赛事首落中国并配套前滩派对与品牌联动。",
+      "tags": [
+        "电竞",
+        "展会活动"
+      ],
+      "keywords": [
+        "无畏契约",
+        "拳头游戏",
+        "上海"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [
+    {
+      "id": 19,
+      "title": "Demystifying unions: What games leaders need to know",
+      "url": "https://www.gamesindustry.biz/demystifying-unions-what-games-leaders-need-to-know",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-21 08:00",
+      "reason": "劳资/工会",
+      "by": "rule"
+    },
+    {
+      "id": 9,
+      "title": "How to run an indie game studio: Part 4, Setting (and hitting) quarterly rocks",
+      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-4-setting-and-hitting-quarterly-rocks",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-21 14:00",
+      "reason": "独立工作室经营指南系列，属D2不收录。",
+      "by": "model"
+    }
+  ],
+  "source_stats": {
+    "GamesIndustry.biz": {
+      "fetched": 8,
+      "selected": 6,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 2
+    },
+    "GameLook": {
+      "fetched": 6,
+      "selected": 5,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏葡萄": {
+      "fetched": 1,
+      "selected": 0,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "触乐": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
