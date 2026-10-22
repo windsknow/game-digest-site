@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-21T00:52:29+00:00",
+  "updated": "2026-10-22T00:52:20+00:00",
   "days": [
+    {
+      "date": "2026-10-22",
+      "total": 17,
+      "modules": {
+        "rival": 0,
+        "industry": 8,
+        "product": 4,
+        "newgame": 1,
+        "company": 3,
+        "deep": 0,
+        "ad": 1,
+        "other": 0
+      },
+      "headlines": [
+        "BioWare is closing after 30 years",
+        "Project Helix reportedly launching in late 2028, projected to cost between $1,200 and $1,800",
+        "Indies and original IP blew up in 2026",
+        "Games like Call of Duty and EA Sports FC most at risk of losing players during GTA 6 launch, according to new data"
+      ]
+    },
     {
       "date": "2026-10-21",
       "total": 19,
