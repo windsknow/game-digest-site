@@ -1,0 +1,518 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T00:51:45+00:00",
+  "model": "deepseek-flash",
+  "total": 20,
+  "modules": {
+    "rival": 0,
+    "industry": 8,
+    "product": 3,
+    "newgame": 0,
+    "company": 5,
+    "deep": 1,
+    "ad": 3,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 18,
+      "reason": "EA裁员400人并解散31年历史的BioWare，《质量效应5》终止，550亿美元杠杆收购后降本增效震动行业。"
+    },
+    {
+      "id": 7,
+      "reason": "腾讯年内跌35%、网易跌13.6%，AI抽走资金叠加行业“没故事”，游戏股集体重挫。"
+    },
+    {
+      "id": 13,
+      "reason": "Roblox上半年40.5亿小时成总时长最高游戏，16岁以上用户80%付费，成熟化趋势值得关注。"
+    },
+    {
+      "id": 10,
+      "reason": "《漫威金刚狼》登顶美国9月榜，PS5支出同比增43%，Switch 2与Xbox销量下滑。"
+    }
+  ],
+  "items": [
+    {
+      "id": 7,
+      "title": "“没故事可讲”的游戏股，跌了一整年！",
+      "url": "https://news.qq.com/rain/a/20261022A0EDFA00",
+      "source": "GameLook",
+      "pub_date": "2026-10-22 15:31",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GameLook分析2026年游戏股集体大跌：腾讯年内跌35.42%、网易跌13.59%，世纪华通跌34.3%、三七互娱跌近30%、中手游跌53.51%。原因包括地缘政治与高利率、资金抱团炒AI抽走游戏板块资金，以及行业自身“没故事可讲”。文章指出AI虽降本20%-30%但资本更追捧AI，游戏公司甚至反向投资AI；头部大厂目标清晰但游戏业务不再被资本市场关注，中坚厂商分化严重，小游戏赛道仅早期入局者赚钱。建议上市公司学习非大厂爆款案例、抓真实用户需求、战略投资AI与IP整合。",
+      "tags": [
+        "市场分析",
+        "财报业绩"
+      ],
+      "keywords": [
+        "腾讯",
+        "网易",
+        "世纪华通",
+        "三七互娱"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 10,
+      "title": "Marvel's Wolverine leads US September charts, achieves highest monthly dollar sales for a Sony-published title since Helldivers 2",
+      "url": "https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-sony-published-title-since-helldivers-2",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-22 13:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Circana数据显示，2026年9月美国游戏市场《漫威金刚狼》登顶销量榜，创下自《绝地潜兵2》以来索尼发行游戏最高单月美元销售额。PS5支出同比增长43%、销量增长22%，为索尼自2025年5月以来最高单月硬件美元份额。",
+      "tags": [
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "Circana",
+        "漫威金刚狼",
+        "PS5",
+        "NBA 2K27"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 13,
+      "title": "Report explores how Roblox can maintain older players as it becomes most-played game by total hours in H1 2026",
+      "url": "https://www.gamesindustry.biz/report-explores-how-roblox-can-maintain-older-players-as-it-becomes-most-played-game-by-total-hours-in-h1-2026",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-22 11:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Newzoo与GEEIQ联合报告显示，Roblox在2026上半年PC和主机端产生40.5亿小时游玩时长，成为总时长最高的游戏。其16岁以上成熟用户中80%过去半年在游戏上付费，远高于非Roblox玩家的59%。Roblox平均1400万同时在线，分布在670万活跃体验中，头部50个体验占700万。",
+      "tags": [
+        "榜单数据",
+        "市场分析",
+        "出海"
+      ],
+      "keywords": [
+        "Roblox",
+        "Newzoo",
+        "GEEIQ"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 2,
+      "title": "94%游戏工作室表态：“都在用AI，但都没用深”",
+      "url": "https://news.qq.com/rain/a/20261022A0EDFS00",
+      "source": "GameLook",
+      "pub_date": "2026-10-22 15:31",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "前PlayStation高管Adam Boyes创立的Vivrato旗下VAIA发布游戏行业AI采用报告，基于2026年4-9月对北美和欧洲101位高级工作室领导的机密访谈。97%受访者表示开发中使用过AI，94%在至少一个核心阶段应用；代码与工程（86%）、通用生产力（83%）渗透率最高，玩法设计（68%）、美术动画（60%）、QA（57%）、叙事（55%）递减。但嵌入深度中位数仅3分（满分10），52%给出3分或以下。欧洲工作室整合深度（4.2分）高于北美（3.5分）。报告认为AI作为辅助工具已普及，但远未接管核心管线。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "VAIA",
+        "Vivrato",
+        "AI"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 12,
+      "title": "暴死的二游们，想靠单机“秽土转生”",
+      "url": "https://news.qq.com/rain/a/20261022A0CUVI00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-22 12:35",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "游戏陀螺观察停运二游通过改单机“复活”的现象：《银河境界线》停服两年多后转单机并众筹，98-998元档位引发定价争议；《辉烬》团队解散后由外包工作室木子岚接手改为PC单机《辉烬：南星》，但UI手游痕迹重；《未来战》关服一周即公布重启项目；《歌之超时空要塞》转买断制。此外玩家用AI修复《少女咖啡枪》《爆裂魔女》等停服游戏。文章指出《龙之剑：觉醒》转单机全球销量30万份仍未收回成本，玩家不反感复活但质疑品质与定价，手游改单机面临单机市场直接比价。",
+      "tags": [
+        "关服停运",
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "银河境界线",
+        "辉烬",
+        "未来战",
+        "龙之剑"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 16,
+      "title": "Xbox reveals pricing for cloud gaming limits, starting at $3.99 for 10 hours",
+      "url": "https://www.gamesindustry.biz/xbox-reveals-pricing-for-cloud-gaming-limits-starting-at-399-for-10-hours",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-22 09:14",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Xbox公布Game Pass云游戏时长包定价：10小时3.99美元、25小时7.99美元、50小时11.99美元，提供无广告、更短等待和高质量串流，时长用完前有效。此前已宣布Game Pass Essential限5小时、Premium限10小时、Ultimate限15小时。",
+      "tags": [
+        "硬件平台",
+        "市场分析"
+      ],
+      "keywords": [
+        "Xbox",
+        "Game Pass",
+        "云游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 17,
+      "title": "Fortnite returns to iOS in Australia after court rules Apple violated competition law",
+      "url": "https://www.gamesindustry.biz/fortnite-returns-to-ios-in-australia-after-court-rules-apple-violated-competition-law",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-22 08:08",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "澳大利亚联邦法院裁定苹果违反竞争法，限制第三方应用商店和支付方式。法院要求苹果开放iOS第三方应用商店，《堡垒之夜》将重返澳大利亚iOS，Epic游戏商店稍后跟进。2027年3月起，用户可直接从开发者下载应用，开发者可提供替代支付方式，苹果不得强制使用内购或额外收费，不得阻止引导用户至第三方商店。",
+      "tags": [
+        "法律诉讼",
+        "政策监管"
+      ],
+      "keywords": [
+        "Epic",
+        "苹果",
+        "堡垒之夜"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 11,
+      "title": "深职大“极智游戏设计工坊”启动：政校企协共探“AI+游戏”人才培养",
+      "url": "https://news.qq.com/rain/a/20261022A0CUVN00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-22 12:35",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "10月21日，深圳职业技术大学数字传媒学院与深圳市游戏产业协会主办的“极智游戏设计工坊”启动，现场完成校企合作签约、揭牌和导师授聘。工坊是“AI+游戏传承经典文化共创计划”的载体，围绕《中华传统文化百部经典》探索AI+游戏创新表达。已有创梦天地、冰川网络、第七大道、迷你创想、中青宝、TapTap等13家企业参与。座谈会探讨AI重塑游戏行业、岗位边界消融、OPC单人开发兴起，以及AI内容同质化、合规和算力成本等问题。",
+      "tags": [
+        "技术AI",
+        "展会活动"
+      ],
+      "keywords": [
+        "深圳职业技术大学",
+        "深圳市游戏产业协会",
+        "AI+游戏"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 6,
+      "title": "1人4小时开发，“AI投胎人生模拟游戏”火了！",
+      "url": "https://news.qq.com/rain/a/20261022A0EDFD00",
+      "source": "GameLook",
+      "pub_date": "2026-10-22 15:31",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "韩国独立开发者Jin Hwi-eus借助Claude Opus 5.5，仅用4小时开发出纯文字网页游戏《80亿分之1》（1in8b.life），在社交网络爆火，获《勇者斗恶龙》之父堀井雄二等人推荐，58%的虚拟人生被玩家完整推演至终局。游戏基于联合国、WHO、世界银行等172国真实统计数据随机生成出生，玩家体验从出生到死亡的人生，并同步展示四个同秒出生者的轨迹。文章对比Steam新品节大量低质AI游戏，指出工具普及后创意才是稀缺品。",
+      "tags": [
+        "技术AI",
+        "产品复盘"
+      ],
+      "keywords": [
+        "80亿分之1",
+        "Claude",
+        "AI游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 19,
+      "title": "月入3500万，小团队又跑出第2个休闲爆款了？",
+      "url": "https://news.qq.com/rain/a/20261022A08OMW00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-22 07:32",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "塞浦路斯小团队Multicast Games（不到50人）的街机放置RPG《Butcher Hero》在8月2.0版本更新后数据快速爬升，月收入突破3500万元（Sensor Tower），日活突破20万，累计下载500多万、收入过亿。游戏采用吞噬进化+永久成长+资源刷取玩法，混合变现，广告收入约占总收入35%。2.0版本重制装备地图、新增任务指引、货币系统和联赛/Boss挑战，改善中后期体验。前作《Alien Invasion》累计6000万下载、超3亿元IAP收入，仍有20多万日活。游戏即将登陆Steam并寻找中国发行商。",
+      "tags": [
+        "出海",
+        "产品复盘",
+        "榜单数据"
+      ],
+      "keywords": [
+        "Multicast Games",
+        "Butcher Hero",
+        "Alien Invasion"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 20,
+      "title": "《荒野乱斗》LCQ，与一款“小众游戏”共赴金票之旅",
+      "url": "https://news.qq.com/rain/a/20261022A05LFE00",
+      "source": "触乐",
+      "pub_date": "2026-10-22 03:44",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "10月17-18日，《荒野乱斗》全球锦标赛最后一搏资格赛（LCQ）在广州举行，NAVI和Team Heretics赢得通往东京全球总决赛的两张金票。现场将游戏模式移植线下，观众以20岁上下男大学生为主，多为五六年老玩家。15场比赛中6场打满3:2，翻盘频繁。两支中国战队TOC和Ace Xero小组赛出局，26岁KDS选手Bobby止步，现场观众高喊其名字送别。文章以记者视角记录赛事氛围与玩家情怀。",
+      "tags": [
+        "电竞",
+        "展会活动"
+      ],
+      "keywords": [
+        "荒野乱斗",
+        "LCQ",
+        "Supercell"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 18,
+      "title": "EA大裁400人：BioWare工作室解散、多个游戏终止研发",
+      "url": "https://news.qq.com/rain/a/20261022A08ONG00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-22 07:32",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "EA宣布裁员约400人（占员工总数3%），并解散成立31年的BioWare工作室，其约50个岗位被裁，《质量效应5》终止开发。同时调整四大品类：Respawn与DICE合并开发新射击项目，《Apex英雄》继续投入；动作冒险聚焦《漫威钢铁侠》和《星球大战绝地》新作；体育全力运营《EA Sports FC》并开发《Project Gridiron》和《拳击之夜》重启；生活模拟优先《模拟人生》Project Evergreen、取消Project Lotus，《Skate》团队缩减。EA今年8月被PIF、银湖资本等以550亿美元杠杆收购，账面增债约180亿美元，正降本增效。",
+      "tags": [
+        "裁员",
+        "并购",
+        "财报业绩"
+      ],
+      "keywords": [
+        "EA",
+        "BioWare",
+        "质量效应",
+        "战地"
+      ],
+      "importance": 5
+    },
+    {
+      "id": 1,
+      "title": "\"It was crushing how hard it was\" – The chaotic development of Dispatch, and what AdHoc Studio plans next",
+      "url": "https://www.gamesindustry.biz/it-was-crushing-how-hard-it-was-the-chaotic-development-of-dispatch-and-what-adhoc-studio-plans-next",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-22 16:15",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "AdHoc Studio CEO Michael Choung回顾《Dispatch》发售一年：游戏玩家超500万，2025年11月称三个月即有望超越三年销售目标。团队由四位Telltale前成员2019年创立，曾获发行商部分资助后被放弃，靠合同工作和Critical Role等完成融资。",
+      "tags": [
+        "产品复盘",
+        "人物访谈"
+      ],
+      "keywords": [
+        "AdHoc Studio",
+        "Dispatch",
+        "Telltale"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 3,
+      "title": "情怀投资到期，米哈游不做脑机接口了？退出上海零唯一思",
+      "url": "https://news.qq.com/rain/a/20261022A0EDFK00",
+      "source": "GameLook",
+      "pub_date": "2026-10-22 15:31",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "10月21日，米哈游通过子公司阿尔戈科技退出上海零唯一思科技有限公司股东行列，结束这笔脑机接口投资。零唯一思由蔡浩宇硕士导师、上海交大教授吕宝粮持股51%创立，米哈游2021年12月入股49%。公司研发未停，吕宝粮2026年获脑机接口“华瑙奖”，9月仍参加行业论坛，已有新股东接盘。GameLook认为这是米哈游收缩与游戏主业协同有限的情怀投资，不等于放弃脑机接口赛道，同时盘点了OpenAI、Meta、Anthropic、Neuralink及G胖Starfish Neuroscience的布局。",
+      "tags": [
+        "市场分析",
+        "技术AI"
+      ],
+      "keywords": [
+        "米哈游",
+        "零唯一思",
+        "脑机接口"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 5,
+      "title": "叠纸不画饼：姚润昊机器人公司来了，纸片人老公真要“走出屏幕”？",
+      "url": "https://news.qq.com/rain/a/20261022A0EDFF00",
+      "source": "GameLook",
+      "pub_date": "2026-10-22 15:31",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "10月16日，女娲仿生（上海）智能科技有限公司在上海杨浦注册成立，注册资本1000万元，叠纸创始人兼CEO姚润昊直接持股60%，叠纸科技法定代表人姚飞持股3%，其余37%由四家有限合伙持有，穿透后大股东均为姚飞、背后为姚润昊100%控股公司。经营范围含智能机器人研发销售、服务消费机器人制造、人工智能硬件销售、玩具制造，主营为仿生机器人研发。叠纸今年3月已招聘AI机器人结构负责人等硬件岗位。GameLook分析认为叠纸意在将《恋与深空》等IP的情感陪伴延伸至实体机器人，但面临恐怖谷、成本和量产难题。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "叠纸",
+        "姚润昊",
+        "女娲仿生",
+        "恋与深空"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 14,
+      "title": "How Pantaloon is curating an \"evolving library of bold and bizarre games\" with its new subscription service",
+      "url": "https://www.gamesindustry.biz/how-pantaloon-is-curating-an-evolving-library-of-bold-and-bizarre-games-with-its-new-subscription-service",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-22 11:00",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Pantaloon推出订阅服务Playbill，定位“大胆怪异游戏的持续扩展库”，获15万美元投资，首发14款游戏及自家作品，包括《Buckshot Roulette》《Silt》等，Devolver的《Virtue: Prologue》限时独占。订阅费每月4.99美元/每年49.99美元，年订阅立即解锁全部游戏。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "Pantaloon",
+        "Playbill",
+        "独立游戏"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 15,
+      "title": "Eternal Summer访谈：《极乐迪斯科》精神最激进的继承者是怎么想的？",
+      "url": "https://news.qq.com/rain/a/20261022A0BO9O00",
+      "source": "触乐",
+      "pub_date": "2026-10-22 10:54",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "触乐专访《极乐迪斯科》前编剧团队组建的Summer Eternal工作室，其以劳动者共有、预留股份给玩家非营利组织的合作社模式运作，约40名自由职业成员，游戏总监投票产生。工作室将发行500页文集《选集》，并开发纵火题材RPG《赤雉》，强调“身体性”交互、桌游式GM体验和严肃政治表达。核心创作者Argo Tuulik、Aleksandar Gavrilović、Dora Klindžić和角色设计师Laurie Astro分享了组织架构、FairShares理念、与特德·姜的对谈，以及《赤雉》两位主角Redrick和Astrid的设计思路。他们认为《极乐迪斯科》的精神是艺术协作，精神继承者只能由受众赋予。",
+      "tags": [
+        "人物访谈",
+        "市场分析"
+      ],
+      "keywords": [
+        "Summer Eternal",
+        "赤雉",
+        "极乐迪斯科"
+      ],
+      "importance": 3,
+      "detail": {
+        "points": [
+          {
+            "title": "创作者反抗资本的新实验",
+            "text": "Summer Eternal由原《极乐迪斯科》编剧团队核心成员组建，包括Argo Tuulik、Dora Klindžić、Andrus Laansalu、Olga Moskvina等，于2024年10月宣布成立。工作室采用劳动者所有制，并预留股份给玩家非营利组织，直接回应ZA/UM资本纠纷。其《宣言》称将艺术完整性置于利润之上，这种激进组织形式在行业内罕见，吸引了大量关注。对竞品分析师而言，这代表了一种以创作者品牌和意识形态为卖点的差异化竞争策略，可能吸引特定核心玩家群体。"
+          },
+          {
+            "title": "FairShares与决策机制",
+            "text": "工作室借鉴南斯拉夫的工人自治和FairShares概念，主张劳动者与社区共同持有。游戏总监由投票产生，任期内团队尊重其决策，避免设计委员会。自由职业合作社约40名成员，利润按贡献分配但投票一人一票。经济学家Richard Wolff和Yanis Varoufakis提供建议。这种实验性架构试图平衡艺术统一与民主治理，但 scalability 存疑。对国内公司，可观察其如何在小规模团队中维持创作效率，但大规模复制难度高。"
+          },
+          {
+            "title": "实体书《选集》的社群营销",
+            "text": "工作室在游戏开发早期推出500页文集《选集》，收录行业对谈和创作过程，旨在记录实验、吸引玩家支持并筹集资金。Dora Klindžić强调其实验记录价值，并称账户没有千百万资金，必须让玩家兴奋。实体书设计成火柴盒样式，目标成为可世代保存的“永恒之物”。这种以实体出版物构建社群认同的方式，不同于传统宣发，适合资金有限但理念鲜明的团队。国内独立团队可借鉴其社群运营思路，但需评估投入产出比。"
+          },
+          {
+            "title": "《赤雉》继承创作精神而非形式",
+            "text": "Argo Tuulik指出《赤雉》与《极乐迪斯科》相似处不多，核心是继承艺术协作的创作过程。游戏是纵火题材RPG，发生在沙盒世界，有多样分支对话和桌游启发角色系统，掷骰机制回归。强调扮演有血有肉的普通人，依赖他人且有缺点。在角色扮演上探索身体性，如通过鼠标拖拽阻力表现力量检定。目标受众包括《极乐迪斯科》和CRPG爱好者。这显示其试图在叙事深度和交互创新上建立壁垒，而非简单复制成功公式。"
+          },
+          {
+            "title": "政治表达与沉浸感",
+            "text": "面对玩家对游戏内立场表达的反感，Argo和Aleks认为政治是生活基本组成部分，严肃叙事无法回避。他们收到邮件期待真实表达意识形态的游戏。这反映其目标用户可能对政治议题有较高接受度。对市场分析师，需注意政治表达在不同市场的风险，尤其国内审核环境。但另一方面，这种鲜明立场可能形成忠实社群，类似《极乐迪斯科》的粉丝基础。"
+          },
+          {
+            "title": "角色设计与写作技巧",
+            "text": "角色设计师Laurie Astro（Grungesniper）强调角色可信度优先于外表吸引力，参考芬兰演员Heikki Kinnunen和音乐人Patti Smith，注重个性与协作。写作上，Argo认为对话本身可以是玩法，借鉴《异域镇魂曲》和《瘟疫2》的无力感设计。这些细节体现团队对叙事和角色塑造的重视，可能成为产品差异化优势。国内厂商在追求视觉冲击时，可思考如何平衡角色魅力与真实感。"
+          }
+        ],
+        "takeaway": "Summer Eternal的实验表明，在资本密集的游戏行业，以创作者所有制和鲜明意识形态为核心的小团队，可通过社群运营和实体出版物构建忠实用户群。国内公司可借鉴其社群共建和过程透明化策略，但需谨慎评估政治表达的市场风险。其强调叙事深度和角色可信度的产品方向，对追求内容差异化的团队有参考价值，但大规模复制其组织模式不现实。"
+      }
+    },
+    {
+      "id": 4,
+      "title": "《地铁跑酷》老板分享：15年，零买量，为何还能有1.5亿MAU？",
+      "url": "https://news.qq.com/rain/a/20261022A0EDFH00",
+      "source": "GameLook",
+      "pub_date": "2026-10-22 15:31",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "SYBO CEO称《地铁跑酷》15年零买量、月活1-1.5亿，新作《城市》下载4000-5000万。",
+      "tags": [
+        "产品复盘",
+        "人物访谈"
+      ],
+      "keywords": [
+        "地铁跑酷",
+        "SYBO",
+        "Miniclip"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 8,
+      "title": "《代号：神不言》干货分享：祖龙如何用UE5做出「热辣滚烫的肉体」？",
+      "url": "https://news.qq.com/rain/a/20261022A0DGG200",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-22 13:35",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "祖龙在Unreal Fest分享UE5女性向新作《代号：神不言》的角色与移动端渲染技术。",
+      "tags": [
+        "技术AI",
+        "展会活动"
+      ],
+      "keywords": [
+        "祖龙娱乐",
+        "代号：神不言",
+        "UE5"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 9,
+      "title": "网易带着MMO最高的山，给同行们上了一课？",
+      "url": "https://news.qq.com/rain/a/20261022A0DGFV00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-22 13:35",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "网易与暴雪借“魔兽世界：无限派对”宣布时光服内容延伸至P11之后，将推新职业和新PvP活动，并为时光服扩招。",
+      "tags": [
+        "版本更新",
+        "IP联动"
+      ],
+      "keywords": [
+        "魔兽世界",
+        "网易",
+        "暴雪"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [],
+  "source_stats": {
+    "GamesIndustry.biz": {
+      "fetched": 6,
+      "selected": 6,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "GameLook": {
+      "fetched": 6,
+      "selected": 5,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏葡萄": {
+      "fetched": 2,
+      "selected": 0,
+      "ad": 2,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "触乐": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
