@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-22T00:52:20+00:00",
+  "updated": "2026-10-23T00:51:55+00:00",
   "days": [
+    {
+      "date": "2026-10-23",
+      "total": 20,
+      "modules": {
+        "rival": 0,
+        "industry": 8,
+        "product": 3,
+        "newgame": 0,
+        "company": 5,
+        "deep": 1,
+        "ad": 3,
+        "other": 0
+      },
+      "headlines": [
+        "EA大裁400人：BioWare工作室解散、多个游戏终止研发",
+        "“没故事可讲”的游戏股，跌了一整年！",
+        "Report explores how Roblox can maintain older players as it becomes most-played game by total hours in H1 2026",
+        "Marvel's Wolverine leads US September charts, achieves highest monthly dollar sales for a Sony-published title since Helldivers 2"
+      ]
+    },
     {
       "date": "2026-10-22",
       "total": 17,
