@@ -1,0 +1,504 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T00:51:51+00:00",
+  "model": "deepseek-flash",
+  "total": 20,
+  "modules": {
+    "rival": 0,
+    "industry": 5,
+    "product": 4,
+    "newgame": 2,
+    "company": 4,
+    "deep": 1,
+    "ad": 4,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 7,
+      "reason": "吉比特Q3营收净利双降，但前三季度仍增两成，《杖剑传说》流水23亿、海外收入增86%，透露新品与出海计划。"
+    },
+    {
+      "id": 10,
+      "reason": "EA关闭BioWare、约400人受影响，《质量效应》新作取消，私募股权收购后削减成本的又一标志性事件。"
+    },
+    {
+      "id": 8,
+      "reason": "诗悦《望月》百万年薪招UE主程、项目描述改为UE5，研发五年的旗舰二游或再延期，二游竞争加剧。"
+    },
+    {
+      "id": 13,
+      "reason": "Capcom数据泄露波及超1170万Capcom ID账号，196个账号密码被改，头部厂商信息安全风险再受关注。"
+    }
+  ],
+  "items": [
+    {
+      "id": 3,
+      "title": "触乐本周行业大事：从业者怎么看？光子公布怪谈RPG新作，《影之刃：零》发布最终预告，Steam新品节AI游戏占比超三成",
+      "url": "https://news.qq.com/rain/a/20261024A0CCVZ00",
+      "source": "触乐",
+      "pub_date": "2026-10-24 12:19",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "触乐周报：腾讯光子H.STUDIO公布轻怪谈都市开放世界RPG《人间异想计划》并放出22分钟实机PV，团队位于杭州，负责人叶谦为前网易F工作室负责人；SteamDB统计10月Steam新品节约2596款游戏披露使用生成式AI，占比超三成，较6月上涨16个百分点；《影之刃：零》发布最终预告。",
+      "tags": [
+        "新品曝光",
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "腾讯",
+        "光子工作室",
+        "人间异想计划",
+        "影之刃零"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 6,
+      "title": "7年倒闭7.5万家，如今日均新开61家：年轻人正在集体「逃回」网吧",
+      "url": "https://news.qq.com/rain/a/20261023A0CP2H00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-24 01:35",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "据中国互联网上网服务行业协会白皮书，截至2025年底全国上网服务门店12.26万家，全年营收1016.8亿元、消费55.71亿人次；较2023年7.7万家净增4.56万家，日均新开约61家。网吧回暖主因是《三角洲行动》《无畏契约》等新游及多平台二游带动，叠加高性价比线下娱乐需求。",
+      "tags": [
+        "市场分析",
+        "榜单数据"
+      ],
+      "keywords": [
+        "网吧",
+        "三角洲行动",
+        "无畏契约",
+        "原神"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 11,
+      "title": "GameMaker to make its \"next-generation runtime\" GMRT free for commercial use in January 2027",
+      "url": "https://www.gamesindustry.biz/gamemaker-to-make-its-next-generation-runtime-gmrt-free-for-commercial-use-in-january-2027",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-23 13:52",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GameMaker宣布其下一代运行时GMRT自2027年1月1日起对商业使用免费，开发者可免费在桌面、移动、网页及GX Games发布游戏，各层级均开放源代码访问，但主机导出仍需企业授权。",
+      "tags": [
+        "技术AI",
+        "硬件平台"
+      ],
+      "keywords": [
+        "GameMaker",
+        "GMRT"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 12,
+      "title": "Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award",
+      "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-23 13:06",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "任天堂宫本茂将成为日本首位获得文化勋章的电子游戏开发者，颁奖仪式于11月3日文化日举行；他此前于2019年获授文化功劳者。",
+      "tags": [
+        "人物访谈"
+      ],
+      "keywords": [
+        "任天堂",
+        "宫本茂"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 20,
+      "title": "2026北京亦庄·未来游戏电竞科技大会成功举办",
+      "url": "https://news.qq.com/rain/a/20261023A06NYP00",
+      "source": "触乐",
+      "pub_date": "2026-10-23 04:24",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "2026北京亦庄·未来游戏电竞科技大会举办，发布游戏电竞十大科技创新应用场景，启动未来游戏电竞季，并落地电竞赛事直播中心、AI游戏创作平台等四大合作项目；亦庄已打造LPL、KPL双主场并引入《三角洲行动》职业联赛。",
+      "tags": [
+        "展会活动",
+        "电竞",
+        "技术AI"
+      ],
+      "keywords": [
+        "北京亦庄",
+        "电竞",
+        "伽马数据"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 8,
+      "title": "一直用Unity的《望月》开始“自称UE5游戏”，百万年薪招UE主程",
+      "url": "https://news.qq.com/rain/a/20261023A0EZ6700",
+      "source": "GameLook",
+      "pub_date": "2026-10-23 15:40",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "诗悦旗舰二游《望月》在招聘软件发布百万年薪「UE客户端主程」岗位，项目描述改为「UE5自研二次元都市开放世界ARPG」，而此前一直使用Unity并魔改HDRP。游戏已开发五年、团队600+人，四季度将开PC测试，执行制作人华韬9月转任荣誉制作人，转向UE或致发布时间后移。",
+      "tags": [
+        "技术AI",
+        "人事变动"
+      ],
+      "keywords": [
+        "望月",
+        "诗悦",
+        "UE5"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "Call of Duty: Modern Warfare 4 | Critical Consensus",
+      "url": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-critical-consensus",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-23 09:59",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《使命召唤：现代战争4》媒体评分解禁，Metacritic均分84，多家媒体称其回归水准；战役以朝鲜入侵韩国为背景约6小时，多人模式获好评，新撤离模式DMZ被指是系列迄今最完整的撤离射击体验，也是2013年以来首登任天堂主机。",
+      "tags": [
+        "产品复盘",
+        "硬件平台"
+      ],
+      "keywords": [
+        "使命召唤",
+        "Infinity Ward",
+        "动视"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 18,
+      "title": "全国首款、迄今唯一，对话网易爆款主创：做得越顺手，反而越危险",
+      "url": "https://news.qq.com/rain/a/20261023A0ACND00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-23 08:36",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《燕云十六声》开放新主题区域未央城，PV在B站播放近600万。主创受访称主题为「以何为贵」的欲求探讨，地图自上而下深入海下，新增占风望气能力与万事值交易系统；团队强调管线成熟后走老路「做得出来不等于值得做」，需持续探索差异化。",
+      "tags": [
+        "版本更新",
+        "人物访谈"
+      ],
+      "keywords": [
+        "燕云十六声",
+        "未央城",
+        "网易"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 19,
+      "title": "Podcast: Landfall's Rebecca Lautner on Peak's 23 million sales and looking past friendslop",
+      "url": "https://www.gamesindustry.biz/podcast-landfalls-rebecca-lautner-on-peaks-23-million-sales-and-looking-past-friendslop",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-23 08:00",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "Landfall CBO Rebecca Lautner在GamesIndustry.biz播客透露《Peak》销量已超2300万份，但团队仍想转向新项目；公司推行「一个月内决定是否放弃」的快速失败策略，并已成立发行品牌Evil Landfall，投资范围不限于friendslop品类。",
+      "tags": [
+        "产品复盘",
+        "市场分析"
+      ],
+      "keywords": [
+        "Landfall",
+        "Peak"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 2,
+      "title": "米哈游投资，前沐瞳CEO公司发行：被大伟哥指点后，他们做了款搜躲撤",
+      "url": "https://news.qq.com/rain/a/20261025A07Z7300",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-25 08:15",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "奥秘游戏公布UE5多人合作搜躲撤新游《潜梦者》首曝PV，发行与投资方为前沐瞳CEO袁菁的Pilot Games，立项获米哈游总裁大伟哥指导。游戏以梦境为主题、核心机制为抓取解谜，强调空间变化与叙事，团队不到30人，距发售尚早。",
+      "tags": [
+        "新品曝光",
+        "融资"
+      ],
+      "keywords": [
+        "潜梦者",
+        "奥秘游戏",
+        "Pilot Games",
+        "米哈游"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 16,
+      "title": "一款二次元箱庭动作游戏首曝，由成都百人团队研发",
+      "url": "https://news.qq.com/rain/a/20261023A0BL0T00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-23 09:51",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "成都南棠羽网络二次元箱庭动作游戏《星溯》发布首曝PV，制作人蛋蛋曾参与《苍雾残响》等项目，研发周期至少4年、团队超百人。战斗采用削韧、切人、极限闪避与可弹反远程攻击的机制，弹反与技能消耗技能点形成资源博弈；TapTap预约榜第16，页面显示PC端2028年Q1、移动端Q2上线。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "星溯",
+        "南棠羽"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 7,
+      "title": "吉比特Q3业绩下滑，高管：更重稳健运营，靠产品实现“台阶性跳跃增长”",
+      "url": "https://news.qq.com/rain/a/20261023A0EZ6C00",
+      "source": "GameLook",
+      "pub_date": "2026-10-23 15:40",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "吉比特2026Q3营收17.7亿元同比降10.07%，归母净利4.93亿元同比降13.34%；前三季度营收54.96亿元同比增22.53%，净利15.85亿元同比增30.55%。《杖剑传说》前三季度流水23.13亿元，海外收入10.95亿元同比增86.27%。高管称将稳健经营、靠产品实现台阶式增长，并透露《杖剑传说》将发韩国越南、代号M98已立项。",
+      "tags": [
+        "财报业绩",
+        "出海"
+      ],
+      "keywords": [
+        "吉比特",
+        "杖剑传说",
+        "问道手游"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 10,
+      "title": "BioWare's end is a tragically familiar tale | Opinion",
+      "url": "https://www.gamesindustry.biz/biowares-end-is-a-tragically-familiar-tale-opinion",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-23 15:04",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "BioWare被EA关闭，约400人受影响，其开发中的《质量效应》新作取消。评论认为这是私募股权收购EA后削减成本的必然结果，也是BioWare十余年追逐多人/服务型趋势、管理失当的悲剧性终点。",
+      "tags": [
+        "裁员",
+        "关服停运",
+        "市场分析"
+      ],
+      "keywords": [
+        "BioWare",
+        "EA",
+        "质量效应"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 13,
+      "title": "Capcom affected by data breach, over 11.7m Capcom ID accounts compromised",
+      "url": "https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-23 11:05",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Capcom确认10月19日遭未授权第三方入侵，超1170万个Capcom ID账号受影响；196个账号密码被擅自修改，其中19个e-Capcom账户页面被访问，泄露姓名、电话、地址、出生日期、购买记录等，信用卡信息未受影响。",
+      "tags": [
+        "法律诉讼",
+        "市场分析"
+      ],
+      "keywords": [
+        "Capcom",
+        "数据泄露"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 17,
+      "title": "对话 ｜甲方跑路，被欠款的美术外包把游戏重做成单机！",
+      "url": "https://news.qq.com/rain/a/20261023A0BL0N00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-23 09:51",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "二次元共斗手游《辉烬》研发方千乎网络6月底全员解散并拖欠外包费，美术外包木子岚工作室自费将游戏重制为买断制单机ARPG《辉烬：南星》，6月立项、9月完成主线与基本功能，10月16日上线Steam页面，愿望单一周增数千，预计年内上线、定价两位数。",
+      "tags": [
+        "关服停运",
+        "产品复盘"
+      ],
+      "keywords": [
+        "辉烬",
+        "木子岚",
+        "千乎网络"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 1,
+      "title": "AI抢跑，游戏复活，原创开发者如何守住自己的游戏？",
+      "url": "https://news.qq.com/rain/a/20261025A07Z7500",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-25 13:59",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "诺诚游戏法分析AI降低开发门槛后的两类法律风险：一是独立游戏Demo走红后被换皮抢先上线，如《家庭时光》被高度近似产品竞争，原作已发DMCA；二是玩家借AI复刻停运游戏甚至搭建私服，涉及著作权侵权与不正当竞争。文章建议原创团队优先申请诉前行为保全、同步平台投诉，并给出权利基础、侵权、知名度三类证据的取证要点，援引2025年深圳龙华法院行为保全案与《热血传奇》私服刑事案。",
+      "tags": [
+        "法律诉讼",
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "AI复刻",
+        "家庭时光",
+        "私服"
+      ],
+      "importance": 3,
+      "detail": {
+        "points": [
+          {
+            "title": "AI降低复刻门槛",
+            "text": "AI工具显著降低了游戏复刻的技术门槛，使玩家能借助AI分析客户端、重写代码，复活停运游戏甚至复刻热门游戏。例如，《方舟指令》《苍之纪元》《魔女兵器》《电击文库：零境交错》《魔法禁书目录》《cos大乱斗》《爆裂魔女》等已被成功复活；《王者荣耀》《崩坏3》也有玩家实现部分复刻。过去复刻需要逆向工程和开发能力，如今AI可协助阅读代码、分析资源、生成替代代码，使所有玩家都可能成为潜在创作者。"
+          },
+          {
+            "title": "Demo被抢发风险",
+            "text": "独立游戏Demo公开后，面临被AI复刻并抢先发布的风险。《家庭时光》试玩版在Itch.io走红后，出现名称近似、角色设定和商店页面高度相似的产品，将“狼娘”替换为“狐狸妈妈”并增加联机玩法，原开发者已发出DMCA下架通知。另一款独立游戏《Drunken Goddess Reflux》因此取消公开试玩，转为邀请制封闭测试。抢先发布可能挤压原创团队的市场机会，且可能构成著作权侵权或不正当竞争。"
+          },
+          {
+            "title": "诉讼保全优于判决",
+            "text": "对于正版未发售、侵权产品已抢先上线的情形，原创团队应优先评估申请诉前行为保全，要求法院先行停止盗版游戏的上架、下载、充值和运营。2025年深圳市龙华区人民法院在一起游戏著作权及不正当竞争纠纷中，裁定侵权方立即停止提供涉案游戏的下载、加速和充值等服务。该案表明，游戏推广阶段、侵权损害持续性和及时制止侵权的必要性是法院审查行为保全的重要因素。平台投诉和司法行为保全可并行，以在首发窗口期及时制止侵权。"
+          },
+          {
+            "title": "停运不等于权利终止",
+            "text": "游戏停运不意味着著作权消灭，游戏公司仍对软件、美术素材、BGM及品牌商誉享有权利。玩家从旧客户端提取资源重新打包提供下载或搭建在线服务，可能构成侵权及不正当竞争。若项目向公众提供持续在线服务，则行为模式接近私服。2021年上海三中院审理的《热血传奇》私服案中，被告人自行开发引擎但使用原作素材，被认定侵犯著作权罪，判处有期徒刑三年六个月和一年，并处罚金105万元和20万元。代码不同但画面相似仍可能侵权。"
+          },
+          {
+            "title": "复活项目商业化风险",
+            "text": "部分停运游戏复活项目已从个人兴趣转向向公众提供下载甚至重建服务端，若通过充值、会员收费、广告收益、售卖安装包等方式获利，可能产生侵犯著作权罪的刑事问题。即使重新编写代码，若游戏画面与原作高度一致，仍可能侵犯视听作品、美术作品著作权；使用原作名称、商标还可能涉及商标侵权及不正当竞争。游戏公司可准备权利基础证据、侵权证据和知名度证据，采取平台投诉、民事诉讼、刑事报案等维权措施。"
+          }
+        ],
+        "takeaway": "AI降低复刻门槛，使Demo抢发和停运游戏复活频发，直接冲击原创游戏的首发窗口和长尾价值。国内公司应前置知识产权布局：Demo阶段即固定研发记录和素材权属，监控商店页面与私服动态，善用平台投诉和诉前行为保全快速止损；对停运IP建立复活监测与授权机制，避免品牌商誉被稀释。竞品分析需关注AI仿制品的玩法微调与商业化路径，评估其对正版用户分流的实际影响。"
+      }
+    },
+    {
+      "id": 4,
+      "title": "网易给玩家打了一圈电话吹福利，然后就冲上了畅销榜第二？",
+      "url": "https://news.qq.com/rain/a/20261024A076N800",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-24 05:00",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《炉石传说》国服周年庆送自选钻皮等福利，主播电话营销出圈，推动游戏登App Store畅销榜第2。",
+      "tags": [
+        "版本更新",
+        "IP联动"
+      ],
+      "keywords": [
+        "炉石传说",
+        "网易",
+        "暴雪"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 5,
+      "title": "西山居“剑侠收官之作”到底怎样？主创：“PC占主力，首周超预期”",
+      "url": "https://news.qq.com/rain/a/20261023A0EZ5Y00",
+      "source": "GameLook",
+      "pub_date": "2026-10-24 01:37",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "西山居《剑侠世界4：无限》公测一周，官方称PC端为主、首周数据超预期，将长线运营二十年。",
+      "tags": [
+        "产品复盘",
+        "人物访谈"
+      ],
+      "keywords": [
+        "剑侠世界4",
+        "西山居"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 9,
+      "title": "“四大金刚”天团护航，《蓝色星原》下了一手大棋！",
+      "url": "https://news.qq.com/rain/a/20261023A0EZ5T00",
+      "source": "GameLook",
+      "pub_date": "2026-10-23 15:40",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "蛮啾《蓝色星原：旅谣》定档11月26日国服公测，全球预约破2500万，日韩东南亚由Nexon、悠星、PlayPark联合发行。",
+      "tags": [
+        "新品定档",
+        "出海"
+      ],
+      "keywords": [
+        "蓝色星原",
+        "蛮啾",
+        "悠星"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 14,
+      "title": "日活破11年纪录、畅销榜第2，《率土之滨》新十年开门红是怎么打出来的",
+      "url": "https://news.qq.com/rain/a/20261023A0BV8X00",
+      "source": "触乐",
+      "pub_date": "2026-10-23 10:14",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《率土之滨》十一周年庆日活创11年新高、登iOS畅销榜第2，并举办航母杯与百大授勋盛典。",
+      "tags": [
+        "版本更新",
+        "电竞"
+      ],
+      "keywords": [
+        "率土之滨",
+        "网易"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [],
+  "source_stats": {
+    "游戏葡萄": {
+      "fetched": 4,
+      "selected": 3,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "触乐": {
+      "fetched": 3,
+      "selected": 2,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "GameLook": {
+      "fetched": 4,
+      "selected": 2,
+      "ad": 2,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 6,
+      "selected": 6,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
