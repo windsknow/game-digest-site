@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-23T00:51:55+00:00",
+  "updated": "2026-10-26T00:51:59+00:00",
   "days": [
+    {
+      "date": "2026-10-26",
+      "total": 20,
+      "modules": {
+        "rival": 0,
+        "industry": 5,
+        "product": 4,
+        "newgame": 2,
+        "company": 4,
+        "deep": 1,
+        "ad": 4,
+        "other": 0
+      },
+      "headlines": [
+        "吉比特Q3业绩下滑，高管：更重稳健运营，靠产品实现“台阶性跳跃增长”",
+        "BioWare's end is a tragically familiar tale | Opinion",
+        "一直用Unity的《望月》开始“自称UE5游戏”，百万年薪招UE主程",
+        "Capcom affected by data breach, over 11.7m Capcom ID accounts compromised"
+      ]
+    },
     {
       "date": "2026-10-23",
       "total": 20,
