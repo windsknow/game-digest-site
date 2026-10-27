@@ -1,0 +1,513 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T00:52:15+00:00",
+  "model": "deepseek-flash",
+  "total": 22,
+  "modules": {
+    "rival": 0,
+    "industry": 6,
+    "product": 3,
+    "newgame": 0,
+    "company": 10,
+    "deep": 0,
+    "ad": 3,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 3,
+      "reason": "Nexon收回《蔚蓝档案》日服运营权，日服占BA全球收入七成以上，悠星失去日本市场主力产品。"
+    },
+    {
+      "id": 4,
+      "reason": "微软向最多6万名员工开放自愿离职，涵盖Xbox等部门，继7月、9月裁员后再收缩。"
+    },
+    {
+      "id": 9,
+      "reason": "Sensor Tower：2026年首月50万销量新游增至76款，独立游戏爆款占比从24%升至43%，新IP占53%。"
+    },
+    {
+      "id": 15,
+      "reason": "Netflix拟7年5亿美元授权Xbox IP改编影视，Xbox要价8亿美元致交易告吹，IP跨媒体价值受关注。"
+    }
+  ],
+  "items": [
+    {
+      "id": 9,
+      "title": "Sensor Tower报喜：2026超半数爆款新游是新IP、其中43%是独游！",
+      "url": "https://news.qq.com/rain/a/20261027A0000C00",
+      "source": "GameLook",
+      "pub_date": "2026-10-26 15:58",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Sensor Tower为GI所做报告显示，2026年首月销量超50万份的新游从55款增至76款，总销量1.824亿份同比增51%。独立游戏爆款从13款增至33款，占比24%升至43%；新IP从21款增至40款，占比38%升至53%。3A仍占首月销量约半数，2A占比从21%降至14%，独立游戏从26%升至38%。独立游戏前五为《超级变色龙》1390万、《How to Fish》790万、《杀戮尖塔2》590万、《丝之歌》520万、《逃离鸭科夫》400万。",
+      "tags": [
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "Sensor Tower",
+        "独立游戏",
+        "新IP"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 5,
+      "title": "Epic Games CEO calls Steam's AI disclosure policies \"a political act\"",
+      "url": "https://www.gamesindustry.biz/epic-games-ceo-calls-steams-ai-disclosure-policies-a-political-act",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-26 19:54",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Epic CEO Tim Sweeney再次抨击Steam的AI披露政策，称其为「政治行为」，认为强制开发者声明AI使用会被用于针对游戏的抵制运动。他主张平台不应给使用AI的游戏打标签，此前6月已称Valve此举「极不负责」。",
+      "tags": [
+        "技术AI",
+        "政策监管"
+      ],
+      "keywords": [
+        "Epic",
+        "Tim Sweeney",
+        "Steam",
+        "Valve"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 8,
+      "title": "Paris Games Biz showcased a guarded optimism in the face of turmoil, both locally and in the industry at large | Opinion",
+      "url": "https://www.gamesindustry.biz/paris-games-biz-showcased-a-guarded-optimism-in-the-face-of-turmoil-locally-and-in-the-industry-at-large-opinion",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-26 16:33",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "第三届Paris Game Biz在法国抗议与社会动荡中举行，与会者持谨慎乐观。法国小工作室普遍依赖政府资助，税收减免上限每年600万欧元，适合独立团队但大工作室收益递减。与会者关注IP合作与营销，生成式AI在独立团队中采用有限。巴黎游戏周缺少Xbox等大展商，有传闻称可能步E3后尘。",
+      "tags": [
+        "展会活动",
+        "市场分析"
+      ],
+      "keywords": [
+        "Paris Game Biz",
+        "法国",
+        "育碧"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 12,
+      "title": "获日本文化勋章，宫本茂采访：“游戏变成三代人娱乐”，“创意是1、AI是0”",
+      "url": "https://news.qq.com/rain/a/20261026A0EEOA00",
+      "source": "GameLook",
+      "pub_date": "2026-10-26 15:58",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "宫本茂成为首位获日本文化勋章的游戏创作者，73岁的他在任天堂总部记者会聊五十年从业经历：初代马力欧因技术限制不做Boss战、以「跑到最右即胜利」设计；DS/Wii推倒玩家与非玩家之墙；从反对游戏改编电影转向拥抱IP跨媒体；谈AI称「创意是1、AI是0」，AI替代的是作业而非创作。",
+      "tags": [
+        "人物访谈",
+        "市场分析"
+      ],
+      "keywords": [
+        "宫本茂",
+        "任天堂",
+        "马力欧"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 22,
+      "title": "Shogun 2 – Complete Edition was \"not a Creative Assembly developed game,\" says Total War VP after it was pulled amid generative AI concerns",
+      "url": "https://www.gamesindustry.biz/shogun-2-complete-edition-was-not-a-creative-assembly-developed-game-says-total-war-vp-after-it-was-pulled-amid-generative-ai-concerns",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-26 08:40",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Creative Assembly就《全面战争：幕府将军2 完全版》生成式AI争议发声明，Total War VP Roger Collum称该版本非CA内部开发、未经过同等QA，已下架并派高级开发者与世嘉及外部开发商处理。CA称不用生成式AI制作游戏资产，AI只辅助不替代创作者。",
+      "tags": [
+        "技术AI",
+        "版本更新"
+      ],
+      "keywords": [
+        "Creative Assembly",
+        "全面战争",
+        "世嘉"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 11,
+      "title": "微博评最有影响力游戏制作人：冯骥、梁其伟名副其实，金亨泰帕鲁FF7制作人在列",
+      "url": "https://news.qq.com/rain/a/20261027A0000200",
+      "source": "GameLook",
+      "pub_date": "2026-10-26 15:58",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "微博V影响力大会揭晓2026年度最具影响力游戏制作人，冯骥、梁其伟、金亨泰、沟部拓郎、滨口直树五人上榜。玩家在评论区集中催更《黑神话》新作、《影之刃零》等，冯骥亲自下场玩梗回应，梁其伟透露10月29日有新内容。",
+      "tags": [
+        "人物访谈",
+        "展会活动"
+      ],
+      "keywords": [
+        "冯骥",
+        "梁其伟",
+        "金亨泰",
+        "微博"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 2,
+      "title": "中世纪题材跑出新黑马？“数字门SLG”新品月入700万美元",
+      "url": "https://news.qq.com/rain/a/20261026A0CJUH00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-26 23:23",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "Game Spark中世纪冰雪题材数字门SLG《Top Lords》9月全球单月流水突破700万美元。游戏以数字门跑酷射击衔接城堡城建与4X，加入领主养成、联盟征税等差异化设计。文章认为其承接了《Last War》买量放缓后外溢的泛用户需求，后续生命周期待观察。",
+      "tags": [
+        "出海",
+        "市场分析"
+      ],
+      "keywords": [
+        "Top Lords",
+        "数字门SLG",
+        "Last War"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 10,
+      "title": "《赛博朋克2077》Steam在线破18万人：动画第二季豆瓣仅5.5分！",
+      "url": "https://news.qq.com/rain/a/20261027A0000600",
+      "source": "GameLook",
+      "pub_date": "2026-10-26 15:58",
+      "also_seen_in": [
+        "触乐"
+      ],
+      "module": "product",
+      "summary": "《赛博朋克2077》2.5版本10月22日上线叠加《边缘行者2》10月20日开播，Steam同时在线峰值达18.7万、热销榜前四，4天新增4425条评测、预估销量超13万。动画口碑崩盘，豆瓣5.5分（第一季9.0）。2.5版本新增双持手枪、手掌义体改色、跨平台模组支持等，旧Mod不兼容成差评主因。",
+      "tags": [
+        "版本更新",
+        "IP联动"
+      ],
+      "keywords": [
+        "赛博朋克2077",
+        "边缘行者2",
+        "CDPR"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 21,
+      "title": "上线运营19年，这款老牌网游「越拆越细」了",
+      "url": "https://news.qq.com/rain/a/20261026A0BKBC00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-26 10:02",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "畅游《新天龙八部》端游运营19年，发行制作人吴鹏称过去一年经典端+怀旧端在线与活跃达近三年最佳。游戏以经典服、轻享服、怀旧服、原始服等细分服务器承接不同需求，8月首个经典轻享服「桃花源」开服2小时在线破1.2万、一半活跃为回归老玩家。第17个门派昆仑为首个双形态门派，明年迎20周年。",
+      "tags": [
+        "版本更新",
+        "产品复盘"
+      ],
+      "keywords": [
+        "新天龙八部",
+        "畅游",
+        "吴鹏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 3,
+      "title": "NEXON直接收回，悠星痛失运营5年的《蔚蓝档案》日服代理权！",
+      "url": "https://news.qq.com/rain/a/20261026A0EEOE00",
+      "source": "GameLook",
+      "pub_date": "2026-10-26 23:05",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "《蔚蓝档案》日服官方直播宣布，运营权将从悠星移交Nexon，结束悠星五年多代理。日服收入占BA全球七成以上，8月夏活仍进日本iOS畅销Top3。悠星约一年前开始协商但Nexon决定不续约，玩家普遍不舍。悠星后续将联合发行11月26日定档的《蓝色星原：旅谣》日服。",
+      "tags": [
+        "出海"
+      ],
+      "keywords": [
+        "蔚蓝档案",
+        "悠星",
+        "Nexon"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 4,
+      "title": "Xbox staff among up to 60,000 Microsoft employees offered voluntary exit",
+      "url": "https://www.gamesindustry.biz/xbox-staff-among-up-to-60000-microsoft-employees-offered-voluntary-exit",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-26 21:34",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "微软向美国、英国、加拿大、印度70级及以下员工开放限时自愿离职计划，The Verge称最多6万人符合资格，涵盖Xbox、Windows+Devices、AI等部门。此前7月、9月已裁员，据称后续还有裁员计划。",
+      "tags": [
+        "裁员"
+      ],
+      "keywords": [
+        "微软",
+        "Xbox"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 6,
+      "title": "Auroch Digital lays off a quarter of its staff",
+      "url": "https://www.gamesindustry.biz/auroch-digital-lays-off-a-quarter-of-its-staff",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-26 18:20",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "英国布里斯托工作室Auroch Digital启动裁员咨询，影响约四分之一岗位。该工作室2021年被Sumo Group以830万美元收购，曾开发《战锤40K：爆弹枪2》等，称市场环境导致重组。",
+      "tags": [
+        "裁员"
+      ],
+      "keywords": [
+        "Auroch Digital",
+        "Sumo Group"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 7,
+      "title": "223,000+ people sign petition to \"save Mass Effect\"",
+      "url": "https://www.gamesindustry.biz/223000-people-sign-petition-to-save-mass-effect",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-26 18:05",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "EA 10月21日宣布关闭成立30余年的BioWare并取消下一款《质量效应》，超22.3万人签署Change.org请愿，要求EA继续开发或授权IP给其他工作室。EA未公开回应。",
+      "tags": [
+        "关服停运"
+      ],
+      "keywords": [
+        "EA",
+        "BioWare",
+        "质量效应"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 13,
+      "title": "Side expands presence in China, opens new studio and acquires art outsourcing provider Roboto Entertainment",
+      "url": "https://www.gamesindustry.biz/side-expands-presence-in-china-opens-new-studio-and-acquires-art-outsourcing-provider-roboto-entertainment",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-26 14:33",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "服务商Side在成都开设新工作室并收购美术外包公司Roboto Entertainment，创始人Andrea Cordella任全球美术主管兼成都工作室负责人。Side CEO称中国已是行业最重要市场之一，Niko Partners预计2026年中国游戏收入增4%至539亿美元。",
+      "tags": [
+        "并购",
+        "出海"
+      ],
+      "keywords": [
+        "Side",
+        "Roboto Entertainment",
+        "成都"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 14,
+      "title": "\"It was a pretty harrowing three months\" – Undead Labs head Philip Holt on what happened after Xbox cut the studio loose",
+      "url": "https://www.gamesindustry.biz/it-was-a-pretty-harrowing-three-months-undead-labs-head-philip-holt-on-what-happened-after-xbox-cut-the-studio-loose",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-26 13:30",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Undead Labs CEO Philip Holt讲述7月被Xbox剥离后三个月经历：曾寻求收购方与投资未果，最终靠自有现金和未具名发行商资金完成《腐烂国度3》（2027年窗口），公司转为员工持股，Holt持少数股权但有超级投票权。9月进行了显著裁员，员工从百余人降至更少。",
+      "tags": [
+        "人事变动"
+      ],
+      "keywords": [
+        "Undead Labs",
+        "Xbox",
+        "腐烂国度3"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "Netflix reportedly offered $500m to Microsoft to license Xbox IP for seven years",
+      "url": "https://www.gamesindustry.biz/netflix-reportedly-offered-500m-to-microsoft-to-license-xbox-ip-for-seven-years",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-26 13:02",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Puck报道Netflix曾提出7年5亿美元授权Xbox IP改编影视，Xbox方面要求8亿美元后交易告吹，Netflix前内容主管Bela Bajaria已离职。Xbox称IP兴趣创纪录，本月新设XP部门做影视、电视、主题公园衍生。",
+      "tags": [
+        "IP联动"
+      ],
+      "keywords": [
+        "Netflix",
+        "微软",
+        "Xbox"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 18,
+      "title": "Microsoft extends consultation period for Arkane Lyon as it continues development on Marvel's Blade",
+      "url": "https://www.gamesindustry.biz/microsoft-extends-consultation-period-for-arkane-lyon-as-it-continues-development-on-marvels-blade",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-26 10:52",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "微软将Arkane Lyon的咨询期延长一个月以寻找新买家，《漫威刀锋战士》开发继续。原定11月13日截止，工会称裁员谈判进展不佳，内部报告称全面停业计划2026年底启动、延续至2027年一季度。",
+      "tags": [
+        "裁员"
+      ],
+      "keywords": [
+        "Arkane Lyon",
+        "微软",
+        "漫威刀锋战士"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 19,
+      "title": "雷霆游戏投资一家上海游戏公司，疑似前阿哇龙COO创业？",
+      "url": "https://news.qq.com/rain/a/20261026A0BKBT00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-26 10:02",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "雷霆游戏投资上海火因山风网络约30%股份。该公司2024年10月成立，有6款小游戏/休闲游戏软著，大股东田佳佳疑似前阿哇龙COO、曾在雷霆任项目经理，推测为离职创业获老东家投资。",
+      "tags": [
+        "融资"
+      ],
+      "keywords": [
+        "雷霆游戏",
+        "火因山风",
+        "田佳佳"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 20,
+      "title": "小红书招游戏制作人，要做女性向？",
+      "url": "https://news.qq.com/rain/a/20261026A0BKBM00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-26 10:02",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "小红书招聘「游戏制作人-创新项目孵化」，为一款女性向休闲独立游戏招募制作人，要求带2-3人小团队从概念做到上线并深度使用AI，加分项包括女性向研究、Steam发行经验、可玩Demo。另有休闲类游戏策划岗位，显示其正进军女性向、休闲游戏赛道。",
+      "tags": [
+        "人事变动",
+        "技术AI"
+      ],
+      "keywords": [
+        "小红书",
+        "女性向"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 1,
+      "title": "王者，正逐渐成为一门国际语言",
+      "url": "https://news.qq.com/rain/a/20261026A0EEO900",
+      "source": "GameLook",
+      "pub_date": "2026-10-27 00:00",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "王者荣耀周年庆嘉年华暨KPL奇妙日落地深圳，并回顾名古屋亚运卫冕与全球赛事布局。",
+      "tags": [
+        "展会活动",
+        "电竞"
+      ],
+      "keywords": [
+        "王者荣耀",
+        "KPL",
+        "天美"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 16,
+      "title": "赢家通吃的时代，要怎么打造爆款？",
+      "url": "https://news.qq.com/rain/a/20261026A0DAQD00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-26 12:38",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "SayGames发行负责人撰文介绍混合休闲爆款方法论，并推广其发行合作与3000万美元扶持基金。",
+      "tags": [
+        "市场分析",
+        "出海"
+      ],
+      "keywords": [
+        "SayGames",
+        "混合休闲"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 17,
+      "title": "冲上畅销榜Top 2，日活创历史新高，网易制作人再放大招",
+      "url": "https://news.qq.com/rain/a/20261026A0DAQ100",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-26 12:38",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《率土之滨》周年庆宣布日活创11年新高、iOS畅销榜Top2，并公布时代版、跨服战场等新内容。",
+      "tags": [
+        "版本更新",
+        "展会活动"
+      ],
+      "keywords": [
+        "率土之滨",
+        "网易",
+        "陈敬文"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [],
+  "source_stats": {
+    "GameLook": {
+      "fetched": 6,
+      "selected": 5,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 10,
+      "selected": 10,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏葡萄": {
+      "fetched": 2,
+      "selected": 0,
+      "ad": 2,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 3,
+      "selected": 3,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "触乐": {
+      "fetched": 1,
+      "selected": 0,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    }
+  }
+}
