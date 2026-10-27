@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-26T00:51:59+00:00",
+  "updated": "2026-10-27T00:52:17+00:00",
   "days": [
+    {
+      "date": "2026-10-27",
+      "total": 22,
+      "modules": {
+        "rival": 0,
+        "industry": 6,
+        "product": 3,
+        "newgame": 0,
+        "company": 10,
+        "deep": 0,
+        "ad": 3,
+        "other": 0
+      },
+      "headlines": [
+        "NEXON直接收回，悠星痛失运营5年的《蔚蓝档案》日服代理权！",
+        "Xbox staff among up to 60,000 Microsoft employees offered voluntary exit",
+        "Sensor Tower报喜：2026超半数爆款新游是新IP、其中43%是独游！",
+        "Netflix reportedly offered $500m to Microsoft to license Xbox IP for seven years"
+      ]
+    },
     {
       "date": "2026-10-26",
       "total": 20,
