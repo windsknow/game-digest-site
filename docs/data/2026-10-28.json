@@ -1,0 +1,406 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T00:51:40+00:00",
+  "model": "deepseek-flash",
+  "total": 16,
+  "modules": {
+    "rival": 1,
+    "industry": 5,
+    "product": 2,
+    "newgame": 2,
+    "company": 4,
+    "deep": 1,
+    "ad": 1,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 4,
+      "reason": "2亿下载的《宝可梦大集结》全球停运，国服2027年1月关服，折射腾讯与任天堂合作从主机代理转向Switch2出海。"
+    },
+    {
+      "id": 17,
+      "reason": "《无畏契约》端游国服注册破1亿，纯PC单平台三年达成，端手双破亿，55%新玩家首次接触端游。"
+    },
+    {
+      "id": 7,
+      "reason": "《影之刃零》M站88分高于《黑神话》7分，10月29日发售，Steam预购约50万份、收入约2400万美元。"
+    },
+    {
+      "id": 18,
+      "reason": "UE5二次元开放世界《代号二杠三》停止研发，首曝PV获262万播放后项目搁浅，二游赛道洗牌加剧。"
+    }
+  ],
+  "items": [
+    {
+      "id": 17,
+      "title": "今日官宣用户破亿：代表端游复苏的腾讯大作，彻底浮出了水面",
+      "url": "https://news.qq.com/rain/a/20261027A0ANDG00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-27 09:01",
+      "also_seen_in": [],
+      "module": "rival",
+      "summary": "《无畏契约》官方公布端游国服注册用户数突破1亿，成为少见的纯PC单平台三年破亿产品；此前手游《无畏契约：源能行动》也已破亿，形成端手双破亿IP。产品及运营负责人吴俊、发行执行制作人柳文复盘：团队押注端游复苏蓝海，新进玩家中55%是首次玩端游；通过单一大区、跨端录制工具「无畏时刻」（累计录制超20亿场比赛）、移动端买量、直播带货（2024年5月抖音首播登带货榜首、单场下单超10万人）、网吧钻石体系（3个月超5000家注册，网吧热度升至射击类第一）等生态基建拉动增长。电竞赛事方面，EDG 2024年夺冠带来现象级破圈，上海冠军赛门票30秒售罄、现场超10万人次。",
+      "tags": [
+        "市场分析",
+        "电竞",
+        "人物访谈"
+      ],
+      "keywords": [
+        "无畏契约",
+        "腾讯",
+        "拳头游戏"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 3,
+      "title": "Epic好伤，开发者吐槽：“游戏全平台卖了2万份、EGS商店5天才卖1份！”",
+      "url": "https://news.qq.com/rain/a/20261027A0EKQD00",
+      "source": "GameLook",
+      "pub_date": "2026-10-27 15:40",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "一位独立开发者在海外社区发帖称，其游戏过去一年在其他平台卖出2万多份，为Epic版交了100美元上架费、定价更低并做了推广，上线五天EGS销量仅1份。帖文引发大量开发者共鸣：有人称在EGS一个月收入0美元，有人称EGS约占其销量千分之一。文章援引数据指出，2019至2024年底EGS用户从1.08亿增至2.95亿（+173%），第三方游戏收入仅从2.51亿增至2.55亿美元（+1.6%）；Epic 2025年报则称第三方支出同比增57%至4亿美元，但第三方游戏时长仅增4%。核心矛盾是EGS拉新强、变现弱，玩家多将其当作领免费游戏和《堡垒之夜》启动器。",
+      "tags": [
+        "市场分析",
+        "硬件平台"
+      ],
+      "keywords": [
+        "Epic Games Store",
+        "Steam",
+        "堡垒之夜"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 5,
+      "title": "西山居的小游戏成了？《剑网1》微信畅销榜第12，新游《工匠小能手》第19",
+      "url": "https://news.qq.com/rain/a/20261027A0EKQA00",
+      "source": "GameLook",
+      "pub_date": "2026-10-27 15:40",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "微信小游戏畅销榜迎来两款差异极大的新品：西山居MMORPG小游戏《剑网1：归来》10月5日上线后最高冲到第12名、稳定Top20；飞鸟与鱼科技的休闲二合解谜《工匠小能手》8月底上线，连续两月保持Top50、最高第19名，且采取罕见的纯内购模式。文章认为，尽管小游戏竞争激烈，经典IP改编的中重度产品与休闲赛道仍有突围机会。",
+      "tags": [
+        "小游戏",
+        "榜单数据"
+      ],
+      "keywords": [
+        "西山居",
+        "剑网1：归来",
+        "工匠小能手"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 6,
+      "title": "2026胡润百富榜：张一鸣夺冠，马化腾第4、丁磊第8，米哈游三巨头身价大涨60%",
+      "url": "https://news.qq.com/rain/a/20261027A0EKQ900",
+      "source": "GameLook",
+      "pub_date": "2026-10-27 15:40",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "《2026胡润百富榜》发布，1529位企业家上榜。字节张一鸣以6700亿元第二次成为中国首富（增2000亿），马化腾3460亿元列第4（缩水26%），丁磊2750亿元列第8（缩水14%）。游戏圈6人进TOP100：米哈游蔡浩宇1280亿（33名）、刘伟705亿（76名）、罗宇皓665亿（83名），三人财富均涨近60%，尽管今年尚无新游上线。榜单折射AI造富：160多位上榜者财富来自AI，DeepSeek梁文锋首上榜即第7（2800亿），腾讯、网易等均参与其约千亿元融资。",
+      "tags": [
+        "财报业绩",
+        "市场分析"
+      ],
+      "keywords": [
+        "腾讯",
+        "网易",
+        "米哈游",
+        "字节跳动"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 10,
+      "title": "\"Developers need to treat Early Access like a real launch, because players do\" – Early Access games are on the rise, but so are player expectations",
+      "url": "https://www.gamesindustry.biz/developers-need-to-treat-early-access-like-a-real-launch-because-players-do-early-access-games-are-on-the-rise-but-so-are-player-expectations",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-27 13:30",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "据SteamDB，2026年至10月中旬Steam上线抢先体验游戏2924款，同比增18%、较2020年增60%，占全年新游比例从2024年10.4%升至2026年13.7%。GameDiscoverCo数据显示，仅21%的EA游戏在1.0正式版后30天收入高于EA首发。",
+      "tags": [
+        "市场分析",
+        "硬件平台"
+      ],
+      "keywords": [
+        "Steam",
+        "英灵神殿",
+        "哈迪斯2",
+        "Paralives"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 12,
+      "title": "UKIE calls on government to modernise Video Games Expenditure Credit ahead of Autumn Budget",
+      "url": "https://www.gamesindustry.biz/ukie-calls-on-government-to-modernise-video-games-expenditure-credit-ahead-of-autumn-budget",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-27 12:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "英国贸易机构UKIE在秋季预算前呼吁政府现代化游戏支出抵免（VGEC），并设立新基金填补50万至200万英镑的国内成长资本缺口。UKIE与TIGA、UK Video Games Council提议分级「游戏成长」基金：预算1500万英镑以下项目支持53%，1500万至2350万英镑支持39%；",
+      "tags": [
+        "政策监管"
+      ],
+      "keywords": [
+        "UKIE",
+        "VGEC",
+        "英国"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 7,
+      "title": "“不想给TGA年度游戏就直说”！《影之刃零》M站媒体评分88，比《悟空》高7分",
+      "url": "https://news.qq.com/rain/a/20261027A0EKQ500",
+      "source": "GameLook",
+      "pub_date": "2026-10-27 15:40",
+      "also_seen_in": [
+        "触乐"
+      ],
+      "module": "product",
+      "summary": "《影之刃零》10月29日发售前媒体评分解禁，Metacritic PC版88分、PS5版86分，比《黑神话：悟空》的81分高7分。评测分歧集中在战斗：IGN给9分赞战斗50小时不乏味，GamesRadar 4.5星称其为年度游戏竞争者；Eurogamer仅3星（折60分）批Boss战节奏拖沓，Polygon认为操作简化削弱参与感。文章讨论88分在TGA评奖语境下的尴尬——近四届年度游戏均在90分以上，且今年《GTA 6》11月19日发售恰在参评截止前。市场端，Alinea Analytics估算Steam预购约50万份、收入约2400万美元，愿望单约250万，其中41%玩过《黑神话》。",
+      "tags": [
+        "产品复盘",
+        "市场分析"
+      ],
+      "keywords": [
+        "影之刃零",
+        "灵游坊",
+        "黑神话悟空"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 8,
+      "title": "勇夺畅销榜第4，灵犀“抽象二游”彻底火了？",
+      "url": "https://news.qq.com/rain/a/20261027A0EKQ400",
+      "source": "GameLook",
+      "pub_date": "2026-10-27 15:40",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "灵犀互娱10月23日推出的篮球题材美少女二游《篮球少女：飞跃巅峰》上线后国服iOS畅销榜最高冲到第4、连续3天保持Top10，成为今年中体量新游的罕见成绩。GameLook分析其走红靠大量NBA梗：角色对应诺维茨基、杜兰特、姚明、詹姆斯等球星，获得NBA官方授权联动，并在B站做内容营销。但文章也指出其本质是回合制+模拟经营的二游（玩法近似《赛马娘》），需面对长线留存考验；灵犀今年另一款中体量产品《宗师之上》已现下滑。灵犀刚被信宸资本从阿里手中收购（传超15亿美元），仍高度依赖《三国志战略版》。",
+      "tags": [
+        "产品复盘",
+        "市场分析"
+      ],
+      "keywords": [
+        "篮球少女：飞跃巅峰",
+        "灵犀互娱",
+        "信宸资本"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 14,
+      "title": "新品节爆火？10天狂揽60万玩家，“老师抓学生”杀疯了",
+      "url": "https://news.qq.com/rain/a/20261027A0BYOP00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-27 10:54",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "顽核社开发、2PGames发行的非对称派对游戏《我带过的最差一届》Demo游玩人数突破60万，登上Steam新品节国区最热试玩榜第一。游戏支持最多6人在线，一名玩家扮老师、其余扮学生，学生需混在数十名NPC中完成偷吃零食、玩手机等任务，老师负责识别抓人，并有粉笔、闪光弹等道具。文章认为其把「课堂摸鱼」的个人紧张体验改造成多人猫鼠游戏，具备直播传播效果；正式版预计11月10日发售，仍需解决人数配置与内容更新问题。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "我带过的最差一届",
+        "顽核社",
+        "2PGames"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 18,
+      "title": "二次元开放世界《代号二杠三》已停止研发，首曝PV成最后一舞",
+      "url": "https://news.qq.com/rain/a/20261027A08BOF00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-27 06:30",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "二次元开放世界游戏《代号二杠三》已停止研发。该作由Diversity Game Studio研发，采用UE5，制作人曾在字节、库洛任策划，2024年11月首曝PV在B站获262万播放，此后项目再无更新。接近项目的消息人士称，PV发布前项目已濒临解散。游戏以时间穿梭为核心设定，曾设想时停、重力倒转、3D转2D等玩法，在《原神》《鸣潮》《异环》等头部与在研产品挤压下最终未能落地。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "代号二杠三",
+        "Diversity Game Studi"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 4,
+      "title": "2亿下载的《宝可梦大集结》官宣全球停运，腾讯与任天堂合作正在“换道”？",
+      "url": "https://news.qq.com/rain/a/20261027A0EKQB00",
+      "source": "GameLook",
+      "pub_date": "2026-10-27 15:40",
+      "also_seen_in": [
+        "GamesIndustry.biz",
+        "游戏葡萄"
+      ],
+      "module": "company",
+      "summary": "《宝可梦大集结》官宣全球停运：国服2027年1月28日关服，国际服3月23日关服，Switch与移动端全平台同步关闭。该作由腾讯天美与宝可梦公司联合开发，2021年7月上线，2025年7月宣布全球下载破2亿，但商业化远不及预期——据AppMagic估算，国际服手游上线次月流水约940万美元，此后单月未超330万美元，截至2024年7月移动端累计流水约8270万美元；国服2024年11月上线首月流水约1.5亿元。GameLook分析停运与IP授权到期及产品表现有关，并指出腾讯与任天堂合作正从「国行主机代理」转向「Switch2全球发行平台合作」，国行Switch已于2026年5月停止网络服务。",
+      "tags": [
+        "关服停运",
+        "出海"
+      ],
+      "keywords": [
+        "宝可梦大集结",
+        "腾讯",
+        "天美",
+        "任天堂"
+      ],
+      "importance": 5
+    },
+    {
+      "id": 2,
+      "title": "40岁英年早逝！《战舰少女 R》核心主创铃兰逝世",
+      "url": "https://news.qq.com/rain/a/20261027A0EKQG00",
+      "source": "GameLook",
+      "pub_date": "2026-10-27 15:40",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "幻萌网络发布内部通知，《战舰少女R》核心主创毛佳栋（玩家称「铃兰大王」）于上周在家中离世，终年40岁。他是幻萌初创团队成员，2013年同人筹备阶段加入，负责美术设计、画师对接与进度管理，并在与代理商纠纷期间充当与玩家的沟通桥梁，后期转向线下活动与周边企划。官方宣布原定10月30日的活动更新推迟至11月3日，10月27日18点起临时关闭充值至11月2日18点，微博封面改为黑白，玩家在社区集体悼念。",
+      "tags": [
+        "人事变动"
+      ],
+      "keywords": [
+        "战舰少女R",
+        "幻萌网络",
+        "毛佳栋"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "Sucker Punch Productions reportedly lays off 24 employees following launch of Ghost of Yōtei: Complete Edition",
+      "url": "https://www.gamesindustry.biz/sucker-punch-productions-reportedly-lays-off-24-employees-following-launch-of-ghost-of-yotei-complete-edition",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-27 10:29",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "据Aftermath获取的内部邮件，Sucker Punch Productions在《羊蹄山之魂》完整版发售后裁员24人，理由是「观察市场挑战并审视下个项目团队需求」。该作首月售出330万份，超过《对马岛之魂》同期，是索尼在欧洲最大的一方PS首发。",
+      "tags": [
+        "裁员"
+      ],
+      "keywords": [
+        "Sucker Punch",
+        "羊蹄山之魂",
+        "索尼"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 9,
+      "title": "Warhorse Studios hit by cyberattack, company systems and data affected",
+      "url": "https://www.gamesindustry.biz/warhorse-studios-hit-by-cyberattack-company-systems-and-data-affected",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-27 14:20",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "《天国：拯救2》开发商Warhorse Studios遭网络攻击，公司系统与数据被未授权访问。工作室称正与网络安全专家合作调查并评估影响，CEO Martin Frývaldský称这是「严重事件」。此前Capcom刚发生影响超1170万账户的数据泄露，Rockstar今年也遭遇第三方数据泄露。",
+      "tags": [
+        "法律诉讼"
+      ],
+      "keywords": [
+        "Warhorse Studios",
+        "天国拯救2"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 1,
+      "title": "[Podcast] What Happens When AI Becomes Your Gaming Teammate",
+      "url": "https://naavik.co/podcast/what-happens-when-ai-becomes-your-gaming-teammate/",
+      "source": "Naavik Podcast",
+      "pub_date": "2026-10-27 15:48",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "Naavik播客主持人Alexandra Takei对话Artificial Agency联合创始人兼CEO、前DeepMind负责人Brian Tanner，探讨「智能体玩法」：基础模型如何扩展传统游戏AI，使角色能理解玩家意图、即兴发挥与协作。案例是Artificial Agency与Owlchemy Labs合作，在VR体验《Dimensional Double Shift》中用三名AI队友替代真人玩家。Brian拆解了经济性——推理成本已降至每玩家每小时个位数美分，并讨论延迟、QA、模型归属与商业部署难题，以及开发者对AI的怀疑、保留设计师控制权的重要性，以及智能虚拟玩家是否会重塑多人游戏。",
+      "tags": [
+        "技术AI"
+      ],
+      "keywords": [
+        "Artificial Agency",
+        "Naavik",
+        "AI NPC"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 19,
+      "title": "最会守塔的玩家，遇到了最懂他们的《王者荣耀》",
+      "url": "https://news.qq.com/rain/a/20261027A04U5J00",
+      "source": "触乐",
+      "pub_date": "2026-10-27 02:29",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《王者荣耀》2026周年庆限定皮肤「一塔千年」10月24日上线，联动应县木塔，盾山化身守塔者。",
+      "tags": [
+        "IP联动"
+      ],
+      "keywords": [
+        "王者荣耀",
+        "应县木塔"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [],
+  "source_stats": {
+    "Naavik Podcast": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "GameLook": {
+      "fetched": 7,
+      "selected": 7,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 5,
+      "selected": 4,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    },
+    "触乐": {
+      "fetched": 2,
+      "selected": 0,
+      "ad": 1,
+      "merged": 1,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏葡萄": {
+      "fetched": 2,
+      "selected": 1,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
