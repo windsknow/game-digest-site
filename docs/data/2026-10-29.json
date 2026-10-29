@@ -1,0 +1,440 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T00:51:34+00:00",
+  "model": "deepseek-flash",
+  "total": 16,
+  "modules": {
+    "rival": 0,
+    "industry": 5,
+    "product": 2,
+    "newgame": 2,
+    "company": 4,
+    "deep": 1,
+    "ad": 2,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 13,
+      "reason": "腾讯天美《宝可梦大集结》国服2027年1月停运，制作人转岗魔方，头部大厂IP合作项目收缩。"
+    },
+    {
+      "id": 12,
+      "reason": "Xbox首任COO上任三月即离职，叠加微软6万人自愿离职与后续裁员计划，重组动荡持续。"
+    },
+    {
+      "id": 10,
+      "reason": "拳头CFO披露7款自研5款成功、东西方收入五五开、与腾讯独立核算，头部厂商经营口径罕见公开。"
+    },
+    {
+      "id": 9,
+      "reason": "Newzoo 9月榜：Wardogs登顶PC收入，《漫威金刚狼》主机第4，新作抢在GTA6前扎堆上市。"
+    },
+    {
+      "id": 15,
+      "reason": "《逆水寒》制作人回应MMO式微论，披露不卖数值与AI NPC路线，关乎网易重点产品走向。"
+    }
+  ],
+  "items": [
+    {
+      "id": 9,
+      "title": "Wardogs leads Newzoo's September PC revenue charts",
+      "url": "https://www.gamesindustry.biz/wardogs-leads-newzoos-september-pc-revenue-charts",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-28 11:54",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Newzoo 9月欧美六国PC收入榜：Bulkhead抢先体验FPS《Wardogs》登顶并位列MAU第11，EA Sports FC 27与NBA 2K27居主机收入前二；《漫威金刚狼》主机收入第4，Circana称其为《绝地潜兵2》以来索尼发行作品最高单月美元销售额。",
+      "tags": [
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "Newzoo",
+        "Wardogs",
+        "漫威金刚狼",
+        "Control Resonant"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 5,
+      "title": "\"Taking several years with several thousand people… It's almost impossible\" – PlayStation creator Ken Kutaragi on the current state of gaming",
+      "url": "https://www.gamesindustry.biz/taking-several-years-with-several-thousand-people-its-almost-impossible-playstation-creator-ken-kutaragi-on-the-current-state-of-gaming",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-28 13:30",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "PlayStation之父久夛良木健在Game Republic活动后受访，称现代3A开发“花数年、数千人”几乎不可能、没有意义，游戏平台与PC已“超级昂贵”到多数人买不起，行业现状“不健康”，AI崛起甚至可能让主机不再必要。他回顾PS诞生源于任天堂转投飞利浦的“坏冲击”转为“好冲击”，否认复仇说；",
+      "tags": [
+        "人物访谈",
+        "市场分析",
+        "技术AI"
+      ],
+      "keywords": [
+        "久夛良木健",
+        "PlayStation",
+        "索尼"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 17,
+      "title": "Gamescom Asia touts new records for international attendance and showfloor size",
+      "url": "https://www.gamesindustry.biz/gamescom-asia-touts-new-records-for-international-attendance-and-showfloor-size",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-28 08:16",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Gamescom Asia x Thailand Game Show 2026规模创新高：来自29个国家、20个国家馆，目标超去年20.6万人次。展会2021年从新加坡起步，2024年迁至曼谷并与泰国游戏展合并，今年再联手Ace Bangkok扩充展区。",
+      "tags": [
+        "展会活动",
+        "出海"
+      ],
+      "keywords": [
+        "Gamescom Asia",
+        "泰国游戏展",
+        "东南亚"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 2,
+      "title": "PressEngine announces The Pre-Show, an in-person London showcase for upcoming games",
+      "url": "https://www.gamesindustry.biz/pressengine-announces-the-pre-show-an-in-person-london-showcase-for-upcoming-games",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-28 19:13",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "公关与网红营销平台PressEngine将于11月26日在伦敦举办线下展示活动The Pre-Show，面向未来12个月发售的游戏，称将有150余名记者与内容创作者到场。活动定位为全数字化发布会的替代方案，强调开发者与媒体的面对面试玩；",
+      "tags": [
+        "展会活动"
+      ],
+      "keywords": [
+        "PressEngine",
+        "The Pre-Show",
+        "伦敦"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 16,
+      "title": "Interior Night studio head Charu Desodt appointed chair of BAFTA Games Committee",
+      "url": "https://www.gamesindustry.biz/interior-night-studio-head-charu-desodt-appointed-chair-of-bafta-games-committee",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-28 09:28",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Interior Night工作室负责人Charu Desodt当选BAFTA游戏委员会主席，接替转任乐高Digital Play高级人才伙伴的前Larian工作室负责人Tara Saunders。Desodt有25年以上从业经验，曾在微软、索尼欧洲等任高级制作职位，2018年加入Interior Night。",
+      "tags": [
+        "人事变动"
+      ],
+      "keywords": [
+        "BAFTA",
+        "Interior Night",
+        "Charu Desodt"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 1,
+      "title": "这款用户破亿的MMO，今天决定大砍一刀革自己的命",
+      "url": "https://news.qq.com/rain/a/20261029A02YSZ00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-28 23:57",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《剑网3》年度资料片「苍生铸世」上线，等级上限由130级回调至公测时的50级，并精简装备部位与属性（如删除“破招”）、暂停或重做部分旧玩法。官方称此举针对17年积累的数值膨胀、玩法重复与新人门槛问题，配合新副本洛阳之战的空中作战、墨家偃甲探索、生活技艺与江湖笔记等改造，目标是减负并重构成长与玩法生态。",
+      "tags": [
+        "版本更新",
+        "产品复盘"
+      ],
+      "keywords": [
+        "剑网3",
+        "西山居",
+        "苍生铸世"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 7,
+      "title": "天美J3技术美术专家分享UE干货，在场从业者直呼牛逼",
+      "url": "https://news.qq.com/rain/a/20261028A0CZ5O00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-28 12:21",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "腾讯天美J3技术美术专家在Unreal Fest Shanghai分享《三角洲行动》生态渲染与工业化管线：将UE5 Nanite植被方案移植回UE4，目标3080显卡2K下120帧；Nanite Assembly使500万三角形植被磁盘占用从158MB降至2.5MB、内存从69MB降至3.84MB；自研Pasta骨骼风动与Animation Bank将同屏骨骼显存从260MB优化至约50MB。11月5日新赛季将上线UE5技术升级地图天际港。",
+      "tags": [
+        "技术AI",
+        "版本更新"
+      ],
+      "keywords": [
+        "三角洲行动",
+        "天美J3",
+        "UE5"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 8,
+      "title": "做过畅销榜Top 1的制作人狂蹬AI两年，首曝了一款AI新品",
+      "url": "https://news.qq.com/rain/a/20261028A0CZ5H00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-28 12:21",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "前腾讯《火影忍者》《一人之下》制作人Sea创业团队曝光AI新品《爱哩爱哩》：玩家获得随机生成、不可捏脸定性的AI居民，只能投喂道具与MOD间接影响，角色每30分钟自主行动并生成图文、音乐、短视频动态，主打“默默守护”式情感体验，采用F2P按产出频率付费。团队称用2-3人及自建AI Agent管线开发，2D资产成本可降至大厂约十分之一。",
+      "tags": [
+        "新品曝光",
+        "技术AI"
+      ],
+      "keywords": [
+        "爱哩爱哩",
+        "Sea",
+        "AI游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 14,
+      "title": "10年程序员离职做AI游戏平台，首月产出122款游戏",
+      "url": "https://news.qq.com/rain/a/20261028A0BKBS00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-28 10:14",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "前字节UGC项目渲染引擎负责人大崔离职创业，用约三个月独自开发AI游戏创作平台Lumio，后与三名前同事组成965工作室。平台已有113名创作者上传122款游戏、总游玩时长超47小时，主打面向从业者的联机与社交能力，即将发布联机SDK首版，计划年底前不考虑商业化，并自研两款官方游戏验证链路。",
+      "tags": [
+        "技术AI",
+        "新品曝光"
+      ],
+      "keywords": [
+        "Lumio",
+        "大崔",
+        "AI游戏平台"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 10,
+      "title": "拳头CFO访谈：7 款自研 5 款成功，收入“东西方五五开”，与腾讯独立核算",
+      "url": "https://news.qq.com/rain/a/20261028A0CO2Q00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-28 11:51",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "拳头CFO Mark Sottosanti在播客中复盘：自研7款核心产品5款成功（LOL、无畏契约、云顶之弈、LOL手游、实体卡牌符文战场），LOR与2XKO未达目标；全球收入东西方约5:5，无单区域超25%；与腾讯为独立核算，中国收入大部分归腾讯发行团队、拳头拿少数分成；《双城之战》第二季计入皮肤增量与回流用户价值后基本打平；不将IP授权外部做核心游戏、不做为买流水的大型并购；AI用于PVE机器人、平衡测试与反作弊。",
+      "tags": [
+        "财报业绩",
+        "市场分析",
+        "技术AI"
+      ],
+      "keywords": [
+        "拳头游戏",
+        "腾讯",
+        "无畏契约",
+        "双城之战"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 12,
+      "title": "First Xbox COO Helen Chiang leaves company after three months in the role",
+      "url": "https://www.gamesindustry.biz/first-xbox-coo-helen-chiang-leaves-company-after-three-months-in-the-role",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-28 10:15",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Xbox首任COO Helen Chiang上任仅三个月即离职，内部备忘录称感谢其多年服务，职责暂由其他高管分担。Eurogamer消息称其因违反政策被解雇，Xbox未证实。她7月上任时正值Xbox裁员3200人、剥离5家工作室的重组期；",
+      "tags": [
+        "人事变动",
+        "裁员"
+      ],
+      "keywords": [
+        "Xbox",
+        "微软",
+        "Helen Chiang"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 13,
+      "title": "天美《宝可梦大集结》官宣停运，制作人已转岗至魔方工作室群",
+      "url": "https://news.qq.com/rain/a/20261028A0BKC000",
+      "source": "游戏新知",
+      "pub_date": "2026-10-28 10:14",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "腾讯天美与宝可梦公司合作的MOBA《宝可梦大集结》宣布国服2027年1月28日、国际服2027年3月23日停运；国际服运营约5年8个月，国服约2年2个月。制作人杨思勤已转岗至腾讯魔方工作室群。国际服将上线图书馆功能供玩家保存账号记录，原定2027年东京赛事不受影响。",
+      "tags": [
+        "关服停运",
+        "人事变动"
+      ],
+      "keywords": [
+        "宝可梦大集结",
+        "腾讯天美",
+        "魔方工作室"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 3,
+      "title": "Hearth and Hamlet publisher Runic Forge rebrands as Pythia Games",
+      "url": "https://www.gamesindustry.biz/hearth-and-hamlet-publisher-runic-forge-rebrands-as-pythia-games",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-28 17:56",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "英国独立发行商Runic Forge更名为Pythia Games，母公司Rune放弃营销代理业务、专营发行。其首款发行作品《Hearth and Hamlet》8月19日Steam上线，首日售出近5万份、首周破10万，愿望单超12.5万，Demo独立玩家超10万。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "Pythia Games",
+        "Runic Forge",
+        "Hearth and Hamlet"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 15,
+      "title": "对话《逆水寒》制作人：我们仍然非常相信MMO的未来",
+      "url": "https://news.qq.com/rain/a/20261028A0BJRA00",
+      "source": "触乐",
+      "pub_date": "2026-10-28 10:14",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "《逆水寒》手游制作人邹珈璇（听雨）访谈：回应Naavik/Sensor Tower“移动MMO内购收入减少25亿美元”报告，指出仅统计App Store会低估PC与平板渠道，长青MMO如《梦幻西游》业绩仍在增长。他认为MMO承压源于供给增长、社交与单玩法被专门品类分流、用户时间碎片化，但沉浸世界、角色扮演幻想与大规模连接仍不可替代。手游坚持不卖数值、以外观付费，靠用户规模与留存判断健康度；4.0“新世界”删减特质打造等系统、推殊途同归2.0与万物出金；未来押注AI智能NPC与剧组模式，愿景“让MMO再次伟大”。",
+      "tags": [
+        "人物访谈",
+        "市场分析",
+        "技术AI"
+      ],
+      "keywords": [
+        "逆水寒",
+        "网易",
+        "MMO"
+      ],
+      "importance": 4,
+      "detail": {
+        "points": [
+          {
+            "title": "MMO式微论需辩证看待",
+            "text": "Naavik报告称全球移动端MMORPG内购收入减少25亿美元，引发MMO式微讨论。但邹珈璇指出，该数据仅基于Sensor Tower统计的App Store渠道，未涵盖PC端及其他付费渠道。例如《逆水寒》有大量玩家使用PC和平板游玩，其收入未体现在报告中。此外，运营超10年的长青MMO如《梦幻西游》业绩仍在增长。因此，仅凭单一渠道数据判断品类衰退有失偏颇，需厘清统计口径和MMO定义本身的变化。"
+          },
+          {
+            "title": "传统MMO面临四重压力",
+            "text": "邹珈璇承认传统MMORPG压力真实存在：一是产品供给增长快于用户规模，新类型如MOBA、大逃杀不断分流用户；二是MMO曾经的在线交友功能已被微信、抖音等社交平台及MOBA等游戏替代；三是MMO内的副本、PVP等玩法已有专门游戏类型做得更深入；四是现代用户更忙更卷，倾向碎片化轻度游戏，而MMO包体大、需连续沉浸，加上付费压力、强迫社交等老问题，导致用户流失。"
+          },
+          {
+            "title": "MMO不可替代的三要素",
+            "text": "邹珈璇认为MMO的核心吸引力在于：一个生动沉浸的世界、令人着迷的角色扮演幻想（Fantasy）、大规模多人同时在线及人与人之间的连接。随着技术、美术和AI进步，世界与NPC互动将更丰富智能，产生涌现式互动，类似《刀剑神域》《头号玩家》的体验可能比预期更早到来。同时，MMO需要足够强、创新的支柱玩法，不能只满足于“我也有副本”“我也有PVP”。《逆水寒》已投入资源开发育宠、自走棋、剧组模式等新玩法。"
+          },
+          {
+            "title": "不卖数值与商业化平衡",
+            "text": "《逆水寒》手游上线前确定“不卖数值”，主要基于端游老兵服赛季制不卖数值的商业验证。手游上线后男女比例接近1:1，女性稍多，年龄集中在18-29岁，玩法偏好分散。但传统数值付费玩家需求仍存在，部分流向SLG或数值向MMO。邹珈璇认为，卖数值与不卖数值最终都依赖用户规模，关键是把游戏做到极致。端游黄金畅玩服则探索数值付费，官方仅承担平台角色，赚取较低比例手续费。"
+          },
+          {
+            "title": "内容标准提升至90分以下等于0",
+            "text": "邹珈璇提出“90分以下等于0，甚至95分以下等于0”，强调仅“还不错”的高质量内容已不够，必须聚焦资源做出超预期体验。2025、2026年起团队感受更强烈，因玩家可选择的高品质游戏和娱乐方式增多。在成长节奏上，过去靠调节成长速度留人，现在若内容和玩法本身不够好，成长快慢玩家都不在意。因此《逆水寒》在4.0“新世界”版本移除特质、打造等养成系统，做属性精简和数值压缩，追求“上手易、过程爽、精通难”。"
+          },
+          {
+            "title": "搜打撤思路与玩家生态护城河",
+            "text": "《逆水寒》参考搜打撤思路推出“殊途同归2.0”和“万物出金”，强化目标感、收获感和收益随机性，减少单一胜负挫败感。邹珈璇认为搜打撤更是一套核心循环和奖励机制，可“搜打撤+X”组合多种玩法。此外，玩家生态是重要护城河：玩家创作捏脸、染色、创意工坊内容，可直接被其他玩家使用，形成内容消费与创造的循环。团队产能、创新坚持和先发优势也是难以复制的部分。未来MMO边界将继续模糊，AI智能NPC和剧组模式将带来新体验。"
+          }
+        ],
+        "takeaway": "《逆水寒》的实践表明，MMO品类并未过时，但需重新定义：放弃数值付费依赖，转向外观和平台化交易；以“不强迫社交”和碎片化时间适配降低门槛；用搜打撤等机制强化正反馈；将玩家创作生态作为核心护城河。对竞品而言，需警惕单一渠道数据误判市场，关注PC/平板多端收入；同时，内容标准已提升至“90分以下等于0”，必须聚焦资源做超预期体验，而非堆量更新。"
+      }
+    },
+    {
+      "id": 6,
+      "title": "世佳与AlipayHK官宣合作，小游戏出海迈入「生态共建」阶段",
+      "url": "https://news.qq.com/rain/a/20261028A0CZ5Z00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-28 12:21",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "世佳网络、朗新科技与AlipayHK合作，推出出海小游戏品牌LumiGames，从香港拓展海外钱包小游戏生态。",
+      "tags": [
+        "出海",
+        "小游戏"
+      ],
+      "keywords": [
+        "世佳网络",
+        "AlipayHK",
+        "LumiGames"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 11,
+      "title": "超5万平米场地、线上线下挤满观众，《王者荣耀》怎么让玩家越来越上头",
+      "url": "https://news.qq.com/rain/a/20261028A0C51M00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-28 11:05",
+      "also_seen_in": [
+        "触乐"
+      ],
+      "module": "ad",
+      "summary": "《王者荣耀》2026周年庆在深圳办嘉年华与共创之夜，公布亚运三连金、新英雄与动画等IP规划。",
+      "tags": [
+        "展会活动",
+        "IP联动"
+      ],
+      "keywords": [
+        "王者荣耀",
+        "腾讯"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [
+    {
+      "id": 4,
+      "title": "How to run an indie game studio: Part 5, Better meetings",
+      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-5-better-meetings",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-28 15:00",
+      "reason": "独立工作室经营指南系列，属D2不收录。",
+      "by": "model"
+    }
+  ],
+  "source_stats": {
+    "游戏葡萄": {
+      "fetched": 4,
+      "selected": 3,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 8,
+      "selected": 7,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 1
+    },
+    "游戏陀螺": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 3,
+      "selected": 2,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "触乐": {
+      "fetched": 2,
+      "selected": 1,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    }
+  }
+}
