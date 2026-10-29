@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-28T00:51:43+00:00",
+  "updated": "2026-10-29T00:51:44+00:00",
   "days": [
+    {
+      "date": "2026-10-29",
+      "total": 16,
+      "modules": {
+        "rival": 0,
+        "industry": 5,
+        "product": 2,
+        "newgame": 2,
+        "company": 4,
+        "deep": 1,
+        "ad": 2,
+        "other": 0
+      },
+      "headlines": [
+        "天美《宝可梦大集结》官宣停运，制作人已转岗至魔方工作室群",
+        "First Xbox COO Helen Chiang leaves company after three months in the role",
+        "拳头CFO访谈：7 款自研 5 款成功，收入“东西方五五开”，与腾讯独立核算",
+        "Wardogs leads Newzoo's September PC revenue charts",
+        "对话《逆水寒》制作人：我们仍然非常相信MMO的未来"
+      ]
+    },
     {
       "date": "2026-10-28",
       "total": 16,
