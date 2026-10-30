@@ -1,0 +1,336 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T00:52:01+00:00",
+  "model": "deepseek-flash",
+  "total": 12,
+  "modules": {
+    "rival": 0,
+    "industry": 3,
+    "product": 3,
+    "newgame": 1,
+    "company": 4,
+    "deep": 0,
+    "ad": 0,
+    "other": 1
+  },
+  "headlines": [
+    {
+      "id": 1,
+      "reason": "腾讯天美×卡普空《怪物猎人：旅人》国际服上线即登19国免费榜榜首，验证怪猎IP手游号召力，国服推迟至2027年"
+    },
+    {
+      "id": 9,
+      "reason": "完美世界Q3净利增211%，《异环》全球流水破27亿；恺英前三季净利20.69亿并拟2.98亿美元入股Wemade"
+    },
+    {
+      "id": 11,
+      "reason": "10月下发195款版号，腾讯网易散爆乐元素新品过审，朝夕光年接手《决胜巅峰》等运营权"
+    },
+    {
+      "id": 2,
+      "reason": "QuestMobile 8月微信小游戏月活榜洗牌：《元梦之星》6718万登顶，畅销第一《向僵尸开炮》仅列第五"
+    },
+    {
+      "id": 8,
+      "reason": "卡普空上半财年净销售额增49%、利润增67.5%，《生化危机：安魂曲》破800万，《Pragmata》超270万"
+    }
+  ],
+  "items": [
+    {
+      "id": 2,
+      "title": "微信小游戏月活榜洗牌：元梦之星6718万登顶，畅销第一《向僵尸开炮》排名第五",
+      "url": "https://news.qq.com/rain/a/20261029A0EIEP00",
+      "source": "GameLook",
+      "pub_date": "2026-10-29 15:21",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "QuestMobile 2026秋季报告显示，8月微信小游戏月活榜洗牌：《元梦之星》以6718.6万MAU登顶（同比+150.6%），《腾讯欢乐斗地主》5114.8万、《浪漫餐厅》5049.1万、《无尽冬日》4877.8万分列二至四，畅销第一的《向僵尸开炮》月活4127.4万仅列第五。抖音小游戏月活榜首为《浪漫餐厅》1956.3万。报告指出微信头部偏中度社交玩法，抖音依赖短视频种草，双端生态路径分化。",
+      "tags": [
+        "榜单数据",
+        "小游戏"
+      ],
+      "keywords": [
+        "元梦之星",
+        "向僵尸开炮",
+        "QuestMobile",
+        "微信小游戏"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 11,
+      "title": "10月195款版号！腾讯网易字节完美均有收获",
+      "url": "https://news.qq.com/rain/a/20261029A0C9ZU00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-29 11:32",
+      "also_seen_in": [
+        "GameLook"
+      ],
+      "module": "industry",
+      "summary": "10月29日国家新闻出版署下发10月版号，共183款国产游戏、12款进口游戏过审，另有10款版号变更。重点产品包括腾讯《不可卷卷书店》、网易《桃花》、散爆《少女前线：蓝蝶契约》、乐元素《他予回声》、完美世界《诛仙：归来》等。变更方面，《决胜巅峰》《高能手办团》《飞吧龙骑士》运营单位变更为朝夕光年旗下公司。",
+      "tags": [
+        "政策监管"
+      ],
+      "keywords": [
+        "版号",
+        "腾讯",
+        "网易",
+        "朝夕光年"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 4,
+      "title": "Valve答疑Steam宣发和独游困境，“不打算删除AI垃圾游戏”！",
+      "url": "https://news.qq.com/rain/a/20261029A0EIEB00",
+      "source": "GameLook",
+      "pub_date": "2026-10-29 15:21",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Valve在韩国Steam Indie Connect活动上回应开发者关切：Steam全球同时在线峰值达4350万，韩国区五年销售额增126%。针对AI抄袭威胁，Valve称不扮演工具守门人，建议开发者靠社区信任与持续更新构筑壁垒，并明确不打算删除AI垃圾游戏；新品节前两天为随机展示以保证公平，个性化日历仅覆盖发售1-2周。Valve同时澄清愿望单不影响曝光，只是营销效果指标。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "Valve",
+        "Steam",
+        "AI",
+        "新品节"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 1,
+      "title": "《怪物猎人：旅人》海外发布，19国免费榜夺冠！",
+      "url": "https://news.qq.com/rain/a/20261029A0EIEE00",
+      "source": "GameLook",
+      "pub_date": "2026-10-29 23:24",
+      "also_seen_in": [
+        "GamesIndustry.biz"
+      ],
+      "module": "product",
+      "summary": "《怪物猎人：旅人》国际服10月29日全球上线，登美国、日本等19个地区免费榜榜首，34个国家和地区免费榜TOP10，美区评分4.9。游戏由腾讯天美与卡普空合作开发，预注册超1500万，采用冒险家切换与抽卡机制，官方称不卖数值。国服因筹备WeGame跨端版本推迟至2027年。",
+      "tags": [
+        "出海",
+        "新品定档",
+        "IP联动"
+      ],
+      "keywords": [
+        "怪物猎人：旅人",
+        "腾讯",
+        "天美",
+        "卡普空"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 13,
+      "title": "从《黑神话：悟空》到《影之刃零》，一份名单里的江湖",
+      "url": "https://news.qq.com/rain/a/20261029A081PU00",
+      "source": "触乐",
+      "pub_date": "2026-10-29 09:37",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《影之刃零》发售之际，触乐解读其流传的特别鸣谢名单，梳理背后的行业关系网：腾讯2021年数亿投资灵游坊，马晓轶、李朝晖等入列；网易胡志鹏、英雄游戏应书岭与吴旦等虽已退出股东仍被鸣谢；索尼吉田修平、江口达雄因主机独占与全球推广入列；Epic的Tim Sweeney、TapTap黄一孟、以及冯骥、刘伟、李松伦等同行亦在名单中，折射国产单机生态的互助网络。",
+      "tags": [
+        "人物访谈",
+        "市场分析"
+      ],
+      "keywords": [
+        "影之刃零",
+        "灵游坊",
+        "腾讯",
+        "黑神话：悟空"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "等待《影之刃零》上线前的最后一小时，可以看看这些",
+      "url": "https://news.qq.com/rain/a/20261029A03HZX00",
+      "source": "触乐",
+      "pub_date": "2026-10-29 01:04",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《影之刃零》10月29日上午10点正式上线，制作人梁其伟发售前发文回顾开发历程，称游戏将玩家熟悉的玩法重新组合成新整体。触乐借此回顾多篇旧文，梳理灵游坊从《雨血》到《影之刃零》的十年历程、2021年腾讯数亿投资、砍掉其他项目专注本作，以及音乐总监薄彩生用传统民乐构建武侠调性等幕后。",
+      "tags": [
+        "产品复盘"
+      ],
+      "keywords": [
+        "影之刃零",
+        "灵游坊",
+        "梁其伟"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 10,
+      "title": "10人开发两年，“硬刚”《影之刃零》，制作人：不用AI可能要做6年",
+      "url": "https://news.qq.com/rain/a/20261029A0CUUA00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-29 12:22",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "AutoGame的AI原生沙盒游戏《麦琪的花园》10月29日与《影之刃零》同日EA发售，本体定价48元含角色创建额度。团队约10人开发两年，制作人苦丁称若用传统工作流需扩编4-5倍、耗时约6年。游戏将AI生成嵌入角色、任务、关卡、道具循环，商业模式不直接向玩家收Token费，超额创建角色走DLC。",
+      "tags": [
+        "技术AI",
+        "新品曝光"
+      ],
+      "keywords": [
+        "麦琪的花园",
+        "AutoGame",
+        "AI原生"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 8,
+      "title": "Onimusha, Resident Evil, Pragmata, and Monster Hunter franchises boost Capcom H1 results",
+      "url": "https://www.gamesindustry.biz/onimusha-resident-evil-pragmata-and-monster-hunter-franchises-boost-capcom-h1-results",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-29 12:57",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "卡普空公布截至2026年9月30日的上半财年业绩：净销售额1208亿日元同比增49%，营业利润607亿日元增54.5%，普通利润612亿日元增67.5%。数字内容业务净销售额851亿日元增70.8%，总销量3686万份（上年同期2385万）。",
+      "tags": [
+        "财报业绩"
+      ],
+      "keywords": [
+        "卡普空",
+        "生化危机",
+        "Pragmata",
+        "怪物猎人"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 9,
+      "title": "完美Q3净利增211%，《异环》流水27亿；恺英前三季净利20亿，同增超 30%",
+      "url": "https://news.qq.com/rain/a/20261029A0CUUH00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-29 12:22",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "完美世界Q3营收23.62亿元同比增36.85%，归母净利5.06亿元同比增211.47%，环比扭亏，主因《异环》全球累计流水突破27亿元（截至10月28日），海外流水贡献高于国内；但新游市场费用一次性计入致前三季销售费用增145.6%，游戏业务扣非净利仍同比减少1.57亿元。恺英网络前三季营收72.58亿元同比增78.11%，归母净利20.69亿元同比增30.69%，Q3营收24.61亿元；另拟出资约2.98亿美元间接取得Wemade 40.25%控股权中49%权益，尚待审批。",
+      "tags": [
+        "财报业绩"
+      ],
+      "keywords": [
+        "完美世界",
+        "异环",
+        "恺英网络",
+        "Wemade"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 12,
+      "title": "Xbox first-party content partially offsets 2% drop in Q1 revenue, hardware decreases 14%",
+      "url": "https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-29 10:53",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "微软2027财年Q1营收923亿美元同比增19%，净利366亿美元增32%。设备与消费业务收入155亿美元降3%，Xbox内容与服务收入降2%，硬件收入降14%，主因第三方内容与Game Pass表现下滑，第一方内容增长部分抵消。Minecraft创参与度与收入历史新高，《使命召唤：现代战争4》获十余年来最佳评价。",
+      "tags": [
+        "财报业绩",
+        "裁员"
+      ],
+      "keywords": [
+        "微软",
+        "Xbox",
+        "Minecraft",
+        "Game Pass"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 5,
+      "title": "Newly merged Skydance mandates staff return to office five days a week, offers Voluntary Buyout Program",
+      "url": "https://www.gamesindustry.biz/newly-merged-skydance-mandates-staff-return-to-office-five-days-a-week-offers-voluntary-buyout-program",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-29 14:29",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "合并后的Skydance公司要求员工每周五天到办公室，并推出自愿买断计划（VBO）。派拉蒙与华纳兄弟探索本月完成1110亿美元合并，Paramount Games Studio与WB Games合并为单一部门，由Tony Driscoll管理。CEO称五天到岗政策符合员工最佳利益，将按地区分阶段推行。",
+      "tags": [
+        "并购",
+        "人事变动"
+      ],
+      "keywords": [
+        "Skydance",
+        "派拉蒙",
+        "华纳兄弟",
+        "WB Games"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 7,
+      "title": "\"I wish I had the formula\" – 2Awesome Studio on navigating indie development while creating Altered Alma, its biggest project to date",
+      "url": "https://www.gamesindustry.biz/i-wish-i-had-the-formula-2awesome-studio-on-navigating-indie-development-while-creating-altered-alma-its-biggest-project-to-date",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-29 13:04",
+      "also_seen_in": [],
+      "module": "other",
+      "summary": "西班牙独立工作室2Awesome Studio联合创始人谈开发其最大项目《Altered Alma》的经验：该作Kickstarter众筹超26万欧元（目标4万），团队靠众筹、政府资金、贷款、发行商及外包多线维持，计划以更聚焦的规模开发续作。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "2Awesome Studio",
+        "Altered Alma"
+      ],
+      "importance": 2
+    }
+  ],
+  "dropped": [
+    {
+      "id": 14,
+      "title": "The five golden rules of external development",
+      "url": "https://www.gamesindustry.biz/the-five-golden-rules-of-external-development",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-29 09:00",
+      "reason": "独立开发经营指南类系列，按D2不收录",
+      "by": "model"
+    }
+  ],
+  "source_stats": {
+    "GameLook": {
+      "fetched": 4,
+      "selected": 3,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 6,
+      "selected": 4,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 1
+    },
+    "游戏陀螺": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "触乐": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
