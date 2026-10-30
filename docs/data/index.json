@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-29T00:51:44+00:00",
+  "updated": "2026-10-30T00:52:03+00:00",
   "days": [
+    {
+      "date": "2026-10-30",
+      "total": 12,
+      "modules": {
+        "rival": 0,
+        "industry": 3,
+        "product": 3,
+        "newgame": 1,
+        "company": 4,
+        "deep": 0,
+        "ad": 0,
+        "other": 1
+      },
+      "headlines": [
+        "《怪物猎人：旅人》海外发布，19国免费榜夺冠！",
+        "完美Q3净利增211%，《异环》流水27亿；恺英前三季净利20亿，同增超 30%",
+        "10月195款版号！腾讯网易字节完美均有收获",
+        "微信小游戏月活榜洗牌：元梦之星6718万登顶，畅销第一《向僵尸开炮》排名第五",
+        "Onimusha, Resident Evil, Pragmata, and Monster Hunter franchises boost Capcom H1 results"
+      ]
+    },
     {
       "date": "2026-10-29",
       "total": 16,
