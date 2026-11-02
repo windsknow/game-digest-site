@@ -1,0 +1,483 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T00:52:57+00:00",
+  "model": "deepseek-flash",
+  "total": 18,
+  "modules": {
+    "rival": 0,
+    "industry": 7,
+    "product": 3,
+    "newgame": 1,
+    "company": 5,
+    "deep": 1,
+    "ad": 1,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 2,
+      "reason": "10月195款版号下发，《影之刃零》Steam峰值72.4万、预售约85万份，多份Q3财报与《蔚蓝档案》日服易主同周落地。"
+    },
+    {
+      "id": 8,
+      "reason": "四家A股游戏公司Q3财报：完美世界靠《异环》净利增211%、该作全球流水破27亿，世纪华通前三季营收333亿领跑。"
+    },
+    {
+      "id": 11,
+      "reason": "三七互娱Q3净亏2.96亿、扣非降79%，为2018年来首次季度亏损，股价跌10%，被视为买量模式的重要警示信号。"
+    },
+    {
+      "id": 20,
+      "reason": "腾讯《怪物猎人：旅人》海外上线即登日区iOS畅销榜第3、免费榜第1，验证怪猎IP手游化与天美出海能力。"
+    }
+  ],
+  "items": [
+    {
+      "id": 2,
+      "title": "触乐本周行业大事：10月195款游戏版号下发，《白银之城》定档，《影之刃零》正式发售，《战舰少女R》核心主创离世",
+      "url": "https://news.qq.com/rain/a/20261031A09C8K00",
+      "source": "触乐",
+      "pub_date": "2026-10-31 08:14",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "10月版号下发195款（国产183、进口12），腾讯《不可卷卷书店》、网易《桃花》、散爆《少女前线：蓝蝶契约》等在列；《白银之城》定档12月14日全球公测、预约超1500万；《影之刃零》10月29日发售，Steam峰值72.4万、预估预售85万份；世纪华通、恺英、完美、巨人Q3财报出炉，完美靠《异环》净利增211%；《战舰少女R》主创毛佳栋离世；《蔚蓝档案》日服运营权2027年移交NEXON；Valve在韩国活动回应AI游戏泛滥与克隆问题。",
+      "tags": [
+        "政策监管",
+        "财报业绩",
+        "榜单数据"
+      ],
+      "keywords": [
+        "版号",
+        "白银之城",
+        "影之刃零",
+        "异环"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 1,
+      "title": "AI抄袭者正在全力毁灭游戏行业",
+      "url": "https://news.qq.com/rain/a/20261101A0A0CQ00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-01 14:18",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "游戏葡萄长文剖析AI抄袭产业化：瑞典创作者Freya Holmér的旋转俄罗斯方块原型5小时内被AI复刻，《大海捞针模拟器》爆火后Steam涌现一打AI复刻品，多支团队取消公开Demo改封闭测试。深水区已有团队盯排行榜、用AI拆解系统数值生成白盒工程，号称不到一个月、约10万元复刻成熟产品，并转向自建平台免费分发靠广告变现。文章认为AI正把竞争从“做得更好”变成“找得更准更快”，原创收益被稀释，长期将侵蚀行业创作动力。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "AI抄袭",
+        "独立游戏",
+        "Steam"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 16,
+      "title": "沉迷养鸟、搬家、当裁缝，越来越多的游戏玩家喜欢上不干正事",
+      "url": "https://news.qq.com/rain/a/20261030A0CKB800",
+      "source": "游戏陀螺",
+      "pub_date": "2026-10-30 11:32",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "今年Steam带Cozy标签新作从去年同期468款增至1341款、同比增约186%，已超前两年总和，Google搜索热度为2023年两倍。《维修物语》一周30万份、12小时回本；《针影裁梦》三人团队好评98%、估算近60万拥有者；《图书管理员》两人团队峰值1.6万在线、估算38万份。腾讯《粒粒的小人国》、米哈游《星布谷地》也在布局。文章分析正面反馈、兴趣题材、直播短视频传播与女性玩家（美国调查约半数偏好Cozy）驱动增长。",
+      "tags": [
+        "市场分析",
+        "小游戏"
+      ],
+      "keywords": [
+        "Cozy游戏",
+        "维修物语",
+        "图书管理员",
+        "星布谷地"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 12,
+      "title": "Studio Atelico launches Atelico AI Engine into Early Access",
+      "url": "https://www.gamesindustry.biz/studio-atelico-launches-atelico-ai-engine-into-early-access",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-30 14:39",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Studio Atelico将Atelico AI Engine推入抢先体验，支持Unity、Unreal、Godot，可在设备端生成图像、运行语言模型、实现语音系统与AI角色行为，不依赖云、不影响渲染性能，覆盖Windows/macOS/iOS/Linux。",
+      "tags": [
+        "技术AI",
+        "硬件平台"
+      ],
+      "keywords": [
+        "Studio Atelico",
+        "AI引擎"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 14,
+      "title": "Maddy Makes Games removes Celeste and TowerFall from Xbox in support of pro-Palestinian BDS boycott",
+      "url": "https://www.gamesindustry.biz/maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in-support-of-pro-palestinian-bds-boycott",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-30 12:10",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Maddy Makes Games为支持亲巴勒斯坦BDS抵制运动，将《Celeste》《TowerFall》从Xbox下架；House House（Big Walk）、Ice Water、Speculative Agency、Dan Dilorio等开发者亦加入。",
+      "tags": [
+        "政策监管"
+      ],
+      "keywords": [
+        "Maddy Makes Games",
+        "Xbox",
+        "BDS"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 21,
+      "title": "单人Codex游戏研发干货分享：如何100%用AI重制一款游戏？",
+      "url": "https://news.qq.com/rain/a/20261030A08VSE00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-30 07:18",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "读者投稿分享用Codex将大学实体叙事游戏《千禧年的浪漫化》100%由AI重制为网页版的完整工作流：先由创作者独立确定创意方向、体验流程与内容架构，再让AI做内容校对台、快速原型验证、Three.js建模与场景/扫描点编辑工具，最后放回完整体验中排查视频卡顿（单文件329MiB压至32MiB）。核心观点是AI降低执行门槛后，创意、审美与取舍判断仍须由创作者掌握。",
+      "tags": [
+        "技术AI"
+      ],
+      "keywords": [
+        "Codex",
+        "AI游戏开发"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 22,
+      "title": "游戏行业最强大的对手，公开了自己的秘密",
+      "url": "https://news.qq.com/rain/a/20261030A08VSA00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-10-30 07:18",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "游戏葡萄整理ThinkingAI Summit 2026上灵矩动漫（星矩）CEO吕少龙的分享：真人短剧ROI长期低于1.1、成本涨至80-200万、爆款率跌破10%后转AI漫剧，2025年7月首作一周充值破百万。扩张至约1000人后改中台制，单月产能从200部提至500部、峰值2000部，人效提升78%；AI使单剧成本降10倍、周期压至20天内、剧组从30人缩至5人。面对红果日更1000-1500部的内卷，判断内容工厂模式走不通，转向出海（海外短视频用户近20亿、短剧用户仅8800万）与KOC分佣（90%利润给创作者）的去中心化路线。",
+      "tags": [
+        "技术AI",
+        "出海",
+        "市场分析"
+      ],
+      "keywords": [
+        "AI漫剧",
+        "灵矩动漫",
+        "短剧"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 20,
+      "title": "腾讯《怪物猎人：旅人》海外上线，冲上日区畅销榜TOP3",
+      "url": "https://news.qq.com/rain/a/20261030A092BA00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-30 07:31",
+      "also_seen_in": [
+        "GameLook"
+      ],
+      "module": "product",
+      "summary": "腾讯天美与卡普空合作的《怪物猎人：旅人》10月29日海外上线，日区iOS免费榜第1、畅销榜总榜第3，美国iOS免费榜第3、畅销榜第56。首发8种武器、原创古龙“光稜龙”与“融光种”，已获移动+客户端双版号并官宣WeGame版，国内三次测试后上线临近。",
+      "tags": [
+        "出海",
+        "新品定档"
+      ],
+      "keywords": [
+        "怪物猎人：旅人",
+        "腾讯",
+        "天美",
+        "卡普空"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 6,
+      "title": "微软差钱？《魔兽世界》开卖房屋装饰道具！玩家：不是承诺不卖钱么",
+      "url": "https://news.qq.com/rain/a/20261031A000A500",
+      "source": "GameLook",
+      "pub_date": "2026-10-30 23:13",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "暴雪10月27日在《魔兽世界》战网商城上架25美元“恐怖暮潮庄园”房屋礼包与10美元21件装饰包，被指违背2025年11月“种族核心幻想相关房屋物品不进商城”的承诺，社区与BellularGaming等创作者强烈批评。背景是微软10月26日向约6万员工提供自愿离职、Xbox持续裁员，暴雪新作空窗（《暗黑5》定2029、《星际争霸》新作2030），老IP承担现金流压力。",
+      "tags": [
+        "版本更新",
+        "市场分析"
+      ],
+      "keywords": [
+        "魔兽世界",
+        "暴雪",
+        "微软"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 10,
+      "title": "一款运营十七年的MMO，决定重走出一条路",
+      "url": "https://news.qq.com/rain/a/20261031A0009P00",
+      "source": "GameLook",
+      "pub_date": "2026-10-30 15:59",
+      "also_seen_in": [
+        "游戏新知"
+      ],
+      "module": "product",
+      "summary": "《剑网3》10月29日上线50级新世代资料片「苍生铸世」，等级上限由130级降至50级、数值与装备体系全面压缩重构，缩小橙武紫武差距、精简装备部位、移除破招属性；PvP降门槛、PvX强化社交认同，新增四张考据地图与墨家偃甲探索能力。官方称目标是“为未来腾出更健康的成长空间”，并为2027年2.0试玩铺路。",
+      "tags": [
+        "版本更新",
+        "产品复盘"
+      ],
+      "keywords": [
+        "剑网3",
+        "西山居",
+        "苍生铸世"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 4,
+      "title": "十年构思、一年半开发，Cygames子品牌首作就是个跳跳乐？",
+      "url": "https://news.qq.com/rain/a/20261031A06JJR00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-31 04:31",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "Cygames 9月成立子品牌Cygames Edge（滨田修一郎带队，做中小体量游戏），首作《崩落之国》11月发布、定价1100日元（约47元）。玩法为剧情驱动的“向下跳”跳跳乐，Demo体验良好；创意源自关卡设计师十年前构思、2024年内部Gamejam优胜原型，核心团队约10人（近半来自Zereo），一年半开发、约3小时通关。子品牌目标每年2-3款、单款开发1-1.5年。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "Cygames",
+        "崩落之国",
+        "Cygames Edge"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 8,
+      "title": "Q3完美利润暴增《异环》流水破27亿！世纪华通、巨人、恺英平稳增长",
+      "url": "https://news.qq.com/rain/a/20261031A0009Y00",
+      "source": "GameLook",
+      "pub_date": "2026-10-30 15:59",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "世纪华通、恺英网络、完美世界、巨人网络发布2026年三季报：世纪华通前三季营收332.98亿元居首、Q3单季111.81亿；完美世界Q3净利5.06亿同比增211.47%，《异环》全球累计流水超27亿元、海外贡献高于国内；巨人网络前三季营收66.85亿同比增98.45%；恺英网络营收72.58亿同比增78.11%，拟2.98亿美元间接参股Wemade绑定“传奇”IP。",
+      "tags": [
+        "财报业绩"
+      ],
+      "keywords": [
+        "世纪华通",
+        "完美世界",
+        "巨人网络",
+        "恺英网络"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 11,
+      "title": "游戏圈地震！买量龙头三七互娱“由盈转亏”，怎么回事？",
+      "url": "https://news.qq.com/rain/a/20261031A0009L00",
+      "source": "GameLook",
+      "pub_date": "2026-10-30 15:59",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "三七互娱Q3营收40.91亿元同比增2.93%，归母净亏损2.96亿元同比降131.33%，为2018Q4以来首次季度亏损，股价当日跌10%。主因投资智谱产生5.06亿元非经常性亏损，扣非净利1.81亿元仍同比降79.28%。老产品《寻道大千》下滑、新品断档，海外收入21.69亿元同比增59.31%已超国内。文章分析AI红利一次性、买量护城河消解、爆款窗口缩短等结构性挑战。",
+      "tags": [
+        "财报业绩",
+        "市场分析"
+      ],
+      "keywords": [
+        "三七互娱",
+        "寻道大千",
+        "智谱"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 7,
+      "title": "支付大佬Xsolla下场做游戏？收购游戏平台Gamepix、押注 AI 造游戏！",
+      "url": "https://news.qq.com/rain/a/20261031A000A900",
+      "source": "GameLook",
+      "pub_date": "2026-10-30 15:59",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Xsolla收购2013年成立的老牌网页游戏平台Gamepix（收录上万款小游戏、合作开发者超4000名），并推出AI Toolkit开发套件。收购本质是把网页分发、AI开发工具与覆盖200多国、上千种支付方式的全球结算体系打包，为中小团队和AI创作者提供低成本出海通路，而非下场自研内容。",
+      "tags": [
+        "并购",
+        "技术AI",
+        "出海"
+      ],
+      "keywords": [
+        "Xsolla",
+        "Gamepix"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 13,
+      "title": "生软联合创始人：EA高管没做过游戏，关闭工作室不是意外",
+      "url": "https://news.qq.com/rain/a/20261030A0D50X00",
+      "source": "触乐",
+      "pub_date": "2026-10-30 12:14",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "生软联合创始人Greg Zeschuk首次就EA关闭BioWare发声：EA在550亿美元私有化交易完成78天后启动约400人裁员，关闭生软并终止《质量效应》新作、裁掉剩余约50人。他认为高管多无一线开发经验、低估团队价值，并称EA被收购是“棺材上的最后一颗钉子”。他回顾2007年出售生软不后悔，现经营酿酒厂无意回归。",
+      "tags": [
+        "裁员",
+        "人物访谈"
+      ],
+      "keywords": [
+        "BioWare",
+        "EA",
+        "质量效应"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 17,
+      "title": "Roblox Q3 results beat expectations despite bookings falling 12% to $1.7bn",
+      "url": "https://www.gamesindustry.biz/roblox-q3-results-beat-expectations-despite-bookings-falling-12-to-17bn",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-30 10:44",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Roblox Q3营收16亿美元同比增16%超预期，预订额17亿美元同比降12%（两年维度增超50%），净亏损2.3亿美元；DAU同比降9%、参与时长降15%至340亿小时。",
+      "tags": [
+        "财报业绩",
+        "技术AI"
+      ],
+      "keywords": [
+        "Roblox",
+        "AI"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "Gaming storefronts are facing a Slop Grenade problem | Opinion",
+      "url": "https://www.gamesindustry.biz/gaming-storefronts-are-facing-a-slop-grenade-problem-opinion",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-30 12:00",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "GamesIndustry.biz观点长文认为，业界正刻意制造“AI已成既定事实”的共识，但玩家对AI游戏的厌恶真实且理由充分（审美、伦理、数据中心、经济冲击）。Steam Next Fest被低质AI游戏淹没，复古游戏“decomp”社区已被AI自动反编译浪潮淹没，预示“slop grenade”效应：AI让产出量爆炸，最终由平台承担审核与可发现性成本。文章指出Steam等平台事实上已放弃守门，而“做出一款游戏”本身的时间与知识门槛曾是最后一道闸门，如今这道闸门也在消失。结论是应停止把AI当作必然未来，转而讨论如何清理它必然造成的烂摊子。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "AI",
+        "Steam",
+        "slop"
+      ],
+      "importance": 3,
+      "detail": {
+        "points": [
+          {
+            "title": "AI共识被刻意制造",
+            "text": "文章指出，当前存在一场协调一致的运动，试图为游戏开发中使用AI制造共识。其核心是将AI呈现为既成事实：每周都有新报告声称几乎所有开发工作室已使用AI，向开发者传递“不用就落后”的信息，向玩家传递“已无法回头”的信息。这实质上是科技巨头更广泛努力的一个缩影，即说服世界相信AI渗透生活和工作每个角落的必然性。这种话术建立在可疑的基础之上，将许多不同的工具和系统——包括早于大语言模型多年的深度学习模型——都模糊地归入“AI使用”这一单一标签下。"
+          },
+          {
+            "title": "AI使用定义被偷换",
+            "text": "在游戏开发中，这种修辞手法表现为各种偷换概念：从程序员使用Copilot自动补全，到2D艺术家使用Photoshop的背景去除工具，再到项目经理使用Zoom的会议摘要工具，所有这些都可以被算作“使用AI的工作室”。文章提出一个经验法则：当有人每隔五分钟就戏剧性地坚称某事是既成事实时，这恰恰表明事实相反。没有人需要说服世界相信一个新现实，如果它确实是真的。这揭示了所谓“AI普及”数据背后的水分。"
+          },
+          {
+            "title": "开发者用AI但怕用户",
+            "text": "文章承认许多开发者和工作室确实在试验AI工具，并考虑如何将其融入工作流程。游戏是高科技行业，如果新的AI工具有用、可靠且有效，它们会被采用。人们会自动化编写大量无聊模板或测试代码，并欢迎更智能的工具来自动化游戏资产开发管线的部分环节。但这并不意味着他们想解雇艺术部门并用半吊子的提示词取而代之。许多可疑的匿名调查声称大量工作室使用AI，但很少有实际工作室自豪地承认，原因有二：一是许多工作室会质疑其行为是否构成人们所想的“在开发中使用AI”；二是他们知道客户厌恶游戏中的AI，而且随着AI鼓吹者越来越尖锐地宣称必然性，消费者的这种立场只会更加根深蒂固。"
+          },
+          {
+            "title": "消费者反感AI理由充分",
+            "text": "消费者确实不喜欢AI，而改变他们想法的挑战在于，不喜欢的原因多种多样且大多合理。有些人讨厌AI产出的美学——许多人能一眼嗅出AI作品，普通人对看到AI艺术或听到AI音乐产生本能负面反应的比例惊人。有些人出于伦理原因憎恨AI，且有充分理由：使用训练数据创建语言模型的论点，在模型整体模仿人们 artwork、声音或图像时显得苍白。其他人则抨击数据中心、经济影响，或者只是讨厌AI浪潮中那些不讨喜的亿万富翁代表人物。任何在开发中正常化广泛使用AI的尝试都将撞上这堵墙。大多数消费者想要人类创作的艺术，并会用钱包投票。他们还要求知情选择权，例如呼吁Steam不仅确保AI生成的游戏被明确标注，而且消费者有直接过滤它们的方式。"
+          },
+          {
+            "title": "Steam被AI垃圾淹没",
+            "text": "文章以Steam Next Fest为例，指出这个旨在展示隐藏佳作的活動却被充满AI资产的懒惰粗制游戏所充斥。玩家要求严格的过滤器来移除AI游戏，这是一个合理的请求，前提是“AI游戏”能被有意义地定义。对更广泛的行业而言，这凸显了AI问题正迅速失控，其后果远大于关于AI工具创造性或伦理有效性的任何辩论。一场“slop”雪崩正朝我们袭来，目前无人知道如何应对。文章还以复古游戏社区的“decomps”（反编译旧游戏以便在现代硬件上重新实现）为例，该小众社区已被AI驱动的自动化反编译浪潮淹没，这些反编译大多针对仍属商业作品的游戏，可能永远摧毁该角落，并预示了行业其他部分即将面临的情况。"
+          },
+          {
+            "title": "slop手榴弹与平台失守",
+            "text": "文章借用企业采用生成式AI后遇到的问题——“slop手榴弹”：人们用AI生产大量报告、邮件等输出，最终需要别人来处理，炸到别人的工作量上。这正是游戏商店面临的情况：快速制作的低质量游戏大量增加，这些游戏被基于无数专业游戏训练的模型赋予了模糊的专业光泽。Slop本身不是新问题，但新问题在于规模之大——即使每个slop游戏只赚几英镑，其累积效应也可能摧毁可发现性、破坏市场，并从真正的游戏那里吸走大量收入。平台如Steam已基本放弃早先的守门尝试，因为人们讨厌邀请制和绿光系统，于是变成只要支付小额费用任何游戏都能上架的免费混战。这曾在一定程度上奏效，但即将失效，因为即使Valve不再守门，制作游戏——哪怕是很差的游戏——仍需时间、努力和知识。如果这个守门人也消失了，我们将首次看到真正开放的市场，而这可能不是任何人想要的。"
+          }
+        ],
+        "takeaway": "对国内游戏公司而言，需警惕“AI必然论”的话术，避免被裹挟进为AI而AI的军备竞赛。产品端应明确AI工具的使用边界，优先用于提升管线效率而非替代核心创意，并关注消费者对AI内容的抵触情绪，在营销中保持透明。发行端需预判平台可能出台的AI标签与过滤机制，提前规划合规与差异化策略。竞品分析中，应甄别“AI使用率”数据的真实性，关注slop泛滥对商店发现性的冲击，探索以品质和人类创意为卖点的定位。"
+      }
+    },
+    {
+      "id": 3,
+      "title": "乐元素《白银之城》将于12月14日全球同步上线",
+      "url": "https://news.qq.com/rain/a/20261031A06JJX00",
+      "source": "游戏新知",
+      "pub_date": "2026-10-31 04:31",
+      "also_seen_in": [
+        "游戏葡萄"
+      ],
+      "module": "ad",
+      "summary": "乐元素UE5大世界动作RPG《白银之城》定档12月14日全球公测，登陆PC/PS5/安卓/iOS，全球预约超1500万。",
+      "tags": [
+        "新品定档"
+      ],
+      "keywords": [
+        "白银之城",
+        "乐元素"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [
+    {
+      "id": 18,
+      "title": "Why asking \"what's the budget for your game?\" doesn't make sense in 2026 | Opinion",
+      "url": "https://www.gamesindustry.biz/why-asking-whats-the-budget-for-your-game-doesnt-make-sense-in-2026-opinion",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-10-30 09:00",
+      "reason": "独立开发经营指南类个人专栏，D2不收录。",
+      "by": "model"
+    }
+  ],
+  "source_stats": {
+    "游戏葡萄": {
+      "fetched": 4,
+      "selected": 3,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    },
+    "触乐": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 4,
+      "selected": 2,
+      "ad": 1,
+      "merged": 1,
+      "dropped": 0
+    },
+    "GameLook": {
+      "fetched": 6,
+      "selected": 5,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 5,
+      "selected": 4,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 1
+    },
+    "游戏陀螺": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
