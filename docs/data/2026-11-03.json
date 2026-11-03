@@ -1,0 +1,436 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T00:51:58+00:00",
+  "model": "deepseek-flash",
+  "total": 17,
+  "modules": {
+    "rival": 0,
+    "industry": 6,
+    "product": 5,
+    "newgame": 0,
+    "company": 5,
+    "deep": 0,
+    "ad": 0,
+    "other": 1
+  },
+  "headlines": [
+    {
+      "id": 20,
+      "reason": "网易全资名越工作室正式解散清算，首作《GANG OF DRAGON》未发售即夭折，网易海外研发收缩再添一例"
+    },
+    {
+      "id": 21,
+      "reason": "《怪物猎人：旅人》登顶日区iOS畅销榜，40个市场下载榜首，创天美自研自发海外最佳成绩"
+    },
+    {
+      "id": 25,
+      "reason": "《影之刃零》72小时销量破400万、Steam峰值83万，为今年单机在线最高，国产3A出海标志性成绩"
+    },
+    {
+      "id": 22,
+      "reason": "灵犀《篮球少女》冲上iOS畅销榜第4，成其第6款TOP5产品，验证小众赛马娘like打法"
+    },
+    {
+      "id": 5,
+      "reason": "Anthropic禁Claude复刻现有游戏、OpenAI封号，AI克隆游戏争议升级，牵动Steam与独立开发者生态"
+    }
+  ],
+  "items": [
+    {
+      "id": 5,
+      "title": "Claude,ChatGPT叫停“AI反编译游戏”！OpenAI老板：“个人电脑不该装内存”",
+      "url": "https://news.qq.com/rain/a/20261102A0DAVQ00",
+      "source": "GameLook",
+      "pub_date": "2026-11-02 15:00",
+      "also_seen_in": [
+        "GamesIndustry.biz"
+      ],
+      "module": "industry",
+      "summary": "Anthropic为Claude Code加入不可关闭规则，禁止复刻具体现有游戏，OpenAI则以封号应对AI逆向。文章梳理导火索：Steam Next Fest涌入超7100份demo、多款独立游戏试玩因怕被克隆撤下，Epic、微软连发DMCA。Valve表示不禁止AI、不当守门人。文末讨论游戏机制不受版权保护、护栏易被绕过等行业争议。",
+      "tags": [
+        "技术AI",
+        "政策监管"
+      ],
+      "keywords": [
+        "Anthropic",
+        "OpenAI",
+        "Valve",
+        "Claude"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 7,
+      "title": "沐瞳科技：协助警方侦破游戏私服侵权案，多名嫌疑人落网",
+      "url": "https://news.qq.com/rain/a/20261102A0DAVH00",
+      "source": "GameLook",
+      "pub_date": "2026-11-02 15:00",
+      "also_seen_in": [
+        "游戏葡萄"
+      ],
+      "module": "industry",
+      "summary": "沐瞳科技宣布协助上海闵行警方侦破一起游戏私服侵犯著作权案，捣毁非法架设运营团伙，多名嫌疑人被采取刑事强制措施。该私服今年5月上线，照搬正版内容并以充值翻倍等诱导消费，团伙设工作室分工运营、结算与技术修改，警方9月抓捕并查获另两款待上线私服。",
+      "tags": [
+        "法律诉讼"
+      ],
+      "keywords": [
+        "沐瞳科技",
+        "私服",
+        "著作权"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 16,
+      "title": "AI冲击下，美术外包之城正在两极分化",
+      "url": "https://news.qq.com/rain/a/20261102A0BM1J00",
+      "source": "触乐",
+      "pub_date": "2026-11-02 10:44",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "触乐调查成都美术外包行业：2026年起国内厂商外包订单已明确允许使用AI，工期被要求折半，头部厂商订单量缩减约20%，高精度立绘报价从约1.3万砍半。但从业者称AI主要改变流程而非提速，3D建模30天工期最多省两天。行业两极分化：散包团队面临淘汰，部分公司转向整包、自研或AI中台，初级人才上升通道受挤压。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "成都",
+        "美术外包",
+        "AI"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 18,
+      "title": "20+新游定档、10+产品测试！11月手游市场迎来“内容型产品”大爆发",
+      "url": "https://news.qq.com/rain/a/20261102A0BIGW00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-02 10:31",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "游戏陀螺统计11月有27款新游预计上线、18款开启限量测试，发行重心向二次元、MMO、沙盒生存与格斗竞技倾斜，中下旬为爆发点。重点包括腾讯《饥困荒野》（11月24日，预约破2000万）、蛮啾《蓝色星原：旅谣》（11月26日，预约破2500万）、贪玩《斗罗大陆：诛邪传说》（11月19日）、腾讯魔方《异人之下》终测（预约破3800万，预计12月上线）等。",
+      "tags": [
+        "新品定档",
+        "市场分析"
+      ],
+      "keywords": [
+        "腾讯",
+        "蛮啾",
+        "蓝色星原",
+        "异人之下"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 1,
+      "title": "Saudi-backed Kingdom of Gaming event delayed to 2027",
+      "url": "https://www.gamesindustry.biz/saudi-backed-kingdom-of-gaming-event-delayed-to-2027",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-02 21:46",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "沙特政府支持的Kingdom of Gaming展会从原定12月1-3日利雅得延期至2027年，官网与社交账号悄然改为「Coming in 2027」，主办方未公开解释。主办方Tahaluf为Informa与沙特网络安全联合体合资，原承诺2万+观众、500家工作室、200位投资人。",
+      "tags": [
+        "展会活动"
+      ],
+      "keywords": [
+        "Kingdom of Gaming",
+        "沙特",
+        "Informa"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 10,
+      "title": "Gamescom Asia x Thailand Game Show \"most international yet\", attracting nearly 220,000 visitors from 113 countries",
+      "url": "https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-most-international-yet-attracting-nearly-220000-visitors-from-113-countries",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-02 14:32",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Gamescom Asia x Thailand Game Show称本届为最国际化一届，4天吸引来自113国的219,546名观众；商务区6,923名访客来自78国、同比增24%，过半来自泰国以外；335家参展商、582款可玩作品，直播与数字内容观看近3400万。主办方称东南亚已从「值得关注」变为「必须进入」的市场。",
+      "tags": [
+        "展会活动"
+      ],
+      "keywords": [
+        "Gamescom Asia",
+        "泰国",
+        "Koelnmesse"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 21,
+      "title": "腾讯天美出海最佳成绩？！《怪物猎人：旅人》登顶日区iOS畅销榜",
+      "url": "https://news.qq.com/rain/a/20261102A0BG3B00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-02 10:24",
+      "also_seen_in": [
+        "GameLook"
+      ],
+      "module": "product",
+      "summary": "卡普空授权、腾讯天美J1研发的《怪物猎人：旅人》10月29日国际服上线，11月2日登顶日区iOS畅销总榜，Google Play畅销榜第7；在港澳台等5个市场登顶iOS畅销榜，在日美德等40个市场拿下下载榜榜首，Google Play进入83个市场畅销前百。这是天美自研自发海外最好成绩，也是腾讯在日本的突破。国服已获双端版号并将开发WeGame版本。",
+      "tags": [
+        "出海",
+        "榜单数据"
+      ],
+      "keywords": [
+        "腾讯",
+        "天美",
+        "怪物猎人：旅人",
+        "卡普空"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 25,
+      "title": "《影之刃零》72小时销量突破400万！",
+      "url": "https://news.qq.com/rain/a/20261102A04HW400",
+      "source": "游戏新知",
+      "pub_date": "2026-11-02 02:21",
+      "also_seen_in": [
+        "游戏葡萄"
+      ],
+      "module": "product",
+      "summary": "《影之刃零》官方宣布发售72小时全平台销量突破400万，Steam最高同时在线超83万，为今年发售单机游戏中Steam在线最高。",
+      "tags": [
+        "榜单数据"
+      ],
+      "keywords": [
+        "影之刃零",
+        "灵游坊"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 8,
+      "title": "杀回畅销榜TOP1、总榜第2！鹰角给“难”了一整年的二游指了条路",
+      "url": "https://news.qq.com/rain/a/20261102A0DAVF00",
+      "source": "GameLook",
+      "pub_date": "2026-11-02 15:00",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "上线7.5年的《明日方舟》借庆典新版本与人气角色塔露拉实装登顶iOS游戏畅销榜，并冲上畅销总榜第2，为2026年首款登顶iOS畅销榜的二次元游戏。文章以剧情伏笔收束、社区二创与线下活动为据，讨论二游竞争重心从堆料转向长线情感链接。",
+      "tags": [
+        "榜单数据",
+        "产品复盘"
+      ],
+      "keywords": [
+        "鹰角网络",
+        "明日方舟"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 14,
+      "title": "前作12万在线，卖了4亿后，他们做了一款暗黑like版搜打撤",
+      "url": "https://news.qq.com/rain/a/20261102A0C9G500",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-02 12:06",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《破坏领主》开发商WOLCEN Studio新作《收割者：诸神已死》完成第六次封闭Alpha测试，将暗黑like刷宝与搜打撤单局循环融合。制作人受访称测试约2.45万玩家参与、近三分之一来自中国，游戏明年进入抢先体验，承诺不做付费变强；前作《破坏领主》销量约200万套、Steam峰值12.7万在线，因服务器与运营问题未能长线。",
+      "tags": [
+        "新品曝光",
+        "产品复盘"
+      ],
+      "keywords": [
+        "WOLCEN Studio",
+        "收割者：诸神已死",
+        "破坏领主"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 22,
+      "title": "第6款，灵犀互娱又双叒做出畅销榜TOP5游戏了？",
+      "url": "https://news.qq.com/rain/a/20261102A0BG3300",
+      "source": "游戏新知",
+      "pub_date": "2026-11-02 10:24",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "灵犀互娱二次元新游《篮球少女：飞跃巅峰》冲上iOS游戏畅销榜第4并稳定TOP10近一周，发稿时回落至第14。这是灵犀第6款进入iOS畅销榜TOP5的产品，也是国内少见的篮球题材赛马娘like。文章拆解其球星原型角色、轻量化养成与买量打法（AdXray显示已投5155份素材、约56.7万投放计划），并指出能否长线仍待观察。",
+      "tags": [
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "灵犀互娱",
+        "篮球少女：飞跃巅峰"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 20,
+      "title": "决议解散！网易停止投资后，名越工作室融资无果走向解散",
+      "url": "https://news.qq.com/rain/a/20261102A0BG3E00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-02 10:24",
+      "also_seen_in": [
+        "GameLook",
+        "游戏陀螺",
+        "GamesIndustry.biz"
+      ],
+      "module": "company",
+      "summary": "日本官报11月2日刊登公告，网易全资的名越工作室已于10月31日经股东大会决议解散并进入清算。该工作室由《如龙》之父名越稔洋2021年创立、2022年官宣加入网易，首作《GANG OF DRAGON》2025年TGA首曝；因项目至少还需追加70亿日元，网易自今年5月起停止资助，名越寻求新融资无果。这是网易近两年收缩海外研发投资的又一案例，此前Worlds Untold暂停、Fantastic Pixel Castle关闭、草蜢工作室脱离网易。",
+      "tags": [
+        "关服停运",
+        "人事变动"
+      ],
+      "keywords": [
+        "网易",
+        "名越工作室",
+        "GANG OF DRAGON"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 2,
+      "title": "CI Games secures $32 million loan to finish and self-publish Lords of the Fallen 2",
+      "url": "https://www.gamesindustry.biz/ci-games-secures-32-million-loan-to-finish-and-self-publish-lords-of-the-fallen-2",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-02 21:28",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "CI Games签署3200万美元银团贷款，用于完成并自主发行《堕落之主2》，同时置换现有银行债务，波兰出口信贷机构KUKE担保80%。贷款2027年8月到期，主要靠游戏销售偿还，游戏定档2027年一季度。此前公司于4月终止与Epic的PC发行协议，改为自研自发，不再与外部发行商分成。",
+      "tags": [
+        "融资"
+      ],
+      "keywords": [
+        "CI Games",
+        "堕落之主2"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 3,
+      "title": "Astragon closes Independent Arts successor studio Astragon Development",
+      "url": "https://www.gamesindustry.biz/astragon-closes-independent-arts-successor-studio-astragon-development",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-02 19:34",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "模拟游戏发行商Astragon关闭旗下德国工作室Astragon Development（原Independent Arts），逾40名员工受影响，公司称正寻求社会责任方案。该工作室1990年成立，30年间参与超250款游戏；Astragon 2023年以最高390万美元收购，2025年更名。",
+      "tags": [
+        "裁员",
+        "关服停运"
+      ],
+      "keywords": [
+        "Astragon",
+        "Independent Arts",
+        "Everplay"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 19,
+      "title": "腾讯投资一家二次元漫剧公司，占股15%",
+      "url": "https://news.qq.com/rain/a/20261102A0BG3K00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-02 10:24",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "腾讯投资郑州奇想文化并占股15%。该公司2021年成立，主攻二次元泛娱乐，漫剧《全民诡异：开局掌握零元购》在抖音播放量达3.8亿。结合腾讯7月将短剧小程序更名「绿泡泡短剧」、8月月活过亿，被视为其在短剧/漫剧领域的进一步布局。",
+      "tags": [
+        "融资"
+      ],
+      "keywords": [
+        "腾讯",
+        "奇想文化",
+        "绿泡泡短剧"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "Among Us VR co-developer Schell Games announces second round of layoffs this year",
+      "url": "https://www.gamesindustry.biz/among-us-vr-co-developer-schell-games-announces-second-round-of-layoffs-this-year",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-02 11:51",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "《Among Us VR》联合开发商Schell Games宣布今年第二轮裁员，称因行业困难需裁减大量员工以保证工作室可持续，未披露人数，涉及工程、美术、设计、音频、市场、IT、研究与QA等岗位。该工作室2002年成立，今年8月已首次裁员。",
+      "tags": [
+        "裁员"
+      ],
+      "keywords": [
+        "Schell Games",
+        "Among Us VR"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 11,
+      "title": "\"We all met by doing improv comedy\" – The Los Angeles indie studio making a comedy game in one of the most expensive places for game dev in the world",
+      "url": "https://www.gamesindustry.biz/we-all-met-by-doing-improv-comedy-the-los-angeles-indie-studio-making-a-comedy-game-in-one-of-the-most-expensive-places-for-game-dev-in-the-world",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-02 13:30",
+      "also_seen_in": [],
+      "module": "other",
+      "summary": "洛杉矶独立工作室Mad Herons（成员来自SpaceX、Nvidia、TV编剧与即兴喜剧圈）谈其喜剧游戏《Send In The Clown》，主打约一小时流程，靠自筹资金开发，未找到发行合作。",
+      "tags": [
+        "人物访谈"
+      ],
+      "keywords": [
+        "Mad Herons",
+        "Send In The Clown"
+      ],
+      "importance": 2
+    }
+  ],
+  "dropped": [
+    {
+      "id": 24,
+      "title": "A vital message to people in HR: \"Protecting our own wellbeing is paramount\"",
+      "url": "https://www.gamesindustry.biz/a-vital-message-to-people-in-hr-protecting-our-own-wellbeing-is-paramount",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-02 09:00",
+      "reason": "HR从业者心理健康与自我关怀主题，与游戏产业关联弱",
+      "by": "model"
+    }
+  ],
+  "source_stats": {
+    "GamesIndustry.biz": {
+      "fetched": 9,
+      "selected": 6,
+      "ad": 0,
+      "merged": 2,
+      "dropped": 1
+    },
+    "GameLook": {
+      "fetched": 5,
+      "selected": 3,
+      "ad": 0,
+      "merged": 2,
+      "dropped": 0
+    },
+    "游戏葡萄": {
+      "fetched": 3,
+      "selected": 1,
+      "ad": 0,
+      "merged": 2,
+      "dropped": 0
+    },
+    "触乐": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 2,
+      "selected": 1,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 5,
+      "selected": 5,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
