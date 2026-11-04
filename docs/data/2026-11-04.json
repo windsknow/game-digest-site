@@ -1,0 +1,394 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T00:51:22+00:00",
+  "model": "deepseek-flash",
+  "total": 14,
+  "modules": {
+    "rival": 1,
+    "industry": 6,
+    "product": 2,
+    "newgame": 2,
+    "company": 1,
+    "deep": 1,
+    "ad": 0,
+    "other": 1
+  },
+  "headlines": [
+    {
+      "id": 1,
+      "reason": "QuestMobile 9月榜：《开心消消乐》1.61亿月活登顶，腾讯包揽TOP10八席，卡牌策略品类增长超25%"
+    },
+    {
+      "id": 2,
+      "reason": "法国一读通过每GB约0.4元流量税修正案，游戏被点名设上限，云游戏与手游买量ROI面临重算"
+    },
+    {
+      "id": 7,
+      "reason": "五款旗舰二游11月至次年1月连环定档，网易《无限大》压轴，上半年二次元收入同比降8.97%"
+    },
+    {
+      "id": 10,
+      "reason": "AppMagic：手游IAP收入自2016年被TikTok等反超，《王者荣耀》2026年收入超11亿美元"
+    },
+    {
+      "id": 12,
+      "reason": "《影之刃零》72小时销量破400万、Steam峰值83万，好评率从78%回升至91%"
+    }
+  ],
+  "items": [
+    {
+      "id": 3,
+      "title": "离谱！《恋与深空》沈星回 B 站账号被盗，昵称头像面目全非",
+      "url": "https://news.qq.com/rain/a/20261103A0F87Z00",
+      "source": "GameLook",
+      "pub_date": "2026-11-03 15:25",
+      "also_seen_in": [],
+      "module": "rival",
+      "summary": "11月1日晚起，《恋与深空》男主沈星回的B站专属角色账号昵称被改为「不穿运动鞋」、后改为「猪头不爱吃饭」，头像换成陌生动漫男性，IP属地显示湖南（与叠纸总部上海不符），播放量81万的核心角色视频《第214个秋天》被隐藏，基本坐实盗号。该账号是游戏公测前唯一拥有B站专属角色号的男主，正值沈星回生日活动周期，玩家情绪被放大。截至发稿账号仍未恢复，盗号动机不明，不排除恶作剧或引流变现。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "恋与深空",
+        "叠纸",
+        "沈星回"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 1,
+      "title": "QM报告:《消消乐》1.61亿MAU夺冠，腾讯包揽TOP10八席!《向僵尸开炮》小游戏TOP1",
+      "url": "https://news.qq.com/rain/a/20261103A0F88200",
+      "source": "GameLook",
+      "pub_date": "2026-11-03 15:25",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "QuestMobile 2026秋季大报告显示，9月手游月活同比仅增0.6%、人均时长增3.5%，增长从拉新转向留存。卡牌与策略品类用户规模同比增长均超25%领跑。App月活TOP10中《开心消消乐》以1.61亿登顶，《王者荣耀》1.29亿居次，腾讯独占8席；《三角洲行动》6675万、《和平精英》3547万，新游《王者万象棋》3148万超过《金铲铲之战》2993万。微信小游戏TOP10中《向僵尸开炮》4848万居首但增速放缓至8.1%，近一年新品占四席，《梦幻消除战》同比增629.8%。ChinaJoy关注人群向60、70后扩展，两代际合计超四分之一。",
+      "tags": [
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "腾讯",
+        "开心消消乐",
+        "向僵尸开炮",
+        "王者荣耀"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 2,
+      "title": "法国缺钱祭出“流量税昏招”！草案拟每GB收0.4元，真想整疯游戏公司？",
+      "url": "https://news.qq.com/rain/a/20261103A0F88100",
+      "source": "GameLook",
+      "pub_date": "2026-11-03 15:25",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "10月30日法国国民议会一读通过修正案，拟对内容提供商向法国用户交付的每GB数据征0.055欧元（约0.4元）流量税，35名议员表决11票赞成、10票反对、14票弃权，政府与预算总报告人投反对票，提案人之一承认误投。按此税率，100GB游戏下载约多收41元，云游戏每小时约4元，手游买量模型与云游戏定价ROI将被重算。修正案原文明确将游戏列为结构性高流量重点对象并设税额上限。GameLook判断参议院删除概率大，但释放出法国将数据流量视为可征税对象的信号。",
+      "tags": [
+        "政策监管",
+        "出海"
+      ],
+      "keywords": [
+        "法国",
+        "流量税",
+        "云游戏"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 7,
+      "title": "二次元游戏“史上最凶险大决战”来了！谁会哭着过春节？",
+      "url": "https://news.qq.com/rain/a/20261103A0F87Q00",
+      "source": "GameLook",
+      "pub_date": "2026-11-03 15:25",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "国产旗舰二游跨年档排满：11月26日《蓝色星原：旅谣》、12月4日米哈游《星布谷地》、12月14日乐元素《白银之城》、12月腾讯《异人之下》（预约破3850万），网易《无限大》定档2027年1月15日。GameLook分析，网易最早公布日期反而给友商标出插队空间；各家都在寻找可被记住的玩法身份（抓宠、种田、侦探、国漫格斗）。同时年初上线的《明日方舟：终末地》《异环》需守盘，《异环》全球累计流水已超27亿元、海外高于国内。上半年国内二次元手游收入132.69亿元、同比降8.97%，新品增多不等于盘子变大，行业或进入淘汰赛。",
+      "tags": [
+        "市场分析",
+        "新品定档"
+      ],
+      "keywords": [
+        "蓝色星原",
+        "无限大",
+        "星布谷地",
+        "异环"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 10,
+      "title": "AppMagic: Non-gaming apps have beaten mobile games in IAP revenue since 2016",
+      "url": "https://www.gamesindustry.biz/appmagic-non-gaming-apps-have-beaten-mobile-games-in-iap-revenue-since-2016",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-03 12:24",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "AppMagic十周年报告显示，手游自2016年后在IAP收入上被TikTok、ChatGPT等非游戏应用反超，TikTok自2020年起每年为收入最高应用，ChatGPT为2025年全球下载量最高应用。腾讯《王者荣耀》自2017年上线后多次登顶IAP收入榜，2017年收入8.3亿美元、2026年超11亿美元；",
+      "tags": [
+        "榜单数据",
+        "出海"
+      ],
+      "keywords": [
+        "AppMagic",
+        "王者荣耀",
+        "Free Fire"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 9,
+      "title": "The launch is not the end: How Beholder: Conductor equalled its launch sales 15 months after release",
+      "url": "https://www.gamesindustry.biz/the-launch-is-not-the-end-how-beholder-conductor-equalled-its-launch-sales-15-months-after-release",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-03 13:30",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Alawar发行经理复盘《Beholder: Conductor》发售15个月后靠Steam每日特惠70%折扣、Steam Train Fest专题与Jestr创作者活动（920万视频播放）叠加，14天卖出81088份、与首发持平，净收入16.5万美元（未扣5600美元推广费），退款率3.4%。",
+      "tags": [
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "Beholder",
+        "Alawar",
+        "Steam"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 13,
+      "title": "当大肥鱼开始替人找游戏，独立开发者反而更难了？",
+      "url": "https://news.qq.com/rain/a/20261103A0CNEJ00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-03 10:21",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "游戏陀螺观察AI Agent工具DSH（DeepSeek Harness）走红，其插件可让DeepSeek刷B站、主动搜索并向主人推荐游戏（如安利《三体：审判前夜》），引发「AI是否会成为新游戏发行渠道」的讨论。文章指出，AI推荐依赖网上公开信息（商店页、评测、玩家讨论），成熟宣发体系的厂商仍占优势，只有Steam页面的小团队反而更难被AI发现；同时过早曝光核心设计有被抄袭风险。文中列举Google Play Game Finder、Playgama自动发行、Meta Muse（美加超1000万用户、四分之一周活用户用其购物）等案例，结论是AI让做游戏更容易，但让游戏被玩到更难。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "AI Agent",
+        "DSH",
+        "独立游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 12,
+      "title": "收集率96%之后，来看看《影之刃零》被过誉了吗",
+      "url": "https://news.qq.com/rain/a/20261103A0COCL00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-03 10:23",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "游戏新知作者以逆天者难度35小时42分钟通关《影之刃零》，收集率96%、死亡173次、拿全Steam成就，评价其可列动作游戏T0梯队。游戏发售当天Steam好评率78%，发稿前回升至91%；官方称72小时全平台销量破400万，gamalytic估算国区占比近80%，Steam在线峰值超83万（《黑神话：悟空》五天峰值超241万）。文章指出战斗动作模组丰富、演出华丽，但投技QTE打断节奏、多目标视角混乱、交互感偏弱；箱庭量大管饱但引导与地图可读性不足；剧情为《雨血》前作补充，舞狮、戏曲、皮影等文化融合扎实。",
+      "tags": [
+        "产品复盘",
+        "市场分析"
+      ],
+      "keywords": [
+        "影之刃零",
+        "灵游坊",
+        "梁其伟"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 5,
+      "title": "腾讯AI陪玩《鹅次元》首测：直接读懂游戏！“AI美女陪你打魔渊”？",
+      "url": "https://news.qq.com/rain/a/20261103A0F87V00",
+      "source": "GameLook",
+      "pub_date": "2026-11-03 15:25",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "腾讯AI游戏陪伴产品《鹅次元》开启「元气首测」，取消邀请码限制，官网申请即可体验。首测支持《英雄联盟》《无畏契约》《CS2》《影之刃零》陪玩，提供4名AI角色（当前3名可选），可共享屏幕实时讨论游戏、提供地图寻路与BOSS攻略，并延伸为桌宠、壁纸及QQ端陪伴。测试期未开放充值，仅展示将按对话轮次与陪伴时长收费。GameLook指出其仍面临画面识别稳定性、长对话人格一致性、监管（五部门AI拟人化互动服务暂行办法）与商业化造血等挑战。",
+      "tags": [
+        "技术AI",
+        "新品曝光"
+      ],
+      "keywords": [
+        "腾讯",
+        "鹅次元",
+        "AI陪伴"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 4,
+      "title": "《昭和米国物语》已完成全部制作！罗翔宇采访：“猫都能通关”！",
+      "url": "https://news.qq.com/rain/a/20261103A0F87X00",
+      "source": "GameLook",
+      "pub_date": "2026-11-03 15:25",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "《昭和米国物语》制作人罗翔宇在海外采访中透露，游戏本体内容已全部制作完成，目前处于打磨质量阶段，暂无发售前试玩版计划。游戏设「令和宝贝」「平成小子」「昭和少年」三档难度，最低难度可自动连招、「猫都能通关」；主线约25小时，看全过场接近翻倍；小游戏数量达两位数，每章结尾设标准Boss战。罗翔宇表示不会为迎合海外玩家强行本地化中国网络梗，希望保留原味文化差异。",
+      "tags": [
+        "新品曝光",
+        "人物访谈"
+      ],
+      "keywords": [
+        "昭和米国物语",
+        "铃空游戏",
+        "罗翔宇"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 6,
+      "title": "11月预计17款新游戏上线：《蓝色星原》领衔，斗罗大陆,斗破苍穹双双登场！",
+      "url": "https://news.qq.com/rain/a/20261103A0F87S00",
+      "source": "GameLook",
+      "pub_date": "2026-11-03 15:25",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "GameLook统计11月预计有16-17款新游上线：蛮啾《蓝色星原：旅谣》全平台预约破2500万领衔；腾讯打磨近三年的《饥荒》正版手游《饥困荒野》11月24日上线，TapTap预约250万，测试期取消武器宠物抽卡；恺英《斗罗大陆：诛邪传说》11月19日公测，主打魂环不靠抽；《斗破苍穹：异火降世》11月13日公测；经典端游《露娜》回归作《露娜：蓝色大陆》11月10日上线；心动代理音游《韵律源点》国服11月3日上线并与《明日方舟》联动。",
+      "tags": [
+        "新品定档"
+      ],
+      "keywords": [
+        "蓝色星原",
+        "饥困荒野",
+        "腾讯",
+        "蛮啾"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "Remedy Q3 revenue triples to €39.6m following launch of Control Resonant",
+      "url": "https://www.gamesindustry.biz/remedy-q3-revenue-triples-to-396m-following-launch-of-control-resonant",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-03 08:39",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Remedy第三季度营收3960万欧元、同比增226%，营业利润60万欧元（去年同期亏损1640万），主要受9月24日发售的《Control Resonant》预购与首周销量推动。该作10月15日实体发售后累计销量已超100万份，为Remedy史上最快销售作品；",
+      "tags": [
+        "财报业绩"
+      ],
+      "keywords": [
+        "Remedy",
+        "Control Resonant"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 11,
+      "title": "游戏行业来了一群不是人的游戏人",
+      "url": "https://news.qq.com/rain/a/20261103A07ZRB00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-03 11:14",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "游戏葡萄长文观察AI在游戏研发中的角色跃迁：从Kimi K3到K3.1（2.8万亿参数，全球最大开源模型），大模型已能自行操作Unity、UE5、Blender完成建模与游戏制作，实测一句话三小时交付含18关卡的休闲游戏及商店页、宣传片与发布包。作者认为AI已从「程序员」进化为具备「制作人思维」——理解模糊需求、拆解任务、调用工具、验收成果，界面正成为工作入口（Codex周活达2500万至4000万）。文中引北京某大厂测试：K3.1以约1/10 token成本实现与GPT-6 Astra同级的Blender场景还原。作者判断变革是润物细无声的，AI将像引擎一样成为研发基建，而非突然出现AI独立完成的3A。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "Kimi",
+        "AI",
+        "游戏研发"
+      ],
+      "importance": 3,
+      "detail": {
+        "points": [
+          {
+            "title": "AI设计能力质变",
+            "text": "Kimi K3.1在相同提示词和30分钟限时下，相比K3能做出玩法更成熟、审美更好的游戏原型。例如伪3D赛车加入漂移和氮气加速，肉鸽地牢实现随机生成和种子功能，吸血鬼幸存者like难度曲线更接近成熟产品，文字修仙模拟游戏具备挂机战斗、奇遇、经营等系统联动。这表明大模型对游戏设计逻辑的理解显著提升，能降低创意落地门槛。"
+          },
+          {
+            "title": "AI具备制作人思维",
+            "text": "K3.1展现出更强的项目管理和工具调用能力，能理解模糊需求、主动分配时间给待办清单和验证测试，制作的游戏BUG更少。实测中，仅给出一句话“从零做到能上架”，K3.1用三小时交付了包含18个关卡的休闲治愈游戏、商店页、30秒宣传片和两个发布包。AI开始像制作人一样拆解复杂需求、调用工具并验收成果。"
+          },
+          {
+            "title": "AI终端成为工作入口",
+            "text": "越来越多从业者习惯让大模型调用工具，而非使用工具内置的AI功能。例如作者用Codex或Opus制作的插件处理图片，K3.1在后台操作Blender建模而无需打开软件界面。宏观上，Codex ChatGPTWork周活2026年8月达2500万，10月两款产品活跃突破4000万。工具使用方式的变化预示着AI终端将包办游戏研发流程。"
+          },
+          {
+            "title": "AI深入研发全环节",
+            "text": "AI正从降本增效工具转变为研发各环节的参与者：策划一句话生成玩法原型，测试用多模态能力边看边玩，美术用AI编辑3D模型和制作动画。北京某游戏大厂测试显示，K3.1操作Blender还原3D场景的成本和token消耗仅为GPT-6 Astra的约1/10。发行侧也可用AI将游戏内容自动剪辑为买量素材，缓解广告与内容不对应的问题。"
+          },
+          {
+            "title": "AI改变认知与许愿式编程",
+            "text": "AI降低了游戏制作的门槛，开发者无需先学编程和引擎，只需提出需求，AI会调研、列清单、分析可行性并给出解决方案。Deepseek官方提出“许愿式编程”概念，B站、小红书已有用户用K3.1联合其他工具制作大型3D游戏。AI成为“许愿机”，让过去不敢做、不知道多难的想法得以快速验证，拓展了创意空间。"
+          },
+          {
+            "title": "变革润物细无声",
+            "text": "AI对游戏行业的变革并非突然出现一款AI独立完成的3A，而是从日常生产开始改造岗位工作。制作人表示不用AI已不会编程，画师工作变成给策划修AI图，客服转型为AI调教师。同时，《不问凡尘》《AgenTank》《互联网大厂模拟器》等AI原生游戏探索新表现形式。当成熟3A诞生时，AI可能已像引擎一样成为研发基建。"
+          }
+        ],
+        "takeaway": "国内游戏公司应重新评估AI在研发流程中的定位：它正从辅助工具演变为具备制作人思维的生产参与者。建议在原型设计、测试验证、买量素材生成等环节试点K3.1等大模型，关注其工具调用与项目管理能力；同时警惕组织惯性，主动调整岗位分工，将AI终端作为工作入口，并探索AI原生玩法以获取差异化竞争力。"
+      }
+    },
+    {
+      "id": 14,
+      "title": "报名角逐游戏行业奖项！第十一届金陀螺奖正式启动",
+      "url": "https://news.qq.com/rain/a/20261103A0CNED00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-03 10:21",
+      "also_seen_in": [],
+      "module": "other",
+      "summary": "游戏陀螺主办的第十一届金陀螺奖于11月3日启动报名（截至12月6日），设11项奖项，十届累计参赛项目近万家。",
+      "tags": [
+        "展会活动"
+      ],
+      "keywords": [
+        "金陀螺奖",
+        "游戏陀螺"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [
+    {
+      "id": 8,
+      "title": "How traditional book clubs inspired The Game Club to help gamers forge friendships as adults",
+      "url": "https://www.gamesindustry.biz/how-traditional-book-clubs-inspired-the-game-club-to-help-gamers-forge-friendships-as-adults",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-03 14:51",
+      "reason": "独立社区运营故事，与中国市场及头部厂商无关",
+      "by": "model"
+    }
+  ],
+  "source_stats": {
+    "GameLook": {
+      "fetched": 7,
+      "selected": 7,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 4,
+      "selected": 3,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 1
+    },
+    "游戏葡萄": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
