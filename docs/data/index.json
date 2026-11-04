@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-03T00:52:00+00:00",
+  "updated": "2026-11-04T00:51:30+00:00",
   "days": [
+    {
+      "date": "2026-11-04",
+      "total": 14,
+      "modules": {
+        "rival": 1,
+        "industry": 6,
+        "product": 2,
+        "newgame": 2,
+        "company": 1,
+        "deep": 1,
+        "ad": 0,
+        "other": 1
+      },
+      "headlines": [
+        "QM报告:《消消乐》1.61亿MAU夺冠，腾讯包揽TOP10八席!《向僵尸开炮》小游戏TOP1",
+        "法国缺钱祭出“流量税昏招”！草案拟每GB收0.4元，真想整疯游戏公司？",
+        "二次元游戏“史上最凶险大决战”来了！谁会哭着过春节？",
+        "AppMagic: Non-gaming apps have beaten mobile games in IAP revenue since 2016",
+        "收集率96%之后，来看看《影之刃零》被过誉了吗"
+      ]
+    },
     {
       "date": "2026-11-03",
       "total": 17,
