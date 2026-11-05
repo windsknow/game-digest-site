@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-04T00:51:30+00:00",
+  "updated": "2026-11-05T00:53:14+00:00",
   "days": [
+    {
+      "date": "2026-11-05",
+      "total": 15,
+      "modules": {
+        "rival": 0,
+        "industry": 6,
+        "product": 3,
+        "newgame": 0,
+        "company": 5,
+        "deep": 1,
+        "ad": 0,
+        "other": 0
+      },
+      "headlines": [
+        "《耻辱》开发商收到至少三份收购邀约，包括育碧在内",
+        "游族要花42.25亿巨款买GPU、相当于3年收入：哪个AI大佬在作妖？",
+        "Analysis: one in three acquired game studios has been shut down since 2000",
+        "小游戏分化：微信大盘碾压抖音，多款抖音老游戏月活暴跌超80%",
+        "10月微信小游戏畅销榜Top 100：换血近三成、《三冰》登顶《地宫大爆破》第11"
+      ]
+    },
     {
       "date": "2026-11-04",
       "total": 14,
