@@ -1,0 +1,433 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T00:53:05+00:00",
+  "model": "deepseek-flash",
+  "total": 15,
+  "modules": {
+    "rival": 0,
+    "industry": 6,
+    "product": 3,
+    "newgame": 0,
+    "company": 5,
+    "deep": 1,
+    "ad": 0,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 16,
+      "reason": "Arkane Lyon收到含育碧在内至少三份收购邀约，Xbox裁员重组下工作室去向牵动《刀锋战士》"
+    },
+    {
+      "id": 5,
+      "reason": "游族拟42.25亿元采购英伟达GPU，约为去年营收3倍，疑为承接大模型公司长期算力订单"
+    },
+    {
+      "id": 3,
+      "reason": "303家被收购工作室三分之一已关闭，动视暴雪17段持股全灭、任天堂零关闭，买家类型决定命运"
+    },
+    {
+      "id": 12,
+      "reason": "QuestMobile：三角洲行动月活6675万超和平精英3547万，微信小游戏Top10门槛2083万碾压抖音129万"
+    },
+    {
+      "id": 6,
+      "reason": "10月微信小游戏换血率反弹至28%，三国冰河时代登顶，三七与大梦龙途各5款并列第一"
+    }
+  ],
+  "items": [
+    {
+      "id": 3,
+      "title": "Analysis: one in three acquired game studios has been shut down since 2000",
+      "url": "https://www.gamesindustry.biz/analysis-one-in-three-acquired-game-studios-has-been-shut-down-since-2000",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-04 18:56",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "前Riot、Crytek、EA员工Sebastian Cardoso用约三个月统计2000年以来被大公司收购的303家PC/主机工作室，发现三分之一已被完全关闭，其中一半在收购后五年内关停；60.8%的收购案例以游戏水准下滑或关停告终，仅25.1%既维持原有产出又保持组织完整。",
+      "tags": [
+        "并购",
+        "市场分析"
+      ],
+      "keywords": [
+        "动视暴雪",
+        "EA",
+        "任天堂",
+        "网易"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 6,
+      "title": "10月微信小游戏畅销榜Top 100：换血近三成、《三冰》登顶《地宫大爆破》第11",
+      "url": "https://news.qq.com/rain/a/20261105A000LY00",
+      "source": "GameLook",
+      "pub_date": "2026-11-04 16:02",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "10月微信小游戏畅销榜Top 100换血率从9月的23%反弹至28%，Top 50新入榜产品从1款骤增至8款。《三国：冰河时代》上升3位登顶，SLG在Top 10占4席，塔防入榜数从8款增至13款，模拟经营从18款退至13款。发行商方面三七互娱与大梦龙途同以5款并列第一，在线途游凭《三国：冰河时代》《造化仙府》占据Top 5两席；腾讯从5款减至3款。新入榜《地宫大爆破》空降第11、《精英军团》第13、《剑网1：归来》第17。",
+      "tags": [
+        "榜单数据",
+        "小游戏"
+      ],
+      "keywords": [
+        "微信小游戏",
+        "三七互娱",
+        "大梦龙途",
+        "在线途游"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 12,
+      "title": "小游戏分化：微信大盘碾压抖音，多款抖音老游戏月活暴跌超80%",
+      "url": "https://news.qq.com/rain/a/20261104A0D8SE00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-04 11:43",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "QuestMobile《2026中国移动互联网秋季大报告》显示，截至2026年9月中国移动互联网月活12.81亿同比增0.9%，7、8月人均使用时长分别达198.3和200小时。手游Top 10中腾讯占8款，乐元素《开心消消乐》以1.6亿月活力压《王者荣耀》居首；《三角洲行动》月活6675万大幅超过《和平精英》3547万，腾讯射击矩阵完成新老交替。小游戏方面微信Top 10门槛2083万、第一名近4850万，抖音Top 10门槛仅129万、第一名1554万，微信体量碾压；抖音多款老游戏月活同比暴跌超80%。",
+      "tags": [
+        "榜单数据",
+        "小游戏"
+      ],
+      "keywords": [
+        "腾讯",
+        "三角洲行动",
+        "开心消消乐",
+        "QuestMobile"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 4,
+      "title": "离谱！今年“好莱坞音乐奖”被中国游戏占满了，腾讯网易库洛沐瞳一起上",
+      "url": "https://news.qq.com/rain/a/20261105A000M700",
+      "source": "GameLook",
+      "pub_date": "2026-11-04 16:02",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "好莱坞音乐传媒奖（HMMA）提名公布，游戏相关奖项中国产品存在感极强：腾讯《三角洲行动》、网易《漫威争锋》、库洛《鸣潮》获电子游戏歌曲提名；手游歌曲/配乐奖8款提名中7款来自国内，含腾讯《COD手游》《怪物猎人：旅人》、网易《光遇》《阴阳师》、沐瞳《MLBB》、深蓝《重返未来：1999》、库洛《鸣潮》。GameLook分析认为二游内容驱动、预算充足是主因，国内厂商借国际奖项做品牌出海传播，而好莱坞则借游戏提升在年轻群体中的影响力。",
+      "tags": [
+        "出海",
+        "展会活动"
+      ],
+      "keywords": [
+        "鸣潮",
+        "三角洲行动",
+        "漫威争锋",
+        "HMMA"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 7,
+      "title": "中国厂商弃赛，韩国MMO狂拿版号！泡菜MMO真要“大举反扑中国”？",
+      "url": "https://news.qq.com/rain/a/20261105A000LU00",
+      "source": "GameLook",
+      "pub_date": "2026-11-04 16:02",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GameLook梳理韩国MMO集中入华：盛趣拿下NCsoft《永恒之塔2》国服代理，Valofe《普拉纳祝福》、KakaoGames《奥丁：神叛》10月底获进口版号，娱美德《夜鸦》已过审、《传奇4》本地化推进。文章认为本质是国内厂商主动收缩重度MMO、韩国产能富余形成的跨国错位，而非韩游变强；入华模式已从大厂代理转向韩厂自带版号谈合作、合作对象下沉至紫龙等中型发行商、以及娱美德被中资控股的资本绑定。同时指出审美疲劳、版本时间差、发行能力稀释与MMO品类整体下行是主要风险。",
+      "tags": [
+        "出海",
+        "市场分析",
+        "政策监管"
+      ],
+      "keywords": [
+        "永恒之塔2",
+        "奥丁神叛",
+        "娱美德",
+        "盛趣"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 14,
+      "title": "Advertising Standards Authority bans mobile ads from King, Scopely, and others for misrepresenting gameplay",
+      "url": "https://www.gamesindustry.biz/advertising-standards-authority-bans-mobile-ads-from-king-scopely-and-others-for-misrepresenting-gameplay",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-04 10:43",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "英国广告标准局（ASA）裁定King、Scopely、Omnilojo、Vistrex（Royal Ark Games）的多支手游广告误导消费者并予以下架。King《Farm Heroes Saga》广告展示游戏中不存在的钉子与电锯场景，其“非实际玩法”免责声明被认定反而加深误导；",
+      "tags": [
+        "政策监管",
+        "法律诉讼"
+      ],
+      "keywords": [
+        "King",
+        "Scopely",
+        "ASA"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 8,
+      "title": "二游圈集体致敬！5年攒了4941抽一把冲，《明日方舟》传奇单推人诞生",
+      "url": "https://news.qq.com/rain/a/20261105A000LR00",
+      "source": "GameLook",
+      "pub_date": "2026-11-04 16:02",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《明日方舟》11月1日上线2026「感谢庆典」版本，限定干员塔露拉实装，游戏登顶iOS游戏畅销榜并冲上畅销总榜第2，为2026年首款登顶的二次元游戏。B站UP主“夜孑L”用五年积攒的200余万合成玉、803颗源石、672张单抽券、54张十连券共4941抽一次性投入卡池，48分钟直播吸引约120万玩家围观，共抽出67次塔露拉、137个六星，被玩家当作抽卡概率样本，事迹在国内外社区引发讨论。",
+      "tags": [
+        "版本更新",
+        "榜单数据"
+      ],
+      "keywords": [
+        "明日方舟",
+        "鹰角网络",
+        "塔露拉"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 9,
+      "title": "米哈游“账面潜能”恐怖如斯！原神自称“同时开发十几个版本”，惊呆同行",
+      "url": "https://news.qq.com/rain/a/20261105A000LP00",
+      "source": "GameLook",
+      "pub_date": "2026-11-04 16:02",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《原神》11月2日在央视频CPOPwave中国潮流IP发布之夜获颁“CPOPwave长红IP”。配套短片中游戏设计师戴唯透露，游戏约每42天更新一个版本，但单个版本制作周期需17至20个月，意味着同时有十二三个版本在研。GameLook分析其内部采用“虚拟制作组”架构，美术、策划、编剧分组交叉组建版本团队，共享技术与测试力量；并讨论米哈游为何不将产能拆成多个“二次元+X”新项目，以及《Varsapura》《星布谷地》（定档12月4日）体现的资源配置思路。",
+      "tags": [
+        "产品复盘",
+        "市场分析"
+      ],
+      "keywords": [
+        "原神",
+        "米哈游",
+        "星布谷地"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 13,
+      "title": "告别“六边形战士”执念，我们该怎样看待《影之刃零》",
+      "url": "https://news.qq.com/rain/a/20261104A0D8S600",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-04 11:43",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《影之刃零》10月29日发售后销量达400万，Steam同时在线峰值83万，登顶Steam愿望单、日活第三。游戏陀螺多位编辑复盘：地图箱庭与“空间回访”设计、武侠朋克美学与配乐层次获肯定；战斗围绕“杀气”资源重构，武器机制随流程解锁后体验显著提升，被视为慢热型设计；叙事克制、动态任务系统有野心，但部分玩家认为对白出戏、BOSS命名直白、CG土味，审美存在争议。文章主张不必以“六边形战士”标准要求每一款国产3A。",
+      "tags": [
+        "产品复盘",
+        "市场分析"
+      ],
+      "keywords": [
+        "影之刃零",
+        "灵游坊",
+        "梁其伟"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 5,
+      "title": "游族要花42.25亿巨款买GPU、相当于3年收入：哪个AI大佬在作妖？",
+      "url": "https://news.qq.com/rain/a/20261105A000M000",
+      "source": "GameLook",
+      "pub_date": "2026-11-04 16:02",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "游族11月3日公告，全资子公司上海游族信息拟以42.25亿元向A公司采购英伟达RTX PRO 5500 GPU，金额接近公司市值四分之一、约为去年营收3倍，资金来源为自有资金、银行授信与金融租赁组合，分批交付。消息刺激股价一度涨超4%，收盘涨3.54%报11.10元，市值108.76亿元。三季报显示前三季营收10.63亿元同比增4.31%、归母净利1.42亿元同比增85.97%。GameLook分析认为游族自身缺乏如此规模的推理算力需求，更可能是为某头部大模型公司提供长期算力，交易对象或在智谱、MiniMax、Kimi等之间。",
+      "tags": [
+        "技术AI",
+        "财报业绩"
+      ],
+      "keywords": [
+        "游族网络",
+        "英伟达",
+        "GPU"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 16,
+      "title": "《耻辱》开发商收到至少三份收购邀约，包括育碧在内",
+      "url": "https://news.qq.com/rain/a/20261104A0BQOB00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-04 09:50",
+      "also_seen_in": [
+        "GamesIndustry.biz"
+      ],
+      "module": "company",
+      "summary": "彭博社报道，Xbox旗下Arkane Studios（《耻辱》《掠食》开发商，正开发《刀锋战士》）已收到至少三家公司的收购邀约，其中包括育碧；Xbox也曾考虑将工作室出售给管理层。Arkane于2020年随微软75亿美元收购ZeniMax并入Xbox，今年7月Xbox新任CEO Asha Sharma宣布大规模裁撤工作室，对Arkane启动战略选择审查。目前报价条款未公开，Xbox尚未与任何买家达成协议，磋商期已从11月延长至12月。",
+      "tags": [
+        "并购"
+      ],
+      "keywords": [
+        "Arkane",
+        "育碧",
+        "Xbox",
+        "微软"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 11,
+      "title": "\"I realised I might only have time to make one more game, so I wanted to try something new\" – Tekken director Katsuhiro Harada on starting VS Studio",
+      "url": "https://www.gamesindustry.biz/i-realised-i-might-only-have-time-to-make-one-more-game-so-i-wanted-to-try-something-new-tekken-director-katsuhiro-harada-on-starting-vs-studio",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-04 13:30",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "《铁拳》系列制作人原田胜弘谈去年12月离开万代南梦宫、在SNK出资下创立VS Studio：年近50岁意识到按日本60岁退休制可能只够再做一款游戏，故求变；SNK沙特背景虽具争议，但王储本人热爱游戏、且沙特承办电竞世界杯形成协同，并承诺工作室完全自主。团队核心10人、成员多在45岁以上，包括《铁拳8》导演池田幸平；",
+      "tags": [
+        "人事变动",
+        "人物访谈"
+      ],
+      "keywords": [
+        "原田胜弘",
+        "VS Studio",
+        "SNK",
+        "铁拳"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 1,
+      "title": "Tripwire Presents expands publishing business to support smaller indie developers",
+      "url": "https://www.gamesindustry.biz/tripwire-presents-expands-publishing-business-to-support-smaller-indie-developers",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-04 20:48",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Tripwire Interactive旗下发行部门Tripwire Presents宣布扩展业务，为各阶段（发售前、抢先体验、上线后）的自发行独立游戏提供发行支持，涵盖交叉推广、平台关系、商业策略、PR、内容创作者与活动，以及定价和生命周期管理指导，商业条款未披露。",
+      "tags": [
+        "并购"
+      ],
+      "keywords": [
+        "Tripwire",
+        "独立游戏"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 15,
+      "title": "《黑神话》背后的男人，砸6亿开了家「亚洲最NB的夜乐园」，年收入近10亿？",
+      "url": "https://news.qq.com/rain/a/20261104A0BXTP00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-04 10:05",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "彭博社首页报道英雄游戏、英雄电竞创始人应书岭的副业INS LAND新乐园：上海复兴公园旁约两万平方米夜生活综合体，投入约1亿美元（约6.68亿元），2023年6月开业，今年预计营收10亿元（约1.5亿美元），酒水毛利率超70%，工作日客流最高1万、周末2万，女性占六成、大学生超三分之一。288元通票、周末卡座最低消费6000元，300人团队每45天换一次主题布置，并计划向白天业态扩张。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "应书岭",
+        "英雄游戏",
+        "INS LAND"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 17,
+      "title": "对话丨44岁就选择退休，前《怪猎OL》主策：游戏也许不应该是这么赚钱的行当",
+      "url": "https://news.qq.com/rain/a/20261104A0BQO400",
+      "source": "游戏新知",
+      "pub_date": "2026-11-04 09:50",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "游戏新知对话44岁退休的前《怪物猎人OL》主策Dex（22年从业，历经大宇软星、腾讯、创业、NExT）。他复盘《怪物猎人OL》近6年经历5任卡普空监修、太刀“登龙斩”因“不能中国人先做”被砍、PvPvE路线被毙，以及研发与运营对商业化始终未达成一致；认为怪猎IP做网游要么破坏IP、要么做纯衍生。他批评大公司“钦差大臣”式内斗与“做得越好越被视为威胁”的荒诞，判断NExT因定位与自养能力问题结局注定，并感慨行业从“游戏本身是目的”变成“游戏只是手段”，如今以兴趣开发职场题材叙事小游戏。",
+      "tags": [
+        "人物访谈",
+        "市场分析"
+      ],
+      "keywords": [
+        "怪物猎人OL",
+        "腾讯",
+        "NExT",
+        "卡普空"
+      ],
+      "importance": 3,
+      "detail": {
+        "points": [
+          {
+            "title": "大厂项目受制于权力博弈",
+            "text": "Dex在腾讯等大厂主导《怪物猎人OL》等项目时，多次因高层决策或IP方监修干预导致项目方向偏离。例如，他带队重启某「行业十年一遇」大项目，几个月内超越前两年成果，却因「钦差大臣」进驻而夭折。老板曾直言「你们做得越好，别人越视你们为威胁」，折射出大厂内部资源争夺与自保文化对产品落地的侵蚀。"
+          },
+          {
+            "title": "IP监修主观性强且频繁更迭",
+            "text": "《怪物猎人OL》5年10个月经历5任监修，每任尺度不同，导致重复劳动。第三任监修（卡普空东京策划总监）支持PvPvE玩法，但换人后整条线被毙。太刀「登龙斩」因IP方认为「不能中国人先做」而被砍。Dex指出，游戏监修不仅看是否符合IP，更涉及正统性与权威性，保守监修倾向卡死所有尝试，合作方沦为「试验田」。"
+          },
+          {
+            "title": "商业化分歧埋下项目隐患",
+            "text": "《怪物猎人OL》研发与运营团队对商业化从未达成一致，上线后被迫大改。Dex判断PvE更新怪物无法满足网游需求，PvPvE是唯一出路，但该方向被IP方否决，成为他离职的最后一根稻草。他认为怪猎IP做年流水几十亿的网游必须破坏IP原味，建议要么做纯衍生品（针对老玩家或破圈玩家），要么换IP。"
+          },
+          {
+            "title": "NExT困境：创意与生存的失衡",
+            "text": "Dex在NExT负责监制，帮团队推原型，但腾讯给予的窗口期有限。他预判NExT若两年内不能自负盈亏将面临危机，且发行线做研发在腾讯体系内受限制。天美推出《隐形守护者》《家国梦》后，NExT的买断制与公益向价值被替代，最终All in《重生边缘》却反复摇摆。Dex认为团队沉浸于「做良心游戏」的自我感动，未直面生存问题。"
+          },
+          {
+            "title": "行业从内容驱动转向KPI驱动",
+            "text": "Dex怀念2015年前行业氛围：团队热情高、以做好游戏为目的。手游时代后，老板膨胀、战略部门扩大、管理中层增多，讨论焦点变为付费点、KPI、留存和营销投放。他引用朋友的话「游戏也许不应该是这么赚钱的行当」，认为利润率过高导致异化。近三四年来问题爆发，行业虽赚钱但失去活力，被前老板称为「夕阳产业」。"
+          },
+          {
+            "title": "Steam与独立游戏成新出路",
+            "text": "Dex感谢G胖和Steam，认为吃鸡带动中国Steam玩家和高端电脑增长，2020年后国产Steam游戏销量上涨，为开发者提供更舒服的路径。他退休后开发叙事向小体量游戏（题材为职场精神污染），状态好转。他强调过程与结果并重，但若过程痛苦，即使赚钱也不选，创作者应先满足自己。"
+          }
+        ],
+        "takeaway": "国内游戏公司需警惕：大厂内部权力博弈与IP监修的主观性会扼杀产品创新，应建立更稳定的决策机制和监修对接流程；商业化需在立项初期与研发达成共识，避免上线后大改；NExT案例表明，创意团队必须直面生存指标，否则窗口期有限；行业应从KPI驱动回归内容驱动，关注Steam等新兴渠道的独立游戏机会，为创作者提供更宽容的过程环境。"
+      }
+    }
+  ],
+  "dropped": [
+    {
+      "id": 2,
+      "title": "Arkane union accuses Microsoft of \"sabotaging\" Marvel's Blade with 19-month hiring freeze",
+      "url": "https://www.gamesindustry.biz/arkane-union-accuses-microsoft-of-sabotaging-marvels-blade-with-19-month-hiring-freeze",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-04 20:17",
+      "reason": "劳资/工会",
+      "by": "rule"
+    },
+    {
+      "id": 10,
+      "title": "Meet the UK's 2026 video game BAFTA Breakthroughs",
+      "url": "https://www.gamesindustry.biz/meet-the-uks-2026-video-game-bafta-breakthroughs",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-04 15:51",
+      "reason": "英国地区性奖项与从业者心路，低相关",
+      "by": "model"
+    }
+  ],
+  "source_stats": {
+    "GamesIndustry.biz": {
+      "fetched": 7,
+      "selected": 4,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 2
+    },
+    "GameLook": {
+      "fetched": 6,
+      "selected": 6,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏葡萄": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
