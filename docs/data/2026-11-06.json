@@ -1,0 +1,461 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T00:51:45+00:00",
+  "model": "deepseek-flash",
+  "total": 17,
+  "modules": {
+    "rival": 0,
+    "industry": 3,
+    "product": 3,
+    "newgame": 3,
+    "company": 5,
+    "deep": 1,
+    "ad": 2,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 2,
+      "reason": "2026年全球游戏业裁员已达10977人，超去年全年，35家工作室关停，行业寒冬持续加深。"
+    },
+    {
+      "id": 12,
+      "reason": "索尼游戏业务Q2营业利润增83%，上调全年预期，《漫威金刚狼》售240万份，PS5累计9370万台。"
+    },
+    {
+      "id": 9,
+      "reason": "Sensor Tower：《GTA6》预购771万份、收入7.51亿美元，PS5占74%，首发或达2500万份量级。"
+    },
+    {
+      "id": 4,
+      "reason": "Alinea：《影之刃零》售430万份、收入2.23亿美元，海外以45%销量贡献55%收入。"
+    },
+    {
+      "id": 16,
+      "reason": "任天堂H1营业利润增49.1%，Switch 2售649万台但同比降37%，软件销售支撑业绩。"
+    }
+  ],
+  "items": [
+    {
+      "id": 2,
+      "title": "最新数据：2026年游戏业裁员破万！海外大厂集体陷入低迷",
+      "url": "https://news.qq.com/rain/a/20261105A0F2Y900",
+      "source": "GameLook",
+      "pub_date": "2026-11-05 15:56",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "ASGC裁员追踪数据显示，2026年迄今全球游戏业已裁撤10977个岗位，超过2025年全年的9197人；约35家工作室关停、161家裁员。10月下旬EA关闭BioWare并取消新《质量效应》早期开发影响约400人，Sucker Punch裁24人、Supermassive裁超70人，微软Xbox仍在消化7月宣布的3200人裁员。按趋势估算全年约13077人，低于2024年15631人的历史峰值，但2024年至今三年累计减员已超5.6万人。文章归因于开发成本高企、3A周期拉长与回报收紧的剪刀差，并引述从业者对AI筛选简历、企业过度扩张与高层推责的争论。",
+      "tags": [
+        "裁员",
+        "市场分析"
+      ],
+      "keywords": [
+        "EA",
+        "微软",
+        "BioWare",
+        "Sucker Punch"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 4,
+      "title": "《影之刃零》销售数据报告：国外卖的居然比中国好，太神奇！",
+      "url": "https://news.qq.com/rain/a/20261105A0F2Y500",
+      "source": "GameLook",
+      "pub_date": "2026-11-05 15:56",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Alinea Analytics报告显示，《影之刃零》Steam与PS5合计售出约430万份、总收入约2.23亿美元，跻身2026年三平台买断制新作收入榜第十（尚未登陆Xbox）。按套数中国大陆及港澳台占55%（Steam 56%、PS 50%），但按收入仅占45%，海外以45%的销量贡献55%收入约1.23亿美元，主因国区定价较美区低约33%。预购期国内收入占比8月约68%，随State of Play与10月26日评测解禁，美国日收入四天涨约8.5倍，11月2日国内占比降至45%。文章判断国产单机「全民狂热」退潮，品质与口碑成为海外收入主引擎。",
+      "tags": [
+        "榜单数据",
+        "出海",
+        "市场分析"
+      ],
+      "keywords": [
+        "影之刃零",
+        "灵游坊",
+        "Alinea Analytics"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 9,
+      "title": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5",
+      "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-05 14:13",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Sensor Tower追踪数据显示，《GTA6》预购量已达771万份，预估总收入约7.51亿美元；PS5版占74%（5.59亿美元），Xbox Series X|S占26%（1.92亿美元）。7月预购首周Newzoo估算全球收入2.6亿美元，并预计今年完整游戏支出因《GTA6》增长17.5%；",
+      "tags": [
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "GTA6",
+        "Rockstar",
+        "Sensor Tower",
+        "Take-Two"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 3,
+      "title": "腾讯投资公司Remedy营收飙升226%、利润仅60万欧：中国救了《控制:共振》",
+      "url": "https://news.qq.com/rain/a/20261105A0F2Y700",
+      "source": "GameLook",
+      "pub_date": "2026-11-05 15:56",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "Remedy 2026年第三季度财报显示，《控制：共振》9月24日发售后营收同比飙升226%至3960万欧元，营业利润扭亏为盈但仅60万欧元；游戏发售极短时间内销量破100万，为Remedy史上销售最快作品，并带动2019年初代《控制》销售反弹。自发行模式让公司掌握收益主动权，但前期营销与平台费用增加。中国市场表现突出：ChinaJoy期间在上海办全球首场专属线下试玩，华语地区成为PC端仅次于美国的第二大市场。玩家社区对美术与战斗给予肯定，同时担忧工作室长期财务健康与叙事向大众化妥协。",
+      "tags": [
+        "财报业绩",
+        "出海"
+      ],
+      "keywords": [
+        "Remedy",
+        "控制：共振",
+        "腾讯"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 7,
+      "title": "“离开大厂就不会讲故事了”？网易押注的大佬，首作Steam在线不足400人",
+      "url": "https://news.qq.com/rain/a/20261105A0F2Y200",
+      "source": "GameLook",
+      "pub_date": "2026-11-05 15:56",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "前卡普空制作人小林裕幸创立、网易全额出资的GPTRACK50首作《愚者不灭》多平台发售（世嘉全球发行），SteamDB显示最高同时在线仅399人、发稿时约90人在线。游戏以僵尸主角为核心，取消闪避键、以头槌格挡与啃咬回血构成反常识战斗循环，含11种吞噬变身风格与roguelite式地牢成长，主线20—30小时。文章借此复盘「制作人中心制」失效：卡普空已转向团队协作开发，稻船敬二《无敌九号》为反面案例，网易全资的名越工作室已于10月31日解散清算，五年仅换来概念预告。",
+      "tags": [
+        "产品复盘",
+        "市场分析"
+      ],
+      "keywords": [
+        "愚者不灭",
+        "GPTRACK50",
+        "小林裕幸",
+        "网易"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 10,
+      "title": "\"It's such a massively underserved market in the gaming industry\" – The creators of Dressmaker on why more games should be aimed at women",
+      "url": "https://www.gamesindustry.biz/its-such-a-massively-underserved-market-in-the-gaming-industry-the-creators-of-dressmaker-on-why-more-games-should-be-aimed-at-women",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-05 13:15",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "Free Lives南非团队开发的独立游戏《Dressmaker》9月21日登陆Steam后走红，Video Game Insights估算销量超48.2万份。其日活峰值首日近8000，第7天超3.5万、第14天超4.3万，呈逆常规的持续增长，且基本未做付费营销。",
+      "tags": [
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "Dressmaker",
+        "Free Lives"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 5,
+      "title": "“抽卡终于不歪”！米哈游《崩坏：因缘精灵》明年春天就要上",
+      "url": "https://news.qq.com/rain/a/20261105A0F2Y400",
+      "source": "GameLook",
+      "pub_date": "2026-11-05 15:56",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "米哈游宣布捉宠新作《崩坏：因缘精灵》将于2027年春季公测，11月25日先开付费删档「幸福测试」，覆盖PC、移动端与云游戏，同步放出新PV与实机演示。游戏融合精灵收集、世界探索与自走棋战斗，崩坏系列角色（刃、琪亚娜、奥托等）以新形象登场，精灵可由植物、食品、天气、情绪等衍生，支持牵手、拥抱、栖息地建造与飞行滑翔冲浪等探索互动。抽卡规则明确限定池首次获得的五星必为当期限定，获得限定心象可免费领取同行精灵；测试新增PVP「因缘斗技场」、房车与雨天天气。",
+      "tags": [
+        "新品定档",
+        "新品曝光"
+      ],
+      "keywords": [
+        "米哈游",
+        "崩坏：因缘精灵"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 18,
+      "title": "《逃离塔科夫》主创推出搜打撤新作，公开14分钟实机演示",
+      "url": "https://news.qq.com/rain/a/20261105A0BZ9J00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-05 09:54",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "《逃离塔科夫》主创尼基塔·布亚诺夫担任总监的科幻第一人称搜打撤新作《碎片秩序》发布14分钟实机演示。游戏今年5月首曝、已开发两年多，首曝PV播放仅约十万。演示展示枪械改装、部位血量、物资搜索、背包管理与撤离点等主流机制，并新增无人机标记、近战暗杀等提高上手门槛的玩法。官方公布付费测试计划「Prime Batch」，分44.99与79.99美元两档。文章指出搜打撤赛道已饱和、用户集中于《三角洲行动》《暗区突围》《塔科夫》，且塔科夫因外挂与更新问题口碑受损，商业化或受阻。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "碎片秩序",
+        "尼基塔·布亚诺夫",
+        "逃离塔科夫"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 19,
+      "title": "字节跳动再战RO手游，腾讯储备两款轻度SLG | 新游月报",
+      "url": "https://news.qq.com/rain/a/20261105A0BZ9200",
+      "source": "游戏新知",
+      "pub_date": "2026-11-05 09:54",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "海外新游月报盘点六款值得关注的产品：字节朝夕光年海外发行的《RO仙境传说：口袋战记》10月底登陆港澳台，最高台湾iOS畅销榜第20，为字节第二款RO IP手游；三七互娱测试末日题材Merge-2《Merge Hope》，并有三消《Seaside Resort》《Maple Crush》等休闲布局；腾讯发行轻度SLG《The Last Duo》（融合搜打撤与《Whiteout Survival》式框架），另储备天美《Crownstone Survival》预计明年3月上线；高图网络花园like《Fruit Days》登陆东南亚及港澳台；MY.GAMES推消除对战《Legends of Rhandum》；韩国Sugarscone推刷宝放置RPG《Team Dungeon Breaker》。",
+      "tags": [
+        "出海",
+        "新品曝光",
+        "市场分析"
+      ],
+      "keywords": [
+        "朝夕光年",
+        "三七互娱",
+        "腾讯",
+        "高图网络"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 12,
+      "title": "PlayStation raises full-year forecast after revenue growth in network services and first-party software",
+      "url": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-05 11:55",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "索尼上调游戏业务全年预期：G&NS部门全年销售额上调6%至4.8万亿日元、营业利润上调6%至7000亿日元。第二季度G&NS净销售额1.2万亿日元（同比+9%），营业利润2200亿日元（+83%），剔除去年同期Bungie 7.65亿美元减值等一次性损失后仍增29%。《漫威金刚狼》9月15日发售以来售出240万份；",
+      "tags": [
+        "财报业绩"
+      ],
+      "keywords": [
+        "索尼",
+        "PlayStation",
+        "漫威金刚狼",
+        "Bungie"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 16,
+      "title": "Nintendo H1 operating profit rises 49.1% supported by new titles including Splatoon Raiders",
+      "url": "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-05 09:57",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "任天堂2026财年上半年净销售额9660亿日元（同比-12.1%），营业利润2165亿日元（+49.1%），受益于《斯普拉遁 Raiders》等新作软件销售及一季度美国关税退款。硬件合计776万台：Switch 2售649万台（同比-37.4%），初代Switch 127万台（-32.7%）；",
+      "tags": [
+        "财报业绩"
+      ],
+      "keywords": [
+        "任天堂",
+        "Switch 2",
+        "斯普拉遁"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 17,
+      "title": "《EVE》研发商新获投资，累计融资已超1亿美元，新产品已测试",
+      "url": "https://news.qq.com/rain/a/20261105A0BZ9W00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-05 09:54",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "据晚点AI报道，自然选择（深圳）智能有限公司完成A+轮融资，累计融资超1亿美元；此前天使轮来自主流美元VC，A轮超3000万美元。公司现有两款产品：4月10日上线的「首款3D AI陪伴应用」EVE，以及2月登陆iOS邀请测试的AI Agent应用Elys（用模仿用户习惯的赛博分身代做初期社交）。创始人张筱帆为幻境游戏CEO，其男性向恋爱手游《奇点时代》据App Magic数据累计收入超500万美元，恋爱游戏经验可复用到AI陪伴产品。",
+      "tags": [
+        "融资",
+        "技术AI"
+      ],
+      "keywords": [
+        "自然选择",
+        "EVE",
+        "Elys",
+        "张筱帆"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 1,
+      "title": "Investment firm Denmu closes oversubscribed debut fund, surpassing $50 million target",
+      "url": "https://www.gamesindustry.biz/investment-firm-denmu-closes-oversubscribed-debut-fund-surpassing-50-million-target",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-05 16:00",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "游戏投资机构Denmu完成首支基金超额认购，规模超过5000万美元目标。CEO Ryan You称募资超额让团队有更多能力支持「有清晰创意身份」的游戏，并为每个项目定制资金、制作支持与触达玩家的组合方案。",
+      "tags": [
+        "融资"
+      ],
+      "keywords": [
+        "Denmu",
+        "Fuse Games",
+        "Maverick Games"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 11,
+      "title": "IGN Entertainment promotes Alex Simmons to lead editorial across its portfolio, with Wesley Yin-Poole overseeing IGN",
+      "url": "https://www.gamesindustry.biz/ign-entertainment-promotes-alex-simmons-to-lead-editorial-across-its-portfolio-with-wesley-yin-poole-overseeing-ign",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-05 12:23",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "IGN Entertainment晋升Alex Simmons为VP、Editorial and Group Editor-in-Chief，统管IGN.com、Eurogamer、Rock Paper Shotgun与GamesIndustry.biz等全部编辑品牌，并继续支持Outside Xbox、Hookshot Media等合作品牌；Wesley Yin-Poole晋升为IGN Managing Editor，负责美英澳全球编辑团队日常运营。两人均向去年上任的Justin Davis汇报。公司称此举为2027年及以后的扩张做准备，并预期《GTA6》本月发售将带动Q4消费级游戏媒体表现。",
+      "tags": [
+        "人事变动"
+      ],
+      "keywords": [
+        "IGN",
+        "GamesIndustry.biz",
+        "Eurogamer"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 15,
+      "title": "目睹大作连续暴死，前腾讯主策划总结了12条立项血泪教训",
+      "url": "https://news.qq.com/rain/a/20261105A0D8BU00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-05 11:26",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "前腾讯主策划、20余年从业者于森垚在播客中总结立项12问：坚持七分保守三分创新，立项必须有Pillar并向核心团队公布；系统框架与商业化方案应尽早确定，他直言全行业审核机制不健全，CE与焦点小组已难反映真实项目且易被话术操纵；需先排查UE5优化、大DAU、反作弊等技术雷点与内容创作难点，再按项目特征搭建管线并把AI纳入流程；预算上创业团队先有钱后立项并留30%余量，大公司先有方向后报预算，误差应控制在20%内；要清点团队、老板与投资人这些「手牌」，考虑汇报成本、士气消耗与PV预算（制作300—500万元、B站推广至少120万元）；发行需在买量与宣发间提前选边。结论是没有万无一失的立项，不要因他人成功盲目跟风，帕鲁类项目大厂曾立项近10个现已全砍。",
+      "tags": [
+        "市场分析",
+        "人物访谈"
+      ],
+      "keywords": [
+        "立项",
+        "腾讯",
+        "帕鲁"
+      ],
+      "importance": 3,
+      "detail": {
+        "points": [
+          {
+            "title": "立项须有Pillar且七分保守三分创新",
+            "text": "于森垚提出立项应遵循七分保守、三分创新的比例，保守部分基于团队擅长领域，创新部分为发行提供立足点并控制成本。大厂命题作文式立项仍留有思考空间，制作人需根据公司资源与团队优势制定方案。Pillar（项目支柱）必须明确并向核心团队公布，后续成本评估与团队组建均基于此。Pillar本身无对错，但缺失或模糊会导致项目灾难。中途更改Pillar需推倒重建，成本高昂。案例：某项目因Pillar模糊而陷入困境。"
+          },
+          {
+            "title": "行业审核机制普遍失效",
+            "text": "于森垚指出全行业审核机制不健全，国内外大厂均如此。传统CE、Focus Group等方法无法反映现代项目与玩家复杂度，且易被作弊手段操纵，如大厂同事用话术心理暗示玩家。上海某大厂知名项目开发6年，最后一年半才定系统框架，最后一年才定商业化方案，成本完全失控。许多团队缺乏玩家行为留档分析概念，甚至立项初期严谨盘设计方案都做不到。强调必须重视审核，探索新机制。"
+          },
+          {
+            "title": "排雷技术内容难点再搭管线",
+            "text": "设计框架确定后需排查技术难点（如UE5优化、大DAU云服务器管理、反作弊、风格化渲染、UE6尝试）和内容创作难点（原创IP的社会化描写、商业化IP的改编难度与用户画像）。技术难点可通过逻辑链调研转化为已知，成本边界可估。内容创作需警惕团队阅历不足，如二次元文案写组织化设定易翻车；某知名科幻IP改编游戏至今无成功案例。管线必须基于项目特征和团队人才具体设计，不存在通用管线，且需考虑AI在流程中的角色与审核。反例：某大厂制作人报预算8亿无任何材料说明，被老板拍回。"
+          },
+          {
+            "title": "预算与手牌：创业留30%余量，大厂先方向后预算",
+            "text": "创业团队先有预算后有项目，需留30%余量应对突发（如测试前云服务炸掉）；大公司先有方向后有预算，容错率高。腰部公司最乱。制作人需清点手牌：团队骨干（主程、主策、主美、PM）、人才市场供给（如Unity程序员、TA、3C策划、二次元画师曾难找）、与老板和投资人的关系。案例：二次元项目需要独特画风，全国仅几人且都在竞对，最终失败；朋友项目因老板拍脑袋改画风，一年后砍掉。阿里《三国志幻想大陆》集体培训画风成功但成功率低。汇报成本、士气消耗、PV成本（制作300-500万，B站推广至少120万）均需计入预算。"
+          },
+          {
+            "title": "发行策略需提前定买量或宣发",
+            "text": "发行分买量和宣发，制作人立项时就要决定走哪条路。买量需为发行提供素材亮点；宣发靠砸品质，如大厂“原神killer”策略。研发需与发行沟通亮点，但存在理解障碍，建议找能听懂的发行人做桥梁。小团队如帕鲁烂牌也能赢，但跟风帕鲁有大坑：大厂做开放世界成本不低，且SOC要素有endgame边界难以长期服务化，当时大厂立了快10个类似项目全砍。第三人称动作搜打撤也存在机制冲突，上海两个项目组均未解决。没有万无一失的立项，需尽早测试风险，尤其涉及Pillar的关键节点。不要因别人成功而立项，成功原因外人难知。"
+          }
+        ],
+        "takeaway": "国内团队立项时应强制明确Pillar并书面化，避免中途更改；建立更科学的审核机制，用玩家行为数据替代易被操纵的CE；预算需区分公司类型，创业团队留30%余量，大厂需提供详细预算依据；提前盘点人才市场供给，避免押注稀缺画风等不可得资源；发行策略须在立项时确定买量或宣发方向，并与发行团队建立翻译桥梁；对跟风热点（如帕鲁、搜打撤）保持警惕，先验证核心机制冲突再投入。"
+      }
+    },
+    {
+      "id": 6,
+      "title": "席德·梅尔最新访谈：文明35周年、史诗SLG巨制如何诞生的？",
+      "url": "https://news.qq.com/rain/a/20261105A0F2Y300",
+      "source": "GameLook",
+      "pub_date": "2026-11-05 15:56",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《文明》系列35周年之际，Polygon采访席德·梅尔及历代主创回顾系列诞生与迭代历程。",
+      "tags": [
+        "人物访谈"
+      ],
+      "keywords": [
+        "文明",
+        "席德·梅尔",
+        "Firaxis"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 14,
+      "title": "众筹超2800万美元，前暴雪、拳头大牛组队：牌桌迎来新玩家",
+      "url": "https://news.qq.com/rain/a/20261105A0D8C300",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-05 11:26",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《赛博朋克TCG》Kickstarter众筹超2800万美元、5万余名支持者，首弹11月6日海外零售。",
+      "tags": [
+        "IP联动"
+      ],
+      "keywords": [
+        "赛博朋克TCG",
+        "WeirdCo",
+        "CDPR"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [
+    {
+      "id": 13,
+      "title": "《GTA6》前瞻：8年打造，本世代最贵大作，为何让人“不放心”？",
+      "url": "https://news.qq.com/rain/a/20261105A0D9YM00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-05 11:31",
+      "reason": "与id 9同题《GTA6》预购数据，已合并。",
+      "by": "model"
+    },
+    {
+      "id": 8,
+      "title": "《影之刃零》之后，中国游戏要成为全球3A游戏的“XYZ”！",
+      "url": "https://news.qq.com/rain/a/20261105A0F2XW00",
+      "source": "GameLook",
+      "pub_date": "2026-11-05 15:56",
+      "reason": "与id 4同题《影之刃零》表现分析，已合并。",
+      "by": "model"
+    }
+  ],
+  "source_stats": {
+    "GamesIndustry.biz": {
+      "fetched": 6,
+      "selected": 6,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "GameLook": {
+      "fetched": 7,
+      "selected": 5,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 1
+    },
+    "游戏陀螺": {
+      "fetched": 1,
+      "selected": 0,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 1
+    },
+    "游戏葡萄": {
+      "fetched": 2,
+      "selected": 1,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 3,
+      "selected": 3,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
