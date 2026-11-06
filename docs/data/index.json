@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-05T00:53:14+00:00",
+  "updated": "2026-11-06T00:51:55+00:00",
   "days": [
+    {
+      "date": "2026-11-06",
+      "total": 17,
+      "modules": {
+        "rival": 0,
+        "industry": 3,
+        "product": 3,
+        "newgame": 3,
+        "company": 5,
+        "deep": 1,
+        "ad": 2,
+        "other": 0
+      },
+      "headlines": [
+        "最新数据：2026年游戏业裁员破万！海外大厂集体陷入低迷",
+        "PlayStation raises full-year forecast after revenue growth in network services and first-party software",
+        "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5",
+        "《影之刃零》销售数据报告：国外卖的居然比中国好，太神奇！",
+        "Nintendo H1 operating profit rises 49.1% supported by new titles including Splatoon Raiders"
+      ]
+    },
     {
       "date": "2026-11-05",
       "total": 15,
