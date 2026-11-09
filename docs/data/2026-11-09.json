@@ -1,0 +1,376 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T00:51:23+00:00",
+  "model": "deepseek-flash",
+  "total": 14,
+  "modules": {
+    "rival": 0,
+    "industry": 4,
+    "product": 4,
+    "newgame": 0,
+    "company": 5,
+    "deep": 0,
+    "ad": 1,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 5,
+      "reason": "Unity Q3首次GAAP盈利后传250亿美元私有化，PIF+银湖接盘，引擎赛道格局生变"
+    },
+    {
+      "id": 6,
+      "reason": "腾讯连续入股中外休闲游戏团队，全球扫货补位长青战略，收缩海外3A/GaaS"
+    },
+    {
+      "id": 17,
+      "reason": "拳头广州新设子公司招人，在华流水五年年均增超20%，两款自研新作仍未量产"
+    },
+    {
+      "id": 10,
+      "reason": "Q3国内游戏市场925亿元增5.11%，A股分化：世纪华通净利63亿、三七互娱转亏"
+    }
+  ],
+  "items": [
+    {
+      "id": 10,
+      "title": "A股游戏三季报：头部狂揽63亿，腰部陷买量泥潭，边缘厂已不聊游戏了",
+      "url": "https://news.qq.com/rain/a/20261106A0CR4N00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-06 10:51",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "伽马数据显示2026年Q3国内游戏市场收入925亿元同比增5.11%，但A股游戏公司业绩剧烈分化：世纪华通前三季净利63.35亿元居首，三七互娱Q3亏2.96亿元、冰川网络Q3亏1.31亿元陷买量泥潭，完美世界靠《异环》全球流水超27亿元单季扭亏，边缘公司游戏业务持续稀释。行业定价逻辑正从买量转向长周期产品、全球化发行与跨端运营。",
+      "tags": [
+        "财报业绩",
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "世纪华通",
+        "三七互娱",
+        "完美世界",
+        "伽马数据"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 2,
+      "title": "Elections signal cultural shifts that no creative industry can dare to ignore | Opinion",
+      "url": "https://www.gamesindustry.biz/elections-signal-cultural-shifts-that-no-creative-industry-can-dare-to-ignore-opinion",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-06 16:10",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GamesIndustry.biz评论文章认为美国中期选举带来的文化转向将深刻影响游戏业：新一届立法者对科技监管更趋严格，数据中心、在线赌博（可能波及抽卡/战利品箱）、儿童保护（可能波及Roblox）等监管风险上升；同时平台监管趋严、AI泡沫可能被刺破，反而利好游戏公司融资环境。",
+      "tags": [
+        "政策监管",
+        "市场分析"
+      ],
+      "keywords": [
+        "美国大选",
+        "科技监管",
+        "AI"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 3,
+      "title": "玩家集体叫好！itch.io加入“一键屏蔽AI内容”，Mod社区Nexus强制要求标注AI",
+      "url": "https://news.qq.com/rain/a/20261106A0FXWO00",
+      "source": "GameLook",
+      "pub_date": "2026-11-06 15:58",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "itch.io于11月3日连夜删除数TB AI垃圾内容并上线生成式AI披露过滤，把是否屏蔽AI内容的选择权交给玩家；同日Nexus Mods要求创作者60天内（至2027年1月2日）标注AI使用，并划分「AI生成内容/AI生成媒体/AI辅助」三档，逾期下架。两家均选择分流而非全面禁AI，社区对标签可能误伤轻度使用者仍有分歧。",
+      "tags": [
+        "技术AI",
+        "政策监管"
+      ],
+      "keywords": [
+        "itch.io",
+        "Nexus Mods",
+        "AI"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "How to get investment for your video game in 2026",
+      "url": "https://www.gamesindustry.biz/how-to-get-investment-for-your-video-game-in-2026",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-06 07:55",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GamesIndustry.biz在伦敦MCM Comic Con的投资峰会上，Transcend Fund、Creative UK与Curran Games Agency的专家讨论2026年游戏融资：资金仍在但更分散，建议组合Kickstarter、政府基金、天使投资与项目融资；",
+      "tags": [
+        "融资",
+        "市场分析"
+      ],
+      "keywords": [
+        "Transcend Fund",
+        "Creative UK",
+        "Steam愿望单"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 4,
+      "title": "国际服运营十年还能排队到爆，《战术小队》国服凭啥？",
+      "url": "https://news.qq.com/rain/a/20261106A0FXWC00",
+      "source": "GameLook",
+      "pub_date": "2026-11-06 15:58",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《战术小队》国服在核聚变北京站试玩排长队，国际服Steam累计销量超1000万份、24.6万条评价81%好评、2026年10月日均在线8100余人峰值超1.7万。国服针对十年老问题做翻新：引擎升级UE5.7、渲染与物理重做、兵种「配装预算」、6个独立教学关卡与教官匹配系统，并联合腾讯Gcloud做反作弊，11月下旬开启「启明测试」。",
+      "tags": [
+        "版本更新",
+        "展会活动",
+        "出海"
+      ],
+      "keywords": [
+        "战术小队",
+        "腾讯Gcloud",
+        "启明测试"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 9,
+      "title": "不卷开放世界，赖在畅销榜Top15不走：中轻度二游真是宝藏赛道？",
+      "url": "https://news.qq.com/rain/a/20261106A0CR4Z00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-06 10:51",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "灵犀互娱10月23日公测的二次元篮球养成手游《篮球少女：飞跃巅峰》上线两天冲进iOS畅销榜前10、10月27日登顶第4，此后稳定Top15，TapTap评分8.2。产品将《赛马娘》式养成框架平移到受众更广的篮球题材，以NBA授权角色彩蛋驱动二创，避开开放世界红海走中轻度二游路线。文章同时梳理灵犀被信宸资本接盘后的多元化布局。",
+      "tags": [
+        "产品复盘",
+        "市场分析"
+      ],
+      "keywords": [
+        "灵犀互娱",
+        "篮球少女",
+        "赛马娘"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 13,
+      "title": "网易两部大作《燕云》和《永劫》掐架，世子之争向来如此？",
+      "url": "https://news.qq.com/rain/a/20261106A09XEN00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-06 08:06",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "网易《燕云十六声》11月3日公告将于11月24日支持DLSS 5并称「国内首款且唯一」，11月5日《永劫无间》抢先宣布已支持DLSS 5，双方在官号隔空互呛「争首款不如真首款」。期间《燕云十六声》因服务器故障临时停服回档，《永劫无间》借机发福利并强调2021年即为英伟达首批DLSS合作游戏。",
+      "tags": [
+        "技术AI",
+        "版本更新"
+      ],
+      "keywords": [
+        "燕云十六声",
+        "永劫无间",
+        "DLSS 5",
+        "英伟达"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 14,
+      "title": "30人的发行团队，靠肌肉唐僧唱歌冲上小游戏畅销榜TOP4",
+      "url": "https://news.qq.com/rain/a/20261106A09XE600",
+      "source": "游戏新知",
+      "pub_date": "2026-11-06 08:06",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "广州招崭发行的放置卡牌小游戏《永夜起源》8月中旬上线微信小游戏，最高达畅销榜第4、至今保持Top30，视频号单条买量素材播放量达700万、拿下视频号加热消耗榜第一并贡献近三成收入。30余人发行团队用AI制作「肌肉唐僧唱歌」等反差人设内容素材，AI已渗透其素材生产全工作流。",
+      "tags": [
+        "小游戏",
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "永夜起源",
+        "微信小游戏",
+        "AI买量"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 5,
+      "title": "荒诞游戏圈：Unity想250亿美元卖身、Epic和Unity中国盼上市，AI大佬急着掀桌",
+      "url": "https://news.qq.com/rain/a/20261106A0FXW400",
+      "source": "GameLook",
+      "pub_date": "2026-11-06 15:58",
+      "also_seen_in": [
+        "GamesIndustry.biz"
+      ],
+      "module": "company",
+      "summary": "Unity在Q3财报实现IPO以来首次GAAP盈利后，正与沙特PIF和银湖资本洽谈约250亿美元私有化，报价较215亿市值溢价16%。文章同时梳理Epic拟上市、Unity中国（团结引擎）靠小游戏/AI/车机本土化狂奔，以及AI世界模型、开源Godot、大厂开发工具对引擎赛道的冲击。",
+      "tags": [
+        "并购",
+        "财报业绩",
+        "市场分析"
+      ],
+      "keywords": [
+        "Unity",
+        "Epic",
+        "沙特PIF",
+        "团结引擎"
+      ],
+      "importance": 5
+    },
+    {
+      "id": 6,
+      "title": "腾讯投资战车又开始“全球扫货”！为何押宝休闲游戏？",
+      "url": "https://news.qq.com/rain/a/20261106A0FXW100",
+      "source": "GameLook",
+      "pub_date": "2026-11-06 15:58",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "腾讯近期入股北京匠心互娱26.875%，并连续投资土耳其Flow Games（4600万美元中约3/4来自腾讯）、Circle Games，加上Miniclip收购EasyBrain、Lessmore、Supercell收购Metacore等，形成对休闲赛道的全球扫货。文章分析这是腾讯长青战略的补位：休闲游戏PE约7-8倍、现金流稳定，同时腾讯正收缩海外3A/GaaS布局。",
+      "tags": [
+        "融资",
+        "出海",
+        "市场分析"
+      ],
+      "keywords": [
+        "腾讯",
+        "Miniclip",
+        "Supercell",
+        "休闲游戏"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 17,
+      "title": "项目四年没量产，又在广州大规模招人？对话拳头中国负责人：急又不急",
+      "url": "https://news.qq.com/rain/a/20261106A06FW500",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-06 03:47",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "拳头游戏在广州新设子公司并大规模招聘，中国负责人林松透露上海办公室近300人、深圳广州新设，中国自研线三款产品中《符文战场》已上线、另两款在研尚未量产。过去五年拳头游戏在华流水年均复合增长超20%，产品矩阵从1款增至6款；林松强调拳头以长期主义和「谨慎下注」为主，倾向规则向长青游戏。",
+      "tags": [
+        "人事变动",
+        "市场分析",
+        "人物访谈"
+      ],
+      "keywords": [
+        "拳头游戏",
+        "林松",
+        "符文战场",
+        "无畏契约"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 8,
+      "title": "Sega Q2 results exceed expectations, driven by surge in operating income for pachislot and pachinko machines",
+      "url": "https://www.gamesindustry.biz/sega-q2-results-exceed-expectations-driven-by-surge-in-operating-income-for-pachislot-and-pachinko-machines",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-06 11:30",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "世嘉2026财年Q2净销售额2125亿日元同比增5.6%，营业利润142亿日元增42%，主要由柏青哥/柏青嫂业务营业利润暴涨331.6%驱动。娱乐内容部门营收1451亿日元降2.4%，完整游戏销量1060万份但收入降23.5%，新作收入仅3亿日元；",
+      "tags": [
+        "财报业绩"
+      ],
+      "keywords": [
+        "世嘉",
+        "Rovio",
+        "Persona"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 16,
+      "title": "游戏投资机构DENMU電夢首期基金募资超5000万美元",
+      "url": "https://news.qq.com/rain/a/20261106A06FWA00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-06 03:47",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "旧金山游戏投资机构DENMU電夢首期基金完成最终募集，认缴总额超5000万美元目标，LP包括游戏行业战略投资企业、创始人、家族办公室及基金会。基金覆盖独立游戏至3A，已投《星球大战：银河赛车手》《达巴：水痕之地》《黯井微光》等，并成为PlayStation中国之星计划官方战略合作伙伴。",
+      "tags": [
+        "融资",
+        "出海"
+      ],
+      "keywords": [
+        "DENMU電夢",
+        "PlayStation",
+        "中国之星"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 1,
+      "title": "网易最多「牛」的游戏，藏着一个游戏行业不朽的都市传说？",
+      "url": "https://news.qq.com/rain/a/20261107A081W900",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-07 05:57",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《暗黑破坏神：不朽》上线奶牛关隐藏副本并回顾30周年新职业、新主线等更新内容。",
+      "tags": [
+        "版本更新",
+        "IP联动"
+      ],
+      "keywords": [
+        "暗黑破坏神：不朽",
+        "网易",
+        "暴雪"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [
+    {
+      "id": 7,
+      "title": "SAG-AFTRA launches new video game agreement enabling devs to hire professional actors for demos and vertical slices",
+      "url": "https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-06 14:50",
+      "reason": "劳资/工会",
+      "by": "rule"
+    }
+  ],
+  "source_stats": {
+    "游戏葡萄": {
+      "fetched": 3,
+      "selected": 2,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 6,
+      "selected": 3,
+      "ad": 0,
+      "merged": 2,
+      "dropped": 1
+    },
+    "GameLook": {
+      "fetched": 4,
+      "selected": 4,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
