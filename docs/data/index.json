@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-09T00:51:25+00:00",
+  "updated": "2026-11-10T00:51:54+00:00",
   "days": [
+    {
+      "date": "2026-11-10",
+      "total": 18,
+      "modules": {
+        "rival": 0,
+        "industry": 9,
+        "product": 1,
+        "newgame": 1,
+        "company": 5,
+        "deep": 0,
+        "ad": 2,
+        "other": 0
+      },
+      "headlines": [
+        "Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are \"tracking far in excess\" of expectations",
+        "游戏公司被收购后有多惨？超1/3活不过10年！",
+        "PlayStation cancels Ratchet & Clank: Ranger Rumble a year into soft launch",
+        "恐怖游戏在Steam “杀疯了”：今年10个月入账86亿元，同比大涨17%"
+      ]
+    },
     {
       "date": "2026-11-09",
       "total": 14,
