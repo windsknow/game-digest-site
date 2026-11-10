@@ -1,0 +1,426 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T00:51:52+00:00",
+  "model": "deepseek-flash",
+  "total": 18,
+  "modules": {
+    "rival": 0,
+    "industry": 9,
+    "product": 1,
+    "newgame": 1,
+    "company": 5,
+    "deep": 0,
+    "ad": 2,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 2,
+      "reason": "Take-Two Q2净预订额降18%至16亿美元，但GTA6预购远超预期，全年指引维持80-82亿美元，下周发售将定全年成败。"
+    },
+    {
+      "id": 5,
+      "reason": "303起并购普查：60.8%被收购工作室衰退或关停，超三分之一活不过10年，动视暴雪100%失败、任天堂零丢失。"
+    },
+    {
+      "id": 4,
+      "reason": "索尼取消《瑞奇与叮当》手游，软启动一年仅6.2万美元收入，手游战略再受挫。"
+    },
+    {
+      "id": 6,
+      "reason": "Steam恐怖品类今年收入13亿美元同比增17%，《生化危机：安魂曲》单款贡献2.11亿美元。"
+    }
+  ],
+  "items": [
+    {
+      "id": 5,
+      "title": "游戏公司被收购后有多惨？超1/3活不过10年！",
+      "url": "https://news.qq.com/rain/a/20261110A000HP00",
+      "source": "GameLook",
+      "pub_date": "2026-11-09 16:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "海外研究者Sebastian Cardoso普查2000年以来303起游戏工作室并购案：60.8%被收购后产出衰退或关停，超三分之一活不过10年（中位数5年），仅25.1%实现产出与组织双健康。收购方身份是最强预测因素——动视暴雪17个持有期100%衰退或关停，任天堂6家无一丢失。2023年后关停潮集中爆发。",
+      "tags": [
+        "并购",
+        "市场分析"
+      ],
+      "keywords": [
+        "动视暴雪",
+        "任天堂",
+        "Embracer"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 6,
+      "title": "恐怖游戏在Steam “杀疯了”：今年10个月入账86亿元，同比大涨17%",
+      "url": "https://news.qq.com/rain/a/20261110A000HN00",
+      "source": "GameLook",
+      "pub_date": "2026-11-09 16:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Alinea Analytics数据：2026年至今Steam恐怖品类收入13亿美元，同比增17%，占Steam总收入7%，为2019年的4倍以上。《生化危机：安魂曲》贡献2.113亿美元，生化系列占品类收入32%。独立联机恐怖游戏《R.E.P.O.》《恐鬼症》等长销，品类抗衰退、成本低、适合旧作长卖。",
+      "tags": [
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "生化危机",
+        "Steam",
+        "Alinea Analytics"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 9,
+      "title": "游戏人“吹哨级吐槽”：“3A游戏究竟得了什么重病”？看完直接沉默",
+      "url": "https://news.qq.com/rain/a/20261110A000H400",
+      "source": "GameLook",
+      "pub_date": "2026-11-09 16:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "前育碧/Epic制作人视频吐槽3A行业：2026年至今游戏业已裁近1.1万人、35家工作室关停。核心问题是规避风险导致创意阉割——高管要求市场数据证明成功，只批模仿性项目；追逐潮流导致预算膨胀、反复返工；AI加速裁员并减少入门岗位。建议行业转向100-500人团队与2A模式。",
+      "tags": [
+        "市场分析",
+        "裁员"
+      ],
+      "keywords": [
+        "育碧",
+        "Epic",
+        "3A"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 10,
+      "title": "光子开源“原生AI游戏引擎”，要跟AI大模型巨佬们火拼！",
+      "url": "https://news.qq.com/rain/a/20261110A000GY00",
+      "source": "GameLook",
+      "pub_date": "2026-11-09 16:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "腾讯光子旗下造化工坊开源自研「天工引擎」（Apache 2.0），以AI agent为第一用户，资产包用TypeScript生成，支持AI自查自改。同步办20万元体素游戏创作大赛，获奖者30天内可优先谈商业开发。对比月之暗面Kimi接入传统引擎的方案，光子意在降低零基础创作者门槛并锁定发行人才。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "腾讯光子",
+        "天工引擎",
+        "造化工坊"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 12,
+      "title": "Will Grand Theft Auto 6 break the internet?",
+      "url": "https://www.gamesindustry.biz/will-grand-theft-auto-6-break-the-internet",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-09 15:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GTA6将于11月19日发售，预购近800万份（Sensor Tower估算），下载体积212GB，为首个纯数字发行的3A级大作。11月10日开启预载。专家认为预载可缓解平台压力，但发售当晚美欧可能出现局部网络拥堵；《黑神话：悟空》预载曾令Steam带宽峰值达70Tbps。",
+      "tags": [
+        "市场分析",
+        "硬件平台"
+      ],
+      "keywords": [
+        "GTA6",
+        "Rockstar",
+        "PlayStation"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 13,
+      "title": "9000万DAU, Discord CBO谈开发商如何利用其工具运营游戏？",
+      "url": "https://news.qq.com/rain/a/20261109A0DX9000",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-09 13:24",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Discord CBO在播客披露：平台9000万DAU，70%每周与好友玩游戏。社交SDK使关联玩家D28留存提升31%；流失召回广告CPA低于2美元，测试中4万沉睡玩家回归、50%一周内再回访；《漫威争锋》社交电商中41%购买为赠礼。Discord正从聊天工具转向游戏发行运营基础设施。",
+      "tags": [
+        "市场分析",
+        "出海"
+      ],
+      "keywords": [
+        "Discord",
+        "漫威争锋"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 18,
+      "title": "这次游戏行业的大麻烦，可能是AI抄袭",
+      "url": "https://news.qq.com/rain/a/20261109A0BYS900",
+      "source": "游戏新知",
+      "pub_date": "2026-11-09 10:06",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "AI降低抄袭与破解门槛，独立游戏开发者被迫藏起demo：创意发布数小时内即出现AI仿制品，甚至被勒索200美元。Claude Code一度禁止复刻现有游戏后又放松限制。法律层面玩法抄袭仍难认定，平台事后打击效果有限，行业陷入「退让者生存」。",
+      "tags": [
+        "技术AI",
+        "法律诉讼"
+      ],
+      "keywords": [
+        "AI抄袭",
+        "独立游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 11,
+      "title": "中国无人机称霸全球！最强“无人机游戏”却出自比利时13人团队？",
+      "url": "https://news.qq.com/rain/a/20261110A000GT00",
+      "source": "GameLook",
+      "pub_date": "2026-11-09 16:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "比利时13人团队LuGus Studios的无人机模拟游戏《Liftoff》Steam好评率95%以上，近10年长销、峰值在线不足900人却刚刷新历史新高，NASA火星无人机模拟与军工训练也在使用。文章借此讨论中国无人机产业全球第一却无对应标杆游戏，指出垂直产业题材的游戏机会。",
+      "tags": [
+        "市场分析",
+        "出海"
+      ],
+      "keywords": [
+        "Liftoff",
+        "LuGus Studios"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 20,
+      "title": "German Games Industry Association warns the EU KIDS Act could undermine existing age-rating systems for video games",
+      "url": "https://www.gamesindustry.biz/german-games-industry-association-warns-the-eu-kids-act-could-undermine-existing-age-rating-systems-for-video-games",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-09 09:43",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "德国游戏产业协会Game警告欧盟KIDS Act可能架空各国现有年龄分级体系，导致同一游戏在不同商店评级不一。该法案主要针对社交网络（13岁以下禁用），但含约束性年龄分级行为准则条款。Game呼吁以USK/PEGI为基础，将游戏与社交网络区别对待。",
+      "tags": [
+        "政策监管"
+      ],
+      "keywords": [
+        "德国游戏产业协会",
+        "KIDS Act",
+        "USK"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 14,
+      "title": "创下2项历史纪录，国服在线人数创新高，魔兽世界又双叒火了？",
+      "url": "https://news.qq.com/rain/a/20261109A0DX8V00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-09 13:24",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《魔兽世界：无限》11月5日全球上线，创系列最高同时在线峰值与回归玩家最多纪录，国服开服同时在线达100万。该版本基于正式服架构，取消命名服务器改用规则集划分超级大服，新增9个5人副本、12月解锁2个原创团本及新种族「天裔」，并坚持慢节奏经典体验。",
+      "tags": [
+        "版本更新"
+      ],
+      "keywords": [
+        "魔兽世界",
+        "暴雪"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 17,
+      "title": "腾讯《虚环》发布第三支游戏PV，同步开启二测招募",
+      "url": "https://news.qq.com/rain/a/20261109A0BYSK00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-09 10:06",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "腾讯CDD研发的虚拟偶像策略养成游戏《虚环》发布第三支PV《回旋》（张韶涵演唱，B站播放93.7万），同步开启二测「满月回」招募但未公布时间。游戏2024年8月首曝、今年3月首测，B站预约47.3万居预约榜第一，TapTap预约33万。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "虚环",
+        "腾讯"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 2,
+      "title": "Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are \"tracking far in excess\" of expectations",
+      "url": "https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-09 21:22",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Take-Two 2026财年Q2净预订额同比降18%至16亿美元，净收入降16%至15亿美元，净亏损5400万美元。NBA 2K27销量超400万但低于预期；GTA5累计近2.35亿份，GTA6预购远超预期，公司维持全年净预订额80-82亿美元指引，并上调GAAP净收入指引至79.8-81.8亿美元。",
+      "tags": [
+        "财报业绩"
+      ],
+      "keywords": [
+        "Take-Two",
+        "GTA6",
+        "NBA 2K27"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 3,
+      "title": "Tripwire Interactive lays off 36",
+      "url": "https://www.gamesindustry.biz/tripwire-interactive-lays-off-36",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-09 19:43",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "《杀戮空间》《食人鲨》开发商 Tripwire Interactive 裁员36人，为今年第二轮裁员（3月已裁23人）。剩余员工继续开发《食人鲨2》《杀戮空间3》及发行品牌 Tripwire Presents 业务。",
+      "tags": [
+        "裁员"
+      ],
+      "keywords": [
+        "Tripwire Interactive"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 4,
+      "title": "PlayStation cancels Ratchet & Clank: Ranger Rumble a year into soft launch",
+      "url": "https://www.gamesindustry.biz/playstation-cancels-ratchet-clank-ranger-rumble-a-year-into-soft-launch",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-09 17:37",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "PlayStation 取消免费手游《瑞奇与叮当：游侠乱斗》，软启动一年后终止开发，11月21日下架，2027年5月1日关服。该作软启动期间仅获约6.2万美元收入和39.1万下载（AppMagic估算）。索尼手游战略再受挫。",
+      "tags": [
+        "关服停运"
+      ],
+      "keywords": [
+        "PlayStation",
+        "瑞奇与叮当"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 7,
+      "title": "黄仁勋“绯闻”全网吃瓜，主角竟是第七大道前海外子公司？",
+      "url": "https://news.qq.com/rain/a/20261110A000HH00",
+      "source": "GameLook",
+      "pub_date": "2026-11-09 16:00",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "英伟达CEO黄仁勋出轨风波牵扯出AI算力公司Megaspeed，其前身为第七大道新加坡子公司7Road International，2023年3月被出售并更名。第七大道2024年已剥离云计算业务，2025年收入完全来自游戏，与Megaspeed彻底切割。文章借此梳理游戏公司深度参与AI产业链投资的版图。",
+      "tags": [
+        "市场分析",
+        "技术AI"
+      ],
+      "keywords": [
+        "第七大道",
+        "英伟达",
+        "Megaspeed"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 16,
+      "title": "Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of people",
+      "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-has-laid-off-an-unspecified-number-of-people",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-09 11:29",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "《星球大战：零号连队》开发商 Bit Reactor 裁员人数未披露，多名员工确认11月6日为最后工作日。该作8月27日发售，Metacritic 84分，销量约120万份、收入约5220万美元（Video Game Insights估算）。",
+      "tags": [
+        "裁员"
+      ],
+      "keywords": [
+        "Bit Reactor",
+        "星球大战零号连队"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 8,
+      "title": "赛事加码升级、PC移动双线发力，《金铲铲之战》在下一盘什么棋？",
+      "url": "https://news.qq.com/rain/a/20261110A000HB00",
+      "source": "GameLook",
+      "pub_date": "2026-11-09 16:00",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《金铲铲之战》宣布未来三年再投10亿元，2027年总奖金池翻倍，PC版下赛季上线并开启预约。",
+      "tags": [
+        "电竞",
+        "版本更新"
+      ],
+      "keywords": [
+        "金铲铲之战",
+        "腾讯"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 19,
+      "title": "登上央视，杀入好莱坞：库洛偷偷干了一大堆「副业」",
+      "url": "https://news.qq.com/rain/a/20261109A0BXVE00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-09 10:04",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《鸣潮》获泰国游戏大奖三项大奖、登央视出海案例、音乐传媒奖三项提名，并回顾全球巡演与联动成绩。",
+      "tags": [
+        "IP联动",
+        "展会活动"
+      ],
+      "keywords": [
+        "鸣潮",
+        "库洛"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [
+    {
+      "id": 15,
+      "title": "Thanks to GTA 6, millions of people are about to discover what a manatee is | Opinion",
+      "url": "https://www.gamesindustry.biz/thanks-to-gta-6-millions-of-people-are-about-to-discover-what-a-manatee-is-opinion",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-09 12:27",
+      "reason": "环保观点随笔，与游戏产业关联弱",
+      "by": "model"
+    }
+  ],
+  "source_stats": {
+    "GamesIndustry.biz": {
+      "fetched": 8,
+      "selected": 6,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 1
+    },
+    "GameLook": {
+      "fetched": 7,
+      "selected": 6,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏葡萄": {
+      "fetched": 1,
+      "selected": 0,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
