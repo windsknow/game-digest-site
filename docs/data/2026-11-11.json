@@ -1,0 +1,409 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T00:51:51+00:00",
+  "model": "deepseek-flash",
+  "total": 16,
+  "modules": {
+    "rival": 0,
+    "industry": 6,
+    "product": 4,
+    "newgame": 1,
+    "company": 4,
+    "deep": 1,
+    "ad": 0,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 3,
+      "reason": "魔兽新服创22年在线与回归双纪录，国服同时在线达100万，验证网易代理与暴雪老IP的持续吸金力。"
+    },
+    {
+      "id": 5,
+      "reason": "《影之刃零》72小时销量破400万、Steam峰值83.4万，国产3A接班与「人比钱重要」的判断值得关注。"
+    },
+    {
+      "id": 15,
+      "reason": "腾讯今年三投北京出海休闲厂商，手握39款累计过亿产品，并以AdSurge从买量方转向广告卖方。"
+    },
+    {
+      "id": 1,
+      "reason": "英国ASA裁定King、Scopely等四家虚假玩法广告违规，小字免责失效，出海英国买量合规成本上升。"
+    },
+    {
+      "id": 7,
+      "reason": "Krafton Q3营收增11.6%但营业利润降35.5%，前三季营收利润仍创同期新高，PUBG IP收入增11%。"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "title": "英国广告局开罚单：4家休闲SLG手游大厂中招，游戏广告“忽悠玩家”成顽疾",
+      "url": "https://news.qq.com/rain/a/20261110A0F2L300",
+      "source": "GameLook",
+      "pub_date": "2026-11-10 15:51",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "英国广告标准管理局11月4日对King、Scopely、Omnilojo、Vistrex四家手游厂商的9则广告发出裁决，认定广告展示的玩法在游戏中不存在或藏于边角，违反CAP Code。ASA虽无罚款权，但可要求Meta、Google等平台停投，并将案件转交Trading Standards及CMA，后者罚款上限可达全球年营收10%。King以「Not in-game footage」免责声明抗辩被驳回，ASA认定小字不能否定广告整体印象。此案标志虚假玩法买量成本被抬高，出海英国厂商需将广告合规纳入投放清单。",
+      "tags": [
+        "政策监管",
+        "出海"
+      ],
+      "keywords": [
+        "King",
+        "Scopely",
+        "ASA",
+        "手游广告"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 5,
+      "title": "《影之刃零》之后中国3A谁来扛？“人永远比钱重要 ”！",
+      "url": "https://news.qq.com/rain/a/20261110A0F2KP00",
+      "source": "GameLook",
+      "pub_date": "2026-11-10 15:51",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "《影之刃零》发售即爆：首日登顶Steam全球畅销榜，Steam同时在线峰值83.4万，好评率94%，PS Store在55个地区商店连续4天保持前十，官方称72小时全平台销量破400万份。文章由此讨论国产3A接班问题：两年过去能称3A的仍只有《影之刃零》，《黑神话：钟馗》可能要到2030年前后。核心判断是中国做3A「人比钱重要」，明星制作人信用是亿级融资的前提，但制作人中心制风险高。下一阶段应放低千万销量预期，靠一批百万级产品（《明末：渊虚之羽》《昭和米国物语》《抵抗者》等）撑起基本盘，同时大厂主导的服务型3A（《原神》《燕云十六声》）也是主粮。",
+      "tags": [
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "影之刃零",
+        "灵游坊",
+        "黑神话悟空",
+        "国产3A"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 8,
+      "title": "10月PC榜：《影之刃零》三天销量400万，空降TOP 8成唯一单机",
+      "url": "https://news.qq.com/rain/a/20261110A0ECBA00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-10 13:08",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "联想天禧生态发布10月PC游戏TOP榜，基于2.8亿月活联想PC的启动与下载数据。《影之刃零》仅凭10月最后3天表现空降第8，成为榜单中唯一买断制单机，官方称72小时全平台销量破400万套。TOP3仍为《无畏契约》《三角洲行动》《英雄联盟》，《CS2》《原神》列第4、5，《鸣潮》升至第6，《明日方舟：终末地》升至第12，《洛克王国：世界》降4位至第15。榜单整体格局稳定，新品发售对短期排名影响明显。",
+      "tags": [
+        "榜单数据",
+        "硬件平台"
+      ],
+      "keywords": [
+        "影之刃零",
+        "联想",
+        "无畏契约"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 11,
+      "title": "游戏行业的策划，正在“抽卡师”化吗？",
+      "url": "https://news.qq.com/rain/a/20261110A0DBTZ00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-10 11:36",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "虎扑11月4-5日热榜前十五几乎被平台「AI工坊」内测用户自制的小游戏占据，TapTap AI制造工坊同样活跃，小红书等社区也在引入游戏留存用户。与此同时，一名15年从业主策发帖担忧策划「抽卡师化」：中小公司可能招新人用AI快速拼Demo、市场测试失败即淘汰。文章以Rollic每年立项约1000个原型、94%活不过首月，以及Voodoo等「刮刮乐模式」为例，说明高频试错早已存在，AI只是压缩周期。GDC 2026报告显示被裁人员中策划占20%，脉脉数据显示3年以上经验岗位占73.34%。结论是AI能生成Demo，但无法替代对游戏逻辑的判断与经验积累。",
+      "tags": [
+        "技术AI",
+        "市场分析",
+        "人事变动"
+      ],
+      "keywords": [
+        "AI",
+        "策划",
+        "虎扑",
+        "Rollic"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 2,
+      "title": "“太多人用AI做游戏”，办了12年的游戏开发赛停办，同行：真因AI还是穷？",
+      "url": "https://news.qq.com/rain/a/20261110A0F2L100",
+      "source": "GameLook",
+      "pub_date": "2026-11-10 15:51",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "澳洲STEM电子游戏挑战赛宣布2026年为最后一届，官方理由为生成式AI融入开发工具。该赛事免费面向3-12年级，12年累计超1万名学生参与，2025届收到354份投稿。但多位网友及前评委指出，AI只是借口，真正原因是政府拨款按2-3年周期断供，今年已无力支付PAX机票和颁奖场地。文章认为AI让「孩子的作品」廉价到不再值得财政扶持，暴露青训公共通道的萎缩。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "澳洲STEM游戏挑战赛",
+        "AI",
+        "青训"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 16,
+      "title": "House House clarifies use of AI tools in Big Walk's \"final stage of development\"",
+      "url": "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-10 09:07",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "在2027年IGF一批评委宣布拒绝为使用生成式AI开发的游戏投票后，澳大利亚独立工作室House House澄清《Big Walk》在开发最后阶段「少量」使用了AI工具，用于解决第三方代码的技术难题。",
+      "tags": [
+        "技术AI",
+        "政策监管"
+      ],
+      "keywords": [
+        "House House",
+        "Big Walk",
+        "IGF"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 3,
+      "title": "网易暴雪一起笑！《魔兽世界:无限》没崩，国服和全球服创造历史新高",
+      "url": "https://news.qq.com/rain/a/20261110A0F2KZ00",
+      "source": "GameLook",
+      "pub_date": "2026-11-10 15:51",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《魔兽世界：无限》11月5日全球上线，暴雪宣布创下魔兽运营史最高峰值同时在线和最多回归玩家两项纪录。Census Plus统计欧美黄金时段峰值231.5万，Twitch峰值观众110万；国服官方称创国服史上最高同时在线，海报显示中国区同时在线达100万。暴雪为开服准备3924台虚拟机、245TB内存、70480个CPU核心，未出现炸服。游戏为正式服与经典旧世之外的第三条产品线，锁60级，新增种族天裔、露营与传承系统，12月9日解锁新团本。国服封禁1575名滥用河林刷怪机制的玩家。",
+      "tags": [
+        "版本更新",
+        "榜单数据"
+      ],
+      "keywords": [
+        "魔兽世界",
+        "暴雪",
+        "网易"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 4,
+      "title": "休闲手游新爆款！《Cube Land》年收入有望破1亿美元，又是土耳其人？",
+      "url": "https://news.qq.com/rain/a/20261110A0F2KU00",
+      "source": "GameLook",
+      "pub_date": "2026-11-10 15:51",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "土耳其工作室Rotatelab的益智游戏《Cube Land》7月2日上线，近30天全球下载130万、IAP收入520万美元，10月IAP达550万美元、广告收入约98万美元（Sensor Tower），年化流水有望破1亿美元。游戏在《This is Blast》玩法家族中加入3D体素旋转与分层清除，DAU 30.8万、日均时长46.7分钟。团队8月完成种子融资，创始人此前与Rollic合作发行约20款游戏。文章同时提示克隆品浪潮与关卡产能、live ops深度是长线关键。",
+      "tags": [
+        "榜单数据",
+        "出海",
+        "市场分析"
+      ],
+      "keywords": [
+        "Cube Land",
+        "Rotatelab",
+        "土耳其"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 9,
+      "title": "50天速成、单人爆赚超1000万：只为不被抄袭",
+      "url": "https://news.qq.com/rain/a/20261110A0ECB400",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-10 13:08",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "独立游戏《破壳行动（CRACK）》10月27日发售，一周卖出20万份，Steam好评率92%，第三方估算总收入约170万美元（约1100万元人民币）。开发者Rafoli单人开发，从9月7日立项到10月26日发售仅50天，全程在Instagram、TikTok、YouTube、B站发布开发短视频营销，发售前愿望单达12万。游戏以凿巨蛋为核心，融合增量升级、恐怖氛围与联机要素。文章指出其「快」是被逼的：视频发布第二天Roblox上就出现抄袭，20多天后被搬运完成，AI与UGC正在压缩独游创意红利窗口。",
+      "tags": [
+        "产品复盘",
+        "技术AI"
+      ],
+      "keywords": [
+        "破壳行动",
+        "Rafoli",
+        "独立游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 14,
+      "title": "开发团队回应《蔚蓝档案》运营权变更：早有准备，无大变化",
+      "url": "https://news.qq.com/rain/a/20261110A0C8MJ00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-10 10:07",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《蔚蓝档案》日服运营权将于10月25日公告后从悠星转移至Nexon，11月开放账号迁移，须在2027年1月更新前完成，否则无法继承进度，国服不受影响。总制作人金用河与Nexon日本负责人崔允锡受访表示：接手后不会大幅改动游戏内容，六周年将公布新举措，Nexon年初已成立新部门筹备转移，本地化将参照既有翻译资料，同人创作规则不变。Nexon今年7月更改抽卡系统已引发玩家不满，此次收回运营权可能进一步恶化日服风评，Nexon称将用实际运营挽回。",
+      "tags": [
+        "人事变动",
+        "版本更新"
+      ],
+      "keywords": [
+        "蔚蓝档案",
+        "Nexon",
+        "悠星"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 13,
+      "title": "3D玄幻乙女游戏？！《代号：星渊引》2027年3月首测",
+      "url": "https://news.qq.com/rain/a/20261110A0C8MR00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-10 10:07",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "3D玄幻乙女游戏《代号：星渊引》近日开启宣发，以剧情恋爱为主要玩法，目前处于系统调优与剧情铺设阶段，预计2027年3月开启首次限量删档内测。游戏公布五位男主、男主间无感情羁绊，玩家即主角且不提供主角建模。针对社区质疑美术使用AI生成，制作组公开部分建模资源并公告称五位男主均为人工打磨、绝未使用AI生成技术。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "代号星渊引",
+        "乙女游戏"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 7,
+      "title": "Krafton Q3 revenue rises 11.6% despite decreases in PC and console segments",
+      "url": "https://www.gamesindustry.biz/krafton-q3-revenue-rises-116-despite-decreases-in-pc-and-console-segments",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-10 14:27",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Krafton第三季度营收同比增长11.6%至9714亿韩元（7.259亿美元），但营业利润下滑35.5%至2250亿韩元（1.681亿美元），公司归因于Gamescom参展等费用。PC收入降32.5%至2389亿韩元，主机降15.9%至86亿韩元，移动增长3.2%至5043亿韩元。",
+      "tags": [
+        "财报业绩"
+      ],
+      "keywords": [
+        "Krafton",
+        "PUBG",
+        "Subnautica"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 15,
+      "title": "腾讯海外休闲这盘棋：手握30多个爆款，买的不只是游戏",
+      "url": "https://news.qq.com/rain/a/20261110A0C8M800",
+      "source": "游戏新知",
+      "pub_date": "2026-11-10 10:07",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "腾讯加速布局海外休闲赛道，最新一笔为入股北京匠心互娱约27%，其关联公司《Top Tycoon》月收入超5000万元。这是今年腾讯公开披露的第三家北京出海休闲厂商，此前2月入股多多迦游（Hungry Studio）、8月投资天天玩家（Happibits）。腾讯控股的Miniclip旗下已有22家工作室，Supercell完成对Metacore剩余股份收购，本体还直投土耳其早期团队Circle Games、Flow Games。据Sensor Tower，腾讯休闲产品累计收入过亿的至少39款，4款进入10亿至100亿元俱乐部；《地铁跑酷》月活1.5亿、日活2000万。文章认为腾讯买的不只是团队和产品，更是用户数据与流量能力，Miniclip今年推出广告平台AdSurge，意在从买量方转为卖方，并为AI投入提供稳定",
+      "tags": [
+        "融资",
+        "出海",
+        "市场分析"
+      ],
+      "keywords": [
+        "腾讯",
+        "Miniclip",
+        "Supercell",
+        "休闲游戏"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 10,
+      "title": "Bandai Namco closes Reflector Entertainment, expects to post €21m loss in Q3 as a result",
+      "url": "https://www.gamesindustry.biz/bandai-namco-closes-reflector-entertainment-expects-to-post-21m-loss-in-q3-as-a-result",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-10 11:46",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "万代南梦宫宣布关闭《Unknown 9: Awakening》开发商Reflector Entertainment，将解散并清算该工作室，预计在截至2027年3月31日的财年Q3计入约2100万欧元特别损失。",
+      "tags": [
+        "裁员",
+        "关服停运"
+      ],
+      "keywords": [
+        "万代南梦宫",
+        "Reflector",
+        "Unknown 9"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 12,
+      "title": "Skydance announces layoffs to games division following $111bn merger",
+      "url": "https://www.gamesindustry.biz/skydance-announces-layoffs-to-games-division-following-111bn-merger",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-10 10:34",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Skydance在派拉蒙与华纳兄弟探索上月完成1110亿美元合并后，对游戏部门实施裁员，具体人数未披露。公司发言人称正进行业务重组与运营调整，缩减部分项目。据Kotaku与Insider Gaming报道，约30个岗位受影响，包括副设计总监David Ballard。",
+      "tags": [
+        "裁员",
+        "并购"
+      ],
+      "keywords": [
+        "Skydance",
+        "派拉蒙",
+        "华纳兄弟"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 6,
+      "title": "[Podcast] The Black Friday Playbook: How Game Publishers Can Maximize Holiday Sales",
+      "url": "https://naavik.co/podcast/the-black-friday-playbook-how-game-publishers-can-maximize-holiday-sales/",
+      "source": "Naavik Podcast",
+      "pub_date": "2026-11-10 15:24",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "Naavik播客邀请VaultN联合创始人兼COO Julian Migura，基于VaultN的发行商与商店网络数据，讲解游戏发行商如何规划黑五与假日销售窗口：折扣该打多深、在哪些渠道打、以及如何保护全年剩余时间的价格体系。节目还讨论Valve停止实体Steam礼品卡对送礼场景的影响、Amazon等市场平台为何仍不能卖PC游戏码，以及玩家下一步会在哪里买游戏。",
+      "tags": [
+        "市场分析",
+        "财报业绩"
+      ],
+      "keywords": [
+        "VaultN",
+        "黑五",
+        "Steam"
+      ],
+      "importance": 2
+    }
+  ],
+  "dropped": [],
+  "source_stats": {
+    "GameLook": {
+      "fetched": 5,
+      "selected": 5,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "Naavik Podcast": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 4,
+      "selected": 4,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏葡萄": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 3,
+      "selected": 3,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
