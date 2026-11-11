@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-10T00:51:54+00:00",
+  "updated": "2026-11-11T00:51:53+00:00",
   "days": [
+    {
+      "date": "2026-11-11",
+      "total": 16,
+      "modules": {
+        "rival": 0,
+        "industry": 6,
+        "product": 4,
+        "newgame": 1,
+        "company": 4,
+        "deep": 1,
+        "ad": 0,
+        "other": 0
+      },
+      "headlines": [
+        "网易暴雪一起笑！《魔兽世界:无限》没崩，国服和全球服创造历史新高",
+        "《影之刃零》之后中国3A谁来扛？“人永远比钱重要 ”！",
+        "腾讯海外休闲这盘棋：手握30多个爆款，买的不只是游戏",
+        "英国广告局开罚单：4家休闲SLG手游大厂中招，游戏广告“忽悠玩家”成顽疾",
+        "Krafton Q3 revenue rises 11.6% despite decreases in PC and console segments"
+      ]
+    },
     {
       "date": "2026-11-10",
       "total": 18,
