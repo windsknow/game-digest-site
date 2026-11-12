@@ -1,0 +1,401 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T00:51:26+00:00",
+  "model": "deepseek-flash",
+  "total": 15,
+  "modules": {
+    "rival": 0,
+    "industry": 5,
+    "product": 4,
+    "newgame": 1,
+    "company": 3,
+    "deep": 1,
+    "ad": 1,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 1,
+      "reason": "索尼终止《Fairgames》，服务型游戏战略再折戟，Haven团队转支援不裁员"
+    },
+    {
+      "id": 8,
+      "reason": "金铲铲月活破5000万、注册2.4亿，腾讯欲定义“策略竞技”新品类"
+    },
+    {
+      "id": 11,
+      "reason": "无畏契约端手游双端注册破亿，手游日活破千万成腾讯长青新引擎"
+    },
+    {
+      "id": 13,
+      "reason": "欧盟《数字公平法案》草案出炉，战利品箱、虚拟货币、付费获胜面临强监管"
+    },
+    {
+      "id": 12,
+      "reason": "GTA 6预购近969万份、收入9.42亿美元，创PS/Xbox商店预购纪录"
+    }
+  ],
+  "items": [
+    {
+      "id": 12,
+      "title": "GTA 6 becomes most pre-ordered game on PlayStation and Xbox storefronts",
+      "url": "https://www.gamesindustry.biz/gta-6-becomes-most-pre-ordered-game-on-playstation-and-xbox-storefronts",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-11 12:10",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "《GTA 6》成为PlayStation与Xbox商店预购量最高的游戏。Sensor Tower追踪器估算全球预购近969万份、收入9.42亿美元，一周内从约800万份、7.51亿美元大幅增长。Take-Two CEO Strauss Zelnick称预购远超原预期但维持业绩指引。",
+      "tags": [
+        "榜单数据"
+      ],
+      "keywords": [
+        "GTA 6",
+        "Take-Two",
+        "Rockstar"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 13,
+      "title": "What the Digital Fairness Act means for the games industry",
+      "url": "https://www.gamesindustry.biz/what-the-digital-fairness-act-means-for-the-games-industry",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-11 11:29",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "欧盟委员会正式提出《数字公平法案》草案，将以欧盟法规形式直接适用于所有成员国。核心条款包括：禁止暗黑模式；虚拟货币须显示真实货币价值，面向未成年人的产品默认禁用付费虚拟货币；战利品箱不得向未成年人提供，对成年人须披露概率并可关闭；禁止对未成年人设置付费推进/付费获胜机制；允许关闭登录奖励等成瘾性功能；",
+      "tags": [
+        "政策监管"
+      ],
+      "keywords": [
+        "欧盟",
+        "数字公平法案",
+        "战利品箱"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 3,
+      "title": "SLG后浪推前浪！微信小游戏畅销榜前五占4席：《造化仙府》首入Top5",
+      "url": "https://news.qq.com/rain/a/20261111A0F2E200",
+      "source": "GameLook",
+      "pub_date": "2026-11-11 15:17",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "微信小游戏畅销榜前五中SLG占4席，抖音小游戏Top5也有3款SLG。益世界《疯狂水世界》与在线途游《造化仙府》分列微信第3、第5，并包揽抖音畅销榜冠亚军。新入榜SLG多为发布不足一年的新游，老牌SLG仅《三国：冰河时代》《无尽冬日》表现稳定。《造化仙府》通过S2赛季近乎翻新式更新、新增副玩法与创作者激励，从Top100震荡回升至最高第5名。",
+      "tags": [
+        "榜单数据",
+        "小游戏"
+      ],
+      "keywords": [
+        "疯狂水世界",
+        "造化仙府",
+        "微信小游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 4,
+      "title": "“独游用了AI、就不许参加评奖”！《Big Walk》被IGF除名，AI修Bug也不行？",
+      "url": "https://news.qq.com/rain/a/20261111A0F2DY00",
+      "source": "GameLook",
+      "pub_date": "2026-11-11 15:17",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "19名IGF评委联署拒绝为使用生成式AI的作品投票，《Big Walk》开发商House House披露团队曾用大语言模型解决Unity阴影渲染性能问题，相关代码占比远低于0.1%。争议核心在于“使用AI”的界定：评委认为编程同样具有创造性，开发者则强调技术求助与生成美术应区别对待。事件引发独立游戏圈对AI使用边界、规则可执行性及小团队承受不成比例道德压力的讨论。",
+      "tags": [
+        "技术AI",
+        "展会活动"
+      ],
+      "keywords": [
+        "IGF",
+        "Big Walk",
+        "House House"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 10,
+      "title": "美团也入局AI游戏开发？开源模型的一句话，到哪一步了？",
+      "url": "https://news.qq.com/rain/a/20261111A0EPH800",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-11 13:57",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "美团发布并开源LongCat-2.5大模型（MIT协议），强化长程Agent、复杂代码开发与Visual Coding能力，演示中可生成完整Three.js 3D游戏场景与交互。月之暗面同日推出面向游戏团队的Kimi游戏开发方案，接入Godot、Blender、Unity、Unreal。大模型厂商纷纷盯上游戏研发场景，但距离进入大型游戏生产环境仍有工程质量、引擎适配等障碍。文章指出AI降低原型制作成本可能加剧市场供给过剩，而玩家注意力并未同步增长。",
+      "tags": [
+        "技术AI"
+      ],
+      "keywords": [
+        "美团",
+        "LongCat",
+        "月之暗面"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 8,
+      "title": "又一款腾讯游戏官宣5000万MAU，悄悄定义新品类？",
+      "url": "https://news.qq.com/rain/a/20261111A0EZQK00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-11 14:56",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《金铲铲之战》上线五年累计注册超2.4亿、月活突破5000万、全网话题播放量超2700亿。腾讯游戏副总裁黄凌冬称其已不能简单用“自走棋”定义，团队正尝试定义“策略竞技”新品类。游戏以每年三个完整赛季高频迭代，形成主赛季、返场、常驻三模式并行；赛事参赛人次每年超1000万，2027年将新增年度冠军赛、总奖池翻倍至1000万元；PC版将全面互通。未来三年投入10亿元建设生态。",
+      "tags": [
+        "市场分析",
+        "电竞"
+      ],
+      "keywords": [
+        "金铲铲之战",
+        "腾讯",
+        "黄凌冬"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 11,
+      "title": "今年的双十一，腾讯收获了一个“双破亿”",
+      "url": "https://news.qq.com/rain/a/20261111A0EPH200",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-11 13:57",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "腾讯28周年之际，《无畏契约》端游与手游双端注册用户均破亿。端游2023年国服上线后日活从100万增至200万，成为网吧排行榜第二；手游2026年5月日活破1000万、7月注册破亿，被腾讯称为“当年中国市场最成功的新品”。端游新玩家55%为首次接触，手游女性玩家接近50%。腾讯与拳头三年投入超10亿元建设电竞、直播、内容生态，抖音话题播放量近4000亿。",
+      "tags": [
+        "市场分析",
+        "电竞"
+      ],
+      "keywords": [
+        "无畏契约",
+        "腾讯",
+        "拳头游戏"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 2,
+      "title": "被玩家带坑里，Steam爆红独游《深空当铺》发文致歉！这是怎么了?",
+      "url": "https://news.qq.com/rain/a/20261111A0F2E400",
+      "source": "GameLook",
+      "pub_date": "2026-11-11 15:17",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《深空当铺：可能是偷的》作者Amba就文本修改与本地化沟通问题向中国玩家致歉。争议源于厨刀描述改动及网传“兄弟”称呼截图，官方一度修改文本引发社区反弹，11月9日Steam单日涌入约3000条差评，简体中文好评率降至66%、整体评价从“好评如潮”跌至“多半好评”。官方已回滚中文文本，作者承认厨刀修改系自己疏忽，将小黑盒作为主要中文沟通渠道并任命两位社区大使。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "深空当铺",
+        "Amba",
+        "Steam"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 5,
+      "title": "几乎“重做”一遍！《王者荣耀世界》S2要来一场绝地反击",
+      "url": "https://news.qq.com/rain/a/20261111A0F2DU00",
+      "source": "GameLook",
+      "pub_date": "2026-11-11 15:17",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《王者荣耀世界》S2体验服开启，距上次来信165天，项目组以近乎“重做”的力度重构底层：新手流程全面编排、双共鸣改为单共鸣与共流系统、移动端触控优化、系统减负。内容上新增李白战令角色、原创角色泉渊、姑射山主线与12人团本“剑心三问”，并推出直升、装等继承、取消体力限制等减负措施。改动在测试服伴随争议，官方称将根据反馈在正式服前打磨。",
+      "tags": [
+        "版本更新"
+      ],
+      "keywords": [
+        "王者荣耀世界",
+        "腾讯"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "研发超四年、4600万预约，腾讯魔方《异人之下》终于让我玩到了",
+      "url": "https://news.qq.com/rain/a/20261111A0CCUA00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-11 10:17",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "腾讯魔方工作室《异人之下》11月4日开启最后一次测试，定档12月上线，预约人数达4600万。游戏研发近四年，采用PvE与PvP并行、进度互不干扰的形态：剧情模式低门槛、以CG和精简叙事推进，并加入搜打撤玩法“炁局”；对战模式为3D格斗，通过普攻、蓝光技、防御反击与体力资源形成博弈循环，另有3v3连携对决和2v2通宝乱斗。角色可直接用游戏内货币购买，首周至少可获8个角色。",
+      "tags": [
+        "新品定档",
+        "新品曝光"
+      ],
+      "keywords": [
+        "异人之下",
+        "腾讯魔方",
+        "一人之下"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 1,
+      "title": "索尼刀下再添3A亡魂：研发3年射击网游《Fairgame》被砍，玩家：别造垃圾",
+      "url": "https://news.qq.com/rain/a/20261111A0F2E500",
+      "source": "GameLook",
+      "pub_date": "2026-11-11 15:17",
+      "also_seen_in": [
+        "GamesIndustry.biz"
+      ],
+      "module": "company",
+      "summary": "索尼终止Haven Studios开发的在线射击游戏《Fairgames》，项目历经三年多轮重制，近期数千人测试留存未达内部预期，叠加PVP射击赛道竞争激烈。项目取消不涉及裁员，Haven团队转为支援PlayStation其他工作室。这是索尼服务型游戏战略的又一次折戟，此前《星鸣特攻》上线两周即下架，Bungie因《命运2》《马拉松》表现不佳被减值7.65亿美元并裁员292人。",
+      "tags": [
+        "关服停运",
+        "市场分析"
+      ],
+      "keywords": [
+        "索尼",
+        "Haven Studios",
+        "Fairgames"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 9,
+      "title": "Lego Digital Play acquires ForthStar Games \"to bring Lego to the prominence it truly deserves on mobile\"",
+      "url": "https://www.gamesindustry.biz/lego-digital-play-acquires-forthstar-games-to-bring-lego-to-the-prominence-it-truly-deserves-on-mobile",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-11 14:46",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Lego Digital Play收购移动工作室ForthStar Games，金额未披露。ForthStar由Playdemic联合创始人Paul Gouge与Alex Rigby于2024年创立，团队30人，曾获Griffin Game Partners 1000万美元融资。",
+      "tags": [
+        "并购"
+      ],
+      "keywords": [
+        "Lego Digital Play",
+        "ForthStar Games",
+        "Playdemic"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 16,
+      "title": "Mobile publisher Fortis Games shuts down, up to 440 workers affected",
+      "url": "https://www.gamesindustry.biz/mobile-publisher-fortis-games-shuts-down-up-to-440-workers-affected",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-11 09:10",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "移动发行商Fortis Games宣布关闭，影响至多440名员工。联合创始人Steven Chiang称公司未能实现五年前设定的目标，主要资方Las Vegas Sands决定终止资助并解除全球合同。上周公司刚宣布《Twilight Towers》将于11月16日停运，原因是玩家留存不足。",
+      "tags": [
+        "裁员",
+        "关服停运"
+      ],
+      "keywords": [
+        "Fortis Games",
+        "Twilight Towers"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 6,
+      "title": "刀光剑影激辩，“为何3A游戏默认玩家是傻子  ”？",
+      "url": "https://news.qq.com/rain/a/20261111A0F2DR00",
+      "source": "GameLook",
+      "pub_date": "2026-11-11 15:17",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "海外开发者社区围绕《漫威金刚狼》强引导设计展开争论：3A游戏是否“把玩家当傻子”。开发者用实例说明强引导的必要性——走廊门位移1米使首日留存提升15%，玩家对弹药耗尽提示视而不见；有开发者称75%玩家为非核心玩家。文章同时指出引导过犹不及：日本开发者发现手游教程流失主因是强制等待时间过长，国内二游教程被玩家视为“硬控”。结论是存量竞争下厂商需在弱引导与强引导间权衡，玩家整体趋于浮躁、不爱动脑，小游戏增长正是这一趋势的体现。",
+      "tags": [
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "漫威金刚狼",
+        "红色沙漠",
+        "游戏引导"
+      ],
+      "importance": 3,
+      "detail": {
+        "points": [
+          {
+            "title": "3A强引导争议的由来",
+            "text": "海外开发者社区吐槽索尼《漫威金刚狼》作为线性ARPG却充斥高光线条、地图标记、语音提示等强引导，被KOL与测评博主批评为把玩家当极度愚笨的人。对比《合金装备》《半条命》《生化危机》《寂静岭》等老一代主机游戏，前期介绍基本机制后即交给玩家自由探索。这构成全文的问题起点：行业惯例认为PC主机3A应弱引导以保沉浸感，但现实产品却反向而行。"
+          },
+          {
+            "title": "留存数据支撑强引导",
+            "text": "开发者用实例反驳批评：把走廊尽头一扇门左移约1米，让玩家无需转向即可穿过，首日留存率提升15%；测试玩家打光子弹却未察觉HUD红色0与准星跳动提示，误判敌人打不死。线下试玩中小孩对闪烁按钮、亮黄色元素视而不见，超过5秒不知下一步就可能放弃。据此有开发者判断75%玩家为非核心玩家，所需引导程度远高于核心玩家认知。"
+          },
+          {
+            "title": "无引导案例不可复制",
+            "text": "反方举《我的世界》无新手教程、连基础合成公式都不披露，《魔兽世界》怀旧服回归无引导仍获好评。回应认为这是特定时代与特定游戏的产物：《我的世界》上线时YouTube等平台大量博主直播教学与攻略视频，且属破圈级沙盒游戏、社区讨论环境独特，如今开发者照搬其设计理念只会死得很惨。说明弱引导成功依赖外部信息生态，而非普遍可复用的设计范式。"
+          },
+          {
+            "title": "红色沙漠的弱引导翻车",
+            "text": "今年上半年Pearl Abyss的《红色沙漠》是活案例：上线初期因操作繁琐与弱引导，Steam好评率跌至褒贬不一。尽管官方宣传、制作组采访、媒体PR稿早已传递硬核与高度仿真中世纪模拟定位，上线后仍出现引导问题，迫使制作组连续发布多条公告与更新，优化操作、便利性与引导。证明即便目标用户预期明确，弱引导仍会直接冲击口碑与评价数据。"
+          },
+          {
+            "title": "手游弱保软与教程反噬",
+            "text": "国内手游早有共识：引导尽量详细、难度尽量调低。弱保软一词源自散爆创始人、《少女前线》制作人羽中在QQ群的名言，感觉自己在给玩家做一款弱智保姆软件，反映手游泛用户众多、须向下兼容。但曾在SE、SNK任职的日本开发者Itchie发现，新手教程流失严重并非引导不足，而是教程强迫等待时间太长、玩家无法实际操作；国内二游玩家也抱怨早期教程硬控玩家。解法是提供脱离卡死、跳过教程，并内置教程百科供自查。"
+          },
+          {
+            "title": "存量竞争下保姆化不可逆",
+            "text": "GameLook认为引导强弱两难是开发者的无奈：太弱玩家迷失，太强玩家厌烦，允许跳过还得加回看功能。根源是行业进入存量竞争，玩家需要被哄着玩，厂商须权衡相互矛盾的需求。自媒体时代信息碎片化、快节奏，玩家更浮躁难沉浸；国外数据机构统计玩家游玩动机中策略一项降低最快，即点即玩的小游戏因此快速增长。结论是未来多数厂商仍会当好保姆，这是无法逆转的大趋势。"
+          }
+        ],
+        "takeaway": "对国内厂商的启示：引导设计应以留存数据而非核心玩家口碑为准绳，用门位移提升15%首日留存这类A/B测试量化验证；同时警惕教程强制等待造成流失，标配跳过教程、脱离卡死与教程百科。竞品分析时，应把《红色沙漠》式弱引导翻车与《我的世界》式社区红利区分开，不把特例当范式；在存量与碎片化趋势下，短平快小游戏与低门槛引导是更稳的产品方向。"
+      }
+    },
+    {
+      "id": 7,
+      "title": "再赴中国主场之约，《皇室战争》一直“在场”",
+      "url": "https://news.qq.com/rain/a/20261111A0F2DM00",
+      "source": "GameLook",
+      "pub_date": "2026-11-11 15:17",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《皇室战争》全球总决赛CRL 2026落地上海，埃及选手Mohamed Light三连冠，中国选手经CRCC独立通道首次登上世界赛舞台。",
+      "tags": [
+        "电竞",
+        "展会活动"
+      ],
+      "keywords": [
+        "皇室战争",
+        "Supercell",
+        "CRL"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [],
+  "source_stats": {
+    "GameLook": {
+      "fetched": 7,
+      "selected": 6,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏葡萄": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 5,
+      "selected": 4,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
