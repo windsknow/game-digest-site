@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-11T00:51:53+00:00",
+  "updated": "2026-11-12T00:51:34+00:00",
   "days": [
+    {
+      "date": "2026-11-12",
+      "total": 15,
+      "modules": {
+        "rival": 0,
+        "industry": 5,
+        "product": 4,
+        "newgame": 1,
+        "company": 3,
+        "deep": 1,
+        "ad": 1,
+        "other": 0
+      },
+      "headlines": [
+        "索尼刀下再添3A亡魂：研发3年射击网游《Fairgame》被砍，玩家：别造垃圾",
+        "又一款腾讯游戏官宣5000万MAU，悄悄定义新品类？",
+        "今年的双十一，腾讯收获了一个“双破亿”",
+        "What the Digital Fairness Act means for the games industry",
+        "GTA 6 becomes most pre-ordered game on PlayStation and Xbox storefronts"
+      ]
+    },
     {
       "date": "2026-11-11",
       "total": 16,
