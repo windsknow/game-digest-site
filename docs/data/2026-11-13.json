@@ -1,0 +1,548 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T00:53:01+00:00",
+  "model": "deepseek-flash",
+  "total": 23,
+  "modules": {
+    "rival": 1,
+    "industry": 7,
+    "product": 5,
+    "newgame": 1,
+    "company": 6,
+    "deep": 0,
+    "ad": 3,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 26,
+      "reason": "《金铲铲之战》宣布三年再投10亿、年度冠军赛奖池1000万并公布PC版，月活破5000万，直接关系重点竞品格局"
+    },
+    {
+      "id": 13,
+      "reason": "Sensor Tower 10月出海榜：腾讯蝉联榜首，《鸣潮》收入增57%带动库洛升至第8，三七互娱年内首进前五"
+    },
+    {
+      "id": 7,
+      "reason": "欧盟DFA正式提案：虚拟货币标价、未成年人禁付费开箱、罚款达全球营收6%，将重塑手游商业化设计"
+    },
+    {
+      "id": 5,
+      "reason": "Shift Up Q3营业利润同比降58%，旗舰新作《Project Spirits》为避开《GTA6》等竞争主动延期亮相"
+    },
+    {
+      "id": 4,
+      "reason": "Switch 2《塞尔达时之笛》重制版首四天销量520万份，刷新任天堂Switch 2游戏首发纪录"
+    }
+  ],
+  "items": [
+    {
+      "id": 26,
+      "title": "在汇聚千万玩家的赛场上，我看到了策略竞技游戏赛事最好的面貌",
+      "url": "https://news.qq.com/rain/a/20261112A08ETA00",
+      "source": "触乐",
+      "pub_date": "2026-11-12 06:02",
+      "also_seen_in": [],
+      "module": "rival",
+      "summary": "《金铲铲之战》11月6日在西安发布2027电竞规划：未来三年再投10亿元，全年总奖金较2026年翻倍，年度冠军赛生态总奖池1000万元、冠军300万元；赛事体系升级为「三大一超」，并公布PC版将于新赛季上线。官方披露上线五年累计注册用户超2.4亿、月活突破5000万，过去两年赛事参赛人次均超1000万。",
+      "tags": [
+        "电竞",
+        "市场分析"
+      ],
+      "keywords": [
+        "金铲铲之战",
+        "腾讯"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 7,
+      "title": "欧洲游戏圈拉警报！DFA法案亮剑：游戏币、开箱、未保、签到全中招",
+      "url": "https://news.qq.com/rain/a/20261112A0F0SM00",
+      "source": "GameLook",
+      "pub_date": "2026-11-12 15:54",
+      "also_seen_in": [
+        "GamesIndustry.biz"
+      ],
+      "module": "industry",
+      "summary": "欧盟委员会11月12日正式通过《数字公平法案》（DFA）提案，共5章40条，将取代2005年《不公平商业行为指令》并改为可直接适用于27个成员国的条例。核心条款包括：虚拟货币须标注真实货币价值、面向未成年人的付费虚拟货币默认禁用、禁止向未成年人提供付费开箱与付费致胜机制、成年人开箱须公示概率并提供彻底关闭工具、签到/推送/自动播放等留存机制须可关闭。罚款最高达全球年营业额6%。欧洲游戏行业集体反对，VGE与EGDF称其「不可行、无依据、不成比例」，Supercell CEO称95%玩家不付费、新规将让免费游戏更少。预计2028-2029年落地。",
+      "tags": [
+        "政策监管"
+      ],
+      "keywords": [
+        "欧盟",
+        "DFA",
+        "Supercell"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 13,
+      "title": "杀疯了！10月王者iOS月收11亿，率土暴涨90%，鸣潮涨57%",
+      "url": "https://news.qq.com/rain/a/20261112A0EIDL00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-12 13:45",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Sensor Tower发布2026年10月中国手游发行商全球收入Top30：腾讯、点点互动、柠檬微趣、网易蝉联前四，三七互娱升1位至第5，库洛游戏凭《鸣潮》3.7版本收入环比增57%跃升至第8，悠星网络排名飙升14位。10月《王者荣耀》全球iOS收入1.7亿美元（约11.33亿元）居首；《三角洲行动》国服DAU突破5800万；《率土之滨》借十一周年庆App Store收入环比增90%；《蛋仔派对》联动小猪佩奇收入环比增48%；益世界《疯狂水世界》Top5市场月收入近1400万美元创新高。37家中国厂商入围全球Top100，合计吸金20亿美元，占39.7%。",
+      "tags": [
+        "榜单数据",
+        "出海"
+      ],
+      "keywords": [
+        "腾讯",
+        "点点互动",
+        "库洛游戏",
+        "三七互娱"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 2,
+      "title": "GDC State of the Game Industry report: 40% of developers are using generative AI for work",
+      "url": "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-12 17:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GDC发布最新《游戏行业现状》报告：40%开发者已在工作中使用生成式AI（同比增4%），57%用于文本生成、研究、原型与编码；55%认为AI对游戏有负面影响。33%受访者过去24个月被裁员，54%被裁者尚未找到新工作；50%转向自筹资金，发行商要求更高（愿望单、社媒关注度）。",
+      "tags": [
+        "市场分析",
+        "技术AI",
+        "裁员"
+      ],
+      "keywords": [
+        "GDC",
+        "生成式AI"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 9,
+      "title": "游戏圈钱去哪了？卖量的广告平台收入狂增55%，游戏公司深陷买量内耗",
+      "url": "https://news.qq.com/rain/a/20261112A0F0SJ00",
+      "source": "GameLook",
+      "pub_date": "2026-11-12 15:54",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "AppLovin 2026年Q3营收21.8亿美元同比增55%，净利润14.39亿美元增72%，调整后EBITDA利润率84%，超过Meta、Google；游戏类客户广告业务同比增近50%。文章指出广告平台高增长与全球手游个位数增长形成反差，买量成本挤压游戏公司利润：冰川网络Q3净利转亏1.31亿元，三七互娱、世纪华通承压。Unity关闭ironSource广告网络、押注AI广告平台Vector后Q3广告收入4.57亿美元、同比增126%，并传与沙特财团洽谈私有化。",
+      "tags": [
+        "市场分析",
+        "出海"
+      ],
+      "keywords": [
+        "AppLovin",
+        "Unity",
+        "买量"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 14,
+      "title": "AI冲击下，2026年游戏行业的“热钱”到底藏哪儿了？",
+      "url": "https://news.qq.com/rain/a/20261112A0EIDH00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-12 13:45",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "游戏陀螺编译GamesIndustry.biz在Game Republic投资峰会的圆桌：投资人建议开发者拼接Kickstarter、政府基金、天使投资等多来源资金；VC正从股权投资转向按项目收入分成（如Griffin Gaming Partners 1亿美元基金已投15个项目）；发行商一年约收2000份提案只发10款；Steam愿望单作为成功指标的公信力下降。文章引用分析师数据：Steam新作披露AI生成内容占比从2024年10.9%升至2026年30.8%，10月新品节8200款新游挤爆市场。",
+      "tags": [
+        "市场分析",
+        "技术AI"
+      ],
+      "keywords": [
+        "Steam",
+        "AI",
+        "独立游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 18,
+      "title": "游戏爆火后，离被AI抄袭只剩一星期",
+      "url": "https://news.qq.com/rain/a/20261112A0CUMB00",
+      "source": "触乐",
+      "pub_date": "2026-11-12 11:09",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "触乐报道AI抄袭独立游戏现象：失眠游戏工作室《翡翠刮刮刮》Demo发布一周后，抖音等平台出现大量AI复刻小游戏，Steam也出现高度相似待发售作品。开发者称AI可在约10分钟内解包提取模型、两小时重组Unity/Godot项目，成本仅数十美元；著作权法不保护玩法，软著申请需一个月而盗版可提前上架，维权需赴美起诉、成本高昂。10月Steam新品节7100多款游戏中超41%标注使用AI辅助开发。",
+      "tags": [
+        "技术AI",
+        "法律诉讼"
+      ],
+      "keywords": [
+        "AI抄袭",
+        "独立游戏",
+        "Steam"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 12,
+      "title": "Eve Online maker Fenris Creations is adding a rendering technique to its open-source Carbon engine that promises more accurate shading and greater depth",
+      "url": "https://www.gamesindustry.biz/eve-online-maker-fenris-creations-is-adding-a-rendering-technique-to-its-open-source-carbon-engine-that-promises-more-accurate-shading-and-greater-depth",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-12 14:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "《EVE Online》开发商Fenris Creations为其今年开源的Carbon引擎加入新渲染技术CORTAO（环形遮挡光线追踪环境光遮蔽），由图形程序员Daniel Isheden业余开发，采用屏幕空间光线追踪、每像素最多32条光线，声称同等精度下平方误差约为现有GTAO的四分之一，可更快或更省。",
+      "tags": [
+        "技术AI",
+        "硬件平台"
+      ],
+      "keywords": [
+        "Fenris Creations",
+        "EVE Online",
+        "CORTAO"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 4,
+      "title": "任天堂赢麻了！4天520万套，《塞尔达时之笛》重制版卖疯",
+      "url": "https://news.qq.com/rain/a/20261112A0F0SZ00",
+      "source": "GameLook",
+      "pub_date": "2026-11-12 15:54",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "任天堂11月11日宣布，11月5日发售的Switch 2版《塞尔达传说：时之笛》重制版全球首四天销量超520万份，日本市场81万份，刷新任天堂发行的Switch 2游戏首四天销量纪录；Metacritic媒体评分96分居年度榜首，玩家评分9.6。文章复盘重制在镜头、跳跃、水之神殿引导等现代化改动，并汇总媒体分歧：Game Informer认为忠实但缺少陌生感，RPG Site指出难度下调、未收录Master Quest。原版1998年全球销量超760万份。",
+      "tags": [
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "任天堂",
+        "塞尔达传说",
+        "Switch 2"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 6,
+      "title": "落选金摇杆年度游戏，《影之刃零》官方回应：获得第二已大超预期！",
+      "url": "https://news.qq.com/rain/a/20261112A0F0SP00",
+      "source": "GameLook",
+      "pub_date": "2026-11-12 15:54",
+      "also_seen_in": [
+        "GamesIndustry.biz"
+      ],
+      "module": "product",
+      "summary": "2026金摇杆奖11月12日揭晓，《生化危机9：安魂曲》获年度终极游戏等四项大奖，卡普空共获七奖。10月29日上线的《影之刃零》以16%得票率、1%之差获年度游戏第二名，官方回应称发售到投票截止仅40小时、成绩大超预期。游戏Steam好评率已升至95%（简中95%、英文93%），上线3天销量破400万，上线近两周同时在线仍近40万。",
+      "tags": [
+        "榜单数据",
+        "出海"
+      ],
+      "keywords": [
+        "影之刃零",
+        "金摇杆",
+        "卡普空"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 23,
+      "title": "对话在日从业者：腾讯“怪猎”手游为何在日本畅销榜登顶?",
+      "url": "https://news.qq.com/rain/a/20261112A0B4KL00",
+      "source": "触乐",
+      "pub_date": "2026-11-12 09:09",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "腾讯天美与卡普空合作的《怪物猎人：旅人》10月29日海外上线后在日本iOS游戏畅销榜登顶并维持Top5，日本占iOS收入超60%。触乐对话在日从业者分析：日本缺乏PC传统、移动端占市场73%，该作将正作体验搬上移动端填补空白；投放以X广告和涩谷、秋叶原、山手线户外广告为主，素材量不算高，靠IP号召力与抽奖活动冲榜。隐忧在于中重度玩法与日本玩家碎片化习惯的匹配、双货币与技能树复杂度，以及长线运营的更新与氪金模式。",
+      "tags": [
+        "出海",
+        "市场分析"
+      ],
+      "keywords": [
+        "怪物猎人：旅人",
+        "腾讯",
+        "卡普空"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 19,
+      "title": "在最挤的一届Steam新品节里，“最差一届”国产游戏登顶了",
+      "url": "https://news.qq.com/rain/a/20261112A0CI1G00",
+      "source": "触乐",
+      "pub_date": "2026-11-12 10:39",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "顽核社独立游戏《我带过的最差一届》10月12日上线，三天内Steam同时在线从1000多人涨至8000多，进入Steam国区销量榜前三、全球前三十；试玩Demo上线首日破万、7日破20万、新品节结束后总试玩人数突破60万。今年10月Steam新品节参与游戏超8000款，较去年10月的2900多款增长约2倍。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "我带过的最差一届",
+        "顽核社",
+        "Steam"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 25,
+      "title": "被策划TK之后，深度对话《战术小队：破晓攻势》发行制作人",
+      "url": "https://news.qq.com/rain/a/20261112A08GUH00",
+      "source": "触乐",
+      "pub_date": "2026-11-12 06:08",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "触乐在《战术小队：破晓攻势》二测「启明测试」前对话发行制作人北子：游戏坚持硬核拟真不做轻量化，二测规模3万-4万人、新老兵各半，重点验证「老带新」教官系统与战队营地等社交设计；官网注册战队已超180支。团队承认新手引导是最大难点，将用「火力侦察」暖服模式作为新人第一局，并保留命中反馈。",
+      "tags": [
+        "版本更新",
+        "电竞"
+      ],
+      "keywords": [
+        "战术小队：破晓攻势",
+        "腾讯"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 22,
+      "title": "年入43亿的保险中介公司，居然也来做AI乙游了",
+      "url": "https://news.qq.com/rain/a/20261112A0C0I600",
+      "source": "游戏新知",
+      "pub_date": "2026-11-12 10:06",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "年营收43亿元的美股保险中介元保数科跨界入局乙游，旗下AI乙女恋爱陪伴产品《星河与你》曝光并开启测试招募，主打「仿真人」高写实角色，角色、画面、动画、音乐大概率由AI参与生成，首曝PV在B站合计43万播放。首测开放3位男主部分主线，上线后固定5位男主不再新增。元保高层多为网易电商系老兵，2025年净利润13亿元、保险消费者1820万，AI团队占员工10%以上。",
+      "tags": [
+        "新品曝光",
+        "技术AI"
+      ],
+      "keywords": [
+        "元保",
+        "星河与你",
+        "AI乙游"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 5,
+      "title": "NIKKE开发商收入利润双下滑，旗舰二游《Project Spirits》决定今年不露脸",
+      "url": "https://news.qq.com/rain/a/20261112A0F0SQ00",
+      "source": "GameLook",
+      "pub_date": "2026-11-12 15:54",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Shift Up公布2026年Q3财报：营收462亿韩元同比降38.8%，营业利润207亿韩元同比降58.2%，因537亿韩元汇兑损失净亏损25.5亿韩元。《NIKKE》收入353亿韩元环比降18.4%，《剑星》收入59亿韩元。财报问答披露旗舰新作《Project Spirits》由Shift Up与腾讯关联公司永星互动共同开发、Level Infinite全球发行，原计划2026年内亮相，为避开《GTA6》《蓝色星原》《无限大》等年关竞争主动延期公布；《剑星：血雨》预告片IGN播放量破178万次。",
+      "tags": [
+        "财报业绩",
+        "新品定档"
+      ],
+      "keywords": [
+        "Shift Up",
+        "NIKKE",
+        "剑星",
+        "腾讯"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 21,
+      "title": "字节硬刚Meta？计划在几周内推出「中国版Muse」",
+      "url": "https://news.qq.com/rain/a/20261112A0C0IP00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-12 10:06",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "据彭博社11月11日报道，字节跳动计划未来几周推出类似Meta Muse的AI Agent，以扩大AI视频领域优势。张一鸣在全员会上称字节有能力与Anthropic、OpenAI竞争，但至少要到2029-2030年；并指出Seed大模型预训练数据规模比前沿对手小几个数量级，强调不能依赖蒸馏。字节优势在视频生成，Seedance系列填补OpenAI关停Sora后的空白；Seed团队约1000人，正训练参数量达10万亿的模型。",
+      "tags": [
+        "技术AI"
+      ],
+      "keywords": [
+        "字节跳动",
+        "Seed",
+        "张一鸣"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 24,
+      "title": "Fredrik Wester steps down as Paradox Interactive CEO",
+      "url": "https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-12 08:34",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Paradox Interactive宣布CEO Fredrik Wester将卸任，副CEO Mattias Lilja于2027年1月4日接任，Wester留任董事会并继续为最大股东。Wester 2009年首次出任CEO、2018年转任执行董事长、2021年回归。",
+      "tags": [
+        "人事变动",
+        "财报业绩"
+      ],
+      "keywords": [
+        "Paradox",
+        "Fredrik Wester"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 3,
+      "title": "\"It's about giving more great games a chance\" – Why Launchable thinks it can help more independent studios reach the market with its shared success model",
+      "url": "https://www.gamesindustry.biz/its-about-giving-more-great-games-a-chance-why-launchable-thinks-it-can-help-more-independent-studios-reach-the-market-with-its-shared-success-model",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-12 16:00",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "新平台Launchable以「共享成功」模式连接工作室与开发人才：开发者先提供服务、游戏上线后按收入分成，分成期为游戏产生收入的前五年，Launchable抽取少量项目收入。平台已签约Hyper Luminal、Bossa Studios等7家工作室，封闭测试将再容纳30家。",
+      "tags": [
+        "融资"
+      ],
+      "keywords": [
+        "Launchable",
+        "Greg Hall"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 15,
+      "title": "Black Forest Games spins out from THQ Nordic, co-founds indie studio group Third Signal",
+      "url": "https://www.gamesindustry.biz/black-forest-games-spins-out-from-thq-nordic-co-founds-indie-studio-group-third-signal",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-12 11:53",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "《Destroy All Humans》开发商Black Forest Games通过管理层收购从THQ Nordic独立，并联合创立独立工作室集团Third Signal，聚焦PC与主机精品游戏，将继续与THQ Nordic在开发任务上合作。",
+      "tags": [
+        "并购",
+        "人事变动"
+      ],
+      "keywords": [
+        "Black Forest Games",
+        "THQ Nordic",
+        "Third Signal"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 20,
+      "title": "Laid-off Id Software devs form employee-owned studio Hidden Horses",
+      "url": "https://www.gamesindustry.biz/laid-off-id-software-devs-form-employee-owned-studio-hidden-horses",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-12 10:17",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "受Xbox大规模裁员影响的20余名Id Software前员工组建员工持股独立工作室Hidden Horses，并在Kickstarter为单人FPS新作《Danger Pay》众筹。今年7月Id Software约136人被裁，公司称团队规模仍与开发《毁灭战士(2016)》时相当。",
+      "tags": [
+        "裁员",
+        "融资"
+      ],
+      "keywords": [
+        "Id Software",
+        "Hidden Horses",
+        "Xbox"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 8,
+      "title": "“双11”一飞冲天，米哈游怎么就杀疯了？",
+      "url": "https://news.qq.com/rain/a/20261112A0F0SL00",
+      "source": "GameLook",
+      "pub_date": "2026-11-12 15:54",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《崩坏：星穹铁道》4.7版本上线首位可玩星神阿哈，当日登顶国内iOS游戏畅销榜、总榜第二，并登顶港澳日韩畅销榜",
+      "tags": [
+        "版本更新"
+      ],
+      "keywords": [
+        "崩坏：星穹铁道",
+        "米哈游"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 16,
+      "title": "对话《影之刃零》幕后营销伙伴：不做游戏，却要懂游戏的一切",
+      "url": "https://news.qq.com/rain/a/20261112A0D03X00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-12 11:23",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《影之刃零》营销伙伴Nativex访谈：海外收入占55%，State of Play后非中国区预售翻倍",
+      "tags": [
+        "出海"
+      ],
+      "keywords": [
+        "影之刃零",
+        "Nativex"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 17,
+      "title": "游戏公司花大钱也搞不定的路子，在小红书有新招了？",
+      "url": "https://news.qq.com/rain/a/20261112A0D03O00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-12 11:23",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "小红书游戏种草案例宣传：《盛世天下》女帝篇5天销量破百万套、《伊莫》组件笔记贡献超60%激活转化",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "小红书",
+        "盛世天下",
+        "伊莫"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [
+    {
+      "id": 1,
+      "title": "GDC's Mark DeLoura addresses the event's dip in attendance in 2026 as he details the planned changes for 2027",
+      "url": "https://www.gamesindustry.biz/gdcs-mark-deloura-addresses-the-events-dip-in-attendance-in-2026-as-he-details-the-planned-changes-for-2027",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-12 17:00",
+      "reason": "GDC展会自身调整，与游戏产品/公司动态无关",
+      "by": "model"
+    }
+  ],
+  "source_stats": {
+    "GamesIndustry.biz": {
+      "fetched": 9,
+      "selected": 6,
+      "ad": 0,
+      "merged": 2,
+      "dropped": 1
+    },
+    "GameLook": {
+      "fetched": 6,
+      "selected": 5,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏葡萄": {
+      "fetched": 2,
+      "selected": 0,
+      "ad": 2,
+      "merged": 0,
+      "dropped": 0
+    },
+    "触乐": {
+      "fetched": 5,
+      "selected": 5,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
