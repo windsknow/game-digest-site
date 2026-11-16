@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-13T00:53:04+00:00",
+  "updated": "2026-11-16T00:52:23+00:00",
   "days": [
+    {
+      "date": "2026-11-16",
+      "total": 22,
+      "modules": {
+        "rival": 0,
+        "industry": 8,
+        "product": 6,
+        "newgame": 3,
+        "company": 3,
+        "deep": 1,
+        "ad": 1,
+        "other": 0
+      },
+      "headlines": [
+        "Nexon要和腾讯打造超本地化PC游戏，《OVERKILL》能当大任么？",
+        "天美又一产品官宣DAU破2000万：用10年，在海外再造一个王者",
+        "AI谈虎色变，马化腾布阵腾讯伏虎！",
+        "GDC 2026数据报告：40%开发者在用AI，34%过去两年被裁员",
+        "Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees"
+      ]
+    },
     {
       "date": "2026-11-13",
       "total": 23,
