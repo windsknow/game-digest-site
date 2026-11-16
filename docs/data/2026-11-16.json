@@ -1,0 +1,562 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T00:52:13+00:00",
+  "model": "deepseek-flash",
+  "total": 22,
+  "modules": {
+    "rival": 0,
+    "industry": 8,
+    "product": 6,
+    "newgame": 3,
+    "company": 3,
+    "deep": 1,
+    "ad": 1,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 7,
+      "reason": "Nexon与腾讯签约把《OVERKILL》做成中国超本地化PC产品，Q3 DNF收入降33%、中国PC增28.66%，关系DNF IP接力与腾讯合作升级。"
+    },
+    {
+      "id": 1,
+      "reason": "《Arena of Valor》十周年全球日活峰值破2000万，越南畅销榜Top1，是国产MOBA出海十年的关键里程碑。"
+    },
+    {
+      "id": 12,
+      "reason": "腾讯28周年内部讲话被误读为裁员50%，实际是AI全军出击：单季AI资本开支超500亿，游戏侧AI被点名表扬。"
+    },
+    {
+      "id": 8,
+      "reason": "GDC报告：40%开发者用生成式AI，34%过去两年被裁、3A公司裁员比例达68%，反映行业就业与AI采用现状。"
+    },
+    {
+      "id": 24,
+      "reason": "英伟达CEO黄仁勋因涉间谍与婚外情报道辞职，CFO临时接任，影响全球AI算力供应格局。"
+    }
+  ],
+  "items": [
+    {
+      "id": 8,
+      "title": "GDC 2026数据报告：40%开发者在用AI，34%过去两年被裁员",
+      "url": "https://news.qq.com/rain/a/20261113A0FEL400",
+      "source": "GameLook",
+      "pub_date": "2026-11-13 15:47",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GDC《游戏行业现状》报告调查69国2600余名从业者：40%开发者已在工作中使用生成式AI（同比+4%），其中57%每天使用，文本生成72%、代码生成62%最普遍；27%的3A从业者称公司鼓励或要求使用AI，独立团队仅9%；55%认为AI对行业有负面影响。就业方面，34%受访者过去24个月被裁（美国39%），约一半人称公司裁过员（3A达68%），被裁者中54%仍未就业、27%投出超100份简历；86%每周工作超40小时，8%经历强制加班，65%称心理健康受损。",
+      "tags": [
+        "技术AI",
+        "裁员",
+        "市场分析"
+      ],
+      "keywords": [
+        "GDC",
+        "生成式AI"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 5,
+      "title": "触乐本周行业大事：《虚幻》二测招募开启，《影之刃零》错失金摇杆奖大奖",
+      "url": "https://news.qq.com/rain/a/20261114A0BNBR00",
+      "source": "触乐",
+      "pub_date": "2026-11-14 08:39",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "触乐本周汇总：腾讯CDD《虚环》11月9日开启二测「满月回」招募并发第三支PV；网易《蛋仔派对》B站渠道服将于2027年1月9日停服并开放转官服；第44届金摇杆奖《影之刃零》以1%票差惜败《生化危机：安魂曲》；2026 CiGADC完整日程公开；顽核社《我带过的最差一届》Steam新品节试玩破60万、11月10日发售首日销量超10万、在线峰值35463；《索尼克PICO PARK》11月12日发售国区40元；行业人士称2026上半年国内小游戏收入增长超35%、部分品类买量成本涨超400%、素材生命周期缩至5天内；欧盟11月11日提交《数字公平法案》拟禁未成年人抽卡付费；宝通科技Q3营收10.62亿元同比增25.02%、归母净利1448.31万元同比降70.03%；北京11月6日部署网络游戏违规问题专项整治。",
+      "tags": [
+        "政策监管",
+        "榜单数据",
+        "小游戏"
+      ],
+      "keywords": [
+        "虚环",
+        "蛋仔派对",
+        "影之刃零",
+        "宝通科技"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 14,
+      "title": "CD Projekt Red used AI to alter the voice of Geralt's original Polish actor in Witcher 3: Songs of the Past",
+      "url": "https://www.gamesindustry.biz/cd-projekt-red-used-ai-to-alter-the-voice-of-geralts-original-polish-actor-in-witcher-3-songs-of-the-past",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-13 14:43",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "CD Projekt Red在《巫师3》新资料片Songs of the Past中，经本人同意用乌克兰AI公司Respeecher调整杰洛特原波兰配音Jacek Rozenek的嗓音。Rozenek 2019年中风后失语，靠每天六七小时训练恢复，但现声线比12年前低沉沙哑许多。",
+      "tags": [
+        "技术AI"
+      ],
+      "keywords": [
+        "CD Projekt Red",
+        "巫师3",
+        "Respeecher"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "The Digital Fairness Act is a decade-long bill coming due | Opinion",
+      "url": "https://www.gamesindustry.biz/the-digital-fairness-act-is-a-decade-long-bill-coming-due-opinion",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-13 13:42",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "评论文章认为欧盟《数字公平法案》草案对游戏变现的限制虽严厉但并不意外，是十余年「公地悲剧」的必然结果：自2010年代初欧洲监管机构就对面向儿童的抽卡等机制不满，比利时2018年将付费战利品箱认定为非法赌博，2023年欧洲议会呼吁统一规则。",
+      "tags": [
+        "政策监管",
+        "市场分析"
+      ],
+      "keywords": [
+        "欧盟",
+        "数字公平法案",
+        "抽卡"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 17,
+      "title": "\"It's a wild situation\" – An investor and publisher perspective on the rise of AI copycats, the discoverability crisis, and more",
+      "url": "https://www.gamesindustry.biz/its-a-wild-situation-an-investor-and-publisher-perspective-on-the-rise-of-ai-copycats-the-discoverability-crisis-and-more",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-13 12:04",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "伦敦AI and Games Conference上，Raw Fury、Spiderling Studios与Transcend Fund的从业者讨论AI：AI克隆游戏频发（如Needle in a Haystack Simulator被多次抄袭），建议「卖愿景不交蓝图」、靠真实社区与工作室信誉建立壁垒，并考虑推迟大宣发；AI导致Steam供给暴增（今年10月发售量约为去年同期两倍）而注意力不变，加剧可发现性危机，游戏媒体规模三四年缩水四分之一到三分之一；AI原生游戏是真正机会，但依赖外部LLM的游戏面临token成本侵蚀收入的问题。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "AI克隆",
+        "Steam",
+        "Transcend Fund"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 18,
+      "title": "Steam's submission and approval backlog is forcing indie devs to delay game launches",
+      "url": "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-13 12:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "多名独立开发者因Steam商店页与构建审核积压推迟发售，Rami Ismail称其新作10月20日提交、11月5日因手柄输入小问题被拒后重新排队至今无实质回复。Valve承认近几个月提交量显著增加，正扩产能，称通常3到5个工作日完成测试、目前最长需12个工作日，部分延迟源于重复审核。",
+      "tags": [
+        "硬件平台",
+        "技术AI"
+      ],
+      "keywords": [
+        "Valve",
+        "Steam",
+        "独立游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 19,
+      "title": "买量卷到跨界融合，有厂商开始在游戏里放短剧了？",
+      "url": "https://news.qq.com/rain/a/20261113A0CMPN00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-13 11:07",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "游戏陀螺分析买量素材短剧化趋势：益世界《疯狂水世界》近180天稳居微信小游戏畅销榜Top13、最高Top2，近90天投放17.01万条素材，抽样290条头部素材中「剧情逆袭·AIGC短剧」占50.3%、玩法实录仅14.8%；Sensor Tower称其10月全球收入环比增40%、升至中国4X策略手游iOS收入榜第4，益世界整体收入环比增18%。官方把自制短剧搬进游戏本体，形成「广告—短剧—游戏」内容循环。文章归纳短剧入游戏的三种模式（附加内容、融入玩法循环、短剧平台加游戏入口），并指出2026年9月《微短剧发展管理办法》施行带来合规成本新门槛。",
+      "tags": [
+        "小游戏",
+        "市场分析",
+        "技术AI"
+      ],
+      "keywords": [
+        "疯狂水世界",
+        "益世界",
+        "短剧"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 13,
+      "title": "How to protect your IP against the army of AI clones",
+      "url": "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-13 15:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Pryor Cashman律师撰文给出美国法下防范生成式AI抄袭游戏IP的实务建议：共享素材与Demo前做风险评估并要求NDA、禁止录制与将游戏资料输入LLM，配合水印与限时访问；明确员工与外包的work-for-hire及AI使用政策；在公开前完成版权登记（故意侵权法定赔偿最高15万美元并可主张律师费）；",
+      "tags": [
+        "法律诉讼",
+        "技术AI"
+      ],
+      "keywords": [
+        "AI抄袭",
+        "版权",
+        "商标"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 1,
+      "title": "天美又一产品官宣DAU破2000万：用10年，在海外再造一个王者",
+      "url": "https://news.qq.com/rain/a/20261115A0BT8N00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-15 11:59",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "天美官宣《Arena of Valor》十周年全球日活峰值突破2000万，近一个月冲上越南iOS畅销榜Top1、泰国等多地Top3。文章复盘其十年出海路径：早期针对海外机型与网络做小版本高频迭代、缩小包体、接入本地支付；以本地文化设计皮肤（泰国白象、越南奥黛）做本地化；在越南、泰国、台港澳搭建从业余到职业的电竞晋升通道，2019年成为海外电竞赛事观看时长最高手游，2025年东南亚运动会决赛峰值观众104万。十周年版本重制UI与地图、重做老英雄并推出新英雄艾薇塔，配合台北大巨蛋演唱会、曼谷嘉年华（超5万人）、河内美亭体育场决赛（超3.3万人）等线下活动带动爆发。文章还提到AoV与《王者荣耀》在双生皮肤、英雄移植、赛事颁奖上的双向联动增多。",
+      "tags": [
+        "出海",
+        "电竞",
+        "产品复盘"
+      ],
+      "keywords": [
+        "天美",
+        "Arena of Valor",
+        "王者荣耀"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 6,
+      "title": "13 万博士在线插旗，《明日方舟》舟友地图爆火！",
+      "url": "https://news.qq.com/rain/a/20261113A0FEKU00",
+      "source": "GameLook",
+      "pub_date": "2026-11-14 02:20",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "B站UP主Breeze青岚自制的《明日方舟》同人交互地图「舟友地图」全球注册玩家突破13万。玩家可在真实坐标放下标记、选择隐身或主动扩列，形成低压力陌生人社交；地图内埋有塔露拉篝火、明河都尉等游戏彩蛋。GameLook观察到国内标记高度集中在胡焕庸线以东，复刻人口分布。文章认为其爆火源于二游玩家「想找同好又怕高强度社交」的需求，并提醒玩家勿泄露精确住址。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "明日方舟",
+        "舟友地图",
+        "鹰角网络"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 11,
+      "title": "GTA6被“偷家”？Steam干到30万在线，氪金手游厂给同行上了一课",
+      "url": "https://news.qq.com/rain/a/20261113A0FEKO00",
+      "source": "GameLook",
+      "pub_date": "2026-11-13 15:47",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "俄罗斯Kefir工作室的犯罪沙盒《ROB RUN》11月4日登陆Steam抢先体验，9天下载破100万，在线峰值突破30万，跻身Steam在线榜前列。游戏单服最高5000名真人玩家、无功能性NPC，服务器7天一重置以缓解老玩家霸服。目前两万多条评测「褒贬不一」、好评率刚过五成，槽点集中在服务器DDoS与排队、优化差、内容浅、平衡粗糙。文章分析其手游厂商背景（《地球末日：生存》累计下载超8300万、收入超2亿美元）与「卖便利不卖数值」的克制商业化，并对比国内手游厂商难迈Steam门槛的立项、生态理解与变现压力等原因。",
+      "tags": [
+        "市场分析",
+        "出海"
+      ],
+      "keywords": [
+        "ROB RUN",
+        "Kefir",
+        "Steam"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 20,
+      "title": "《原神》戴唯：尊重文化原型不是纯粹考古",
+      "url": "https://news.qq.com/rain/a/20261113A0BFPV00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-13 09:38",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "2026世界互联网大会乌镇峰会期间，米哈游《原神》团队主要负责人戴唯发表演讲，谈IP全球化长线运营：IP包含内容、载体、受众三要素且都受时间影响；内容上尊重文化原型不等于放大刻板印象或纯粹考古，纳塔上线获当地玩家与媒体认可；载体上多端互通、云游戏与千星奇域开放美术资产；受众上强调跨代靠价值观，传递家园守护、正义、求知等人类共同品质。",
+      "tags": [
+        "人物访谈",
+        "出海"
+      ],
+      "keywords": [
+        "米哈游",
+        "原神",
+        "戴唯"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 21,
+      "title": "全球畅销榜TOP4，让我边骂街边上头的硬核生存游戏",
+      "url": "https://news.qq.com/rain/a/20261113A0BFPM00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-13 09:38",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "Orsoniks研发、Oro Interactive发行的洞穴生存游戏《未知伤亡》发售后最高冲到Steam全球热销榜Top4、国区第9，两天销量挤进当周全球热销榜第48，2496份评测好评率97%。游戏让玩家扮演福瑞实验体深入11层随机洞穴，无即时存档、死亡即重开；限制信息获取（黑暗、智力影响制造与辨识），十余项拟真生存数值与硬核医疗（正骨、拔玻璃、截肢、AED），核心乐趣在于用死亡换知识、把陷阱拆成资源。",
+      "tags": [
+        "产品复盘"
+      ],
+      "keywords": [
+        "未知伤亡",
+        "Oro Interactive"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 23,
+      "title": "中30万彩票辞职创业，怕被AI抄袭光速上线，他们冲上畅销Top 3",
+      "url": "https://news.qq.com/rain/a/20261113A0AR5V00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-13 09:00",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "顽核社8人团队开发的非对称派对游戏《我带过的最差一届》10月Steam新品节拿下Demo玩家数第一、累计试玩超60万，11月10日发售首日销量破10万份，一度冲上Steam国区畅销榜前三、最高同时在线超3.5万。玩法为1名老师对5名学生的课堂伪装对抗，正式版单局上限增至8人、支持自定义规则与创意工坊，并用动态调整机制平衡人数差异。负责人黄泉靠30多万元彩票奖金创业，前作《地心归途》销量超10万但未覆盖投入；团队因担心AI抄袭而抢在11月上线。",
+      "tags": [
+        "产品复盘"
+      ],
+      "keywords": [
+        "我带过的最差一届",
+        "顽核社",
+        "Steam"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 4,
+      "title": "B站《三国志：王道天下》将于12月24日公测，吴旦现身定档发布会",
+      "url": "https://news.qq.com/rain/a/20261114A0D8BC00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-14 11:46",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "B站第二款三国SLG《三国志：王道天下》11月14日在广州塔举行定档品鉴会，宣布12月24日公测，官宣段奕宏为品牌代言人，并追加终身免费月卡、首年1亿现金内容与同盟生态投入。研发方奇侠互娱投资方英雄游戏CEO吴旦到场。游戏今年3月首曝、研发投入超5亿，8个月内三次测试；采用《三国志》IP正版授权3D建模，主打不拆分战法的卡池、跨赛季保留的不重复卡池、自建武将保底与装备交易行，三测加入「誓盟」机制及「风云演武」「烽火会战」两种轻量PvP。",
+      "tags": [
+        "新品定档",
+        "IP联动"
+      ],
+      "keywords": [
+        "B站",
+        "三国志：王道天下",
+        "奇侠互娱"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 10,
+      "title": "蒋大卫谈《崩坏：因缘精灵》：跳出舒适区、不重复长板",
+      "url": "https://news.qq.com/rain/a/20261113A0FEKR00",
+      "source": "GameLook",
+      "pub_date": "2026-11-13 15:47",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "米哈游《崩坏》系列制作人蒋大卫接受海外媒体采访，介绍怪物培育新作《崩坏：因缘精灵》：团队主动绕开擅长的回合制与动作赛道，选择PVE自走棋，经约三年反复试验与超一万名玩家反馈成型；叙事上挑战在线服务游戏的分支剧情，玩家选择与角色属性会影响对话选项与剧情线；角色与「阿尼玛」共同设计、协同战斗。游戏11月25日开启第三次封闭β测试，定档2027年春季上线PC与移动端。",
+      "tags": [
+        "新品曝光",
+        "人物访谈"
+      ],
+      "keywords": [
+        "米哈游",
+        "崩坏：因缘精灵",
+        "蒋大卫"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 16,
+      "title": "《末日神枪》：英年早逝的《半衰期2》艺术总监，留下了一款类魂FPS遗作",
+      "url": "https://news.qq.com/rain/a/20261113A0DU1000",
+      "source": "触乐",
+      "pub_date": "2026-11-13 12:54",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "触乐编译frvr.com文章，介绍已故《半衰期2》《耻辱》艺术总监维克托·安东诺夫参与创办的Eschatology Entertainment开发的西部题材类魂FPS《末世神枪》。安东诺夫2022年联合创办工作室并主导美术与世界观，2025年初去世前已完成大部分设计；美术总监海琳·吉罗讲述其从西部片光影取材、坚持「万物皆是角色」与敌人设计反复迭代的过程。游戏以射击敌人弱点为核心机制，免费试玩版已上架Steam，预计2026年12月8日登陆PC、PS5、Xbox Series，团队计划开发续作。",
+      "tags": [
+        "新品曝光",
+        "人物访谈"
+      ],
+      "keywords": [
+        "末世神枪",
+        "Eschatology Entertai",
+        "维克托·安东诺夫"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 7,
+      "title": "Nexon要和腾讯打造超本地化PC游戏，《OVERKILL》能当大任么？",
+      "url": "https://news.qq.com/rain/a/20261113A0FEL200",
+      "source": "GameLook",
+      "pub_date": "2026-11-14 02:19",
+      "also_seen_in": [
+        "GamesIndustry.biz"
+      ],
+      "module": "company",
+      "summary": "11月10日Nexon宣布子公司Neople与腾讯签约，将DNF宇宙在线动作RPG《Project OVERKILL》以「超本地化」PC版本带给中国玩家，发售时间待定。该作2021年立项、历经两次方向调整，从三端3D横版改为PC/主机3D八向格斗，2024年G-STAR首次线下测试。文章结合Nexon Q3财报分析：DNF系列单季收入同比降33%，中国区收入264亿日元、DNF居PC与手游Top1但月活下滑；中国PC收入同比增28.66%、移动端降55.35%。腾讯已握六款DNF产品，双方合作从代理走向联合开发。GameLook推测游戏或2027年末至2028年上线，受版号与三款DNF新品分流影响。",
+      "tags": [
+        "出海",
+        "财报业绩",
+        "市场分析"
+      ],
+      "keywords": [
+        "Nexon",
+        "腾讯",
+        "OVERKILL",
+        "DNF"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 12,
+      "title": "AI谈虎色变，马化腾布阵腾讯伏虎！",
+      "url": "https://news.qq.com/rain/a/20261113A0FEKH00",
+      "source": "GameLook",
+      "pub_date": "2026-11-13 15:47",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "11月11日腾讯28周年Linktime日，马化腾携刘炽平等高管与员工对话，提出「50%的人像陆军守土有责、50%像海军拥抱AI探索新空间」，被社媒误读为「裁员50%」致次日股价跌2.64%，腾讯公关总监张军辟谣。文章梳理腾讯AI布局：二季度AI资本开支超500亿元同比增176%、上半年847.2亿元；芯片端蓬莱实验室与燧原等投资，模型端混元Hy4及入股多家大模型公司，应用端WorkBuddy、微信「小微」、元宝。马化腾点名表扬游戏侧AI：VISVISE、《异人之下》实时AI武术动作生成效率提升至少75%、《和平精英》AI队友累计体验用户1.1亿、最高日活1770万等。",
+      "tags": [
+        "技术AI",
+        "人事变动"
+      ],
+      "keywords": [
+        "腾讯",
+        "马化腾",
+        "混元"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 24,
+      "title": "Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees",
+      "url": "https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-13 08:12",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "英伟达联合创始人黄仁勋辞去总裁、CEO及董事职务。此前《纽约时报》报道其涉及与一名疑似中国间谍及两名员工的婚外情，黄仁勋被美国国会传唤作证，中方否认相关指控。英伟达称无理由认为国家安全或公司机密受损，正调查此事，FBI亦在调查。",
+      "tags": [
+        "人事变动",
+        "法律诉讼"
+      ],
+      "keywords": [
+        "英伟达",
+        "黄仁勋",
+        "Colette Kress"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 9,
+      "title": "小岛秀夫创业10年采访：“真正的创作、和制造商品是两码事”！",
+      "url": "https://news.qq.com/rain/a/20261113A0FEKY00",
+      "source": "GameLook",
+      "pub_date": "2026-11-13 15:47",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "小岛秀夫在工作室成立十周年纪念展期间接受专访，回顾三阶段蓝图：第一阶段《死亡搁浅》，第二阶段《死亡搁浅2》及影视动画，第三阶段《OD》《PHYSINT》与Niantic Spatial合作的AR项目，目标是模糊电影与游戏、虚拟与现实的界限。他透露疫情期间靠「Mado」远程临场系统完成《死亡搁浅2》洛杉矶片场的表演捕捉与执导；选角与合作对象必须是真心欣赏的人。谈AI时他直言「创作」与「制造商品」是两码事，真正的乐趣在亲手打磨的试错过程，效率工具可用但不应取代创作过程，并担忧未来五到十年后AI在创意领域扮演关键角色。",
+      "tags": [
+        "人物访谈",
+        "技术AI"
+      ],
+      "keywords": [
+        "小岛秀夫",
+        "小岛工作室",
+        "死亡搁浅2"
+      ],
+      "importance": 3,
+      "detail": {
+        "points": [
+          {
+            "title": "十年三阶段：从零到虚实融合",
+            "text": "小岛工作室2015年12月16日成立时“一无所有”，第一阶段以《死亡搁浅》出道，第二阶段因疫情推迟约三年，产出《死亡搁浅2：冥滩之上》并拓展动画影视，第三阶段以《OD - KNOCK》《PHYSINT》及与Niantic Spatial的AR合作为标志。这一路线图说明：独立工作室的竞争力不靠规模，而靠创始人IP驱动的长周期项目管线；疫情远程办公直接拖慢节奏，提示制作排期需为外部冲击预留缓冲。"
+          },
+          {
+            "title": "跨媒介不是副业而是IP放大器",
+            "text": "小岛强调游戏、电影、漫画、音乐、时尚在数字世界中“融为一体”，展览、快闪店、时尚联名与游戏内联动都是把玩家兴趣延伸到日常生活的入口。他自述童年通过电影接触作曲家、作家并模仿穿搭，形成“游戏内发现—现实延伸”的闭环。对竞品而言，这意味着IP价值不止于游戏销量，周边、联名、线下展是低成本高粘性的用户运营手段，但前提是作品本身具备可被延展的文化符号。"
+          },
+          {
+            "title": "展览公开粗糙资料以降低创作门槛",
+            "text": "十周年展“BEYOND THE STRAND”在东京麻布台之丘画廊举办，公开大量内部资料，部分并不精致，小岛希望参观者产生“也许我们也能做出这样的东西”的想法，鼓励年轻人进入创作。这与其“制作游戏同样有趣”的理念一致。对国内厂商的启示是：开发者品牌与幕后叙事本身可成为营销资产，尤其对核心用户，过程透明比成品包装更能建立情感连接。"
+          },
+          {
+            "title": "Mado系统解决远程表演捕捉",
+            "text": "《死亡搁浅2》制作期正值疫情，团队被要求留在东京，却需与洛杉矶摄影棚远程连线完成表演捕捉。用几十部智能手机和平板尝试失败后，小岛借用Mado双向音视频系统，东京与洛杉矶各放两台，实现“任意门”式执导并完成拍摄。案例说明：远程协作工具的价值在于还原导演对演员的实时反馈，而非简单视频会议；国内跨地团队可参考其“低技术试错—专用系统补位”的路径。"
+          },
+          {
+            "title": "情绪波峰波谷是互动节奏设计",
+            "text": "小岛以《死亡搁浅》的惊悚区域为例，指出互动游戏若持续高压玩家吃不消，因此像希区柯克一样刻意加入幽默元素，制造有规律的情绪波峰与波谷，且这不是搞笑噱头而是平衡手段。这为品类设计提供可操作原则：恐怖、紧张类体验需配置释放阀，节奏曲线应作为系统设计的一部分而非叙事附属。"
+          },
+          {
+            "title": "AI提效但创作乐趣在试错过程",
+            "text": "小岛承认AI让项目更快完成，但以画画、拼模型、拼图、乐高作比：成品相同，乐趣在拼装过程；他明确区分“创造力”与“商品”，认为对电脑下指令验收不是有趣的创作。他判断未来五到十年问题不大，但无限制发展下AI终将在创意领域扮演关键角色，接力棒交给年轻一代。对国内厂商：AI可用于管线提效与量产，但核心创意决策与试错过程仍是差异化来源，需在组织上保留作者性。"
+          },
+          {
+            "title": "普适叙事比本地化营销更有效",
+            "text": "小岛称初代《合金装备》创作时未抱畅销念头、未做市场营销，只是把想做和热爱的东西塞进游戏，结果大卖；他认为游戏核心是讲故事、编织人与人之间的戏剧冲突，因此具有普适性，能触动任何国家的人。这提示国内团队：跨文化传播的根基是情感与冲突的普适性，而非区域化包装；作者表达与商业成功并非必然对立。"
+          }
+        ],
+        "takeaway": "小岛案例对国内厂商的核心启示是：创始人作者性与长周期IP管线可形成难以复制的竞争壁垒，但需为疫情类外部冲击预留排期；跨媒介与线下展是低成本用户运营，前提是作品具备文化符号；AI应定位为管线提效工具，核心创意试错过程不可外包；叙事普适性优先于区域化营销。"
+      }
+    },
+    {
+      "id": 2,
+      "title": "收官扬州！天下武道会打出了三角洲大众赛事新生态",
+      "url": "https://news.qq.com/rain/a/20261115A0AX8A00",
+      "source": "触乐",
+      "pub_date": "2026-11-15 09:54",
+      "also_seen_in": [
+        "游戏陀螺"
+      ],
+      "module": "ad",
+      "summary": "《三角洲行动》主播昊天发起的官方授权赛事天下武道会11月13日在扬州落幕，昊天队夺冠、小向获FMVP。",
+      "tags": [
+        "电竞",
+        "展会活动"
+      ],
+      "keywords": [
+        "三角洲行动",
+        "天下武道会"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [],
+  "source_stats": {
+    "游戏葡萄": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "触乐": {
+      "fetched": 3,
+      "selected": 2,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 2,
+      "selected": 1,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 3,
+      "selected": 3,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "GameLook": {
+      "fetched": 7,
+      "selected": 7,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 7,
+      "selected": 6,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    }
+  }
+}
