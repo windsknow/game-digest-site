@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-16T00:52:23+00:00",
+  "updated": "2026-11-17T00:53:21+00:00",
   "days": [
+    {
+      "date": "2026-11-17",
+      "total": 16,
+      "modules": {
+        "rival": 0,
+        "industry": 8,
+        "product": 3,
+        "newgame": 0,
+        "company": 3,
+        "deep": 0,
+        "ad": 2,
+        "other": 0
+      },
+      "headlines": [
+        "网易《哈利波特：魔法觉醒》宣布停运，曾月流水破10亿",
+        "外媒捧杀：美国失去全球手游市场控制权，中国取而代之！",
+        "R星大成功，欧美3A大崩溃",
+        "Monster Hunter Outlanders passes $10.2 million in IAP revenue in two weeks"
+      ]
+    },
     {
       "date": "2026-11-16",
       "total": 22,
