@@ -1,0 +1,402 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T00:53:20+00:00",
+  "model": "deepseek-flash",
+  "total": 16,
+  "modules": {
+    "rival": 0,
+    "industry": 8,
+    "product": 3,
+    "newgame": 0,
+    "company": 3,
+    "deep": 0,
+    "ad": 2,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 18,
+      "reason": "网易《哈利波特：魔法觉醒》官宣2027年3月停运，首月流水超11亿元的重磅IP产品落幕。"
+    },
+    {
+      "id": 9,
+      "reason": "Sensor Tower：2026年中中国占全球Top100手游收入40%、美国仅16.5%，格局逆转。"
+    },
+    {
+      "id": 10,
+      "reason": "《GTA6》预购1213万套创纪录，但欧美3A成本失控、大卖即裁员，模式面临崩塌。"
+    },
+    {
+      "id": 1,
+      "reason": "腾讯《Monster Hunter Outlanders》两周IAP超1020万美元，日本贡献腾讯版79%收入。"
+    }
+  ],
+  "items": [
+    {
+      "id": 9,
+      "title": "外媒捧杀：美国失去全球手游市场控制权，中国取而代之！",
+      "url": "https://news.qq.com/rain/a/20261116A0ENON00",
+      "source": "GameLook",
+      "pub_date": "2026-11-16 15:37",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "彭博社撰文称美国将1210亿美元手游市场主导权输给中国。Sensor Tower数据显示，2024年初中美在全球Top100手游收入份额接近，到2026年中中国占40%、美国仅16.5%；美国Top100收入中中国厂商占18%，美国发行商从40%缩至不足30%。中国厂商在美国市场单活跃用户季度收入约47美元，近美国均值8美元的六倍。文章归因于供应链、开发速度与成本优势，并提及《王者荣耀》《原神》《恋与深空》等案例。",
+      "tags": [
+        "出海",
+        "市场分析",
+        "榜单数据"
+      ],
+      "keywords": [
+        "Sensor Tower",
+        "腾讯",
+        "米哈游",
+        "王者荣耀"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 10,
+      "title": "R星大成功，欧美3A大崩溃",
+      "url": "https://news.qq.com/rain/a/20261116A0ENOL00",
+      "source": "GameLook",
+      "pub_date": "2026-11-16 15:37",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GameLook分析认为《GTA6》将创纪录（Sensor Tower称预购已达1213万套，超《赛博朋克2077》800万套纪录），但欧美3A模式正由内向外崩塌：研发成本膨胀上百倍、标准售价难涨、大卖即裁员（育碧巴塞罗那裁51人、新加坡裁70人，EA《战地6》团队裁员）。文章指出2A与独立游戏崛起（2026年首月销量超50万份新游中独立游戏占43%），中国成为全球PC与全平台收入增长最大单一市场（占2025年全球增长32%），《影之刃零》海外5天卖200万份。",
+      "tags": [
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "GTA6",
+        "R星",
+        "育碧",
+        "影之刃零"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 4,
+      "title": "米哈游重拳打击盗版周边：涉案商品价值超4000万元！",
+      "url": "https://news.qq.com/rain/a/20261116A0ENOT00",
+      "source": "GameLook",
+      "pub_date": "2026-11-16 15:37",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "米哈游法务部公布打击盗版周边专项行动阶段成果：涉案商品覆盖手办、卡牌、盲盒等十余种，累计涉案金额超4000万元。刑事端查扣两个仓库盗版周边3万多件、近10名嫌疑人被采取强制措施，多起案件判实刑；行政端查处盗版卡牌与直播售假；民事端判令公司及股东连带赔偿110万元、主播赔偿8万元，形成刑事、行政、民事全链条追责。",
+      "tags": [
+        "法律诉讼"
+      ],
+      "keywords": [
+        "米哈游",
+        "原神",
+        "崩坏：星穹铁道"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 12,
+      "title": "\"Gamers don't hate ads; they hate bad ads\" – Why EA and Xbox are putting adverts in their games",
+      "url": "https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-16 13:30",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GamesIndustry.biz探讨EA与Xbox在PC/主机游戏中加广告：EA推出EA Advertising平台，Xbox测试带广告的免费云串流。Ampere估计2025年仅手游内广告市场280亿美元、2031年达440亿美元；",
+      "tags": [
+        "市场分析",
+        "硬件平台"
+      ],
+      "keywords": [
+        "EA",
+        "Xbox",
+        "Ampere Analysis"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 2,
+      "title": "Shigeru Miyamoto to receive inaugural Legend Award at the 30th DICE Awards",
+      "url": "https://www.gamesindustry.biz/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-dice-awards",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-16 18:37",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "任天堂宫本茂将成为美国互动艺术与科学学院（AIAS）新设Legend Award首位得主，于2027年2月18日第30届DICE Awards颁奖，该奖每十年最多颁发一次。宫本茂1977年加入任天堂，创作《大金刚》《超级马里奥》《塞尔达传说》等，上月刚成为首位获日本文化勋章的开发者。",
+      "tags": [
+        "展会活动",
+        "人物访谈"
+      ],
+      "keywords": [
+        "任天堂",
+        "宫本茂",
+        "DICE Awards"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 5,
+      "title": "独游开发者吐槽：“发行商想要55%收入，还不保证营销费” ，同行：来收租呢？",
+      "url": "https://news.qq.com/rain/a/20261116A0ENOS00",
+      "source": "GameLook",
+      "pub_date": "2026-11-16 15:37",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "芬兰五人学生团队《PINBOMB》开发者发帖称收到发行商报价：开发者45%、发行商55%，且不保证最低营销支出，引发海外社区热议。网友普遍认为无预付资金、无营销保障的高分成形同收租，标准应为开发者65%/发行商35%。文章借此讨论独立发行合同中的最低推广支出、审计权、适用地区等条款，并对比中国安卓渠道约52.5%抽成。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "PINBOMB",
+        "独立游戏",
+        "发行分成"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 6,
+      "title": "开发者急求助：“封了作弊玩家、遭刷Steam差评，这可咋办？” 网友热烈支招",
+      "url": "https://news.qq.com/rain/a/20261116A0ENOR00",
+      "source": "GameLook",
+      "pub_date": "2026-11-16 15:37",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "一位9月28日上线免费放置MMORPG的独立开发者求助：封禁脚本刷榜玩家后遭Steam恶意差评报复，新游仅48条评价、近期7条中4条来自被封者，好评率被拉低约10%。社区建议影子封禁、服务端校验、使用Steam官方封禁API（被封账号评测不计分）、稀释差评与社区沟通，并反思全局排行榜设计。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "Steam",
+        "独立游戏",
+        "反作弊"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 13,
+      "title": "Unity launches $50,000 grant for indie developers with no equity or repayment",
+      "url": "https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-16 13:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Unity推出Unity Fellowship计划，向计划12个月内发售游戏的独立开发者提供5万美元资助，无股权、无需偿还，选出10家工作室，2027年3月GDC公布，并提供Unity对接人、专家指导、发行商引荐与营销支持。",
+      "tags": [
+        "融资"
+      ],
+      "keywords": [
+        "Unity",
+        "独立游戏"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 18,
+      "title": "网易《哈利波特：魔法觉醒》宣布停运，曾月流水破10亿",
+      "url": "https://news.qq.com/rain/a/20261116A0A9K900",
+      "source": "游戏新知",
+      "pub_date": "2026-11-16 08:54",
+      "also_seen_in": [
+        "游戏葡萄"
+      ],
+      "module": "product",
+      "summary": "网易《哈利波特：魔法觉醒》因授权协议到期，将于2027年3月3日停运，2026年12月21日停止充值与新用户注册。该作2021年9月上线，首月流水超11亿元（伽马数据），曾连续一周霸榜iOS畅销榜，但上线两年后明显下滑，近一年仅更新日能回畅销榜TOP200。",
+      "tags": [
+        "关服停运",
+        "IP联动"
+      ],
+      "keywords": [
+        "网易",
+        "哈利波特：魔法觉醒",
+        "伽马数据"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 1,
+      "title": "Monster Hunter Outlanders passes $10.2 million in IAP revenue in two weeks",
+      "url": "https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-million-in-iap-revenue-in-two-weeks",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-16 20:05",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "腾讯Level Infinite与Garena发行的《Monster Hunter Outlanders》上线两周IAP收入超1020万美元、下载510万。腾讯版贡献730万美元（日本占79%），Garena版下载更多但收入仅290万美元。",
+      "tags": [
+        "出海",
+        "榜单数据"
+      ],
+      "keywords": [
+        "腾讯",
+        "Monster Hunter Outla",
+        "卡普空",
+        "AppMagic"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 7,
+      "title": "对话《ARC Raiders》制作人：研发无设计文档，爆红后玩家分化屡陷危机",
+      "url": "https://news.qq.com/rain/a/20261116A0ENOP00",
+      "source": "GameLook",
+      "pub_date": "2026-11-16 15:37",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "Embark CEO与《ARC Raiders》执行制作人接受专访，复盘爆红后内容产能告急、外挂冲击与玩家下滑：上线半年销量破1600万份，首日留存约80%，团队反直觉叫停月更、拉下手刹，上月大型更新《Frozen Trail》成功召回玩家。纯PvE测试中近50%对局发生在PvE服务器，部分玩家体验后改变主意。团队坚持不写设计文档，AI仅用于生产力与敌人智能，拒绝盲目扩张，腾讯代理国服《弧光猎人》已二测。",
+      "tags": [
+        "产品复盘",
+        "人物访谈",
+        "技术AI"
+      ],
+      "keywords": [
+        "Embark",
+        "ARC Raiders",
+        "Nexon",
+        "腾讯"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 3,
+      "title": "Coffee Stain acquires Chronicles: Medieval IP from bankrupt Raw Power Games",
+      "url": "https://www.gamesindustry.biz/coffee-stain-acquires-chronicles-medieval-ip-from-bankrupt-raw-power-games",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-16 17:56",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Coffee Stain Group以约550万美元现金收购破产的Raw Power Games旗下《Chronicles: Medieval》IP及相关资产，新公司将由Coffee Stain持股75%、原开发团队核心成员持股25%，并继续出资开发。",
+      "tags": [
+        "并购"
+      ],
+      "keywords": [
+        "Coffee Stain",
+        "Raw Power Games",
+        "Chronicles: Medieval"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 14,
+      "title": "上海游戏大厂将AI实验室并入技术中台，买量战场转向AI漫剧？",
+      "url": "https://news.qq.com/rain/a/20261116A0BY4000",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-16 10:08",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "巨人网络11月16日官宣将AI实验室团队与技术能力整合进公司技术中台，AI从实验室项目转为内容生产线，发行端批量生成买量素材并探索AI漫剧。世纪华通、益世界、三七互娱、恺英网络等已将AI漫剧作为投放试验方向：益世界《疯狂水世界》90天素材17万条、头部素材中AIGC短剧占50.3%；《无尽冬日》衍生漫剧最高热度5109万。2026上半年国内买量消耗142.7亿元、同比增11.3%，获客成本约28.7元。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "巨人网络",
+        "益世界",
+        "世纪华通",
+        "AI漫剧"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 17,
+      "title": "阿里樊路远辞任，曾执掌灵犀互娱，传将离职创业",
+      "url": "https://news.qq.com/rain/a/20261116A0BL1400",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-16 09:38",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "大麦娱乐公告樊路远因发展个人事业辞任执行董事、董事会主席及CEO，即日生效；传其将离开虎鲸文娱自主创业。樊2024年起分管灵犀互娱，2025年8月汇报对象改为阿里CFO徐宏。此前阿里已将灵犀互娱全部股权出售给中信资本旗下信宸资本。",
+      "tags": [
+        "人事变动"
+      ],
+      "keywords": [
+        "阿里",
+        "灵犀互娱",
+        "樊路远",
+        "大麦娱乐"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 8,
+      "title": "B站要让老盟友再开一次荒？《三国志：王道天下》定档12月24日",
+      "url": "https://news.qq.com/rain/a/20261116A0ENOO00",
+      "source": "GameLook",
+      "pub_date": "2026-11-16 15:37",
+      "also_seen_in": [
+        "触乐"
+      ],
+      "module": "ad",
+      "summary": "B站《三国志：王道天下》定档12月24日全平台公测，段奕宏代言，首年投1亿元扶持内容与同盟。",
+      "tags": [
+        "新品定档"
+      ],
+      "keywords": [
+        "B站",
+        "三国志：王道天下"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 15,
+      "title": "第一批互动短剧开始“抢钱”，一站式AI 互动影游创作平台入局",
+      "url": "https://news.qq.com/rain/a/20261116A0BY3K00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-16 10:08",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "智令互动上线Ctrl Video AI互动影游制作平台，主打AI创作、互动编排与发行一站式。",
+      "tags": [
+        "技术AI"
+      ],
+      "keywords": [
+        "智令互动",
+        "Ctrl Video AI"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [],
+  "source_stats": {
+    "GamesIndustry.biz": {
+      "fetched": 5,
+      "selected": 5,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "GameLook": {
+      "fetched": 7,
+      "selected": 6,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "触乐": {
+      "fetched": 1,
+      "selected": 0,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 2,
+      "selected": 1,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏葡萄": {
+      "fetched": 2,
+      "selected": 1,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
