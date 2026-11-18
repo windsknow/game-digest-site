@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-17T00:53:21+00:00",
+  "updated": "2026-11-18T00:51:57+00:00",
   "days": [
+    {
+      "date": "2026-11-18",
+      "total": 19,
+      "modules": {
+        "rival": 0,
+        "industry": 10,
+        "product": 2,
+        "newgame": 1,
+        "company": 3,
+        "deep": 1,
+        "ad": 2,
+        "other": 0
+      },
+      "headlines": [
+        "Report: Civilization dev Firaxis lays off a third of its staff",
+        "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition",
+        "10月中国游戏市场收入300亿元同比减少4.27%：手游下滑2.2%，PC下滑15%",
+        "Newzoo: GTA 6 pre-orders are archetypal console players but overwhelmingly male; game will \"grow the market rather than simply redistribute it\""
+      ]
+    },
     {
       "date": "2026-11-17",
       "total": 16,
