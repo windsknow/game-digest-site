@@ -1,0 +1,469 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T00:51:55+00:00",
+  "model": "deepseek-flash",
+  "total": 19,
+  "modules": {
+    "rival": 0,
+    "industry": 10,
+    "product": 2,
+    "newgame": 1,
+    "company": 3,
+    "deep": 1,
+    "ad": 2,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 1,
+      "reason": "《文明》《XCOM》开发商 Firaxis 裁员三分之一共60人、工作室负责人离职，在研新XCOM受挫，头部策略工作室重大收缩。"
+    },
+    {
+      "id": 22,
+      "reason": "Sensor Tower 估算 GTA6 预购已超14亿美元、87%为终极版，Netflix 预告后单日预购飙至1630万美元，创主机商店纪录。"
+    },
+    {
+      "id": 4,
+      "reason": "伽马数据：10月中国游戏市场300.19亿元同比降4.27%，端游大跌15.36%，出海18.95亿美元环比增9.58%成唯一增长点。"
+    },
+    {
+      "id": 18,
+      "reason": "Newzoo：GTA6 预购者女性不足15%、16%为流失玩家，判断其将做大而非重分市场，全球潜力待PC版。"
+    }
+  ],
+  "items": [
+    {
+      "id": 4,
+      "title": "10月中国游戏市场收入300亿元同比减少4.27%：手游下滑2.2%，PC下滑15%",
+      "url": "https://news.qq.com/rain/a/20261117A0EGA000",
+      "source": "GameLook",
+      "pub_date": "2026-11-17 15:55",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "伽马数据：2026年10月中国游戏市场实际销售收入300.19亿元，环比增0.75%、同比降4.27%。手游221.36亿元同比降2.2%，端游61.17亿元同比降15.36%创近5个月新低。出海收入18.95亿美元，环比增9.58%、同比增5.36%，成主要增长点。手游流水前十中射击类占三席，《蛋仔派对》靠密集联动新晋。",
+      "tags": [
+        "榜单数据",
+        "出海",
+        "市场分析"
+      ],
+      "keywords": [
+        "伽马数据",
+        "王者荣耀",
+        "蛋仔派对"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 18,
+      "title": "Newzoo: GTA 6 pre-orders are archetypal console players but overwhelmingly male; game will \"grow the market rather than simply redistribute it\"",
+      "url": "https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-are-archetypal-console-players-but-overwhelmingly-male-game-will-grow-the-market-rather-than-simply-redistribute-it",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-17 07:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Newzoo 独家数据：GTA6 预购者以高消费主机玩家为主，56%在35岁以下，但女性占比不足15%，低于整体3A买家的27%。16%预购者过去12个月未购买全价游戏，显示唤回流失玩家。",
+      "tags": [
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "GTA6",
+        "Newzoo"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 22,
+      "title": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition",
+      "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-17 01:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Sensor Tower 估算《GTA6》预购收入已超14亿美元，其中87%为终极版。8月多数时间日预购收入240万-380万美元，Netflix 8月27日播出加长预告后次日飙升至1630万美元、增长六倍，成为 PlayStation 与 Xbox 商店预购量最高游戏。",
+      "tags": [
+        "榜单数据"
+      ],
+      "keywords": [
+        "GTA6",
+        "Sensor Tower"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 2,
+      "title": "Meet the company that finds Chinese game developers to work on Western IP",
+      "url": "https://www.gamesindustry.biz/meet-the-company-that-finds-chinese-game-developers-to-work-on-western-ip",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-17 16:24",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Yodo1 与 AMC 达成数字授权合作，将《行尸走肉》《夜访吸血鬼》等IP引入中国开发商。联合CEO Henry Fong 称中国团队在长线运营与商业化上经验丰富，援引 Sensor Tower 数据：2025年12月全球收入百强手游发行商中33家为中国公司，合计占约34.6%收入；",
+      "tags": [
+        "出海",
+        "IP联动"
+      ],
+      "keywords": [
+        "Yodo1",
+        "AMC",
+        "行尸走肉"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 3,
+      "title": "UK tribunal dismisses £2bn PlayStation class-action suit which alleged unfair pricing over 30% cut on PlayStation Store",
+      "url": "https://www.gamesindustry.biz/uk-tribunal-dismisses-2bn-playstation-class-action-suit-which-alleged-unfair-pricing-over-30-cut-on-playstation-store",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-17 16:17",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "英国竞争上诉法庭驳回针对索尼的20亿英镑集体诉讼，该案指控 PlayStation Store 30%抽成导致数字游戏价格虚高、覆盖1220万用户。法庭认为消费者有实体版和竞品主机等替代选择，且索尼生态并非开放平台，改造成本高。此前类似针对苹果 App Store 的诉讼在2025年胜诉。",
+      "tags": [
+        "法律诉讼"
+      ],
+      "keywords": [
+        "索尼",
+        "PlayStation"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 8,
+      "title": "无视反对！Epic“AI游戏大赛”获AI大佬集体力挺：1万人4天速成3000个游戏",
+      "url": "https://news.qq.com/rain/a/20261117A0EG9900",
+      "source": "GameLook",
+      "pub_date": "2026-11-17 15:55",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Epic 举办 AI 主题 MegaJam 2026，总奖金6.5万美元，报名超1万人、4天内提交3000余款作品，Anthropic、OpenAI、Google、英伟达等二十多家AI企业合作。在 itch.io 清理AI内容、IGF评委拒投AI作品的抵制氛围下，Epic 将强制用AI改为欢迎使用。文章指出AI未让开发变轻松，反而推高产能与竞争强度。",
+      "tags": [
+        "技术AI",
+        "展会活动"
+      ],
+      "keywords": [
+        "Epic",
+        "AI MegaJam",
+        "Tim Sweeney"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 9,
+      "title": "Roblox launches creator program for devs to bring games to its platform for free",
+      "url": "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-17 15:07",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Roblox 推出创作者计划，免费将 Unity、Unreal 等引擎的现有游戏转换到 Roblox 平台，首批限少量开发者与游戏，覆盖移动、PC、主机。开发者保留游戏与IP所有权，代码资产不用于训练AI模型。此前9月推出 Everywhere 计划，并宣布2027年中前支持离线单人游玩。",
+      "tags": [
+        "技术AI",
+        "硬件平台"
+      ],
+      "keywords": [
+        "Roblox"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "Xbox's Project Helix \"is not a PC that can also play console games\"",
+      "url": "https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-also-play-console-games",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-17 11:44",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Xbox 次世代负责人 Jason Ronald 澄清 Project Helix 是「能玩PC游戏的主机，而非能玩主机游戏的PC」，主打易用与深度可定制。该机将采用神经渲染以应对元器件涨价，预计2028年假日季发售，售价约1200-1800美元。",
+      "tags": [
+        "硬件平台"
+      ],
+      "keywords": [
+        "Xbox",
+        "Project Helix"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 5,
+      "title": "8款人气二游“角色性别比”大盘点：原神崩铁均衡，鸣潮女角色更多",
+      "url": "https://news.qq.com/rain/a/20261117A0EG9S00",
+      "source": "GameLook",
+      "pub_date": "2026-11-17 15:55",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GameLook 盘点8款热门二游角色性别比：合计458名角色中女性340名占约74%。《原神》最均衡（女65%），《鸣潮》女角色44对男11，《绝区零》女占79%，《魔御：Stardive》最极端（29女3男）。文章结合日本玩家调查指出角色性别比并不直接决定玩家性别构成，题材与美术风格影响更大。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "原神",
+        "鸣潮",
+        "绝区零"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 10,
+      "title": "Tanuki: Pon's Summer is hoping to be a \"lovely little underdog\" between Ocarina of Time and GTA 6",
+      "url": "https://www.gamesindustry.biz/tanuki-pons-summer-is-hoping-to-be-a-lovely-little-underdog-between-ocarina-of-time-and-gta-6",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-17 15:01",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "京都三人工作室 Denkiworks 的《Tanuki: Pon's Summer》在《时之笛》重制与《GTA6》夹缝中发售，制作人 Liam Edwards 称有意定位为「可爱的小黑马」，靠口碑长尾。",
+      "tags": [
+        "人物访谈"
+      ],
+      "keywords": [
+        "Denkiworks",
+        "Tanuki: Pon's Summer"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 7,
+      "title": "《艾希：续》众筹4280万元后，开人工退款：制作人很天真、竟想“劝退”玩家",
+      "url": "https://news.qq.com/rain/a/20261117A0EG9J00",
+      "source": "GameLook",
+      "pub_date": "2026-11-17 15:55",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《艾希：续》摩点众筹46天收官，筹得4280.77万元、25.97万人参与，达成率428076%，刷新摩点游戏类金额与人数纪录并登顶全平台。制作人老马在收官后主动开启人工退款通道至11月23日，并明确游戏仍为48元小团队独立游戏、定档2027年5月1日Steam发售，多余资金用于CG、音乐与META内容。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "艾希：续",
+        "摩点"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 20,
+      "title": "劫走360万玩家，这家公司又蹭到了《GTA》的热度了",
+      "url": "https://news.qq.com/rain/a/20261117A0803O00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-17 06:23",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "Kefir 于11月5日在 Steam 开启犯罪沙盒《ROB RUN》抢先测试，借《GTA6》热度免费吸量：SteamDB 显示同时在线峰值超50万、热玩榜第3，Gamalytic 显示累计下载超360万。游戏以警匪「猫鼠游戏」式搜打撤为核心，目前评价褒贬不一、简中多半差评，问题集中在机制不平衡与外挂。这是 Kefir 端游首秀，此前《Sunday City》已靠 GTA 风格包装成为旗下收入最高手游。",
+      "tags": [
+        "市场分析",
+        "出海"
+      ],
+      "keywords": [
+        "Kefir",
+        "ROB RUN",
+        "GTA6"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 19,
+      "title": "网易在研项目曝光，是一款Friendslop游戏",
+      "url": "https://news.qq.com/rain/a/20261117A0803U00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-17 06:23",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "网易社招信息显示一款在研 Friendslop 项目正招募系统策划、服务端工程师，使用 Unity3D，要求深度理解《R.E.P.O》《Peak》《How to Fish》等，关键词含大DAU、高承载、社交，推测为社交核心的在线多人游戏。该赛道已出多个爆款：《R.E.P.O》销量超2230万、《Peak》超2060万、《致命公司》超1667万、《How to Fish》超960万。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "网易",
+        "Friendslop"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 1,
+      "title": "Report: Civilization dev Firaxis lays off a third of its staff",
+      "url": "https://www.gamesindustry.biz/report-civilization-dev-firaxis-lays-off-a-third-of-its-staff-following-development-difficulties-with-xcom-sequel",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-17 17:33",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "《文明》《XCOM》开发商 Firaxis 裁员约三分之一共60人，工作室负责人 Heather Hazen 离职，官方称将围绕核心策略游戏重组。据报在研新《XCOM》项目夏季错过重要里程碑，裁员后可能面临调整。母公司 Take-Two 净收入同比下滑16%，但《GTA6》预购远超预期。",
+      "tags": [
+        "裁员",
+        "人事变动"
+      ],
+      "keywords": [
+        "Firaxis",
+        "Take-Two",
+        "XCOM",
+        "文明"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 16,
+      "title": "Unity acquires 3D asset creator Synty Studios; artist-created content to be integrated into AI game-creation platform Unity Spark",
+      "url": "https://www.gamesindustry.biz/unity-acquires-3d-asset-creator-synty-studios-artist-created-content-to-be-integrated-into-ai-game-creation-platform-unity-spark",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-17 09:53",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Unity 在 Unite Tokyo 宣布收购新西兰3D资产商 Synty Studios，其美术资产将整合进AI游戏创作平台 Unity Spark（今年晚些时候在 Google Playground 封闭测试）。",
+      "tags": [
+        "并购",
+        "技术AI"
+      ],
+      "keywords": [
+        "Unity",
+        "Synty Studios",
+        "Unity Spark"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 17,
+      "title": "Lisbon-based Studio Bravarda closes down after failing to recoup dev costs on its most recent title, Extremely Powerful Capybaras",
+      "url": "https://www.gamesindustry.biz/lisbon-based-studio-bravarda-closes-down-after-failing-to-recoup-dev-costs-on-its-most-recent-title-extremely-powerful-capybaras",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-17 08:55",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "里斯本独立工作室 Studio Bravarda 宣布关闭，其第二款作品《Extremely Powerful Capybaras》三年未能收回开发成本，首发时尤其中国区联机稳定性不足。团队从 Unity 转向 Godot 的新项目未能获得融资，靠外包维生难以为继。",
+      "tags": [
+        "关服停运"
+      ],
+      "keywords": [
+        "Studio Bravarda",
+        "Extremely Powerful C"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 12,
+      "title": "[Podcast] How AI-Powered Playable Worlds Are Reinventing Storytelling",
+      "url": "https://naavik.co/podcast/how-ai-powered-playable-worlds-are-reinventing-storytelling/",
+      "source": "Naavik Podcast",
+      "pub_date": "2026-11-17 14:16",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "Naavik 播客邀请 Goodwater Capital 合伙人 Jin Oh 讨论 AI 驱动的「可玩世界」：AI 角色扮演正从聊天机器人演化为持久互动世界，能带来异常高的参与度，以AI替代传统人类地下城主改变叙事方式。尽管创作成本下降，最强的世界仍主要由人类创作。节目还探讨低成本世界构建对创作者的影响、商业化与安全隐忧，以及韩国、日本为何领先，并判断该品类未来数年对游戏工作室、创作者与大型IP持有者的机会。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "Naavik",
+        "Goodwater Capital",
+        "WRTN"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 13,
+      "title": "DAU破1000万，一款种地小游戏，凭什么让玩家一天打开七八次",
+      "url": "https://news.qq.com/rain/a/20261117A0CKFN00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-17 12:24",
+      "also_seen_in": [
+        "游戏葡萄"
+      ],
+      "module": "ad",
+      "summary": "《QQ经典农场》上线牧场玩法年度版本，DAU突破1000万。",
+      "tags": [
+        "版本更新"
+      ],
+      "keywords": [
+        "QQ经典农场",
+        "腾讯"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 21,
+      "title": "新门派万花！《剑侠世界 4：无限》“万花惊鸿”资料片今日公测",
+      "url": "https://news.qq.com/rain/a/20261117A067WW00",
+      "source": "触乐",
+      "pub_date": "2026-11-17 04:14",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《剑侠世界4：无限》「万花惊鸿」资料片今日公测，新门派万花、万人大服与20万现金奖池同步上线。",
+      "tags": [
+        "版本更新"
+      ],
+      "keywords": [
+        "剑侠世界4：无限",
+        "西山居"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [
+    {
+      "id": 6,
+      "title": "欧洲游戏业工会发布“联合宣言”：全面抵制AI做游戏，社区炸了",
+      "url": "https://news.qq.com/rain/a/20261117A0EG9O00",
+      "source": "GameLook",
+      "pub_date": "2026-11-17 15:55",
+      "reason": "劳资/工会",
+      "by": "rule"
+    },
+    {
+      "id": 11,
+      "title": "IWGB Game Workers Union leads manifesto on generative AI use in the industry",
+      "url": "https://www.gamesindustry.biz/iwgb-game-workers-union-leads-manifesto-on-generative-ai-use-in-the-industry",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-17 14:28",
+      "reason": "劳资/工会",
+      "by": "rule"
+    }
+  ],
+  "source_stats": {
+    "GamesIndustry.biz": {
+      "fetched": 11,
+      "selected": 10,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 1
+    },
+    "GameLook": {
+      "fetched": 5,
+      "selected": 4,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 1
+    },
+    "Naavik Podcast": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 1,
+      "selected": 0,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏葡萄": {
+      "fetched": 1,
+      "selected": 0,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "触乐": {
+      "fetched": 1,
+      "selected": 0,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
