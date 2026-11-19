@@ -1,0 +1,442 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T00:52:12+00:00",
+  "model": "deepseek-flash",
+  "total": 16,
+  "modules": {
+    "rival": 0,
+    "industry": 6,
+    "product": 5,
+    "newgame": 0,
+    "company": 3,
+    "deep": 1,
+    "ad": 1,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 10,
+      "reason": "腾讯Q3游戏收入665亿元，三角洲与无畏契约手游DAU创新高，高管宣布AI驱动组织变革"
+    },
+    {
+      "id": 5,
+      "reason": "《文明》开发商Firaxis裁员三分之一、工作室总裁被开，文明7口碑与XCOM新作受阻是导火索"
+    },
+    {
+      "id": 7,
+      "reason": "网易《哈利波特：魔法觉醒》官宣2027年3月停服，IP授权到期暴露授权手游结构性困境"
+    },
+    {
+      "id": 9,
+      "reason": "TGA提名：《GTA6》未上线获8项领跑，《影之刃零》5项创国产纪录，最佳手游4/5为中国游戏"
+    },
+    {
+      "id": 17,
+      "reason": "Q3全球主机出货同比降36.5%至640万台，Switch 2与PS5双双大幅下滑，涨价压制需求"
+    }
+  ],
+  "items": [
+    {
+      "id": 8,
+      "title": "鹰角《终末地》加冕Google Play年度游戏！《异环》米哈游三七点点获奖",
+      "url": "https://news.qq.com/rain/a/20261118A0ID7S00",
+      "source": "GameLook",
+      "pub_date": "2026-11-18 15:58",
+      "also_seen_in": [
+        "GamesIndustry.biz"
+      ],
+      "module": "industry",
+      "summary": "Google Play公布2026年度游戏榜：《明日方舟：终末地》拿下大中华区与美国区年度最佳游戏（开服两周流水破12亿、PC占比60%），《异环》获多市场最佳跨设备游戏，《绝区零》获最佳持续影响力游戏，日本区由《Hololive Dreams》夺冠、韩国区为Nexon《MapleStory: Idle RPG》。文章整理了各主要市场完整获奖名单。",
+      "tags": [
+        "榜单数据",
+        "出海"
+      ],
+      "keywords": [
+        "明日方舟终末地",
+        "异环",
+        "Google Play"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 9,
+      "title": "TGA公布提名:《GTA 6》领跑《影之刃零》获五项提名，手游中国游戏包场",
+      "url": "https://news.qq.com/rain/a/20261118A0ID7P00",
+      "source": "GameLook",
+      "pub_date": "2026-11-18 15:58",
+      "also_seen_in": [
+        "GamesIndustry.biz"
+      ],
+      "module": "industry",
+      "summary": "TGA 2026提名公布：《GTA6》未上线即获8项提名领跑，《影之刃零》入围年度游戏并获5项提名，创国产单机提名纪录（《黑神话：悟空》为4项）；最佳移动游戏5个席位中4款为中国游戏（《明日方舟：终末地》《怪物猎人：旅人》《异环》《燕云十六声》）。文章梳理各提名作品销量数据（《生化危机9》850万份、《影之刃零》72小时400万份等），并批评TGA让未发售游戏入围的公平性争议，以及中国GaaS游戏集体缺席最佳持续运营、最佳社区支持等奖项的结构性天花板。",
+      "tags": [
+        "榜单数据",
+        "出海"
+      ],
+      "keywords": [
+        "TGA",
+        "影之刃零",
+        "GTA6"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 17,
+      "title": "Analyst: Console shipments drop 36.5% to 6.4m units during Q3 on run-up to major releases",
+      "url": "https://www.gamesindustry.biz/analyst-console-shipments-drop-365-to-64m-units-during-q3-on-run-up-to-major-releases",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-18 10:58",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "S&P Global Market Intelligence Kagan数据显示，Q3全球主机出货量同比降36.5%至640万台：任天堂贡献59%降幅（Switch 2从550万降至330万台），索尼占38.7%（PS出货降35.3%至260万台），微软占2.3%（Xbox降14.2%至50万台）。",
+      "tags": [
+        "榜单数据",
+        "硬件平台"
+      ],
+      "keywords": [
+        "索尼",
+        "任天堂",
+        "微软"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 20,
+      "title": "AI陪伴大变天：收入前十被下架5款！iOS这波整改谁是赢家？",
+      "url": "https://news.qq.com/rain/a/20261118A0E0I200",
+      "source": "游戏新知",
+      "pub_date": "2026-11-18 09:35",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "据Sensor Tower，AI陪伴应用收入榜前十中有5款已从iOS下架（《Tipsy》《PolyBuzz》《Zeta》《Chai》《Tizz》），普遍被认为与苹果10月16日新规有关：禁止生成未经同意的私密影像、禁止审核期隐瞒功能的APP，违者下架并封号。榜首《Tipsy》月入1.3亿元约为第二名两倍，Wrtn旗下三款合计月入超9000万元。下架潮中《Emochi》《Heyyyy》下载与收入上涨，《Heyyyy》团队由手游公司A Thinking Ape创始人转型而来。文章指出靠NSFW快速变现的路径正被平台收紧。",
+      "tags": [
+        "政策监管",
+        "榜单数据",
+        "出海"
+      ],
+      "keywords": [
+        "AI陪伴",
+        "苹果",
+        "Sensor Tower"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 3,
+      "title": "18 unsolicited third-party statistics about GTA 6",
+      "url": "https://www.gamesindustry.biz/18-unsolicited-third-party-statistics-about-gta-6",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-18 17:03",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GamesIndustry.biz汇总了18条围绕《GTA6》发售的第三方调查数据：30%居家办公玩家可能上班时间玩、8%美国成年玩家为此请假调休、英国约88.7万人可能请病假、46%玩家自上一代GTA以来已毕业、37%偏好实体盘、Take-Two股票零售购买量周环比增150%、游戏在Nielsen愿望榜榜首已超150周。文章同时提到Sensor Tower预测预购收入14亿美元。",
+      "tags": [
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "GTA6",
+        "Take-Two"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 12,
+      "title": "GTA 6 arrives to record review scores and streaming audiences",
+      "url": "https://www.gamesindustry.biz/gta-6-arrives-to-record-review-scores-and-streaming-audiences",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-18 15:24",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "《GTA6》在新西兰解锁后迅速创下纪录：据Streams Charts，发售90分钟全球同时观看直播人数达638万，是此前《无畏契约》封测174万纪录的三倍多（YouTube 266万、Twitch 250万、Kick 131万）；",
+      "tags": [
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "GTA6",
+        "Rockstar"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 7,
+      "title": "现象级爆款《哈利波特：魔法觉醒》官宣停运，IP授权手游站在迷惘的十字路口",
+      "url": "https://news.qq.com/rain/a/20261118A0ID7Y00",
+      "source": "GameLook",
+      "pub_date": "2026-11-18 15:58",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "网易《哈利波特：魔法觉醒》11月16日公告因授权协议到期，2026年12月21日停止充值与新用户注册并全平台下架，2027年3月3日正式停服，亚服、港澳台服同步。游戏2021年上线7小时登顶iOS畅销榜，Sensor Tower称首月全球支出1.81亿美元、不到两月破2.28亿美元。文章认为停运根源是IP授权「租客困境」：华纳被派拉蒙收购后聚焦《霍格沃茨之遗》等自研大IP，续约报价与下滑流水难以匹配，并讨论玩家权益保障与网易转向主导权合作、自有IP长线的策略。",
+      "tags": [
+        "关服停运",
+        "IP联动"
+      ],
+      "keywords": [
+        "哈利波特魔法觉醒",
+        "网易",
+        "华纳"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 4,
+      "title": "刚创历史纪录的《魔兽世界:无限》暴雷！开服两周遭遇恶性刷金Bug",
+      "url": "https://news.qq.com/rain/a/20261118A0ID8800",
+      "source": "GameLook",
+      "pub_date": "2026-11-18 15:58",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《魔兽世界：无限》11月5日上线即创系列22年最高同时在线纪录，但开服不到两周，新副本黑喉要塞入口小怪掉落金币价值异常，被玩家和工作室利用每小时重置机制疯狂刷金，部分主播刷取超4000金币并扫货操纵拍卖行。暴雪已热修砍掉落，11月17日蓝帖称对数百名违规账号经济锁定并回收金币，但回档与追缴难度大，社区对主播是否被区别对待争议激烈。",
+      "tags": [
+        "版本更新",
+        "市场分析"
+      ],
+      "keywords": [
+        "魔兽世界无限",
+        "暴雪",
+        "网易"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 6,
+      "title": "梅耶·马斯克站台《无限暖暖》！国内玩家赞美“首富亲妈”，老外却来找茬？",
+      "url": "https://news.qq.com/rain/a/20261118A0ID8200",
+      "source": "GameLook",
+      "pub_date": "2026-11-18 15:58",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "叠纸《无限暖暖》3.0版本「昨日之城，明日之声」定档11月27日全球同步上线，首次把主舞台搬进欧洲艺术都市西西亚，新增全城交通环线帕斯专线和载具驾驶。发布会邀请梅耶·马斯克以「西西亚搭配师协会成员」身份站台，国内玩家反响热烈，海外玩家则因其子埃隆·马斯克的争议形象发起抵制声浪。文章借此讨论中国厂商出海时对海外舆论环境认知不足的问题。",
+      "tags": [
+        "版本更新",
+        "出海"
+      ],
+      "keywords": [
+        "无限暖暖",
+        "叠纸",
+        "梅耶·马斯克"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 11,
+      "title": "Sam Houser: with GTA 6, Rockstar \"tried to create an experience that will exceed your expectations while showing what this medium is capable of\"",
+      "url": "https://www.gamesindustry.biz/sam-houser-with-gta-6-rockstar-tried-to-create-an-experience-that-will-exceed-your-expectations-while-showing-what-this-medium-is-capable-of",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-18 15:56",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "Rockstar总裁兼联合创始人Sam Houser在《GTA6》发售之际发表罕见公开声明，称公司创立初衷是让游戏达到其他叙事形式的地位，本作试图创造超越玩家期待、展示媒介可能性的体验，并感谢玩家多年支持。游戏已在新西兰、澳大利亚解锁，19日全球上线，媒体评测近乎一致好评。",
+      "tags": [
+        "人物访谈"
+      ],
+      "keywords": [
+        "GTA6",
+        "Rockstar",
+        "Sam Houser"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 16,
+      "title": "中奖33万辞职创业，做出首周流水1000万游戏，制作人：为入行自学开发",
+      "url": "https://news.qq.com/rain/a/20261118A0FFZ100",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-18 11:07",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "顽核社研发的8人非对称派对游戏《我带过的最差一届》11月10日发售后首周销量突破60万份，Demo累计超60万人体验。制作人黄泉（原商业地产从业者、后入莉莉丝）讲述靠彩票税后33万元辞职创业、前作《地心归途》耗尽资金后转向短周期欢乐联机品类的经历，并解释「被抓后队友可营救」机制是直播传播与口碑的关键。团队现8人、从上海迁至合肥以降本，靠项目回款与外包维持。",
+      "tags": [
+        "产品复盘",
+        "人物访谈"
+      ],
+      "keywords": [
+        "我带过的最差一届",
+        "顽核社",
+        "2P Games"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 10,
+      "title": "腾讯Q3游戏收入665亿元，高管：游戏业创新放缓、AI加快创新，要推动组织变革",
+      "url": "https://news.qq.com/rain/a/20261118A0ID7M00",
+      "source": "GameLook",
+      "pub_date": "2026-11-18 15:58",
+      "also_seen_in": [
+        "游戏葡萄"
+      ],
+      "module": "company",
+      "summary": "腾讯2026Q3总收入2073亿元同比增8%，游戏收入665亿元同比增4.5%，其中国内476亿元同比增11%、国际189亿元同比降9%。《三角洲行动》DAU同比增超50%创历史新高，《无畏契约：源能行动》DAU与流水双创新高，《王者荣耀》平均DAU同比增长，9月推出的《王者万象棋》平均DAU进入全行业手游前十。电话会上高管称游戏业创新放缓、AI可加快创新，将推动组织变革以更少人力运营现有业务并孵化新业务；同时回应《GTA6》对国际游戏增速的影响，预计2027年付费游戏发行节奏恢复。",
+      "tags": [
+        "财报业绩",
+        "技术AI"
+      ],
+      "keywords": [
+        "腾讯",
+        "三角洲行动",
+        "无畏契约"
+      ],
+      "importance": 5
+    },
+    {
+      "id": 5,
+      "title": "SLG老将危!《文明》开发商大裁员1/3，工作室总裁直接被开",
+      "url": "https://news.qq.com/rain/a/20261118A0ID8400",
+      "source": "GameLook",
+      "pub_date": "2026-11-18 15:58",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Take-Two主导下，《文明》《XCOM》开发商Firaxis裁员约三分之一、涉及约60人，2023年起任工作室负责人的Heather Hazen离职。诱因是《文明7》发售后口碑翻车（Steam多半差评、强制时代更迭机制遭抵制）以及新《XCOM》续作开发受阻、今夏错过关键里程碑。Take-Two称将让工作室回归核心策略游戏。文章同时复盘《文明》35年历史与三分之一设计原则，并指出中国厂商在SLG手游端已实现商业反超。",
+      "tags": [
+        "裁员",
+        "人事变动"
+      ],
+      "keywords": [
+        "Firaxis",
+        "Take-Two",
+        "文明7"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 13,
+      "title": "Build a Rocket Boy pursuing litigation against alleged \"saboteurs\" to repay £61.7m in debt",
+      "url": "https://www.gamesindustry.biz/build-a-rocket-boy-pursuing-litigation-against-alleged-saboteurs-to-repay-617m-in-debt",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-18 14:56",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "《MindsEye》开发商Build a Rocket Boy负债6170万英镑，其中欠网易3640万英镑、Diameter Dislocation Master Fund 420万英镑。",
+      "tags": [
+        "法律诉讼"
+      ],
+      "keywords": [
+        "Build a Rocket Boy",
+        "网易",
+        "MindsEye"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 1,
+      "title": "R星如何制造《GTA6》：10亿美金，5000人的苦行，一代人的梦",
+      "url": "https://news.qq.com/rain/a/20261119A040LR00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-18 23:59",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "《GTA6》开发历时11年、近5000人参与、成本超10亿美元，MC评分99分，预购1494万份收入14.5亿美元。文章梳理R星从迈阿密实地调研、60万组动画、三人共管架构到高强度加班文化的全过程，指出这是3A黄金时代的巅峰与尾声：成本与周期已到极限，传统大厂接连裁员砍项目，AI时代下这类项目恐难再现。",
+      "tags": [
+        "产品复盘",
+        "市场分析"
+      ],
+      "keywords": [
+        "GTA6",
+        "Rockstar",
+        "Take-Two"
+      ],
+      "importance": 4,
+      "detail": {
+        "points": [
+          {
+            "title": "10亿美元与1494万预购",
+            "text": "《GTA6》投入超10亿美元（《卫报》引行业分析师估算），彭博社称其可能是电子游戏史上成本最高作品，相当于约3个《赛博朋克2077》、4个《最后生还者2》、5个《地平线：西之绝境》或10个上线前的《原神》。但Sensor Tower估算其PS5/Xbox预购量已超1494万份、收入14.5亿美元，约89%玩家选择100美元终极版，PlayStation Store称其为史上预购量最高游戏——发售前即已回收成本，使这一超重资产项目成为风险论的特例。"
+          },
+          {
+            "title": "先理解城市，再设计玩法",
+            "text": "2015年项目以代号Project Americas启动，最初构想横跨南北美洲；Rob Nelson与核心成员从迈阿密驱车至Key West实地考察，此后十年不同批次员工赴迈阿密调研，公司甚至在当地设专门研究团队，接触前罪犯、执法人员、夜店推广人、枪械商人等并交叉验证。Rockstar刻意避免把Florida Man式猎奇刻板印象直接搬进游戏，编剧Michael Wiafe强调要给玩家发现新事物的感觉。2019年因《荒野大镖客2》抽调人手项目才正式开工，宏大构想收束为以佛罗里达为蓝本的Leonida州与Vice City。"
+          },
+          {
+            "title": "双主角与犯罪档案系统",
+            "text": "团队曾考虑把主角增至四人，但《荒野大镖客2》证明单主角亚瑟·摩根配合荣誉系统也能建立强烈情感连接，最终选择一对雌雄大盗作为主角，通过外出、健身、驾驶、犯罪中的自然互动改变两人关系；「犯罪档案」记录犯罪倾向，警方依据外貌、衣着、同伙、武器、监控录像等信息做出反应，玩家可换衣、丢武器、分头逃跑逐步消除线索。设计难点不在复杂度，而在真实与可玩性间取舍：保留饮食对体能体形的影响，却砍掉买食材、管理冰箱等繁琐细节；道路收窄、昼夜循环放慢以规避「时间恐怖谷效应」。"
+          },
+          {
+            "title": "60万组动画与涌现式NPC",
+            "text": "《GTA6》制作约60万组动画，并在洛杉矶组建由编剧、导演、制作人构成的团队，按地区、职业、生活环境赋予NPC不同脾气与攻击性。《EDGE》试玩中，主角多看牵狗男子几眼即被解绳放狗追逐、鸽子惊飞，体现Rockstar的目标：不靠预写事件脚本，而让NPC性格、玩家行为、动物AI与环境系统碰撞后涌现内容。偷车玩法同样升级：从砸窗撬锁必触发警报，到解锁专业工具、接线启动、车钥匙复制器，再到应对分级追踪器并赶在警方定位前送往处理厂拆除，使犯罪有成本、有策略性。"
+          },
+          {
+            "title": "5000人组织与加班代价",
+            "text": "开发横跨11年，经历泄密、延期与核心成员出走：2016年Leslie Benzies离开并陷入法律纠纷，2020年Dan Houser离职，此后由Rob Nelson、Phil Hooker、Aaron Garbut三人共同负责，彭博社称部分员工对意见分歧感到困惑。Rockstar采用全球统一开发模式，员工从2018年《荒野大镖客2》发售时的2441人增至4711人、分布12个办公室，以6至8周为里程碑评审。代价是《荒野大镖客2》时期每周55至60小时、冲刺期最高80小时、Dan Houser最后三周每周100小时的加班文化；尽管公司承诺改变并推出扩编、排期管理与加班补偿，前制作人John Ricchio仍庆幸自己未参与《GTA6》。"
+          },
+          {
+            "title": "3A黄金时代的尾声",
+            "text": "《GTA6》MC评分99分、146家媒体，是自1998年《塞尔达传说：时之笛》以来最高分的有力挑战者，未上线即获TGA 8项提名。但作者判断这可能是旧时代的余晖：3A成本与周期不断攀升，传统大厂接连裁员砍项目，Bungie、BioWare等昔日豪门落魄，圣莫尼卡、顽皮狗、贝塞斯达的新作也难给市场绝对信心。国内方面，米哈游CEO刘伟称自2020年探索「城市开放世界」这颗皇冠上的明珠，腾讯高级副总裁马晓轶曾提出用5至8年做出与《GTA》《赛博朋克2077》续作同水准的「登月项目」，均以GTA为标尺。"
+          }
+        ],
+        "takeaway": "《GTA6》证明超10亿美元项目可靠预购在发售前回本，但前提是品牌资产与全球同步发行能力，国内团队难以复制。可借鉴的是其调研方法（长期实地研究、避免刻板印象）与系统取舍原则（真实感服务可玩性），以及用双主角关系与犯罪档案等系统制造涌现内容而非堆脚本。对竞品分析而言，应把GTA视为城市开放世界的长期标尺，关注米哈游、腾讯「登月项目」的进度，同时警惕以人力堆规模的高成本路径在AI与短平快产品冲击下的可持续性。"
+      }
+    },
+    {
+      "id": 15,
+      "title": "看懂这场联名，才知道KPL的十年有多值",
+      "url": "https://news.qq.com/rain/a/20261118A0FFZ600",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-18 11:07",
+      "also_seen_in": [
+        "游戏葡萄"
+      ],
+      "module": "ad",
+      "summary": "瑞幸与KPL十周年联名，十位选手形象与英雄皮肤登上咖啡杯及周边，主话题阅读量超1350万。",
+      "tags": [
+        "IP联动",
+        "电竞"
+      ],
+      "keywords": [
+        "KPL",
+        "瑞幸",
+        "王者荣耀"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [
+    {
+      "id": 22,
+      "title": "How to build a welcoming company culture in times of turmoil",
+      "url": "https://www.gamesindustry.biz/how-to-build-a-welcoming-company-culture-in-times-of-turmoil",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-18 08:30",
+      "reason": "GamesIndustry.biz HR峰会公司文化经营指南，低相关",
+      "by": "model"
+    }
+  ],
+  "source_stats": {
+    "游戏葡萄": {
+      "fetched": 3,
+      "selected": 1,
+      "ad": 0,
+      "merged": 2,
+      "dropped": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 9,
+      "selected": 5,
+      "ad": 0,
+      "merged": 3,
+      "dropped": 1
+    },
+    "GameLook": {
+      "fetched": 7,
+      "selected": 7,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 2,
+      "selected": 1,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
