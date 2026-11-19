@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-18T00:51:57+00:00",
+  "updated": "2026-11-19T00:52:28+00:00",
   "days": [
+    {
+      "date": "2026-11-19",
+      "total": 16,
+      "modules": {
+        "rival": 0,
+        "industry": 6,
+        "product": 5,
+        "newgame": 0,
+        "company": 3,
+        "deep": 1,
+        "ad": 1,
+        "other": 0
+      },
+      "headlines": [
+        "腾讯Q3游戏收入665亿元，高管：游戏业创新放缓、AI加快创新，要推动组织变革",
+        "SLG老将危!《文明》开发商大裁员1/3，工作室总裁直接被开",
+        "现象级爆款《哈利波特：魔法觉醒》官宣停运，IP授权手游站在迷惘的十字路口",
+        "TGA公布提名:《GTA 6》领跑《影之刃零》获五项提名，手游中国游戏包场",
+        "Analyst: Console shipments drop 36.5% to 6.4m units during Q3 on run-up to major releases"
+      ]
+    },
     {
       "date": "2026-11-18",
       "total": 19,
