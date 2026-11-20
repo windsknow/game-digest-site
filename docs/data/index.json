@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-19T00:52:28+00:00",
+  "updated": "2026-11-20T00:52:50+00:00",
   "days": [
+    {
+      "date": "2026-11-20",
+      "total": 15,
+      "modules": {
+        "rival": 0,
+        "industry": 6,
+        "product": 2,
+        "newgame": 1,
+        "company": 4,
+        "deep": 1,
+        "ad": 1,
+        "other": 0
+      },
+      "headlines": [
+        "网易Q3游戏收入223亿元，丁磊：短剧爆发对游戏业有影响，AI助力游戏玩法多元化",
+        "当腾讯全面驶入AI时代，游戏业务是陆军还是海军？",
+        "《GTA6》首日横扫全球！一个注定无法复制的游戏业奇迹",
+        "Ubisoft lays off 166 staff in Montreal and Quebec studios",
+        "Firaxis面临重组：裁员约60人，负责人离职"
+      ]
+    },
     {
       "date": "2026-11-19",
       "total": 16,
