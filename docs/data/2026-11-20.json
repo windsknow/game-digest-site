@@ -1,0 +1,429 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T00:52:41+00:00",
+  "model": "deepseek-flash",
+  "total": 15,
+  "modules": {
+    "rival": 0,
+    "industry": 6,
+    "product": 2,
+    "newgame": 1,
+    "company": 4,
+    "deep": 1,
+    "ad": 1,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 4,
+      "reason": "网易Q3游戏收入229亿元同比降1.7%，丁磊谈短剧冲击与AI，《魔兽世界：无限》创重启后在线新高"
+    },
+    {
+      "id": 5,
+      "reason": "腾讯Q3本土游戏收入476亿元增11%，研发投入增42%，AI基建与游戏AI三张牌成新叙事"
+    },
+    {
+      "id": 3,
+      "reason": "《GTA6》MC均分99、预购超1700万份收入16.5亿美元，首日横扫全球PS畅销榜"
+    },
+    {
+      "id": 6,
+      "reason": "育碧蒙特利尔/魁北克裁员166人，涉及腾讯合资Vantage Studios，今年已关多家工作室"
+    },
+    {
+      "id": 18,
+      "reason": "Firaxis裁员约60人占三分之一、负责人离职，《文明7》资料片与《幽浮》新作存变数"
+    }
+  ],
+  "items": [
+    {
+      "id": 8,
+      "title": "Call of Duty: Modern Warfare 4 debuts as top-selling game in US for October 2026",
+      "url": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-debuts-as-top-selling-game-in-us-for-october-2026",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-19 14:00",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Circana数据显示《使命召唤：现代战争4》登顶10月美国销量榜，连续第19年COD新作在发售月夺冠；《战争机器：E-Day》《星球大战：银河赛车》分列二三位。10月美国游戏总支出同比降12%至42亿美元，内容支出降14%至37亿美元（手游降16%），主机内容降18%；",
+      "tags": [
+        "榜单数据"
+      ],
+      "keywords": [
+        "Circana",
+        "使命召唤",
+        "Xbox",
+        "Switch 2"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 9,
+      "title": "US Senate hearing examines child safety on Roblox, considers bipartisan bill to bypass forced arbitration",
+      "url": "https://www.gamesindustry.biz/us-senate-hearing-examines-child-safety-on-roblox-considers-bipartisan-bill-to-bypass-forced-arbitration",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-19 11:52",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "美国参议院司法委员会犯罪与反恐小组就Roblox儿童安全问题举行听证，并审议Hawley与Durbin提出的两党法案，拟允许受害者绕过强制仲裁在公开法庭起诉。参议员Hawley批评Roblox安全记录，称其不作为是为保用户数与收入；",
+      "tags": [
+        "政策监管",
+        "法律诉讼"
+      ],
+      "keywords": [
+        "Roblox",
+        "美国参议院"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 1,
+      "title": "韩国游戏展G-Star韩国大厂集体缺席！米哈游网易Krafton成了“顶梁柱”",
+      "url": "https://news.qq.com/rain/a/20261119A0GD0M00",
+      "source": "GameLook",
+      "pub_date": "2026-11-19 15:48",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "G-Star 2026在釜山开幕，Nexon、NCSoft、Netmarble三大韩国本土厂商集体缺席全部四天展期，主赞助商变为AI故事创作平台Crack。米哈游与Krafton拿下最大展位：米哈游带来《原神》《崩坏：星穹铁道》《绝区零》及两款新作韩国首试，Krafton以五款游戏阵容参展。海外厂商包括网易《遗忘之海》、世嘉、光荣特库摩、卡普空、CDPR等；独立游戏展区集结114支团队。文章指出参展成本高企、大厂觉得性价比低，G-Star议价权下滑。",
+      "tags": [
+        "展会活动",
+        "市场分析"
+      ],
+      "keywords": [
+        "G-Star",
+        "米哈游",
+        "Krafton",
+        "网易"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 10,
+      "title": "一款“假”整理游戏登顶免费榜：为什么年轻人都想当赛博整理师？",
+      "url": "https://news.qq.com/rain/a/20261119A0DI0B00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-19 11:02",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "《超级整理师》11月2日上线约十天后登顶中国区App Store游戏免费榜，核心是找物消除而非真正整理玩法。文章梳理整理题材从《Wilmot's Warehouse》《Unpacking》《往左一点》到手游《收纳物语》的演变，指出整理+三消赛道已跑出规模：武汉汇多《整理师的任务》累计内购流水超2亿元、峰值月流水1600万元，越南ONESOFT《Goods Puzzle》双端预估收入860万美元，20多款产品合计月流水近1亿元；厦门营火《指尖快消》头部马甲包日消耗达数十万元、合并日耗百万元级。",
+      "tags": [
+        "市场分析",
+        "小游戏"
+      ],
+      "keywords": [
+        "超级整理师",
+        "收纳物语",
+        "整理师的任务",
+        "指尖快消"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 13,
+      "title": "团队规模30+，广州居然还藏了一家IAA游戏大佬",
+      "url": "https://news.qq.com/rain/a/20261119A0CX5Q00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-19 10:15",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "广州尊悦游戏以30多人团队连续做出IAA小游戏爆款：新作《疯狂收杂物》《益智闯一关》同时进入微信小游戏畅玩榜第2和第15名，沿用“第二关”标志性文案。公司2021年底成立，2024年转型中度消除，《打个螺丝》日消耗峰值破300万、次留10%、90日留存1%，后续《折螺丝》《消个水果》等延续打法。文章分析其堆叠消除+寻物玩法设计、双产品错位买量（视频素材投小程序激励广告、图片素材投朋友圈），以及通过关联公司布局抖音和外部合作的动向。",
+      "tags": [
+        "小游戏",
+        "市场分析"
+      ],
+      "keywords": [
+        "尊悦游戏",
+        "疯狂收杂物",
+        "打个螺丝",
+        "微信小游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 17,
+      "title": "会用AI的人，更容易找到工作？",
+      "url": "https://news.qq.com/rain/a/20261119A09CMM00",
+      "source": "触乐",
+      "pub_date": "2026-11-19 06:49",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "文章调查AI技能如何影响游戏行业招聘：腾讯IEG 2026实习招聘部分岗位设AI面试或AI Coding考察，GDC 2026统计40%从业者工作中使用生成式AI、57%每天使用；中国音数协报告显示22家受访企业研发环节AI应用率86.36%、发行运营77.3%，72.7%企业认为既懂AI又懂游戏设计的人才短缺。多位HR与制作人表示AI目前仍是加分项、核心考察岗位专业能力，但AI也加剧内卷与初级岗位减少（Anthropic内部研究初级技术岗占比从21%降至14%）。",
+      "tags": [
+        "技术AI",
+        "人物访谈"
+      ],
+      "keywords": [
+        "腾讯IEG",
+        "GDC",
+        "AI招聘"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 3,
+      "title": "《GTA6》首日横扫全球！一个注定无法复制的游戏业奇迹",
+      "url": "https://news.qq.com/rain/a/20261119A0GD0700",
+      "source": "GameLook",
+      "pub_date": "2026-11-19 15:48",
+      "also_seen_in": [
+        "触乐"
+      ],
+      "module": "product",
+      "summary": "《GTA6》11月18日上线，Metacritic 150家媒体均分99，与《塞尔达传说：时之笛》并列史上最高。Sensor Tower数据显示预购超1700万份、预购收入超16.5亿美元，索尼与微软称其为各自商店史上预购最多游戏，上线后横扫全球PS畅销榜。游戏研发近15亿美元、总成本约20亿美元、5000人团队、13年周期；首发主机锁30帧引发争议，但画面与生态细节获数毛社等好评。文章认为其工业化规格在西方3A行业已难以复刻。",
+      "tags": [
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "GTA6",
+        "R星",
+        "Take-Two"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 2,
+      "title": "魔兽世界新梗：老婆求助网友“让老公早点睡”，引全服深夜PK，网易官方下场",
+      "url": "https://news.qq.com/rain/a/20261119A0GD0I00",
+      "source": "GameLook",
+      "pub_date": "2026-11-19 15:48",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "抖音一则妻子求助全网“追杀”沉迷《魔兽世界》熬夜丈夫的视频出圈，玩家根据画面锁定角色ID“天天开心”、部落兽人萨满、石爪山脉坐标并组织凌晨围剿，官方抖音号下场玩梗。事件背景是《魔兽世界：无限》上线两周周活跃玩家刷新15年历史纪录：开服两周创建角色超1516万、完成任务14.8亿次、击败敌人97.8亿次、组建公会超14万、队伍7131万，巅峰同时在线近240万。",
+      "tags": [
+        "版本更新",
+        "市场分析"
+      ],
+      "keywords": [
+        "魔兽世界",
+        "网易",
+        "暴雪"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 11,
+      "title": "在《异人之下》终局测试里直面“老天师”",
+      "url": "https://news.qq.com/rain/a/20261119A09CLE00",
+      "source": "触乐",
+      "pub_date": "2026-11-19 10:38",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "《异人之下》11月4日开启第三次也是最后一次“终局测试”，作者体验13.2小时、主玩PVP“切磋”排位“天下会武”达到“九曲”段位。文章以直面“老天师”为线索记录终局测试体验，游戏2023年底首曝、2024年底首测。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "异人之下",
+        "腾讯"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 4,
+      "title": "网易Q3游戏收入223亿元，丁磊：短剧爆发对游戏业有影响，AI助力游戏玩法多元化",
+      "url": "https://news.qq.com/rain/a/20261119A0GD0400",
+      "source": "GameLook",
+      "pub_date": "2026-11-19 15:48",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "网易Q3净收入279亿元同比降1.8%，游戏及相关增值服务净收入229亿元同比降1.7%，净利润84亿元。丁磊在电话会称短剧爆发短期会争夺用户时长，AI主要提升效率并让玩法更多元；《魔兽世界：无限》国服同时在线与点卡充值创重启后新高，《燕云十六声》8月全球玩家破1亿，《无限大》定档2027年1月15日全球预约破2700万。",
+      "tags": [
+        "财报业绩",
+        "技术AI"
+      ],
+      "keywords": [
+        "网易",
+        "丁磊",
+        "魔兽世界",
+        "无限大"
+      ],
+      "importance": 5
+    },
+    {
+      "id": 5,
+      "title": "当腾讯全面驶入AI时代，游戏业务是陆军还是海军？",
+      "url": "https://news.qq.com/rain/a/20261119A0GD0100",
+      "source": "GameLook",
+      "pub_date": "2026-11-19 15:48",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "腾讯Q3总营收2073.36亿元同比增8%，本土游戏收入476亿元同比增11%、国际游戏收入189亿元同比降9%；研发投入323.6亿元同比增42%，资本开支651亿元同比增226%主要投向AI基建。文章梳理腾讯游戏AI布局三张牌：场景牌（《王者荣耀》灵宝日调用率80%、新游《王者万象棋》95%新玩家使用灵宝）、技术工具牌（投资Godot商业化主体W4 Games、光子天工引擎开源、MagicLomix平台测试）、生态牌（混元与游戏Co-Design），同时以Miniclip、土耳其休闲团队投资和《怪物猎人：旅人》等自研出海产品作为“陆军”基本盘。",
+      "tags": [
+        "财报业绩",
+        "技术AI",
+        "出海"
+      ],
+      "keywords": [
+        "腾讯",
+        "混元",
+        "王者荣耀",
+        "Miniclip"
+      ],
+      "importance": 5
+    },
+    {
+      "id": 6,
+      "title": "Ubisoft lays off 166 staff in Montreal and Quebec studios",
+      "url": "https://www.gamesindustry.biz/ubisoft-lays-off-166-staff-in-montreal-and-quebec-studios",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-19 15:15",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "育碧在蒙特利尔和魁北克城工作室裁员166人，占两工作室总人数不到4%，主要为制作与支持岗位，涉及近期被取消或重大调整项目的员工，包括腾讯合资公司Vantage Studios成员。育碧称将提供遣散费、延长医保和职业过渡服务；今年已关闭温尼伯、RedLynx、贝尔格莱德、哈利法克斯等工作室并多轮裁员。",
+      "tags": [
+        "裁员"
+      ],
+      "keywords": [
+        "育碧",
+        "Vantage Studios",
+        "腾讯"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 18,
+      "title": "Firaxis面临重组：裁员约60人，负责人离职",
+      "url": "https://news.qq.com/rain/a/20261119A09CLO00",
+      "source": "触乐",
+      "pub_date": "2026-11-19 06:49",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Firaxis Games宣布裁员约60人，约占工作室员工三分之一，负责人Heather Hazen将离职，2K确认工作室正在重组、重心仍是策略游戏。参与《文明7》的叙事设计师Nell Raban、《幽浮：奇美拉战队》首席设计师Mark Nauta等公开表示受影响。《文明7》原计划2027年推出免费更新《明日之弧》和付费资料片《地球崛起》，是否受影响未公布；《幽浮》新作此前已错过重要开发节点。",
+      "tags": [
+        "裁员",
+        "人事变动"
+      ],
+      "keywords": [
+        "Firaxis",
+        "2K",
+        "文明7",
+        "幽浮"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 12,
+      "title": "The future of British gaming is more than just games | Opinion",
+      "url": "https://www.gamesindustry.biz/the-future-of-british-gaming-is-more-than-just-games-opinion",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-19 10:32",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "Rebellion CEO Jason Kingsley撰文指出，游戏、影视、出版边界正在模糊，英国创意税收减免仍按单一媒介划分，未充分认可连接各形态的知识产权。他以Rebellion同时拥有2000 AD、Judge Dredd等IP并跨游戏/漫画/影视运作为例，呼吁政府探索让税收激励更好支持跨媒介IP开发与英国本土IP所有权，认为英国具备人才与工作室基础，应培育下一个全球娱乐 franchise 并留在英国。",
+      "tags": [
+        "政策监管",
+        "IP联动"
+      ],
+      "keywords": [
+        "Rebellion",
+        "英国",
+        "IP"
+      ],
+      "importance": 2,
+      "detail": {
+        "points": [
+          {
+            "title": "英国游戏业政策地位提升",
+            "text": "文章开篇肯定英国游戏业的全球竞争力：既有开发原创想法的独立工作室，也有打造全球知名IP的成熟企业。作者指出，英国政府已将创意产业列为优先增长部门，过去二十年政策制定者与行业的互动显著改善，对游戏的经济贡献、高技能岗位和出口潜力有了更深理解。但作者强调，产业在演化，支持政策也必须同步演化，由此引出核心议题：英国应如何支持本土IP的开发与所有权。这一铺垫为后文批评税制按单一媒介划分埋下伏笔。"
+          },
+          {
+            "title": "娱乐媒介边界正在消融",
+            "text": "作者认为游戏、电影、电视和出版传统上被视为各自独立行业，各有商业模式、融资结构和税收优惠，但如今界限日益模糊：成功游戏可改编为热门剧集，漫画角色可催生电影系列，虚构宇宙能跨格式、跨平台、跨代际触达受众。以Rebellion为例，公司除开发和发行游戏外，还拥有2000 AD，旗下有Judge Dredd、Rogue Trooper等标志性角色，业务横跨漫画、图书、影视，近期推出的Rogue Trooper电影即是IP跨媒介流动的案例。作者据此指出，这些并非彼此分离的行业，而是同一IP的不同表达。"
+          },
+          {
+            "title": "税制仍按单一媒介分割",
+            "text": "文章批评英国创意税收减免体系仍主要按单一格式组织：游戏、电影、电视及其他制作各有激励，却对连接它们的知识产权缺乏认可。作者认为这是结构性错配——现代创意企业以IP为核心跨媒介运营，而政策框架仍按媒介切块，难以匹配企业的实际运作方式。这一论点承接前文的媒介融合趋势，将问题从产业观察推进到政策设计层面，为后文呼吁改革现有创意税收激励、使其更好支持跨多格式开发IP的企业做铺垫。"
+          },
+          {
+            "title": "IP所有权是长期价值核心",
+            "text": "作者强调，打造成功的游戏、角色或虚构宇宙需要多年投资、试错与风险承担，一旦成功，其价值可远超最初创作的格式。对英国工作室而言，机会在于打造下一个全球知名娱乐系列，并关键性地将IP所有权留在英国。作者以大西洋对岸的Disney和Marvel为参照，指出它们围绕跨电影、电视、游戏和出版的角色与故事建立了全球业务，英国没有理由不能培育类似雄心的企业。拥有IP意味着对开发、授权和商业化的更大控制权，可将回报再投资于新项目、创造高技能岗位、建立持续数十年产生价值的可持续业务，这对常在融资与保留创意控制权之间艰难抉择的独立开发者尤为重要。"
+          },
+          {
+            "title": "呼吁改革税制支持跨媒介IP",
+            "text": "作者承认没有简单解决方案，任何改革都需认识到游戏、电影、电视和出版的不同经济逻辑，但认为有充分理由让政府探索现有创意税收激励如何更好支持跨多格式开发IP的企业。具体而言，应追问现行框架是否真实反映现代创意企业的运作方式，是否足以鼓励对英国所有IP的长期投资。这一主张将前文的产业趋势与所有权论点收束为政策建议，语气审慎，强调探索而非直接开方，体现出对行业差异的尊重。"
+          },
+          {
+            "title": "英国具备打造全球IP的基础",
+            "text": "文章结尾盘点英国已有条件：卓越的创意人才、世界级工作室、强大的独立开发社区和深厚的叙事传统，具备打造下一代全球娱乐系列所需的多数要素。当前挑战在于确保创造这些系列的企业有支持和信心在国际化扩张的同时扎根英国。作者肯定政府与游戏业的互动已取得长足进步，认为应在此基础上更进一步：若想让英国保持创意创新的全球领先地位，就需超越单个游戏、电影或电视作品，认识到连接它们的知识产权的长期价值。全文由此从产业观察、政策批评走向战略呼吁。"
+          }
+        ],
+        "takeaway": "对国内游戏公司而言，核心启示是IP跨媒介运营需与政策工具匹配：英国税制按媒介切块的错配提醒我们，评估海外市场时要把税收激励与IP所有权结构纳入竞品分析；同时，Rebellion以2000 AD横跨漫画影视游戏的路径说明，中小厂商可借自有IP的多格式变现对冲单一产品风险，而保留IP所有权是长期估值的关键。"
+      }
+    },
+    {
+      "id": 19,
+      "title": "当一款国民电竞赛事，走入自己的第十年",
+      "url": "https://news.qq.com/rain/a/20261119A07GC800",
+      "source": "触乐",
+      "pub_date": "2026-11-19 05:14",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "KPL十周年年总决赛与巅峰之夜在成都举办，B站官方直播间人气破2.3亿创新高",
+      "tags": [
+        "电竞"
+      ],
+      "keywords": [
+        "KPL",
+        "王者荣耀"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [
+    {
+      "id": 15,
+      "title": "Rockstar and IWGB members issue closing arguments following conclusion of employment tribunal",
+      "url": "https://www.gamesindustry.biz/rockstar-and-iwgb-members-issue-closing-arguments-following-conclusion-of-employment-tribunal",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-19 10:03",
+      "reason": "劳资/工会",
+      "by": "rule"
+    },
+    {
+      "id": 7,
+      "title": "007 First Light wins GOTY at 2026 TIGA Awards, Dovetail Games takes home four accolades including Best Publisher",
+      "url": "https://www.gamesindustry.biz/007-first-light-wins-goty-at-2026-tiga-awards-dovetail-games-takes-home-four-accolades-including-best-publisher",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-19 14:55",
+      "reason": "英国地区性奖项，与重点竞品无关",
+      "by": "model"
+    }
+  ],
+  "source_stats": {
+    "GameLook": {
+      "fetched": 5,
+      "selected": 5,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 6,
+      "selected": 4,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 2
+    },
+    "游戏陀螺": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "触乐": {
+      "fetched": 6,
+      "selected": 3,
+      "ad": 1,
+      "merged": 2,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
