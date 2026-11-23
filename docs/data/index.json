@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-20T00:52:50+00:00",
+  "updated": "2026-11-23T00:53:20+00:00",
   "days": [
+    {
+      "date": "2026-11-23",
+      "total": 26,
+      "modules": {
+        "rival": 2,
+        "industry": 12,
+        "product": 1,
+        "newgame": 2,
+        "company": 2,
+        "deep": 1,
+        "ad": 6,
+        "other": 0
+      },
+      "headlines": [
+        "触乐本周行业大事：腾讯网易Q3财报发布，《哈利波特：魔法觉醒》宣布停运，《GTA 6》发售席卷全球市场",
+        "《GTA6》销量已超2450万份，收入超157亿元",
+        "独家对话库洛：《鸣潮》的2027，选择「地狱开局」",
+        "《原神》IP新项目曝光，UE5新概念PVP；AI时代下技术人员应该如何成长？",
+        "Ubisoft merges two Creative Houses as H1 results decline 16.5%; Q2 net bookings above guidance thanks to Assassin's Creed Black Flag remake"
+      ]
+    },
     {
       "date": "2026-11-20",
       "total": 15,
