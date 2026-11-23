@@ -1,0 +1,643 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T00:53:05+00:00",
+  "model": "deepseek-flash",
+  "total": 26,
+  "modules": {
+    "rival": 2,
+    "industry": 12,
+    "product": 1,
+    "newgame": 2,
+    "company": 2,
+    "deep": 1,
+    "ad": 6,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 7,
+      "reason": "腾讯网易Q3财报同日交卷、哈利波特停运、GTA6首日37.9亿美元，一周行业大事尽在此。"
+    },
+    {
+      "id": 18,
+      "reason": "Sensor Tower：GTA6首日销量约1900万份、收入18.4亿美元，累计已破2458万份。"
+    },
+    {
+      "id": 3,
+      "reason": "《鸣潮》年度篇章首曝机甲3C载具，库洛详解底层重构与长线策略。"
+    },
+    {
+      "id": 11,
+      "reason": "米哈游曝光《原神》IP UE5新作，主打新概念PVP、原班团队开发。"
+    },
+    {
+      "id": 21,
+      "reason": "育碧H1净预订降16.5%、亏损1.89亿欧元，新设AI子公司Motherbrain并继续裁员。"
+    }
+  ],
+  "items": [
+    {
+      "id": 3,
+      "title": "独家对话库洛：《鸣潮》的2027，选择「地狱开局」",
+      "url": "https://news.qq.com/rain/a/20261121A0EWTU00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-21 15:56",
+      "also_seen_in": [],
+      "module": "rival",
+      "summary": "《鸣潮》公布年度篇章版本《鸣潮：永明的烬焰》实机演示，新地图新联邦首开西部题材，并首次推出人人可获得的大世界机甲3C载具（有技能、能战斗、可协战）。库洛关卡策划与文案组长受访详解：机甲开发超一年、几乎与新联邦同步，流送极限从翱翔20米/秒、摩托35米/秒继续上探但此次失败；团队已重构底层代码（JS与C#双轨维护）以应对长线性能压力，并首次启用贯穿全年的篇章命名。",
+      "tags": [
+        "版本更新",
+        "人物访谈"
+      ],
+      "keywords": [
+        "鸣潮",
+        "库洛",
+        "永明的烬焰"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 11,
+      "title": "《原神》IP新项目曝光，UE5新概念PVP；AI时代下技术人员应该如何成长？",
+      "url": "https://news.qq.com/rain/a/20261120A0GS2B00",
+      "source": "GameLook",
+      "pub_date": "2026-11-20 15:54",
+      "also_seen_in": [
+        "游戏葡萄"
+      ],
+      "module": "rival",
+      "summary": "米哈游《原神》技术负责人王萌在电子科技大学校招宣讲中透露，正筹备一款基于《原神》IP、采用UE5引擎、主打「新概念PVP」的新项目，由《原神》核心团队开发，本体内容供应不受影响。GameLook指出米哈游近两年曝光的新项目多强化联机与PVP（含UE5写实射击、3D MOBA等），UE5已成其主流选择；王萌同时分享AI时代开发者应打好C++基础、不过度依赖AI生成代码。",
+      "tags": [
+        "新品曝光",
+        "技术AI"
+      ],
+      "keywords": [
+        "米哈游",
+        "原神",
+        "UE5"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 7,
+      "title": "触乐本周行业大事：腾讯网易Q3财报发布，《哈利波特：魔法觉醒》宣布停运，《GTA 6》发售席卷全球市场",
+      "url": "https://news.qq.com/rain/a/20261121A089A700",
+      "source": "触乐",
+      "pub_date": "2026-11-21 06:19",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "本周行业大事汇总：腾讯Q3游戏收入665亿元（本土476亿+11%，国际189亿-9%），《三角洲行动》DAU破5800万；网易Q3游戏收入229亿元同比降1.7%，《无限大》定档2027年1月15日预约破2700万；《哈利波特：魔法觉醒》因授权到期将于2027年3月3日停运；BLG夺S16冠军带动A股游戏板块走强；B站就《物华弥新》运营争议起诉龙渊网络；米哈游公布通用游戏AI模型Gamer；《明日方舟：终末地》获Google Play年度最佳；《GTA6》首日零售额37.9亿美元创纪录；TGA 2026提名公布，《影之刃零》获年度游戏提名。",
+      "tags": [
+        "财报业绩",
+        "政策监管",
+        "技术AI"
+      ],
+      "keywords": [
+        "腾讯",
+        "网易",
+        "米哈游",
+        "GTA6"
+      ],
+      "importance": 5
+    },
+    {
+      "id": 5,
+      "title": "二游大佬傲娇：“8款游戏成了7款，成功率高达88%”，老板拍板：再做7个游戏！",
+      "url": "https://news.qq.com/rain/a/20261121A0DELY00",
+      "source": "GameLook",
+      "pub_date": "2026-11-21 13:11",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "CyberAgent在2026财年说明会披露，自《赛马娘》起集团8款大型手游有7款单月销售额突破10亿日元（约4228万元），命中率88%，并计划到2030财年再推7款。GameLook对比指出，日本靠成熟IP核心粉丝与多工作室并行支撑，而中国头部厂商押注跨端全球旗舰（如《终末地》开服两周流水超12亿元、国内近六成来自PC），韩国厂商则须先出海；国内上半年二次元手游收入同比降8.97%至132.69亿元，头部厂商正转向玩法创新拓圈。",
+      "tags": [
+        "市场分析",
+        "出海",
+        "财报业绩"
+      ],
+      "keywords": [
+        "CyberAgent",
+        "Cygames",
+        "米哈游",
+        "鹰角"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 14,
+      "title": "腾讯才跌完、网易大跌17.6%，短剧真成了游戏大敌？",
+      "url": "https://news.qq.com/rain/a/20261120A0GS1Y00",
+      "source": "GameLook",
+      "pub_date": "2026-11-20 15:54",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "腾讯Q3营收2073.4亿元同比增8%低于预期、资本开支814.3亿元致股价跌超6%；网易Q3营收279亿元同比降1.8%、游戏收入229亿元降1.7%，港股跌17.6%。丁磊在电话会承认短剧分流用户注意力（每天新产生约1800部短剧），GameLook分析短剧靠AI批量生产与算法分发争夺碎片时间、冲击买量闭环，但难以撼动长青、强交互大DAU游戏；网易业绩承压主因新游接力脱节，反弹寄望《无限大》（预约2700万）与《魔兽世界：无限》创纪录表现。",
+      "tags": [
+        "财报业绩",
+        "市场分析"
+      ],
+      "keywords": [
+        "腾讯",
+        "网易",
+        "短剧",
+        "无限大"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 18,
+      "title": "《GTA6》销量已超2450万份，收入超157亿元",
+      "url": "https://news.qq.com/rain/a/20261120A0FALR00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-20 13:09",
+      "also_seen_in": [
+        "GamesIndustry.biz"
+      ],
+      "module": "industry",
+      "summary": "Sensor Tower每日追踪报告显示，《GTA6》发售当日销量约1900万份（含预购）、销售额18.4亿美元，其中超15亿美元来自预购，75%销量来自PS平台；截至撰稿已售2458万份、总销售额23.6亿美元（约157.6亿元），一天内或再卖出500万份以上。",
+      "tags": [
+        "榜单数据"
+      ],
+      "keywords": [
+        "GTA6",
+        "Sensor Tower"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 1,
+      "title": "游戏行业这几年最盛大的笑话，让我越来越笑不出来",
+      "url": "https://news.qq.com/rain/a/20261122A0DCLD00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-22 15:40",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "游戏葡萄长文批评TGA评审体系：提名屡现争议（《马拉松》在线跌至3000仍提名最佳多人、《沉星之序》等小众佳作落选最佳独游），2023年《博德之门3》致辞被压到30秒而小岛秀夫聊《OD》6分钟。文章指出TGA商业模式依赖欧美3A厂商，评审90%为媒体、玩家投票仅10%，154家评委中美国占24席、欧美合计超80席，中国仅3席；而2025年全球玩家53%来自亚太、北美仅7%，移动游戏已占市场55.3%，评价视野与真实市场严重脱节。",
+      "tags": [
+        "市场分析",
+        "展会活动"
+      ],
+      "keywords": [
+        "TGA",
+        "Geoff Keighley"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 9,
+      "title": "“AI垃圾” 堵死Steam：过审时间几天变几周，有独游被卡到错过发售日",
+      "url": "https://news.qq.com/rain/a/20261120A0GS2L00",
+      "source": "GameLook",
+      "pub_date": "2026-11-21 03:51",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Steam审核时长从常规3-5天拉长至最多12个工作日，多款独立游戏被迫延期：TwoMenGames《惊奇老虎机幸存者》从11月13日拖到12月4日，Rami Ismail新作《Australia Did It》10月20日进队列、11月5日因轻微bug被驳回后反复跟进无果。Valve归因于提交量激增，但开发者与媒体指向AI生成游戏洪流——10月Steam新游近半标注AI内容、新品节涌入近8000款同比增超60%。GameLook认为这是生产端工业化与审核端手工化的资源错配，收费限额等补救最终会伤及小团队。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "Valve",
+        "Steam",
+        "AI"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "Ampere Analysis: Over 2m UK and US Xbox players accessed GTA 6 before official launch by switching location to New Zealand",
+      "url": "https://www.gamesindustry.biz/ampere-analysis-over-1m-uk-and-us-xbox-players-accessed-gta-6-before-official-launch-by-switching-location-to-new-zealand",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-20 15:21",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Ampere Analysis数据显示，超200万英美Xbox玩家通过把主机地区改为新西兰在《GTA6》正式发售前提前进入游戏（美国150万、英国60万），PS5因账号地区锁定仅约12.5万。Newzoo指出主机仅占2026年全球游戏收入22%，《GTA6》初期影响集中于西方主机市场，长期取决于PC与线上。",
+      "tags": [
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "GTA6",
+        "Ampere Analysis",
+        "Newzoo"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 20,
+      "title": "How the EU's Digital Fairness Act will impact game design, and why it hits European indies particularly hard",
+      "url": "https://www.gamesindustry.biz/how-the-eus-digital-fairness-act-will-impact-game-design-and-why-it-hits-european-indies-particularly-hard",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-20 12:27",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "欧盟《数字公平法案》草案要求付费虚拟货币在消费时显示真实货币价值，并禁止对儿童实施pay-to-win，可能波及移动端之外的游戏设计。分析指出虚拟货币计价、游戏内经济与封号/停运时的价值认定存在执行难题，欧洲独立开发者受冲击尤甚，违规面临高额罚款。",
+      "tags": [
+        "政策监管"
+      ],
+      "keywords": [
+        "欧盟",
+        "Digital Fairness Act"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 27,
+      "title": "KPL迎十周年里程碑，电竞产业释放多元商业价值",
+      "url": "https://news.qq.com/rain/a/20261120A0DJQ200",
+      "source": "触乐",
+      "pub_date": "2026-11-20 10:54",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "2026年KPL年度总决赛北京WB 4:3击败北京JDG夺冠，KPL创办十年累计完成3883场系列赛、线下入场192万人次。本届总决赛横跨三城、121263张门票售罄，全年平均售罄率92%；十年累计合作57个品牌、9家连续三年合作，儒意电影国庆7天联名商品销量超100万件；近三年决赛外省观众占比80%，2025鸟巢决赛拉动六类消费估值3.69亿元。",
+      "tags": [
+        "电竞",
+        "市场分析"
+      ],
+      "keywords": [
+        "KPL",
+        "王者荣耀",
+        "北京WB"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 8,
+      "title": "一夜热搜背后，电竞正在迈入“资产平台化”的奇点",
+      "url": "https://news.qq.com/rain/a/20261121A07WYO00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-21 05:45",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "游戏陀螺以2026微博竞燃之夜为样本分析电竞产业：亚运电竞中国队3金1银、BLG夺S16冠军、PEL选手综艺破圈等话题在微博持续发酵。文章认为微博通过超话点亮主队、评分、竞燃之夜荣誉绑定及赛事媒体评审角色，正把一次性热度沉淀为话题、内容、关系与选手个人品牌等可累积的「电竞资产」，推动电竞走向资产平台化与长期主义。",
+      "tags": [
+        "电竞",
+        "市场分析"
+      ],
+      "keywords": [
+        "微博",
+        "KPL",
+        "LPL"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 22,
+      "title": "公司余额已不足一份《GTA 6》：一家独游工作室的梭哈时刻",
+      "url": "https://news.qq.com/rain/a/20261120A0E4OS00",
+      "source": "触乐",
+      "pub_date": "2026-11-20 11:39",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "触乐采访猫见茶工作室账单：这家港粤6人团队靠10万元天使投资与香港政府资助开发《凉茶王》，2025年底账上仅剩1221元、一度发不出工资，为申请GEPS资助先垫付21万港币，注册维护香港公司踩坑花近2万，目前账户余额552元。文章以具体数字呈现独立团队的资金链现实与项目管理困境。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "猫见茶工作室",
+        "凉茶王",
+        "独立游戏"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 23,
+      "title": "The creator of E.T. on the Atari 2600 likens the deluge of AI-made games to the glut of poor-quality titles released ahead of the US video game crash of 1983",
+      "url": "https://www.gamesindustry.biz/the-creator-of-et-on-the-atari-2600-likens-the-deluge-of-ai-made-games-to-the-glut-of-poor-quality-titles-released-ahead-of-the-us-video-game-crash-of-1983",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-20 11:13",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "《E.T.》设计师Howard Scott Warshaw在DevGAMM里斯本演讲中，将当下AI生成游戏泛滥比作1983年美国游戏崩溃前的劣质游戏洪流，认为AI会以更大规模产生同样影响：更多人能实现创意，但大部分作品质量低下，新挑战是找到筛掉垃圾内容的方法。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "Howard Scott Warshaw",
+        "AI",
+        "Atari"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 6,
+      "title": "一款未上线的游戏全额退款，网易这个团队准备做点不一样的",
+      "url": "https://news.qq.com/rain/a/20261121A0DELU00",
+      "source": "GameLook",
+      "pub_date": "2026-11-21 13:11",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "网易《破碎之地》项目组宣布向参与付费测试的玩家开放历史充值全额退款（11月19日至12月18日）并赠送纪念周边。GameLook与项目组交流后指出，游戏已沉寂近两年，团队将推倒重来做一款「完全不一样」的新作，方向或偏向轻量化、社交化与题材差异化，并可能探索降低硬核对抗门槛的搜打撤；文章同时将其放在网易多品类、多平台在研管线的布局中观察。",
+      "tags": [
+        "版本更新",
+        "人物访谈"
+      ],
+      "keywords": [
+        "网易",
+        "破碎之地"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 4,
+      "title": "散爆加入二游大战！《少女前线：蓝蝶契约》海外首曝定档2027年发布",
+      "url": "https://news.qq.com/rain/a/20261121A0DEM300",
+      "source": "GameLook",
+      "pub_date": "2026-11-21 13:11",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "散爆《少女前线》IP第三人称多人合作PVE射击新作《少女前线：蓝蝶契约》海外首曝PV并定档2027年登陆移动端，该作已于今年10月拿到版号。项目源自同人《Project NET》，经黑卡蒂工作室收编与PVP/PVE多轮调整后收敛为四人共斗PVE。GameLook指出少前IP全球累计用户超3500万、《少前2》出海半月预估收入破3亿元，多人合作PVE踩中《绝地潜兵2》带起的风口，但海外社区对实机打磨、产能分配与数值平衡存在明显质疑。",
+      "tags": [
+        "新品曝光",
+        "新品定档",
+        "出海"
+      ],
+      "keywords": [
+        "散爆",
+        "少女前线：蓝蝶契约",
+        "黑卡蒂工作室"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 25,
+      "title": "大的来了？阅文大会首次亮相、勇闯亿级赛道的产品，今天终于浮出水面",
+      "url": "https://news.qq.com/rain/a/20261120A0DKR000",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-20 10:55",
+      "also_seen_in": [
+        "游戏葡萄"
+      ],
+      "module": "newgame",
+      "summary": "姚记系蹊迹游戏与阅文联合开发的《群星漫卡》首曝PV并定档11月27日首测、预计2027年上线，定位国内首款多IP电子集换式卡牌手游，首发集结《斗罗大陆》《吞噬星空》《狐妖小红娘》三大国漫IP并计划持续引入。产品以数字工艺还原拆包与卡面收藏体验、配轻度对战；姚记有PTCG国内代理与卡淘交易平台经验，阅文提供IP长线供给，官方称9月保密测试数据远超预期。",
+      "tags": [
+        "新品曝光",
+        "IP联动"
+      ],
+      "keywords": [
+        "群星漫卡",
+        "阅文",
+        "姚记",
+        "蹊迹游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 21,
+      "title": "Ubisoft merges two Creative Houses as H1 results decline 16.5%; Q2 net bookings above guidance thanks to Assassin's Creed Black Flag remake",
+      "url": "https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-drives-ubisoft-q2-net-bookings-above-guidance-h1-results-decline-165-to-6447m",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-20 11:43",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "育碧2026-27上半财年净预订额6.447亿欧元同比降16.5%，IFRS营业亏损1.892亿欧元；Q2净预订3.89亿欧元超指引，归功于《刺客信条：黑旗》重制版表现。",
+      "tags": [
+        "财报业绩",
+        "裁员",
+        "技术AI"
+      ],
+      "keywords": [
+        "育碧",
+        "刺客信条",
+        "Motherbrain"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 19,
+      "title": "停止研发、账号注销，成都国风单机游戏无了？！",
+      "url": "https://news.qq.com/rain/a/20261120A0FALL00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-20 13:09",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "游戏新知获悉，维塔士成都工作室开发超两年的国风第一人称潜行单机《唐传奇：琵琶行》已暂停研发，B站官号注销。该项目2024年首曝、两度参展ChinaJoy，开发周期从「两年」延至「三年到三年半」并寻求融资发行，高层曾承认早期美术投入过多、低估设计难度；原定2026年推出全程可玩版本的计划已无法落地。",
+      "tags": [
+        "关服停运"
+      ],
+      "keywords": [
+        "维塔士",
+        "唐传奇：琵琶行"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 16,
+      "title": "GTA 6: the first billion-dollar game may also be the last | Opinion",
+      "url": "https://www.gamesindustry.biz/gta-6-the-first-billion-dollar-game-may-also-be-the-last",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-20 15:02",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "GamesIndustry.biz评论认为《GTA6》可能是有史以来最贵、也最可能是最后一款十亿美元级游戏：其成功建立在十三年开发周期与PS4时代低利率、高增长的市场环境上，而当下利率高企、用户增长停滞、价格敏感与硬件涨价使AAA预算风险陡增，200-300万美元级预算已属常态且只有头部大作能盈利。作者判断其他发行商难有胆量跟进同等规模投入，行业将转向更可控的项目结构。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "GTA6",
+        "Rockstar",
+        "Take-Two"
+      ],
+      "importance": 3,
+      "detail": {
+        "points": [
+          {
+            "title": "十亿美元级投入的孤例",
+            "text": "GTA 6 的开发成本估计在 10 亿至 20 亿美元之间，是史上最昂贵的游戏，也是有史以来最昂贵的媒体产品。文章认为这笔投入仍是好投资：仅预购收入就可能达数十亿美元，有报道称其单作收入可能超过今年好莱坞所有主要制片厂的总和。Rockstar 用十三年时间换来的规模与细节是里程碑式成就，玩家可能要花数月甚至数年才能探索完。但作者的核心疑问是：这会不会是最后一次见到这样的作品。"
+          },
+          {
+            "title": "立项环境与发售环境错位",
+            "text": "GTA 6 立项时，PS4 正席卷全球，GTA Online 等早期实时服务游戏带来新增长预期，低利率和强劲市场基本面支撑了巨额投资。十多年后环境逆转：高利率让投资者规避风险项目，用户增长基本停滞，价格敏感使收入难以跟上通胀，硬件成本飙升让本应廉价的主机变得昂贵。AAA 预算因此被空前审视，2 亿至 3 亿美元已不罕见，但即便这个量级也只有最大爆款才能盈利，未达预期的代价极其惨重。"
+          },
+          {
+            "title": "同行不会跟进这场豪赌",
+            "text": "过去 GTA 级别的成功会促使其他发行商 scramble 跟进类似的大项目，但作者判断如今几乎没有同行有胃口承担这种风险。史上最贵游戏可能同时成为史上商业最成功的娱乐产品，但入场门槛已高到连 Take Two 最有野心或最自负的同行也难以承受。若 GTA 6 未达预期，同行回避的倾向只会更强。它不仅要成为爆款，还必须成为那个爆款：既要对标前作多年月月畅销、影响游戏之外文化讨论近十年的表现，还要在更虚幻的“相关性”尺度上过关，否则将重塑业界对大项目的风险认知长达数十年。"
+          },
+          {
+            "title": "跨代红利与硬件逆风",
+            "text": "文章指出 GTA 6 的发售时机明显是为复制 GTA 5 的跨世代双吃策略：与 PS6 保持足够距离让玩家不愿等待，又足够接近让游戏在新硬件上仍有需求。但该计划已被打乱，次世代硬件时间表本身显得不确定。主机销量受高价拖累，并未因 GTA 6 临近而止跌；明年 PC 版可能提前以弥补主机市场疲软，但当前 PC 硬件价格同样会抑制需求。这不影响今明两年销量，但之后与 GTA 5 销售曲线的比较可能更难。"
+          },
+          {
+            "title": "成功也难弥合行业裂缝",
+            "text": "作者强调 GTA 6 大概率不会挣扎，真正的问题是压在它身上的预期巨大且可能不现实。十年前高管会借这类游戏的表现去批准自己的巨型项目，今天他们更可能拆解其表现来寻找缩减预算的理由。因为无论 GTA 6 多成功，都无法扭转行业结构性裂缝，也无法抹去 Concord、Suicide Squad、Skull and Bones 等高调失败对高预算开发造成的伤害。GTA 可能是唯一能支撑十亿美元级预算的品牌，其他公司不太可能去验证这个定理，甚至 Take Two 自己是否愿再以该系列押上全部身家也存疑。"
+          },
+          {
+            "title": "未来不会到来的预演",
+            "text": "文章收束于一个判断：GTA 5 发售时像是游戏未来的预演，而 GTA 6 更像是一个永远不会到来的未来的惊鸿一瞥。以 2026 年美元计，可能再也不会有游戏预算突破 10 亿美元，这款独特而非凡的作品或将成为同类中的第一个也是最后一个，成为那种规模巨大、成本惊人、且随时间推移越来越难被证明合理的开发模式的绝唱。这并不贬低开发者的成就，而是对产业投资范式转变的冷静判断。"
+          }
+        ],
+        "takeaway": "对国内公司的启示：不要以 GTA 6 为标杆去论证超大预算立项，它的成功依赖品牌护城河与跨代发行窗口，二者都难复制。更应关注其预购与定价策略、PC 版提前的节奏安排，以及主机高价对用户转化的抑制；在预算决策上以 Concord、Suicide Squad 等失败为风险锚点，把资源集中在可验证的用户需求与长线运营上。"
+      }
+    },
+    {
+      "id": 2,
+      "title": "马斯克王思聪都上头的腾讯新游，制作人被玩家逼着在上海交了底",
+      "url": "https://news.qq.com/rain/a/20261121A0EWU000",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-21 15:56",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "《流放之路：降临》国服12月12日全球同步上线1.0并转免费，含国服专属时装、AI助手与百万奖池活动。",
+      "tags": [
+        "新品定档",
+        "版本更新"
+      ],
+      "keywords": [
+        "流放之路：降临",
+        "腾讯",
+        "GGG"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 12,
+      "title": "不只有堆版本，什么是同行羡慕不来的《梦幻西游》手游长青生命力？",
+      "url": "https://news.qq.com/rain/a/20261120A0GS2500",
+      "source": "GameLook",
+      "pub_date": "2026-11-20 15:54",
+      "also_seen_in": [
+        "游戏陀螺",
+        "游戏葡萄"
+      ],
+      "module": "ad",
+      "summary": "《梦幻西游》手游青春盛典公布彩虹小猪挂载、战斗平衡调整等更新，主打情怀内容焕新。",
+      "tags": [
+        "版本更新"
+      ],
+      "keywords": [
+        "梦幻西游手游",
+        "网易"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 13,
+      "title": "小团掀桌子！3人用时4天，用AI真干出款“无限暖暖”？",
+      "url": "https://news.qq.com/rain/a/20261120A0GS2100",
+      "source": "GameLook",
+      "pub_date": "2026-11-20 15:54",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "Epic AI MegaJam参赛作品《A: Alice, the Gathering》由3人4天用AI做出类《无限暖暖》可玩雏形。",
+      "tags": [
+        "技术AI"
+      ],
+      "keywords": [
+        "A: Alice, the Gather",
+        "Epic",
+        "AI"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 26,
+      "title": "五天卖出1300万，靠母亲的地下室和女友接济，两人搓出“3A大作”",
+      "url": "https://news.qq.com/rain/a/20261120A0DKQW00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-20 10:55",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "两人独立工作室Freshly Baked的《女王魔域》五天卖出1300万，制作人谈关卡设计理念。",
+      "tags": [
+        "产品复盘"
+      ],
+      "keywords": [
+        "女王魔域",
+        "Freshly Baked Games"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 28,
+      "title": "各平台对《GTA6》的差评到底在说什么？",
+      "url": "https://news.qq.com/rain/a/20261120A0DABY00",
+      "source": "触乐",
+      "pub_date": "2026-11-20 10:34",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "梳理X、Bluesky等平台对《GTA6》的差评，多与游戏本身无关，集中于DEI与3A产业争议。",
+      "tags": [
+        "市场分析"
+      ],
+      "keywords": [
+        "GTA6",
+        "Rockstar"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 31,
+      "title": "IGN partners with Rockstar to host Official Strategy Guide for GTA 6",
+      "url": "https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-20 10:07",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "IGN与Rockstar合作推出《GTA6》官方在线攻略，含互动地图与任务指南并持续更新。",
+      "tags": [
+        "IP联动"
+      ],
+      "keywords": [
+        "IGN",
+        "GTA6",
+        "Rockstar"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [
+    {
+      "id": 32,
+      "title": "Phonopolis from Amanita Design wins Grand Prize at the DevGAMM Awards",
+      "url": "https://www.gamesindustry.biz/phonopolis-from-amanita-design-wins-grand-prize-at-the-devgamm-awards",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-20 09:44",
+      "reason": "DevGAMM地区性奖项报道，与头部厂商及中国市场无关。",
+      "by": "model"
+    }
+  ],
+  "source_stats": {
+    "游戏葡萄": {
+      "fetched": 6,
+      "selected": 2,
+      "ad": 1,
+      "merged": 3,
+      "dropped": 0
+    },
+    "GameLook": {
+      "fetched": 8,
+      "selected": 6,
+      "ad": 2,
+      "merged": 0,
+      "dropped": 0
+    },
+    "触乐": {
+      "fetched": 4,
+      "selected": 3,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 4,
+      "selected": 2,
+      "ad": 1,
+      "merged": 1,
+      "dropped": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 10,
+      "selected": 5,
+      "ad": 1,
+      "merged": 3,
+      "dropped": 1
+    },
+    "游戏新知": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
