@@ -1,0 +1,419 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T00:51:23+00:00",
+  "model": "deepseek-flash",
+  "total": 17,
+  "modules": {
+    "rival": 0,
+    "industry": 6,
+    "product": 4,
+    "newgame": 2,
+    "company": 4,
+    "deep": 0,
+    "ad": 1,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 6,
+      "reason": "GTA6首日零售37.9亿美元、预售3250万套，过半主机活跃玩家当天入局，刷新娱乐业纪录"
+    },
+    {
+      "id": 11,
+      "reason": "GTA6媒体99分但用户均分仅5.6，拟真叙事与犯罪幻想冲突引发口碑争议"
+    },
+    {
+      "id": 10,
+      "reason": "黄仁勋因婚外情指控辞职10天后被英伟达董事会一致恢复CEO职务"
+    },
+    {
+      "id": 16,
+      "reason": "米哈游、腾讯曾投资的阿佩吉网络解散注销，《最后的厂牌》大概率无法上线"
+    },
+    {
+      "id": 12,
+      "reason": "三七互娱Q3境外收入同比增59%、占比超五成，首款二合产品切入休闲出海赛道"
+    }
+  ],
+  "items": [
+    {
+      "id": 6,
+      "title": "GTA6首日收入37.9亿美元：过半主机玩家首日入手游戏，下载带宽占全美24%",
+      "url": "https://news.qq.com/rain/a/20261123A0G5VH00",
+      "source": "GameLook",
+      "pub_date": "2026-11-23 15:11",
+      "also_seen_in": [
+        "GamesIndustry.biz"
+      ],
+      "module": "industry",
+      "summary": "《GTA 6》11月19日发售，Take-Two披露预售3250万套、首日零售收入37.9亿美元，称其为史上首日吸金最强娱乐产品；Circana数据显示美国61%的PS5活跃玩家和全球56%的Xbox活跃玩家当天启动游戏，平均游玩超8小时；Comcast报告预载峰值流量比日常高31%，《GTA 6》下载占其全网流量24%。主机存量红利快速释放，PC版被视为下一个增长引擎。",
+      "tags": [
+        "财报业绩",
+        "市场分析"
+      ],
+      "keywords": [
+        "GTA 6",
+        "Take-Two",
+        "Circana",
+        "Comcast"
+      ],
+      "importance": 5
+    },
+    {
+      "id": 11,
+      "title": "《GTA6》被骂疯了，这是它自找的",
+      "url": "https://news.qq.com/rain/a/20261123A0FBYG00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-23 13:45",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "《GTA 6》媒体评分99分、首日收入252亿元，但Metacritic超10万条用户评价均分仅5.6，争议集中在主角杰森被指「龟男」、叙事节奏过于写实克制、玩法仍是更大规模的3A罐头。文章分析R星将《荒野大镖客2》的拟真与道德系统带入现代都市，与玩家对「犯罪游乐场」的期待冲突，并讨论开放世界如何统一玩家幻想，认为PC版与OL模式或能挽回口碑。",
+      "tags": [
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "GTA 6",
+        "R星",
+        "荒野大镖客2"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 3,
+      "title": "EU opens consultation on Digital Fairness Act",
+      "url": "https://www.gamesindustry.biz/eu-opens-consultation-on-digital-fairness-act",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-23 17:33",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "欧盟委员会就《数字公平法案》公开征求意见至2027年1月14日，草案拟对开箱、虚拟货币、儿童内购、付费获胜机制和订阅制游戏设新规。英国Ukie批评全面限制会削弱家长自主权、推高开发成本；德国game协会认为将18岁以下评级游戏一律视为面向儿童会架空USK与PEGI分级，Supercell与King的CEO持类似观点。",
+      "tags": [
+        "政策监管"
+      ],
+      "keywords": [
+        "欧盟",
+        "数字公平法案",
+        "Ukie"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 5,
+      "title": "开发者心寒：游戏大厂随心所欲用AI，独游用AI就得被喷垃圾？",
+      "url": "https://news.qq.com/rain/a/20261123A0G5VO00",
+      "source": "GameLook",
+      "pub_date": "2026-11-23 15:11",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "GameLook梳理海外开发者社区讨论：索尼、Square Enix、Epic、育碧等大厂已在研发管线中广泛使用AI却鲜少受罚，独立开发者一旦沾AI即遭舆论围剿，甚至被反编译克隆（如《酒鬼女神的酒诡》被迫取消公开试玩）。文章认为这是受众预期与欺软怕硬的双重标准，但AI提升效率的趋势不可逆，最终仍回归创意与审美竞争。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "AI",
+        "独立游戏",
+        "索尼",
+        "育碧"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 12,
+      "title": "手握3款Top 30出海榜单产品，这家华南大厂正式切入二合赛道",
+      "url": "https://news.qq.com/rain/a/20261123A0F5H300",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-23 13:32",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "三七互娱今年在SLG之外切入二合赛道，首款二合产品《Merge Hope: Build & Story》6月安卓小规模测试、9月上iOS，Sensor Tower数据显示10月内购收入不足50万美元，仍处早期验证。游戏以末日荒漠母女求生为题材，用强剧情绑定订单与美剧式悬疑钩子做差异化，商业化入口柔化处理。背景是三七前三季度境外收入51.90亿元、同比增27%，Q3境外收入21.69亿元、同比增59.31%，占比超五成，公司明确将三消与二合作为海外新增长方向。",
+      "tags": [
+        "出海",
+        "市场分析"
+      ],
+      "keywords": [
+        "三七互娱",
+        "Merge Hope",
+        "Sensor Tower"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 8,
+      "title": "Activision files patent for neural network to train NPCs from in-game voice chat",
+      "url": "https://www.gamesindustry.biz/activision-files-patent-for-neural-network-to-train-npcs-from-in-game-voice-chat",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-23 15:09",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "动视7月提交、11月公开一项专利，拟用神经网络和大语言模型从游戏内语音聊天中学习玩家对击杀、死亡等事件的反应，训练NPC生成「接近真人」的音频反应，替代预录音频，技术也可用于Discord等社交应用。专利申请不保证落地，生成式AI在配音领域的使用正引发欧洲六家游戏工会与日本演员工会的关切。",
+      "tags": [
+        "技术AI"
+      ],
+      "keywords": [
+        "动视",
+        "AI",
+        "NPC"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 2,
+      "title": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build",
+      "url": "https://www.gamesindustry.biz/gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-xbox-build",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-23 19:43",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "泄露《GTA 6》的团体Cyberleek据IGN报道发布了泄露版Xbox构建的可执行文件，有人预测借助AI辅助重编译数日内即可在PC上运行。该团体称行动是为「对抗游戏行业的反消费者做法」，并回应并非加密骗局。Take-Two此前已向Discord等公司发出传票追查泄露者，目前仍不清楚该构建如何流出。",
+      "tags": [
+        "法律诉讼"
+      ],
+      "keywords": [
+        "GTA 6",
+        "Rockstar",
+        "Take-Two"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 9,
+      "title": "One way to stave off AI clones? Minimise the gap between announcement and launch",
+      "url": "https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-23 15:07",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "Tinybuild负责人Alex Nichiporchik在DevGAMM里斯本表示，为对抗AI克隆，公司正压缩公布与发售间隔：《Probably Stolen》8月3日公布、10月28日发售，销量已破百万，首发CCU迅速突破8万。",
+      "tags": [
+        "市场分析",
+        "出海"
+      ],
+      "keywords": [
+        "Tinybuild",
+        "Probably Stolen",
+        "Steam"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 14,
+      "title": "《战狗》主创：我做游戏只看结果，不在乎外界如何评价",
+      "url": "https://news.qq.com/rain/a/20261123A0DHF500",
+      "source": "触乐",
+      "pub_date": "2026-11-23 11:09",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "Bulkhead工作室CEO乔·布拉默回顾从ID@Xbox起步、凭《灵魂：生命之息》赚约40万英镑创立工作室，到《军团1944》因谷歌后端并发上限12345导致发售日崩溃的挫折；2025年12月他从腾讯手中回购工作室，8周后公布《战狗》，该作9月Steam抢先体验以来销量超300万份、平均同时在线稳定20万以上。他直言游戏手感与结果导向的工作室文化是成功关键，并计划在曼彻斯特开设新办公室。",
+      "tags": [
+        "人物访谈",
+        "产品复盘"
+      ],
+      "keywords": [
+        "Bulkhead",
+        "战狗",
+        "腾讯"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 1,
+      "title": "Nicalis removes AI-generated music from The Binding of Isaac: Repentance+ after player backlash",
+      "url": "https://www.gamesindustry.biz/nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentance-after-player-backlash",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-23 20:56",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "《以撒的结合：忏悔+》11月19日更新中加入与GTA6主题相关的每日挑战音乐，玩家发现曲目元数据指向AI音乐工具Suno后差评刷屏。创作者Edmund McMillen称对此毫不知情并推动移除，Nicalis已推送移除生成音乐文件的新版本，但未解释音乐如何进入游戏，Steam商店页也未披露AI使用。",
+      "tags": [
+        "技术AI",
+        "版本更新"
+      ],
+      "keywords": [
+        "以撒的结合",
+        "Nicalis",
+        "Edmund McMillen"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 17,
+      "title": "大梦龙途做出SLG爆款之后，这次居然盯上了《大巴扎》？",
+      "url": "https://news.qq.com/rain/a/20261123A0CGLK00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-23 09:53",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "大梦龙途曝光卡牌新作《吾剑之路》，将《大巴扎》式异步自走棋玩法轻量化：单局胜场从最多10场降至5场、时长从1小时压缩到半小时内，低段位单局约10分钟；卡槽从10格缩至8格、角色升级经验减半，并加入倍速战斗。商业化套用混合休闲模板，含付费抽卡「异宝」、角色天赋与广告复活/刷新奖励，试图在商业化与策略深度间找平衡。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "大梦龙途",
+        "吾剑之路",
+        "大巴扎"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 18,
+      "title": "《星际理想国》删档测试：野心勃勃的开放宇宙",
+      "url": "https://news.qq.com/rain/a/20261123A0C7O000",
+      "source": "触乐",
+      "pub_date": "2026-11-23 09:39",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "像素软件研发、腾讯发行的开放宇宙沙盒游戏《星际理想国》（原《硅基宇宙》）11月18日开启首次删档测试「比邻星测试」，邀请墨熊等十余位科幻作家构建世界观，主打多文明星系、玩家公司与星球建设。测试开放9种可切换「赛博格」角色，按农业/工程/黑客等资源特攻划分；玩家反馈新手引导松散、寻路标记不清、切换角色打断战斗节奏，首日出现卡顿等优化问题，官方已陆续修复。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "星际理想国",
+        "像素软件",
+        "腾讯"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 10,
+      "title": "Jensen Huang reinstated as Nvidia CEO and president following affair allegations",
+      "url": "https://www.gamesindustry.biz/jensen-huang-reinstated-as-nvidia-ceo-and-president-following-affair-allegations",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-23 14:33",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "英伟达董事会一致投票恢复黄仁勋CEO兼总裁职务。黄仁勋11月13日因被曝与一名疑似中国间谍及两名员工有婚外情而辞职，公司称董事会征询了美国政府高层意见，确信其复职不构成国家安全风险。英伟达已成立独立董事委员会调查其是否遭外国情报机构针对，并新设国家安全与出口管制委员会及首席合规官职位，黄仁勋还将赴美国国会作证。",
+      "tags": [
+        "人事变动"
+      ],
+      "keywords": [
+        "英伟达",
+        "黄仁勋"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 4,
+      "title": "Plug in Digital acquires News Tower publisher Twin Sails Interactive, creating new publishing group to \"compete in a highly competitive market\"",
+      "url": "https://www.gamesindustry.biz/plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-creating-new-publishing-group-to-compete-in-a-highly-competitive-market",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-23 15:15",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "法国发行商Plug In Digital收购巴黎独立发行商Twin Sails Interactive（原Asmodee数字部门、《News Tower》发行方，后者销量248,112份），合并成立独立游戏发行集团，Twin Sails CEO Nicolas Godement升任集团CEO，Plug In Digital创始人Francis Ingrand转任董事长。新集团每年拟发行6-8款游戏，为单款游戏提供最高50万欧元开发资金及营销支持，并借助Plug In Digital的中国市场资源与数百个PC/移动商店渠道。",
+      "tags": [
+        "并购"
+      ],
+      "keywords": [
+        "Plug In Digital",
+        "Twin Sails",
+        "News Tower"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 13,
+      "title": "Christoph Hartmann wants Ubisoft's Massive Entertainment to go beyond shooters and be the \"A24 of gaming\"",
+      "url": "https://www.gamesindustry.biz/christoph-hartmann-wants-ubisofts-massive-entertainment-to-go-beyond-shooters-and-be-the-a24-of-gaming",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-23 12:38",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Massive Entertainment总经理Christoph Hartmann表示希望该育碧事业部超越射击品类，成为「游戏界的A24」——服务核心玩家、兼顾奖项与商业成功，未来可能做RPG、MMO甚至策略游戏，但不碰赛车、体育和休闲儿童向。他称小型组织层级少更利于沟通，并解释离开亚马逊是因为游戏已非其首要焦点。",
+      "tags": [
+        "人事变动",
+        "财报业绩"
+      ],
+      "keywords": [
+        "育碧",
+        "Massive Entertainmen",
+        "Christoph Hartmann"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 16,
+      "title": "前叠纸制作人创业公司决议解散，还能等来《最后的厂牌》吗？",
+      "url": "https://news.qq.com/rain/a/20261123A0CGLW00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-23 09:53",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "前叠纸发行负责人刘子健2020年创立的上海阿佩吉网络决议解散并申请注销，曾获米哈游、腾讯、游戏扳机投资，在研项目《最后的厂牌》大概率无法上线。腾讯今年8月已退出股东行列，项目2022年底曾因资金问题暂停开发，官号11月7日仍在更新，一周后公司即提交注销申请。",
+      "tags": [
+        "关服停运"
+      ],
+      "keywords": [
+        "阿佩吉网络",
+        "最后的厂牌",
+        "腾讯",
+        "米哈游"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 7,
+      "title": "一张概念图卷出整条生产线！AI 生成游戏资产“做完就丢”的局被破了？",
+      "url": "https://news.qq.com/rain/a/20261123A0G5UZ00",
+      "source": "GameLook",
+      "pub_date": "2026-11-23 15:11",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "VAST推广Tripo智能画布与Blender插件「无限之心」，宣称可将概念图批量转化为可进引擎的3D资产工作流。",
+      "tags": [
+        "技术AI"
+      ],
+      "keywords": [
+        "VAST",
+        "Tripo"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [],
+  "source_stats": {
+    "GamesIndustry.biz": {
+      "fetched": 9,
+      "selected": 8,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    },
+    "GameLook": {
+      "fetched": 3,
+      "selected": 2,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏葡萄": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "触乐": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
