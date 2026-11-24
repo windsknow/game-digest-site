@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-23T00:53:20+00:00",
+  "updated": "2026-11-24T00:51:25+00:00",
   "days": [
+    {
+      "date": "2026-11-24",
+      "total": 17,
+      "modules": {
+        "rival": 0,
+        "industry": 6,
+        "product": 4,
+        "newgame": 2,
+        "company": 4,
+        "deep": 0,
+        "ad": 1,
+        "other": 0
+      },
+      "headlines": [
+        "GTA6首日收入37.9亿美元：过半主机玩家首日入手游戏，下载带宽占全美24%",
+        "《GTA6》被骂疯了，这是它自找的",
+        "Jensen Huang reinstated as Nvidia CEO and president following affair allegations",
+        "前叠纸制作人创业公司决议解散，还能等来《最后的厂牌》吗？",
+        "手握3款Top 30出海榜单产品，这家华南大厂正式切入二合赛道"
+      ]
+    },
     {
       "date": "2026-11-23",
       "total": 26,
