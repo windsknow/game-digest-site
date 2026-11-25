@@ -1,0 +1,444 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T00:52:00+00:00",
+  "model": "deepseek-flash",
+  "total": 15,
+  "modules": {
+    "rival": 0,
+    "industry": 6,
+    "product": 5,
+    "newgame": 1,
+    "company": 1,
+    "deep": 2,
+    "ad": 0,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 2,
+      "reason": "《GTA6》PS5首发3900万玩家、6.83亿小时，创PlayStation史上最大首发，渗透率近40%触及主机天花板"
+    },
+    {
+      "id": 11,
+      "reason": "B站Q3营收83.2亿、净利5.04亿，游戏收入14.1亿同比降7%，《三王》12月24日接档"
+    },
+    {
+      "id": 6,
+      "reason": "《甄嬛传》两款二合小游戏冲上微信/抖音畅销榜TOP16，泛女性向小游戏红利显现"
+    },
+    {
+      "id": 15,
+      "reason": "《GTA6》媒体99分、玩家分回升至5.7，触乐剖析万人团队与60小时主线带来的争议"
+    }
+  ],
+  "items": [
+    {
+      "id": 2,
+      "title": "索尼狂喜！40% PS5 玩家涌入 GTA6，3900 万人进城，七成新机首玩即是它",
+      "url": "https://news.qq.com/rain/a/20261124A0G5X900",
+      "source": "GameLook",
+      "pub_date": "2026-11-24 15:41",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "索尼官方披露《GTA6》PS5首发窗口（11月19-22日）超3900万独立玩家、累计6.83亿小时、人均17.4小时，创PlayStation史上最大首发；70%新联网PS5首玩即《GTA6》。以PS5约1亿装机量估算渗透率近40%，主机端增量接近天花板，后续增长或依赖明年PC版。",
+      "tags": [
+        "榜单数据",
+        "市场分析"
+      ],
+      "keywords": [
+        "GTA6",
+        "索尼",
+        "PS5",
+        "Take-Two"
+      ],
+      "importance": 5
+    },
+    {
+      "id": 6,
+      "title": "《甄嬛传》小游戏大乱斗，有人靠AI漫剧摸到微信畅销榜第16名！",
+      "url": "https://news.qq.com/rain/a/20261124A0G5WU00",
+      "source": "GameLook",
+      "pub_date": "2026-11-24 15:41",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "泛女性向小游戏崛起：拾光筑梦《甄嬛传：归来》靠二合+AI漫剧站稳微信/抖音小游戏畅销榜TOP16，三七互娱《梦回甄嬛传》抖音稳定TOP20，雷霆代理的《甄嬛传》手游预计明年Q1上线。文章结合微信小游戏月活5亿、女性用户47%、40岁以上占40%等数据，分析《甄嬛传》IP在泛女性向赛道的价值与两种产品路径差异。",
+      "tags": [
+        "小游戏",
+        "市场分析",
+        "IP联动"
+      ],
+      "keywords": [
+        "甄嬛传",
+        "三七互娱",
+        "雷霆游戏",
+        "微信小游戏"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 15,
+      "title": "许多人批评《GTA 6》，但这重要吗？",
+      "url": "https://news.qq.com/rain/a/20261124A0DAFN00",
+      "source": "触乐",
+      "pub_date": "2026-11-24 11:24",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "触乐复盘《GTA6》发售后的舆论：媒体均分99/100，Metacritic玩家分从3.7回升至5.7，PS Store 17万人打4.84/5。批评集中于剧情节奏慢、自由受限、玩法重复，根源是游戏规模过大（片尾制作人员去重后10570人、主线60小时以上）。作者认为批评是优秀作品被接受的过程，并指出《GTA6》可能是当前主机形态的终极形态。",
+      "tags": [
+        "市场分析",
+        "产品复盘"
+      ],
+      "keywords": [
+        "GTA6",
+        "Rockstar",
+        "Metacritic"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 1,
+      "title": "俄罗斯要搞游戏版号？考虑强制游戏许可，并允许安全局获取玩家数据",
+      "url": "https://news.qq.com/rain/a/20261124A0G5XB00",
+      "source": "GameLook",
+      "pub_date": "2026-11-24 15:41",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "俄罗斯正讨论对游戏实施强制发行许可，要求厂商在俄通信监管局注册、数据本地化，并接入FSB的SORM监控系统；相关修订拟取消原法案的电话号码/生物识别验证。行业组织负责人警告发证将抬高成本、导致延期，外国开发者可能拒绝合规。国家杜马计划2026年底前完成初审。",
+      "tags": [
+        "政策监管"
+      ],
+      "keywords": [
+        "俄罗斯",
+        "FSB",
+        "游戏版号"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 16,
+      "title": "UK mobile developers can now apply for their share of a £260 million Google settlement",
+      "url": "https://www.gamesindustry.biz/uk-mobile-developers-can-now-apply-for-their-share-of-a-260-million-google-settlement",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-24 10:50",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "英国开发者可就Google Play反垄断集体诉讼2.6亿英镑和解金申领，2018年8月至2026年7月在Play上架应用/游戏/订阅的逾1万家企业符合资格，最低赔付200英镑，按销售额递增，头部产品可达百万英镑；申领截止2027年3月24日。",
+      "tags": [
+        "法律诉讼"
+      ],
+      "keywords": [
+        "Google",
+        "Google Play",
+        "英国"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 14,
+      "title": "GTA 6 was the \"biggest launch in PlayStation history\", with the highest number of concurrent players ever",
+      "url": "https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-24 11:44",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "合并至id 2",
+      "tags": [],
+      "keywords": [],
+      "importance": 1
+    },
+    {
+      "id": 4,
+      "title": "12 天狂销百万套！《我带过最差的一届》成为今年第四款百万国单",
+      "url": "https://news.qq.com/rain/a/20261124A0G5X200",
+      "source": "GameLook",
+      "pub_date": "2026-11-24 15:41",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "顽核社8人团队派对游戏《我带过的最差的一届》发售12天销量破100万份，成为今年第四款百万国单；首日超10万、首周60万，Steam特别好评约87%-89%，同时在线峰值约4万。官方公布月月更新计划，明年春节推2.0大版本。",
+      "tags": [
+        "榜单数据",
+        "产品复盘"
+      ],
+      "keywords": [
+        "我带过的最差的一届",
+        "顽核社"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 9,
+      "title": "年入近10亿，IGG这款SLG把《沙丘3》搬进了末日世界",
+      "url": "https://news.qq.com/rain/a/20261124A0FM1200",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-24 14:36",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "IGG末日生存SLG《Doomsday: Last Survivors》11月18日抢先开启与《沙丘3》联动，获App Store与Google Play全球推荐。该游戏2025年收入约11.4亿港元（约9.7亿元）同比增12%，联动覆盖英雄皮肤、基地装扮、原创剧情与沙丘主题群岛战役，延续其以IP联动更新核心玩法的长线思路。",
+      "tags": [
+        "IP联动",
+        "出海"
+      ],
+      "keywords": [
+        "IGG",
+        "Doomsday",
+        "沙丘3"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 12,
+      "title": "公布仅3个月便发售，销量破百万：这款赛博朋克模拟游戏扛住AI抄袭",
+      "url": "https://news.qq.com/rain/a/20261124A0E2SK00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-24 12:28",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "TinyBuild在伦敦AI与游戏大会分享《Probably Stolen》经验：8月3日公布、10月28日发售，间隔不足三个月，销量破100万，首日CCU超8万，中国玩家占首发约四分之三。核心策略是压缩公布到发售窗口以抵御AI克隆，同时靠手感与留存构筑壁垒，并下调国区定价至55元、与心动合作本地化。",
+      "tags": [
+        "出海",
+        "市场分析"
+      ],
+      "keywords": [
+        "TinyBuild",
+        "Probably Stolen",
+        "心动公司"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 17,
+      "title": "腾讯发行的这款新游做了7年，把饥荒做成了元梦之星？",
+      "url": "https://news.qq.com/rain/a/20261124A054U800",
+      "source": "游戏新知",
+      "pub_date": "2026-11-24 02:31",
+      "also_seen_in": [
+        "GameLook"
+      ],
+      "module": "product",
+      "summary": "盛趣研发、腾讯发行的《饥困荒野》11月24日上线，预约达3000万。评测指出游戏为降低门槛重做家园与沙盒交互：轻松难度近乎无死亡惩罚、家园可回血存物资，长线加入角色/武器/宠物养成、通行证与副本，整体更像MMO，原作硬核生存风味被削弱；专家模式保留原版体验。作者担忧老玩家流失与新用户留存。",
+      "tags": [
+        "版本更新",
+        "产品复盘"
+      ],
+      "keywords": [
+        "饥困荒野",
+        "腾讯",
+        "盛趣",
+        "饥荒"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 10,
+      "title": "拒绝擦边的主播女王盐，在停播四年后成了游戏制作人",
+      "url": "https://news.qq.com/rain/a/20261124A0FM0N00",
+      "source": "游戏葡萄",
+      "pub_date": "2026-11-24 14:36",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "前主播女王盐停播四年后转型制作人，与朋友团队开发音乐+幸存者like《喵乐迪：律动幸存者》，Demo已上线Steam，并入围IndiePlay最佳听觉效果奖、入选DreamHack独立游戏展区。文章讲述其从发行侧从业者到独立开发者的历程与产品设计思路。",
+      "tags": [
+        "人物访谈",
+        "新品曝光"
+      ],
+      "keywords": [
+        "女王盐",
+        "喵乐迪",
+        "独立游戏"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 3,
+      "title": "魔方新游《异人之下》定档12月17日！年末“二游大混战”全部就位",
+      "url": "https://news.qq.com/rain/a/20261124A0G5X500",
+      "source": "GameLook",
+      "pub_date": "2026-11-24 15:41",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "腾讯魔方《异人之下》定档12月17日全平台公测，彭于晏代言，全网预约破4800万。年末二次元/漫改新游密集排期：《蓝色星原：旅谣》11月26日、《星布谷地》12月4日、《白银之城》12月14日，网易《无限大》定档2027年1月15日，米哈游《崩坏：因缘精灵》定档2027年春季。",
+      "tags": [
+        "新品定档"
+      ],
+      "keywords": [
+        "异人之下",
+        "腾讯魔方",
+        "蓝色星原",
+        "无限大"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 11,
+      "title": "B站Q3营收83亿、净利5亿，游戏创收14亿等待下一张王牌",
+      "url": "https://news.qq.com/rain/a/20261124A0E2SR00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-24 12:28",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "B站2026Q3营收83.2亿元同比增8%，净利5.04亿元增7%；广告30.9亿增20%，移动游戏14.1亿同比降7%、环比增1%，为唯一负增长项，主因《三国：谋定天下》高基数消退。接档产品《三国志：王道天下》定档12月24日公测，研发投入5亿元、首年营销预算超2亿元，收入大概率递延至2027年。",
+      "tags": [
+        "财报业绩"
+      ],
+      "keywords": [
+        "B站",
+        "三国谋定天下",
+        "三国志：王道天下"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 7,
+      "title": "Anthropic老板不是人！暴论：“AI 引发动荡，用游戏安抚人类”",
+      "url": "https://news.qq.com/rain/a/20261124A0G5WL00",
+      "source": "GameLook",
+      "pub_date": "2026-11-24 15:41",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "GameLook评论Anthropic CEO达里奥早年内部言论「AI引发失业动荡时可用沉浸式游戏安抚民众」，认为这是把游戏重新污名化为「精神鸦片」，暴露硅谷精英的傲慢。文章以《GTA6》同日发售、Take-Two CEO称生成式AI在开发中「零参与」为对照，论证游戏奇迹不靠AI，并批评Anthropic的双标与财务混乱。",
+      "tags": [
+        "技术AI",
+        "市场分析"
+      ],
+      "keywords": [
+        "Anthropic",
+        "GTA6",
+        "Take-Two"
+      ],
+      "importance": 2,
+      "detail": {
+        "points": [
+          {
+            "title": "AI巨头把游戏当维稳工具",
+            "text": "达里奥·阿莫代伊在OpenAI任职期间（2016-2020）的内部Slack讨论中提出，AI大规模取代工作引发动荡时可用沉浸式电子游戏安抚失业民众。GameLook认为这不是抬举游戏，而是把游戏重新拖回精神鸦片污名化泥潭。论据是皮尤研究中心2026年9月调查：37个受访国家中34国民众认为AI会导致岗位减少，而美国就业以服务业和白领为主干，恰是AI冲击首当其冲的群体。AI公司制造失业烂摊子，却指望游戏消耗大众精力、让人忘记现实痛苦。"
+          },
+          {
+            "title": "玩家反弹与精英鄙视链",
+            "text": "全球玩家是互联网上最反感生成式AI的群体之一，海外玩家刷《黑客帝国》《头号玩家》梗反问：失业的问题不是无聊，是没钱吃饭，没工作拿什么买游戏。达里奥此前多次表态不屑C端娱乐竞争，称Anthropic不用做广告、不琢磨短视频、不最大化用户参与度。GameLook指出其鄙视的不只是游戏，而是所有服务普通人快乐的大众娱乐，包括TikTok、抖音、红果短剧；其真正盯上的是全社会存量市场中最有价值的岗位、利润与消费支出。"
+          },
+          {
+            "title": "道德面具下的双标与财务乱象",
+            "text": "文章列举Anthropic多重矛盾：11月19日纳斯达克敲钟合影清一色白人精英面孔，引发卸磨杀驴与种族偏见质疑；2026年2月点名指控DeepSeek、月之暗面和MiniMax发起工业级规模蒸馏攻击；自身被指控从盗版书库抓取超700万份数字书籍，掏15亿美元和解金（2026年7月获联邦法院最终批准）；2026年3月31日Claude Code源码泄露后DMCA误伤约8100个GitHub仓库。财务上2026年上半年GAAP净亏损807亿美元，背负到2045年近1万亿美元算力采购承诺，与五角大楼合作被列为供应链风险后诉讼于2026年9月被哥伦比亚特区巡回上诉法院驳回；IPO当天七位联合创始人每人账面身家约200亿美元。"
+          },
+          {
+            "title": "GTA 6零AI打脸技术万能论",
+            "text": "2026年11月19日《GTA 6》与Anthropic敲钟同日发售，玩家调侃真实的元宇宙是GTA 6而非Meta的Horizon。Take-Two CEO施特劳斯·泽尔尼克对GamesIndustry.biz明确表示生成式AI在R星开发中零参与，次日对Business Insider重申游戏由人类团队纯手工打磨，AI只配帮法务财务处理后台行政杂活。GameLook指出AI生产力狂飙未让行业更轻松，反而催生海量低质AI泔水与产能过剩，把中小研发团队推向更严重内卷，也让计算机与游戏相关专业年轻人一毕业就面临失业。"
+          },
+          {
+            "title": "游戏是启示录而非麻醉剂",
+            "text": "文章指出达里奥逻辑悖论：若白领、程序员、画师、编剧都被AI取代，用游戏平息怒火，那开发游戏的人呢？机器做出的无灵魂游戏连狗都不玩。游戏本身是敏锐的文化载体：《GTA 6》用黑色幽默扒开美国社会荒诞贪婪撕裂；《辐射》系列模拟商业巨头避难所科技为一己私利毁灭人类；《生化危机》的保护伞公司演生物科技寡头失控；《赛博朋克2077》刻画高科技低生活反乌托邦。这些正是硅谷加速主义巨头可能推向的未来，游戏早已预演科技寡头失控后果。"
+          },
+          {
+            "title": "游戏未来属于人而非算法",
+            "text": "GameLook强调人需要工作也需要生活娱乐，游戏本质是人类的梦，中国及全球最成功长青网游的核心生命力在社交性与真实人际连接：玩家并肩作战结交跨地域挚友，收获情绪价值与归属感，线下漫展游戏展的鲜活热忱是游戏作为人际桥梁的温度。游戏数字世界是人类文明向内开拓的边疆，娱乐产业为人类服务而非伺候AI代理与资本报表。技术只是社会演进变量，方向取决于公共治理与普通人意志，物极必反，寡头应对人怀敬畏。"
+          }
+        ],
+        "takeaway": "对国内厂商的启示有三：一是别把AI当叙事卖点，GTA 6零AI仍成现象级，玩家为人类创作买单，AI泔水只会加剧内卷与口碑反噬；二是社交与真实人际连接仍是长青产品护城河，出海与长线运营应押注UGC、社区与线下场景而非算法投喂；三是AI降本须用于法务财务等后台，核心创意岗位保留人类主导，同时警惕以AI替代人力引发的舆论与监管风险。"
+      }
+    },
+    {
+      "id": 8,
+      "title": "\"You are still taking 100% of the risk\" – Why Cairn dev The Game Bakers backs self-publishing for all but the smallest developers",
+      "url": "https://www.gamesindustry.biz/you-are-still-taking-100-of-the-risk-why-cairn-dev-the-game-bakers-backs-self-publishing-for-all-but-the-smallest-developers",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-24 15:28",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "《Cairn》开发商The Game Bakers联合创始人Audrey Leprince在Paris Game Biz分享：独立开发者应坚持自主发行以直接连接社区、保留全部收入与创作自由；Furi约380万人、Haven约200万人游玩，社区是第一营销工具。她强调营销需长期持续、复用素材，并建议与平台等更强伙伴合作，但「风险仍100%由自己承担」。",
+      "tags": [
+        "市场分析",
+        "人物访谈"
+      ],
+      "keywords": [
+        "The Game Bakers",
+        "Cairn",
+        "自主发行"
+      ],
+      "importance": 2,
+      "detail": {
+        "points": [
+          {
+            "title": "自出版构建直接社区连接",
+            "text": "Leprince 指出，自出版的首要优势是开发者能与社区建立直接联系。玩家通过社区、朋友、主播和 YouTuber 发现游戏，而发行商会通过其社交媒体和品牌触达玩家，但开发者若更换发行商，就无法继续 access 该社区。The Game Bakers 的 Furi 有约 380 万玩家，Haven 有 200 万玩家，因此每次发布新游戏都能与数百万玩家对话。她强调社区是头号营销工具，因为 Steam、PlayStation 和 Nintendo Switch 等平台已难以人为影响，Steam 转向算法推荐后，游戏只会展示给特定受众。"
+          },
+          {
+            "title": "自资保留全部收入与创作自由",
+            "text": "Leprince 认为自出版的第二个理由是自资，开发者能保留全部收入。她指出，若将 50% 收入让给发行商，即使首款游戏成功，剩余资金可能只够开发第二款游戏，难以支撑更宏大的项目，从而陷入依赖发行商的循环。她表示，若持续让出 50% 或 70% 收入，就永远没有足够资金承担必要风险。自资还能保持创作自由，让工作室决定方向。她以 Cairn 为例，当她说游戏只是关于攀登时，人们嘲笑她，认为会有 Boss 战，但团队坚持了愿景，这正是游戏成功且独特的原因。"
+          },
+          {
+            "title": "营销始于开发，开发者是首位营销者",
+            "text": "Leprince 强调营销是自出版成功的关键，且营销始于开发过程。开发者应在制作游戏时深入思考风格、受众和差异化，这些都是营销要点。她说：“如果你不知道什么有市场，就不要做游戏。”必须了解受众、产品和竞争对手。她认为没有世界会让别人替你成功，开发者必须从最初决策、聘请艺术总监、编剧和玩法设计开始就确保成功。她建议通过 GameDiscoverCo 等新闻通讯了解行业趋势，并指出发行商的秘密在于拥有社区。The Game Bakers 现在有全职营销经理和每周工作两天的社区经理，并与营销机构合作。"
+          },
+          {
+            "title": "营销是持续工作，长尾销售靠运营",
+            "text": "Leprince 强调营销不是发布前后的一次性活动，而是持续不断的工作。The Game Bakers 的游戏有极长尾效应，许多销售来自第二、三、四、五甚至第十年。营销经理持续工作，即使新游戏还远未公布，也要营销补丁、DLC、主机移植和奖项。她举例说，最近与 Steam 在 GDC 讨论后对 Furi 和 Haven 进行深度折扣，带来“巨额收入”。她列举了更新老游戏、艺术书、 merchandise 和活动等保持销售的方式，并建议尽可能低成本创建内容，重复利用素材，例如任天堂不介意 Nintendo Direct 中的预告片与发布预告片相同。"
+          },
+          {
+            "title": "平台合作放大曝光但风险仍自担",
+            "text": "尽管坚定支持自出版，Leprince 强调寻找合作伙伴的重要性。Furi 与 PlayStation 合作，获得 100 万美元开发资金，以 PlayStation Plus 订阅交易为代价。Cairn 也与 PlayStation 合作，但这次选择不进行订阅交易，而是 co-publishing 协议，PlayStation 提供大量营销资金，购买商店和社交媒体 placement。她表示平台合作伙伴能带来巨大曝光，Summer Game Fest 有 5000 万观众，PlayStation 展示会可达 8000 万观众。但她强调，即使有发行商，开发者仍承担 100% 风险，因为如果一切失败，责任仍在开发者。她建议始终与更强大的平台合作伙伴合作。"
+          },
+          {
+            "title": "评估工作量，避免单打独斗",
+            "text": "Leprince 最后强调，开发者必须评估是否有能力承担自出版和营销的负担。她说：“如果你已经为制作游戏焦头烂额，就不要尝试在此基础上再做这个。”需要找到能帮助营销推广、协调社区经理或内容创作者的人，并花时间寻找合适的影响者。在 Wings，他们不再让独立开发者自出版，因为他们会 burnout，而是帮助他们自出版，希望他们能为下一款游戏扩大团队。她强调这不是单人冒险，至少应与一个信任的人同行，这是可持续工作室的关键。"
+          }
+        ],
+        "takeaway": "国内中小团队若想自出版，需先确认能否持续投入社区运营与长尾营销，否则应优先与平台或发行商合作获取曝光；同时应保留核心创作自主权，避免为短期资金让出过多收入而陷入依赖循环。"
+      }
+    }
+  ],
+  "dropped": [
+    {
+      "id": 13,
+      "title": "Splitscreen Croatia conference offers attendance packages for developers looking to showcase unreleased games to publishers and investors",
+      "url": "https://www.gamesindustry.biz/splitscreen-croatia-conference-offers-free-travel-packages-for-developers-looking-to-showcase-unreleased-games-to-publishers-and-investors",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-24 12:18",
+      "reason": "地区性展会参展招募，与头部厂商及中国市场无关",
+      "by": "model"
+    }
+  ],
+  "source_stats": {
+    "GameLook": {
+      "fetched": 7,
+      "selected": 6,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    },
+    "GamesIndustry.biz": {
+      "fetched": 4,
+      "selected": 3,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 1
+    },
+    "游戏葡萄": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "触乐": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    }
+  }
+}
