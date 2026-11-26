@@ -1,0 +1,562 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T00:51:47+00:00",
+  "model": "deepseek-flash",
+  "total": 21,
+  "modules": {
+    "rival": 0,
+    "industry": 4,
+    "product": 3,
+    "newgame": 3,
+    "company": 4,
+    "deep": 3,
+    "ad": 4,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 14,
+      "reason": "拳头创始人复盘20年：一年成本增45%、2XKO失败退款，并谈AI与电竞周期，信息量大。"
+    },
+    {
+      "id": 19,
+      "reason": "《Monopoly Go》累计玩家支出破80亿美元，三年创收534亿元，休闲出海标杆。"
+    },
+    {
+      "id": 13,
+      "reason": "腾讯魔方藏了2年的多人动作竞技《狩》首曝，2027年1月首测，切入高DAU动作赛道。"
+    },
+    {
+      "id": 6,
+      "reason": "米哈游《因缘精灵》三测开放商业化，首创“不歪池”并绑定角色与精灵，明年Q1上线前关键测试。"
+    },
+    {
+      "id": 21,
+      "reason": "蓝色奥义微恐二合出海合计收入数亿，多家北京厂商跟进，细分品类竞争升温。"
+    }
+  ],
+  "items": [
+    {
+      "id": 19,
+      "title": "七年研发、三年创收534亿元，这款休闲游戏再创纪录",
+      "url": "https://news.qq.com/rain/a/20261125A0DX2P00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-25 11:03",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "Scopely宣布《Monopoly Go》玩家累计支出2026年夏季突破80亿美元（约534亿元），较2025年的60亿美元明显增长；游戏2023年4月上线、研发七年，上线半年破10亿、一周年30亿。AppMagic估算今年1月起Google Play净收入超4亿美元、App Store约4.77亿美元，均未计入TycoonClub网页端流水。产品副总裁称团队不预设路线，按玩家偏好做赛季机制而非换皮，新增内容不改变基础体验。",
+      "tags": [
+        "榜单数据",
+        "出海"
+      ],
+      "keywords": [
+        "Scopely",
+        "Monopoly Go",
+        "AppMagic"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 16,
+      "title": "Analyst: Don't expect hardware price cuts until at least 2028",
+      "url": "https://www.gamesindustry.biz/analyst-dont-expect-hardware-price-cuts-until-at-least-2028",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-25 13:09",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "S&P Global Kagan分析认为，受AI数据中心需求推高DRAM价格影响，主机硬件至少到2028年才可能降价；DRAM产能2028年将增至81.9万片/月，但新增产能主要服务数据中心，若AI需求持续可能吃掉多余供给。",
+      "tags": [
+        "硬件平台",
+        "市场分析"
+      ],
+      "keywords": [
+        "S&P Global",
+        "DRAM",
+        "Xbox"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 21,
+      "title": "微恐游戏海外吸金数亿后，这家北京厂商又出手了！",
+      "url": "https://news.qq.com/rain/a/20261125A0CMZW00",
+      "source": "游戏新知",
+      "pub_date": "2026-11-25 09:45",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "北京厂商蓝色奥义以“微恐解谜+二合”在出海二合赛道跑出新方向，旗下《Haunted Merge》《Merge Prison》进入今年二合出海TOP15、合计收入数亿元；其两款新品《Merge Asylum》《Horror Merge》开启抢先体验，转向西式恐怖题材，后者加入寻物与推理环节。贝塔、博乐、多比特、哈乐沃德等厂商跟进，分别推出日式、美式、英伦风微恐二合新品，该细分品类竞争正在升温。",
+      "tags": [
+        "出海",
+        "市场分析"
+      ],
+      "keywords": [
+        "蓝色奥义",
+        "Horror Merge",
+        "二合",
+        "微恐"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 15,
+      "title": "Gaming sector to benefit from funding package of over £45m as part of Creative Industries Sector Plan",
+      "url": "https://www.gamesindustry.biz/gaming-sector-to-benefit-from-funding-package-of-over-45m-as-part-of-creative-industries-sector-plan",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-25 14:55",
+      "also_seen_in": [],
+      "module": "industry",
+      "summary": "英国UKRI“创意产业部门计划”下，8家游戏工作室分享逾4500万英镑政府资金，Huey Games、Ten24 Media等入选Innovate UK的Next Wave Pilot，项目成本11万-50万英镑、企业至少配套30%；",
+      "tags": [
+        "政策监管",
+        "融资"
+      ],
+      "keywords": [
+        "UKRI",
+        "Huey Games",
+        "英国游戏产业"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 1,
+      "title": "EA Sports FC 27 adds AI-recreated voice of late commentator John Motson",
+      "url": "https://www.gamesindustry.biz/ea-sports-fc-27-adds-ai-recreated-voice-of-late-commentator-john-motson",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-25 20:48",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "EA在《EA Sports FC 27》中用存档录音加生成式AI重现已故解说员John Motson的声音，11月26日上线，系系列首次启用已故解说员；EA称获其遗孀与儿子许可并付费，但未透露金额。",
+      "tags": [
+        "技术AI",
+        "版本更新"
+      ],
+      "keywords": [
+        "EA",
+        "EA Sports FC 27",
+        "John Motson"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 4,
+      "title": "Capcom will shut down Exoprimal servers in September 2027",
+      "url": "https://www.gamesindustry.biz/capcom-will-shut-down-exoprimal-servers-in-september-2027",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-25 17:19",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "卡普空宣布在线恐龙射击游戏《Exoprimal》将于2027年9月29日终止服务，届时游戏不再可玩；Survival Pass第一至四赛季高级版已于11月24日下架，游戏本体、DLC及全部产品将于2027年3月30日停售，已购玩家在停服前仍可重新下载。",
+      "tags": [
+        "关服停运"
+      ],
+      "keywords": [
+        "卡普空",
+        "Exoprimal"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 17,
+      "title": "Unreal Engine 6 won't include Blueprints or Actor Gameplay Framework",
+      "url": "https://www.gamesindustry.biz/unreal-engine-6-wont-include-blueprints-or-actor-gameplay-framework",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-25 12:43",
+      "also_seen_in": [],
+      "module": "product",
+      "summary": "Epic宣布虚幻引擎6将不再支持Blueprints和Actor Gameplay Framework，改用Verse与新的Scene Graph框架，推翻6月“两者共存”的说法；",
+      "tags": [
+        "技术AI",
+        "硬件平台"
+      ],
+      "keywords": [
+        "Epic",
+        "虚幻引擎6",
+        "Verse"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 6,
+      "title": "《崩坏：因缘精灵》终于要回答“那个问题”了",
+      "url": "https://news.qq.com/rain/a/20261126A00WMS00",
+      "source": "触乐",
+      "pub_date": "2026-11-25 16:34",
+      "also_seen_in": [
+        "GameLook"
+      ],
+      "module": "newgame",
+      "summary": "米哈游《崩坏：因缘精灵》11月25日开启三测，触乐体验认为三测在沉浸感上明显提升：异色精灵需观察习性接近、天气系统留下水痕、室内外无缝衔接（自研Room PVS方案）、镜子可照。商业化首次开放，卡池分角色与精灵两条线，首次获得五星必为当期UP，抽到心象可免费获得同行精灵，试图把角色抽卡与捉宠收集绑定；战斗核心是角色+精灵共同构筑的PVE自走棋，并加入常驻异步PVP。",
+      "tags": [
+        "新品曝光",
+        "版本更新"
+      ],
+      "keywords": [
+        "米哈游",
+        "崩坏：因缘精灵"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 13,
+      "title": "腾讯魔方新游戏《狩》首曝，没练过连招的朋友能一起玩吗？",
+      "url": "https://news.qq.com/rain/a/20261125A0GXRR00",
+      "source": "GameLook",
+      "pub_date": "2026-11-25 15:22",
+      "also_seen_in": [
+        "游戏葡萄"
+      ],
+      "module": "newgame",
+      "summary": "腾讯魔方工作室自研多人动作竞技游戏《狩》正式首曝并开放预约，首次测试计划2027年1月；游戏主打低门槛动作博弈，轻攻击、破招、重攻击形成石头剪刀布克制，克制成功可触发SHOTIME连招演出，支持1V1、3V3和大地图生存竞技，含主副武器、战斗芯片、局内换武器与多种复活机制。GameLook试玩认为其有望让动作苦手也打出连招。",
+      "tags": [
+        "新品曝光"
+      ],
+      "keywords": [
+        "腾讯",
+        "魔方工作室",
+        "狩"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 9,
+      "title": "《昭和米国物语》再次跳票：2027年10月28日发售、内容已全部完成",
+      "url": "https://news.qq.com/rain/a/20261125A0GXS600",
+      "source": "GameLook",
+      "pub_date": "2026-11-25 15:22",
+      "also_seen_in": [],
+      "module": "newgame",
+      "summary": "铃空游戏宣布《昭和米国物语》再次跳票，正式发售日定为2027年10月28日；游戏经五年开发内容已全部完成，目前投入打磨优化。该作2022年首曝，原定2025年、后延至今年，制作人罗翔宇称主线约25小时、看全过场近两倍。GameLook认为买断制单机与服务型游戏不同，跳票对单机影响较小，题材独特性是其主要关注点。",
+      "tags": [
+        "新品定档"
+      ],
+      "keywords": [
+        "昭和米国物语",
+        "铃空游戏"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 2,
+      "title": "Ubisoft staff must justify not using generative AI in pitches, report claims",
+      "url": "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-25 20:19",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "据Vertical Slice报道，育碧要求新项目提案说明生成式AI如何加速开发，不打算使用需给出详细理由，否则提案不获批；员工称领导层全力押注AI、士气低落。此前育碧成立生成式AI子公司Motherbrain，CEO Guillemot称将开发专有游戏技术。",
+      "tags": [
+        "技术AI",
+        "人事变动"
+      ],
+      "keywords": [
+        "育碧",
+        "生成式AI",
+        "Motherbrain"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 10,
+      "title": "“二游大佬”散爆乔迁！首次在上海拥有独栋办公楼，全力冲刺新游戏",
+      "url": "https://news.qq.com/rain/a/20261125A0GXS100",
+      "source": "GameLook",
+      "pub_date": "2026-11-25 15:22",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "散爆网络11月24日宣布搬入上海独栋办公楼，系成立十一年来首次拥有独栋总部，CEO羽中出席剪彩。公司自2023年《少女前线2：追放》后无新项目上线，去年年末《少前2》出海表现亮眼；今年五一十周年嘉年华公布《少女前线：蓝蝶契约》（已获版号、海外首曝定档2027年移动端）和UE5旗舰跨端产品《逆向坍塌F》，目前正急招两项目岗位，进入生产铺量阶段。",
+      "tags": [
+        "人事变动",
+        "市场分析"
+      ],
+      "keywords": [
+        "散爆网络",
+        "少女前线",
+        "逆向坍塌F"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 3,
+      "title": "Roblox signs licensing deal with PRS for Music",
+      "url": "https://www.gamesindustry.biz/roblox-signs-licensing-deal-with-prs-for-music",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-25 18:03",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "Roblox与英国音乐版权组织PRS for Music达成授权协议，PRS将从明年起向词曲作者和出版商分配版税，财务条款未披露；PRS称协议确立“音乐为线上世界创造价值时创作者应分享收益”的原则。",
+      "tags": [
+        "IP联动",
+        "财报业绩"
+      ],
+      "keywords": [
+        "Roblox",
+        "PRS for Music"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 22,
+      "title": "Gravity Well enters hibernation after failing to secure funding",
+      "url": "https://www.gamesindustry.biz/gravity-well-enters-hibernation-after-failing-to-secure-funding",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-25 09:15",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "由Respawn和Infinity Ward老兵创立的Gravity Well因未能获得融资进入休眠，此前今年已失去资金、上月裁员；工作室曾用UE5开发未公布原创IP游戏。CEO Drew McCoy等联合声明称仍相信该IP和游戏，但不确定下一步，并高度评价团队。",
+      "tags": [
+        "裁员",
+        "融资"
+      ],
+      "keywords": [
+        "Gravity Well",
+        "Drew McCoy"
+      ],
+      "importance": 2
+    },
+    {
+      "id": 14,
+      "title": "拳头创始人谈“拳头20年之路”：曾经盲目扩张成灾，一年成本剧增45%",
+      "url": "https://news.qq.com/rain/a/20261125A0GXRM00",
+      "source": "GameLook",
+      "pub_date": "2026-11-25 15:22",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "拳头联合创始人Marc Merrill回顾公司20年：2018年卸任CEO后回归主持重组，承认曾将组织改为五大支柱导致研发与发行脱节、一年成本增长45%，文化受损；《2XKO》因战略未对齐、执行协调失败未达预期并退款；他认为行业正处投资过热后的冷静期，AI不会替代人类创作者，电竞进入平稳期；还透露早年拒绝腾讯做手游的提议，因拳头不擅长手游。",
+      "tags": [
+        "人物访谈",
+        "市场分析"
+      ],
+      "keywords": [
+        "拳头游戏",
+        "英雄联盟",
+        "2XKO",
+        "Marc Merrill"
+      ],
+      "importance": 4,
+      "detail": {
+        "points": [
+          {
+            "title": "使命驱动与早期试错",
+            "text": "拳头以“玩家为中心”为使命创立，但早期因缺乏经验犯下招聘错误，如聘用的专家三个月后转投微软/PS，迫使团队亲力亲为。这体现了初创公司需在试错中快速学习，而非依赖外部专家。"
+          },
+          {
+            "title": "盲目扩张致文化稀释",
+            "text": "拳头曾将组织改为五大支柱以简化结构，却导致员工为规模而工作，研发与发行脱节，一年成本增长45%。这警示公司扩张时需警惕文化稀释和激励扭曲，避免为增长而增长。"
+          },
+          {
+            "title": "2XKO的失败与执行教训",
+            "text": "2XKO因战略不一致、管理问题及《街头霸王6》竞争未达预期，最终退款。拳头承认并购整合能力不足，强调执行与聚焦的重要性，世界不需要平庸产品。"
+          },
+          {
+            "title": "行业投资过热与冷静期",
+            "text": "游戏业经历过度投资和风投撤离，成功门槛提高。拳头认为小团队难做MMO，需逐步验证再扩大规模，并注重用户留存而非买断制的一次性发布。"
+          },
+          {
+            "title": "手游与区域化策略",
+            "text": "拳头曾拒绝腾讯做手游的提议，因不擅长而错过《王者荣耀》机会，后推《英雄联盟手游》。但坚持核心玩法不因区域改变，仅调整分销和商业模式，如网吧全英雄解锁。"
+          },
+          {
+            "title": "AI与电竞的理性看待",
+            "text": "拳头不强制使用AI，认为人类品味不可替代；电竞进入平稳期，投资过热导致泡沫，需建立可持续生态。这反映公司对技术趋势和电竞商业化的审慎态度。"
+          }
+        ],
+        "takeaway": "国内公司应避免盲目扩张，保持文化凝聚力；产品上聚焦核心玩法与用户留存，谨慎评估新品类和区域化改编；对AI等新技术保持开放但以人类创意为本；电竞投资需理性，构建可持续生态。"
+      }
+    },
+    {
+      "id": 5,
+      "title": "做出百万销量爆款后，他们现在不做超过一年半的项目",
+      "url": "https://news.qq.com/rain/a/20261126A00WMZ00",
+      "source": "触乐",
+      "pub_date": "2026-11-25 16:34",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "触乐专访奥秘之家联合创始人陈振：国风解谜游戏《山河旅探》2024年销量55万套、累计破100万套，靠UP主直播带火；团队从40人减至30人，确立“不做超过一年半项目”的方向，肉鸽麻将游戏《我在地府打麻将》一年开发、成本百万级、销量超40万套；新作3D多人合作冒险游戏《潜梦者》获Pilot Games投资，目标成本千万级、明年7月上线，团队改为每人认领任务的产品经理制；公司账面仅勉强打平，靠两个项目养三个项目，今年初关停成都解谜书团队。",
+      "tags": [
+        "产品复盘",
+        "人物访谈"
+      ],
+      "keywords": [
+        "奥秘之家",
+        "山河旅探",
+        "我在地府打麻将",
+        "潜梦者"
+      ],
+      "importance": 3,
+      "detail": {
+        "points": [
+          {
+            "title": "爆款靠UP主而非推广",
+            "text": "《山河旅探》上线前愿望单不足3万，陈振按经验预估首销仅两三万套；上线第三天逍遥散人等UP主直播录屏带动传播，日销量涨至约两倍并持续一两个月。据国游销量榜，2024年年销55万套，累计售出100万套。陈振复盘称自己在B站、TapTap、小黑盒发的介绍视频“大部分回过头看都没有用”，真正带火游戏的是UP主。这说明买断制单机冷启动阶段，KOL内容传播的转化效率远高于官方自投推广，且难以事前规划。"
+          },
+          {
+            "title": "三年千万成本教训",
+            "text": "《山河旅探》花三年开发一款AVG文字游戏，开发成本千万量级，陈振承认时间和金额成本都没控制好。原因有二：一是章节滚动开发导致“边画图边施工”，流程被拉长；二是2022年10月新品节亮相到正式上线间隔过长，而“AVG不太好拉愿望单”，精华内容与预期管理两难。复盘结论是应在制作前就想好主打噱头，早期找种子用户测试反馈，而非上线后再想推广方法。这直接催生了“不做超过一年半项目”的硬性纪律。"
+          },
+          {
+            "title": "放弃DLC转向3D能力",
+            "text": "《山河旅探》成功后，奥秘之家2024年已想好DLC的“案子”与“诡计”，最终仍决定延期，制作人徐奥林在B站发视频致歉。原因是不愿被贴“只会做悬疑推理”标签，且团队被同一款游戏“泡”了三年感到疲惫。更深层判断是：故事写作能力取决于个人发挥且属“消耗型”，团队技术能力才能成长，因此必须突破3D管线，为未来更大项目铺路。这是用短期收入换长期能力的选择。"
+          },
+          {
+            "title": "一年百万成本做出40万套",
+            "text": "《我在地府打麻将》灵感来自《小丑牌》，由牌佬制作人徐奥林提出麻将肉鸽化，仅用一年开发、成本百万量级，2025年7月上线，截至目前销量超40万套。以成都子公司名义发行实现“冷启动”，避开主品牌。立项即锁定“二次元群体+麻将+肉鸽”三标签交集，小黑盒分方向测试发现最吸引肉鸽玩家，直播选王老菊；模仿《沙威玛传奇》做洗脑主题曲但陈振承认“没达到预期，最终依旧靠玩法”。上线后转为服务型运营，五人小组每三个月推免费DLC，年初大型DLC约占本体1/3、一次性卖5万份，近期更新仅带来约1万销量。"
+          },
+          {
+            "title": "两个项目养三个项目",
+            "text": "两款销量不错的游戏之后，奥秘之家账面仅“勉强打平”，陈振形容为“永远拿两个项目养三个项目”。团队从2024年40人减至30人，今年初关停成都解谜书团队（已独立进入文创行业），实体书市场逐年萎缩。这揭示买断制中小团队的现金流结构：爆款收入需覆盖在研项目与团队成本，单款成功不足以支撑扩张，必须靠短周期项目滚动回款，也解释了“不做超过一年半项目”背后的财务逻辑。"
+          },
+          {
+            "title": "押注多人合作与组织变革",
+            "text": "《潜梦者》是3D多人合作冒险游戏，灵感来自《盗梦空间》，预估体验10至20小时，成本控制在千万级别，计划明年7月上线，开发时间仅一年，引擎从Unity转向UE5。立项依据是调研发现休闲玩家进入Steam、合作类优于对抗类、联机适合短视频切片，但《Peak》评论区简中占比仅6%，国内单机玩家更偏重度或3A，故判断存在不确定性。2026年上半年获Pilot Games投资，此前2020、2021年曾获米哈游、红杉资本入股。组织上改为制作人定方向、成员认领任务、每人都是“小型产品经理”，陈振自己三四天跑完一个“弹窗怪”任务。"
+          }
+        ],
+        "takeaway": "对国内团队而言，奥秘之家的样本价值在于三点：一是买断制单机的冷启动高度依赖UP主与品类KOL，官方推广预算的边际效用低，应把种子用户测试前置到立项期；二是把项目周期压到一年半以内、成本压到百万至千万级，用“两个项目养三个项目”的滚动现金流替代单款豪赌；三是能力建设优先于IP复用，3D管线与组织扁平化是为下一阶段品类扩张付费。但需注意其多人合作方向基于海外趋势与简中评论占比6%的弱信号，国内需求尚未验证，跟风需谨慎。"
+      }
+    },
+    {
+      "id": 7,
+      "title": "[Podcast] Is Gaming a Mature Industry?",
+      "url": "https://naavik.co/podcast/is-gaming-a-mature-industry/",
+      "source": "Naavik Podcast",
+      "pub_date": "2026-11-25 16:08",
+      "also_seen_in": [],
+      "module": "deep",
+      "summary": "Naavik播客在纽约CCNY现场录制，主持人Alexandra Takei与1UP普通合伙人Amir Satvat、《Planet Money》执行制片人Alex Goldmark讨论游戏行业是否走向成熟：增长放缓、AI对开发与就业的冲击、可发现性挑战加剧，以及GTA级大作能否继续扩大市场，并探讨行业是否变成零和博弈、新技术能否开启下一轮增长周期。",
+      "tags": [
+        "市场分析",
+        "技术AI"
+      ],
+      "keywords": [
+        "Naavik",
+        "游戏行业",
+        "AI"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 8,
+      "title": "\"You'd be nuts to take on all of that in the first project, and yet here we are\" – How Playground is finally making good on an all-new Fable",
+      "url": "https://www.gamesindustry.biz/youd-be-nuts-to-take-on-all-of-that-in-the-first-project-and-yet-here-we-are-how-playground-is-finally-making-good-on-an-all-new-fable",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-25 15:48",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "Playground Games谈《神鬼寓言》2027年2月23日发售、用ForzaTech引擎开发及百余名配音演员等制作细节。",
+      "tags": [
+        "新品定档"
+      ],
+      "keywords": [
+        "Playground Games",
+        "神鬼寓言"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 12,
+      "title": "制作人卢克：“游戏一定要自己也爱玩”，《DNF手游》迎来大重构",
+      "url": "https://news.qq.com/rain/a/20261125A0GXRU00",
+      "source": "GameLook",
+      "pub_date": "2026-11-25 15:22",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "DNF手游85级版本11月25日上线，制作人卢克群访介绍职业天赋、装备与副本重构及减负思路。",
+      "tags": [
+        "版本更新"
+      ],
+      "keywords": [
+        "DNF手游",
+        "卢克"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 18,
+      "title": "强强联合！Tec-Do钛动科技战略投资跨拒通SecureGo",
+      "url": "https://news.qq.com/rain/a/20261125A0DX2T00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-25 11:03",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "钛动科技战略投资跨境支付风控服务商跨拒通SecureGo，双方合作服务游戏出海营销与交易风控。",
+      "tags": [
+        "融资",
+        "出海"
+      ],
+      "keywords": [
+        "钛动科技",
+        "SecureGo"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 20,
+      "title": "日本畅销榜第一：出版数十本轻小说的作家，烧光积蓄转行做游戏？",
+      "url": "https://news.qq.com/rain/a/20261125A0DX2D00",
+      "source": "游戏陀螺",
+      "pub_date": "2026-11-25 11:03",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "轻小说作家转行的制作人小鹿谈《异病侦探》五人团队两年开发、日本畅销榜第一及回本情况。",
+      "tags": [
+        "人物访谈"
+      ],
+      "keywords": [
+        "异病侦探",
+        "小鹿"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [],
+  "source_stats": {
+    "GamesIndustry.biz": {
+      "fetched": 9,
+      "selected": 8,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "触乐": {
+      "fetched": 2,
+      "selected": 2,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "Naavik Podcast": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "GameLook": {
+      "fetched": 6,
+      "selected": 4,
+      "ad": 1,
+      "merged": 1,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 3,
+      "selected": 1,
+      "ad": 2,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 1,
+      "selected": 1,
+      "ad": 0,
+      "merged": 0,
+      "dropped": 0
+    },
+    "游戏葡萄": {
+      "fetched": 1,
+      "selected": 0,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    }
+  }
+}
