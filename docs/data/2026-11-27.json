@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T00:51:20+00:00",
+  "model": "deepseek-flash",
+  "total": 7,
+  "modules": {
+    "rival": 0,
+    "industry": 1,
+    "product": 0,
+    "newgame": 0,
+    "company": 4,
+    "deep": 0,
+    "ad": 2,
+    "other": 0
+  },
+  "headlines": [
+    {
+      "id": 1,
+      "reason": "GTA6首日收入37.9亿美元创文娱纪录，分析师预测年底销量破5000万份，PC版成后续增长关键。"
+    },
+    {
+      "id": 6,
+      "reason": "MiniMax旗下Talkie因未成年人保护问题遭苹果全球下架，澳大利亚新法罚款可达全球营业额5%。"
+    },
+    {
+      "id": 5,
+      "reason": "育碧强制新项目说明AI使用方案，四年员工减少5200人，内部士气低落引争议。"
+    },
+    {
+      "id": 9,
+      "reason": "B站Q3营收83.2亿、DAU创新高，陈睿回应短剧冲击并公布四款新游，最看重三国SLG与RO3。"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "title": "\"This was unlike anything else we've ever seen before\" - but GTA 6's success is limited by the console install base, and its future rests on PC",
+      "url": "https://www.gamesindustry.biz/this-was-unlike-anything-else-weve-ever-seen-before-but-gta-6s-success-is-limited-by-the-console-install-base-and-its-future-rests-on-pc",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-26 16:53",
+      "also_seen_in": [
+        "GameLook"
+      ],
+      "module": "industry",
+      "summary": "《GTA6》首日销量3250万份、收入37.9亿美元，创文娱产业纪录。分析师指出其首周销量约4000-4700万份，但受限于当前世代主机约1.37亿台的装机量，四分之一主机已购游戏，后续增长取决于PC版和可能的移动端扩展。",
+      "tags": [
+        "市场分析",
+        "榜单数据"
+      ],
+      "keywords": [
+        "GTA6",
+        "Take-Two",
+        "Rockstar"
+      ],
+      "importance": 5
+    },
+    {
+      "id": 5,
+      "title": "育碧要求新立项游戏用AI、不用AI必须给解释！引发员工吐槽",
+      "url": "https://news.qq.com/rain/a/20261126A0H36M00",
+      "source": "GameLook",
+      "pub_date": "2026-11-26 14:30",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "育碧内部要求新立项游戏必须说明如何使用生成式AI，若不使用需提供详细理由否则提案不获批。公司上周刚成立专注生成式AI的子公司Motherbrain，同时过去四年员工从20700人减至15500人，叠加裁员和五天坐班政策，内部士气低落，有员工称公司处于“自上而下的AI精神病噩梦”。",
+      "tags": [
+        "技术AI",
+        "人事变动"
+      ],
+      "keywords": [
+        "育碧",
+        "Motherbrain"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 6,
+      "title": "Minimax旗下AI语聊产品“Talkie”因成人内容问题遭苹果全球下架",
+      "url": "https://news.qq.com/rain/a/20261126A0H36E00",
+      "source": "GameLook",
+      "pub_date": "2026-11-26 14:30",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "澳大利亚ABC与英国TBIJ联合调查指控MiniMax旗下AI伴侣应用《Talkie》的AI角色对未成年人使用贬低性语言和占有性行为描述。苹果已以“包含色情内容”为由将Talkie从全球App Store下架，谷歌Play暂未下架。Talkie国内版“星野”未受影响。MiniMax港股下架当日收跌近14%，次日反弹7.49%。澳大利亚《数字关怀义务》法案已通过，罚款最高可达全球营业额5%。",
+      "tags": [
+        "政策监管",
+        "法律诉讼",
+        "技术AI"
+      ],
+      "keywords": [
+        "MiniMax",
+        "Talkie",
+        "星野"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 9,
+      "title": "B站无惧短剧，陈睿：“短剧是薯片、B站是米饭”",
+      "url": "https://news.qq.com/rain/a/20261126A0H35W00",
+      "source": "GameLook",
+      "pub_date": "2026-11-26 14:30",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "B站Q3营收83.2亿元同比增8%，调整后净利润8.3亿元同比增5%，DAU 1.24亿、MAU 3.94亿、日均使用时长121分钟均创历史新高。游戏收入14.1亿元同比降7%，《三国：谋定天下》进入稳定运营期。陈睿回应短剧冲击称“短剧是薯片、B站是米饭”，并公布四款新游：定档12月24日的《三国志：王道天下》、2027年上线的《仙境传说3》《激战：大牌英雄》《三国火凤燎原》，最看重前两款。",
+      "tags": [
+        "财报业绩",
+        "新品定档"
+      ],
+      "keywords": [
+        "B站",
+        "陈睿",
+        "三国志：王道天下",
+        "仙境传说3"
+      ],
+      "importance": 4
+    },
+    {
+      "id": 7,
+      "title": "股价低到忍不了！上市游戏公司集体发公告回购，华通三七巨人恺英游族在列",
+      "url": "https://news.qq.com/rain/a/20261126A0H36900",
+      "source": "GameLook",
+      "pub_date": "2026-11-26 14:30",
+      "also_seen_in": [],
+      "module": "company",
+      "summary": "A股游戏板块回调，世纪华通、三七互娱、巨人网络、恺英网络、游族网络、星辉互动、顺网科技、富春科技等多家上市游戏公司集体发布回购预案，金额从1000万到6亿元不等，用于股权激励、注销或维护公司价值。GameLook认为回购只是情绪缓冲，板块走向仍取决于后续新游表现与业绩兑现。",
+      "tags": [
+        "财报业绩",
+        "市场分析"
+      ],
+      "keywords": [
+        "世纪华通",
+        "三七互娱",
+        "巨人网络",
+        "恺英网络"
+      ],
+      "importance": 3
+    },
+    {
+      "id": 3,
+      "title": "DNFU2026嘉年华：和勇士们一起搞点“新动作”",
+      "url": "https://news.qq.com/rain/a/20261126A0HNP000",
+      "source": "触乐",
+      "pub_date": "2026-11-26 15:39",
+      "also_seen_in": [],
+      "module": "ad",
+      "summary": "DNFU2026嘉年华在成都举办，展示5款DNF IP产品试玩，经典版2027年国服上线，《代号Fight》12月4日首测。",
+      "tags": [
+        "展会活动",
+        "IP联动"
+      ],
+      "keywords": [
+        "DNF",
+        "Neople",
+        "腾讯"
+      ],
+      "importance": 1
+    },
+    {
+      "id": 10,
+      "title": "从涂山小玉到头顶菜叶的菜鸡，蛮啾的新作有点不一样",
+      "url": "https://news.qq.com/rain/a/20261126A0H35N00",
+      "source": "GameLook",
+      "pub_date": "2026-11-26 14:30",
+      "also_seen_in": [
+        "游戏葡萄",
+        "游戏新知",
+        "游戏陀螺"
+      ],
+      "module": "ad",
+      "summary": "蛮啾《蓝色星原：旅谣》11月26日公测，预约超3000万，主打美少女+奇波+大世界。",
+      "tags": [
+        "新品定档"
+      ],
+      "keywords": [
+        "蛮啾",
+        "蓝色星原"
+      ],
+      "importance": 1
+    }
+  ],
+  "dropped": [
+    {
+      "id": 2,
+      "title": "Staff at Grand Theft Auto maker Rockstar vote against union recognition deal",
+      "url": "https://www.gamesindustry.biz/staff-at-grand-theft-auto-maker-rockstar-vote-against-union-recognition-deal",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-26 16:46",
+      "reason": "劳资/工会",
+      "by": "rule"
+    },
+    {
+      "id": 4,
+      "title": "Nearly 500 new members joined Women in Games Ambassador Programme over the past year",
+      "url": "https://www.gamesindustry.biz/nearly-500-new-members-joined-women-in-games-ambassador-programme-over-the-past-year",
+      "source": "GamesIndustry.biz",
+      "pub_date": "2026-11-26 14:59",
+      "reason": "Women in Games大使计划年度报告，属行业倡议组织动态，与游戏产品/公司竞争关联弱。",
+      "by": "model"
+    }
+  ],
+  "source_stats": {
+    "GamesIndustry.biz": {
+      "fetched": 5,
+      "selected": 1,
+      "ad": 0,
+      "merged": 2,
+      "dropped": 2
+    },
+    "触乐": {
+      "fetched": 1,
+      "selected": 0,
+      "ad": 1,
+      "merged": 0,
+      "dropped": 0
+    },
+    "GameLook": {
+      "fetched": 6,
+      "selected": 4,
+      "ad": 1,
+      "merged": 1,
+      "dropped": 0
+    },
+    "游戏葡萄": {
+      "fetched": 1,
+      "selected": 0,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    },
+    "游戏新知": {
+      "fetched": 1,
+      "selected": 0,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    },
+    "游戏陀螺": {
+      "fetched": 1,
+      "selected": 0,
+      "ad": 0,
+      "merged": 1,
+      "dropped": 0
+    }
+  }
+}
