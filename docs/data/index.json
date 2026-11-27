@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-26T00:52:00+00:00",
+  "updated": "2026-11-27T00:51:21+00:00",
   "days": [
+    {
+      "date": "2026-11-27",
+      "total": 7,
+      "modules": {
+        "rival": 0,
+        "industry": 1,
+        "product": 0,
+        "newgame": 0,
+        "company": 4,
+        "deep": 0,
+        "ad": 2,
+        "other": 0
+      },
+      "headlines": [
+        "\"This was unlike anything else we've ever seen before\" - but GTA 6's success is limited by the console install base, and its future rests on PC",
+        "Minimax旗下AI语聊产品“Talkie”因成人内容问题遭苹果全球下架",
+        "育碧要求新立项游戏用AI、不用AI必须给解释！引发员工吐槽",
+        "B站无惧短剧，陈睿：“短剧是薯片、B站是米饭”"
+      ]
+    },
     {
       "date": "2026-11-26",
       "total": 21,
